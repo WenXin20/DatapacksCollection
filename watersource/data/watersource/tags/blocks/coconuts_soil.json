@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+		"#forge:sand",
+		"#minecraft:sand",
+        "minecraft:sand",
+		"minecraft:soul_sand",
+		"minecraft:red_sand"
+    ],
+    "optional": [
+		"atmospheric:arid_sand",
+		"atmospheric:red_arid_sand",
+		"biomesoplenty:white_sand",
+		"byg:black_sand",
+		"byg:blue_sand",
+		"byg:pink_sand",
+		"byg:purple_sand",
+		"byg:white_sand",
+		"byg:nylium_soul_sand",
+		"create:limesand",
+		"forbidden_arcanus:soulless_sand",
+		"lotr:white_sand",
+		"nethercraft:heat_sand",
+		"productivebees:sand_nest",
+		"productivebees:soul_sand_nest",
+		"quark:gravisand"
+    ]
+}

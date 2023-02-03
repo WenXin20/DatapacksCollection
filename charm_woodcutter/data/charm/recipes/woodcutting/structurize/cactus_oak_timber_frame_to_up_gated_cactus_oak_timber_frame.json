@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:cactus_oak_timber_frame"
+	},
+	
+	"result":"structurize:up_gated_cactus_oak_timber_frame",
+	"count":1
+}

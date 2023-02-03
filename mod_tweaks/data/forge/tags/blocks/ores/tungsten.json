@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "endreborn:end_tungsten_ore",
+    "endreborn:tungsten_ore"
+  ]
+}

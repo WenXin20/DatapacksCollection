@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"natureplus"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"natureplus:azure_planks"
+	},
+	
+	"result":"natureplus:azure_trapdoor",
+	"count":1
+}

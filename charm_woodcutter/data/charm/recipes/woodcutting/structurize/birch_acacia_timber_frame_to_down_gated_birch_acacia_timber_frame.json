@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:birch_acacia_timber_frame"
+	},
+	
+	"result":"structurize:down_gated_birch_acacia_timber_frame",
+	"count":1
+}

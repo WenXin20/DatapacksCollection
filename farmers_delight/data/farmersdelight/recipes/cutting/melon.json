@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"mysticalworld"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:melon"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "minecraft:melon_slice",
+      "count": 9
+    }
+  ]
+}

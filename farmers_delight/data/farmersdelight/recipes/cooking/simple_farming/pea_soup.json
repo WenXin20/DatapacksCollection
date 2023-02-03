@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/pea"
+    },
+    {
+      "tag": "forge:crops/pea"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:pea_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

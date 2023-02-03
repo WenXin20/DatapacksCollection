@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#C3EFEF",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.diophyde_prowler"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:diophyde_prowler"
+  },
+  "colors": {
+    "base": "#3E91B0",
+    "accent": "#C3EFEF"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.diophyde_prowler.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/diophyde_prowler",
+      "cooldown": 9600
+    }
+  }
+}

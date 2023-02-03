@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"sakura_forest"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"sakura_forest:sakura_logs"
+	},
+	
+	"result":"sakura_forest:sakura_button",
+	"count":4
+}

@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+        {
+            "type":"forge:mod_loaded",
+            "modid":"byg"
+        },
+        {
+            "type":"forge:mod_loaded",
+            "modid":"charm"
+        },
+        {
+            "type": "charm:module_enabled",
+            "module": "charm:woodcutters"
+        }
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"byg:green_enchanted_logs"
+	},
+	
+	"result":"byg:green_enchanted_stairs",
+	"count":4
+}

@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.stufful"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.stufful"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:stufful"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

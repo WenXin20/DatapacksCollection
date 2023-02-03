@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "biomesoplenty",
+	"tickModifier": 1.2,
+	"soil": {
+		"item": "biomesoplenty:rooted_sand"
+	},
+	"compatibleSoilTags": ["sand"],
+	"display": {
+		"block": "biomesoplenty:rooted_sand"
+	}
+}

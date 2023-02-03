@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"lotr"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"lotr:pear_planks"
+	},
+	
+	"result":"lotr:pear_fence",
+	"count":1
+}

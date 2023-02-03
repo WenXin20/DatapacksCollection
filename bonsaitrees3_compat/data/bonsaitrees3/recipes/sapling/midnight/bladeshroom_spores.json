@@ -1,0 +1,27 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"midnight",
+  "sapling": {
+    "item": "midnight:bladeshroom_spores"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "midnight:bladeshroom_cap"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:bladeshroom_spores"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "swampexpansion:rice",
+    "tofucraft:seeds_rice",
+    "xercamod:item_rice_seeds"
+  ]
+}

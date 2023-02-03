@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"upgrade_aquatic"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"upgrade_aquatic:driftwood_planks"
+	},
+	
+	"result":"upgrade_aquatic:driftwood_slab",
+	"count":2
+}

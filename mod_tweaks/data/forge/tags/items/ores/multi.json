@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "aliketools:multiore",
+    "randomite:randomite_ore",
+    "silentgems:multi_ore_classic",
+    "silentgems:multi_ore_dark",
+    "silentgems:multi_ore_light"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "good_nights_sleep:dream_log",
+    "good_nights_sleep:stripped_dream_log",
+    "good_nights_sleep:dream_wood",
+    "good_nights_sleep:stripped_dream_wood"
+  ]
+}

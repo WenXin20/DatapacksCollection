@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"valhelsia_structures"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:oak_logs"
+	},
+	
+	"result":"valhelsia_structures:oak_post",
+	"count":1
+}

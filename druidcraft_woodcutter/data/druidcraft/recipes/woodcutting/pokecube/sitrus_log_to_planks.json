@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"pokecube"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"pokecube:log_sitrus"
+	},
+	
+	"result":"pokecube:plank_sitrus",
+	"count":4
+}

@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"druidcraft"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"druidcraft:darkwood_logs"
+	},
+	
+	"result":"druidcraft:darkwood_fence",
+	"count":4
+}

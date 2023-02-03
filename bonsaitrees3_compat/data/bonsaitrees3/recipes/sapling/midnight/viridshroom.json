@@ -1,0 +1,48 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"midnight",
+  "sapling": {
+    "item": "midnight:viridshroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "midnight:viridshroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:viridshroom_powder"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:viridshroom_shelf"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:viridshroom_hat"
+      },
+      "rolls": 1,
+      "chance": 0.1
+    },
+    {
+      "result": {
+        "item": "midnight:viridshroom"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

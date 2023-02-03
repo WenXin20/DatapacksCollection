@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"ars_nouveau"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:wilden_spike"
+    },
+    {
+      "tag": "forge:rods/wooden"
+    },
+    {
+      "tag": "forge:feathers"
+    }
+  ],
+  "result": {
+    "item": "minecraft:arrow",
+    "count": 48
+  }
+}

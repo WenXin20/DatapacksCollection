@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"extcaves"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "extcaves:pebble_stone"
+    },
+    {
+      "item": "extcaves:mushroom_rockshroom"
+    }
+  ],
+  "result": {
+    "item": "extcaves:stew_hard"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

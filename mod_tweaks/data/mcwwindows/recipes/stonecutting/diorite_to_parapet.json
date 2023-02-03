@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwwindows"
+		}
+	],
+	
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:diorite"
+	},
+	
+	"result":"mcwwindows:diorite_parapet",
+	"count":4
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"structurize:blockcactusplank"
+	},
+	
+	"result":"structurize:blockcactustrapdoor",
+	"count":1
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwwindows"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:dark_oak_logs"
+	},
+	
+	"result":"mcwwindows:dark_oak_plank_parapet",
+	"count":16
+}

@@ -1,0 +1,23 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"someassemblyrequired"
+	}
+  ],
+  "type": "someassemblyrequired:cutting",
+  "ingredient": {
+    "item": "simplefarming:cantaloupe_block"
+  },
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": {
+    "item": "simplefarming:cantaloupe",
+    "count": 9
+  }
+}

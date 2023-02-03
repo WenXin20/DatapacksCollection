@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:string"
+        },
+        "E": {
+            "tag": "forge:wax"
+        }
+    },
+    "result": {
+        "item": "extlights:light_candle",
+        "count": 2
+    }
+}

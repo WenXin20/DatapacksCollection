@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "gobber2:gobber2_ore",
+    "gobber2:gobber2_ore_end",
+    "gobber2:gobber2_ore_nether"
+  ]
+}

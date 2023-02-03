@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"create:dough","required":false},
+    {"id":"create:wheat_flour","required":false},
+    {"id":"gobberdelight:blue_pie_slice","required":false},
+    {"id":"gobberdelight:red_pie_slice","required":false},
+    {"id":"lilwings:crimson_cake","required":false},
+    {"id":"lilwings:golden_cake","required":false},
+    {"id":"teletubbies:toast","required":false},
+    {"id":"thermal:barley","required":false}
+  ]
+}

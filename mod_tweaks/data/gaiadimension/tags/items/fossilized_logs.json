@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "gaiadimension:fossilized_log",
+    "gaiadimension:stripped_fossilized_log",
+    "gaiadimension:fossilized_wood",
+    "gaiadimension:stripped_fossilized_wood"
+  ]
+}

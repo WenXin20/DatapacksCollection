@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#1699AB",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.void_worm"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "alexsmobs:void_worm"
+  },
+  "colors": {
+    "base": "#1F324D",
+    "accent": "#1699AB"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:void_worm_idle"
+    },
+    "rewards": {
+      "lootTable": "alexsmobs:entities/void_worm",
+      "cooldown": 2400000
+    }
+  }
+}

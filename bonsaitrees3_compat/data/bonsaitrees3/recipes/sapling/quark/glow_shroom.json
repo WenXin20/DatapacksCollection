@@ -1,0 +1,43 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "quark",
+  "sapling": {
+    "item": "quark:glow_shroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "quark:glow_shroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "quark:glow_shroom"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "quark:glow_shroom_block"
+      },
+      "rolls": 1,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "quark:glow_shroom_ring"
+      },
+      "rolls": 1,
+      "chance": 0.15
+    }
+  ],
+  "compatibleSoilTags": [
+    "deepslate"
+  ],
+  "ticks":400
+}

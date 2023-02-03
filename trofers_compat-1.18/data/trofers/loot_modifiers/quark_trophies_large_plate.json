@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_plate",
+  "trophies": [
+    {
+      "entity": "quark:toretoise",
+      "trophy": "trofers:quark/toretoise"
+    },
+    {
+      "entity": "quark:toretoise",
+      "trophy": "trofers:quark/toretoise_coal"
+    },
+    {
+      "entity": "quark:toretoise",
+      "trophy": "trofers:quark/toretoise_iron"
+    },
+    {
+      "entity": "quark:toretoise",
+      "trophy": "trofers:quark/toretoise_lapis"
+    },
+    {
+      "entity": "quark:toretoise",
+      "trophy": "trofers:quark/toretoise_redstone"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

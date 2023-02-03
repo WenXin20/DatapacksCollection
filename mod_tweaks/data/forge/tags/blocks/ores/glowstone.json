@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "lotr:glowstone_ore",
+    "ultra_amplified_dimension:glowstone_ore"
+  ]
+}

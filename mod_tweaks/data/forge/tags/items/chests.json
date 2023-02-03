@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:chests/ender",
+    "#forge:chests/trapped",
+    "#forge:chests/wooden"
+  ],
+  "optional": [
+    "#forge:chests/cursed",
+	"iceandfire:ghost_chest",
+	"ironchests:copper_chest",
+	"ironchests:crystal_chest",
+	"ironchests:diamond_chest",
+	"ironchests:dirt_chest",
+	"ironchests:gold_chest",
+	"ironchests:iron_chest",
+	"ironchests:obsidian_chest",
+	"ironchests:silver_chest",
+	"quark:nether_brick_chest",
+	"quark:prismarine_chest",
+	"quark:purpur_chest"
+  ]
+}

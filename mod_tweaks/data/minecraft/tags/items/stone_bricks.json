@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "eidolon:smooth_stone_bricks",
+    "enhancedvanilla:cracked_setts",
+    "enhancedvanilla:mossy_setts",
+    "enhancedvanilla:setts",
+    "masonry:stonecarvedcreeper",
+    "masonry:stonecarvedderp",
+    "masonry:stonecarvedvillager",
+    "masonry:stonecarvedwither",
+    "masonry:stonecarvedwriting",
+    "masonry:stonecolumn",
+    "masonry:stonecut",
+    "masonry:stonediamondpavers",
+    "masonry:stoneengraved",
+    "masonry:stonepanels",
+    "masonry:stonepavers",
+    "masonry:stonepillar",
+    "masonry:stonepolished",
+    "masonry:stoneroughcut",
+    "masonry:stonetiled",
+    "quark:cobblestone_bricks",
+    "quark:mossy_cobblestone_bricks"
+  ]
+}

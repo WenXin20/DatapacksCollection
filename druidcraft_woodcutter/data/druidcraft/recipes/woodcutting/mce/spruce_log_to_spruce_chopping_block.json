@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mce"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:spruce_log"
+	},
+	
+	"result":"mce:chopping_block_spruce",
+	"count":2
+}

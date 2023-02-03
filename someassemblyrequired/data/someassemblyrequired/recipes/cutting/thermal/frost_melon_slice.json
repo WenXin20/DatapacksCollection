@@ -1,0 +1,23 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"thermal"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"someassemblyrequired"
+	}
+  ],
+  "type": "someassemblyrequired:cutting",
+  "ingredient": {
+    "item": "thermal:frost_melon"
+  },
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": {
+    "item": "thermal:frost_melon_slice",
+    "count": 9
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "modid": "mannequins",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#AF8F55",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.mannequins.mannequin"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "mannequins:mannequin"
+  },
+  "colors": {
+    "base": "#9D9D9D",
+    "accent": "#AF8F55"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "mannequins:entity.mannequin.hit"
+    }
+  }
+}

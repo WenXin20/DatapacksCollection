@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "modid": "the_bumblezone",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#F9A718",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.the_bumblezone.honey_slime"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "the_bumblezone:honey_slime",
+    "nbt": "{Size:1,inHoney:1b,inHoneyGrowthTimer:100}"
+  },
+  "colors": {
+    "base": "#F9A718",
+    "accent": "#F4DA6F"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.slime.squish"
+    },
+    "rewards": {
+      "lootTable": "the_bumblezone:entities/honey_slime",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:jump_boost",
+        "duration": 800,
+        "amplifier": 2
+      }
+    }
+  }
+}

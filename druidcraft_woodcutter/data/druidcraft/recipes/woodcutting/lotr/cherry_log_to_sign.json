@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"lotr"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"lotr:cherry_logs"
+	},
+	
+	"result":"lotr:cherry_sign",
+	"count":4
+}

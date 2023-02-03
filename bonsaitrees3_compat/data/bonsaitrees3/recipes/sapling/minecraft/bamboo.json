@@ -1,0 +1,21 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"minecraft",
+  "sapling": {
+    "item": "minecraft:bamboo"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "minecraft:bamboo"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    }
+  ],
+  "compatibleSoilTags": [
+    "dirt",
+    "grass",
+    "sand"
+  ]
+}

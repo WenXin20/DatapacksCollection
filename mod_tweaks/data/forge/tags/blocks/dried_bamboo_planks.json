@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "bambootiful:dried_bamboo_planks",
+    "bambootiful:vertical_dried_bamboo_planks",
+    "enhanced_vanilla_remastered:driedbamboothatching"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#minecraft:wooden_buttons",
+	"betternether:bone_button",
+	"betternether:cincinnasite_button"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"astral"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"astral:ethereal_logs"
+	},
+	
+	"result":"astral:metaphoric_bone",
+	"count":8
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#8A1C27",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.alchemist"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:alchemist"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#8A1C27"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.alchemist.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:blocks/ventium_ore",
+      "cooldown": 9600
+    }
+  }
+}

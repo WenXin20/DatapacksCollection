@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mubble"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"mubble:scarlet_logs"
+	},
+	
+	"result":"mubble:scarlet_button",
+	"count":4
+}

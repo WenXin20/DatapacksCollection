@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"quark"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"quark:vertical_jungle_planks"
+	},
+	
+	"result":"minecraft:jungle_planks",
+	"count":1
+}

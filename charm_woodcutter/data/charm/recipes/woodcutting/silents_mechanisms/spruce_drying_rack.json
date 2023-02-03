@@ -1,0 +1,22 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "silents_mechanisms"
+        },
+        {
+            "type":"forge:mod_loaded",
+            "modid":"charm"
+        },
+        {
+            "type": "charm:module_enabled",
+            "module": "charm:woodcutters"
+        }
+    ],
+    "type": "minecraft:woodcutting",
+    "ingredient": {
+        "tag": "minecraft:spruce_logs"
+    },
+    "result": "silents_mechanisms:spruce_drying_rack",
+    "count": 3
+}

@@ -1,0 +1,31 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"decorative_blocks"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"biomesoplenty"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"biomesoplenty:fir_planks"
+	},
+	
+	"result":"decorative_blocks:fir_support",
+	"count":1
+}

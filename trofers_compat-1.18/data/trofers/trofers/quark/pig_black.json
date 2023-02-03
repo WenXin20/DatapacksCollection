@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#4F4848",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.pig"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:pig",
+    "nbt": "{UUID: [I; 66455363, -526106295, -1721185846, 950160905]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#2F2B2B"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.pig.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/pig",
+      "cooldown": 9600
+    }
+  }
+}

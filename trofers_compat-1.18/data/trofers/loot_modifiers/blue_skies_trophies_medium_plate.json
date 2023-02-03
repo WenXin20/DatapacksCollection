@@ -1,0 +1,114 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:medium_plate",
+  "trophies": [
+    {
+      "entity": "blue_skies:azulfo",
+      "trophy": "trofers:blue_skies/azulfo"
+    },
+    {
+      "entity": "blue_skies:crystal_camel",
+      "trophy": "trofers:blue_skies/crystal_camel"
+    },
+    {
+      "entity": "blue_skies:diophyde_prowler",
+      "trophy": "trofers:blue_skies/diophyde_prowler"
+    },
+    {
+      "entity": "blue_skies:nyctofly",
+      "trophy": "trofers:blue_skies/nyctofly"
+    },
+    {
+      "entity": "blue_skies:reindeer",
+      "trophy": "trofers:blue_skies/reindeer"
+    },
+    {
+      "entity": "blue_skies:reindeer",
+      "trophy": "trofers:blue_skies/reindeer_xmas"
+    },
+    {
+      "entity": "blue_skies:polargeist",
+      "trophy": "trofers:blue_skies/polargeist"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_black"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_blue"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_brown"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_cyan"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_gray"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_green"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_jeb"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_light_blue"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_light_gray"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_lime"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_magenta"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_orange"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_pink"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_purple"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_red"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_sheared"
+    },
+    {
+      "entity": "blue_skies:stardust_ram",
+      "trophy": "trofers:blue_skies/stardust_ram_yellow"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

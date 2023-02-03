@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"swampexpansion"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"swampexpansion:willow_planks"
+	},
+	
+	"result":"swampexpansion:willow_sign",
+	"count":1
+}

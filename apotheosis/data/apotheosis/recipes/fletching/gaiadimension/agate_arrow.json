@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"gaiadimension"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "item": "gaiadimension:sturdy_pebble"
+    },
+    {
+      "item": "gaiadimension:agate_stick"
+    },
+    {
+      "item": "gaiadimension:agate_fabric"
+    }
+  ],
+  "result": {
+    "item": "gaiadimension:agate_arrow",
+    "count": 6
+  }
+}

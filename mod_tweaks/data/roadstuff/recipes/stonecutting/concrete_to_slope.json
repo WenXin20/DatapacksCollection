@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"roadstuff"
+		}
+	],
+	
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"item":"mapperbase:concrete"
+	},
+	
+	"result":"roadstuff:concrete_slope",
+	"count":4
+}

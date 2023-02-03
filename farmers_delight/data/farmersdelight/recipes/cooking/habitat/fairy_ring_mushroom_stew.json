@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"habitat"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "habitat:fairy_ring_mushroom"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "tag": "forge:mushrooms"
+    }
+  ],
+  "result": {
+    "item": "habitat:fairy_ring_mushroom_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"fruittrees"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"fruittrees:cherry_planks"
+	},
+	
+	"result":"fruittrees:cherry_slab",
+	"count":2
+}

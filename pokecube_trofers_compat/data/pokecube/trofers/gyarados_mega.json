@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.gyarados_mega"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.gyarados"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/fish_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.1
+  },
+  "entity": {
+    "type": "pokecube:gyarados_mega"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

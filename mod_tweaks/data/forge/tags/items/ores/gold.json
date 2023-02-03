@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:gilded_blackstone"
+  ],
+  "optional": [
+    "extendednether:gilded_blackstone",
+    "extendednether:nether_gold_ore"
+  ]
+}

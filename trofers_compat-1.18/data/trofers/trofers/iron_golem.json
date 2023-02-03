@@ -1,0 +1,35 @@
+{
+  "name": {
+    "color": "#CDB297",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.iron_golem"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.4
+  },
+  "entity": {
+    "type": "minecraft:iron_golem",
+	"nbt": "{UUID: [I; -721821988, 1119505378, -1776137333, -1789825559]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#CDB297"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.iron_golem.repair"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:absorption",
+        "duration": 2400,
+        "amplifier": 2
+      },
+      "cooldown": 9600
+    }
+  }
+}

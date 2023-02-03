@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#147B6A",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.cave_spider"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "minecraft:cave_spider"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#147B6A"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.spider.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/cave_spider",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:poison",
+        "duration": 200
+      }
+    }
+  }
+}

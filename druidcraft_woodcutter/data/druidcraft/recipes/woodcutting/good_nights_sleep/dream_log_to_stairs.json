@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"good_nights_sleep"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"good_nights_sleep:dream_logs"
+	},
+	
+	"result":"good_nights_sleep:dream_stairs",
+	"count":4
+}

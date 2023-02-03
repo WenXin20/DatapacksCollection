@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"enhanced_mushrooms"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"enhanced_mushrooms:glowshroom_stems"
+	},
+	
+	"result":"enhanced_mushrooms:glowshroom_slab",
+	"count":8
+}

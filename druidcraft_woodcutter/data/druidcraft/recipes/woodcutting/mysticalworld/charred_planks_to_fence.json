@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mysticalworld"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"mysticalworld:charred_planks"
+	},
+	
+	"result":"mysticalworld:charred_fence",
+	"count":1
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mubble"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:logs"
+	},
+	
+	"result":"mubble:smw_wood_hard_block",
+	"count":4
+}

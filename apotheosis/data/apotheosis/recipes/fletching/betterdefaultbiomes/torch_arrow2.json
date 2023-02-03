@@ -1,0 +1,26 @@
+{
+	"type": "apotheosis:fletching",
+	"conditions": [{
+		"type": "apotheosis:module",
+		"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"betterdefaultbiomes"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		}],
+	"ingredients": [{
+			"item": "minecraft:arrow"
+		},
+		{
+			"tag": "minecraft:coals"
+		}
+	],
+	"result": {
+		"item": "betterdefaultbiomes:torch_arrow",
+		"count": 6
+	}
+}

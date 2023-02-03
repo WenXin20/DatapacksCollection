@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.corviknight_gigantamax"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.corviknight"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/chicken_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.1
+  },
+  "entity": {
+    "type": "pokecube:corviknight_gigantamax"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

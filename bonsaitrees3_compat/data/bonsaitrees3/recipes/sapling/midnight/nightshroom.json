@@ -1,0 +1,48 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"midnight",
+  "sapling": {
+    "item": "midnight:nightshroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "midnight:nightshroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:nightshroom_hat"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:nightshroom_powder"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:nightshroom_shelf"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:nightshroom"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

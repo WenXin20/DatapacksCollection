@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "polyores:toxic_gem", "required": false }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "biomemakeover",
+  "sapling": {
+    "item": "biomemakeover:willow_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "biomemakeover:willow_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "biomemakeover:willow_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "biomemakeover:willow_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

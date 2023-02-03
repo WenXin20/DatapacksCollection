@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"productivebees:comb_soulium",
+	"productivebees:soul_sand_nest"
+  ]
+}

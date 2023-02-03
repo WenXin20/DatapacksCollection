@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"decorative_winter:dry_fern","required":false},
+    {"id":"decorative_winter:dry_grass","required":false}
+  ]
+}

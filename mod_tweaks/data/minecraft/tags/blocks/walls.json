@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"betternether:basalt_bricks_wall",
+	"betternether:bone_wall",
+	"betternether:cincinnasite_wall",
+	"betternether:nether_brick_wall",
+	"betternether:soul_sandstone_wall",
+    "sullys_mod:big_brick_wall",
+    "sullys_mod:big_mossy_brick_wall",
+    "sullys_mod:mossy_brick_wall",
+    "sullys_mod:small_mossy_s_tone_brick_wall",
+    "sullys_mod:small_stone_brick_wall",
+    "sullys_mod:smooth_end_stone_wall"
+  ]
+}

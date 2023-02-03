@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"extcaves"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "extcaves:mushroom_lumishroom"
+    },
+    {
+      "item": "extcaves:mushroom_fluoshroom"
+    }
+  ],
+  "result": {
+    "item": "extcaves:stew_fluorescent"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

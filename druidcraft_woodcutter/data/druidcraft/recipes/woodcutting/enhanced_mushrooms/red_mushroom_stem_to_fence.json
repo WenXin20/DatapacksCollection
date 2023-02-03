@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"enhanced_mushrooms"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"enhanced_mushrooms:red_mushroom_stems"
+	},
+	
+	"result":"enhanced_mushrooms:red_mushroom_fence",
+	"count":4
+}

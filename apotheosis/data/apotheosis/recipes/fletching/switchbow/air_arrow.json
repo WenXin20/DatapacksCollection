@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"switchbow"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "tag": "forge:feathers"
+    },
+    {
+      "tag": "forge:rods/wooden"
+    },
+    {
+      "tag": "forge:feathers"
+    }
+  ],
+  "result": {
+    "item": "switchbow:arrowair",
+    "count": 6
+  }
+}

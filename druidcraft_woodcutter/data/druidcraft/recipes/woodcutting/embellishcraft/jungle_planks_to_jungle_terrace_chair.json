@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"embellishcraft"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:jungle_planks"
+	},
+	
+	"result":"embellishcraft:jungle_terrace_chair",
+	"count":1
+}

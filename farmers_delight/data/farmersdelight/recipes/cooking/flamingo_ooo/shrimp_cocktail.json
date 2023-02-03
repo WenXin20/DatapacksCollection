@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"flamingo_ooo"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "flamingo_ooo:shrimp"
+    },
+    {
+      "item": "flamingo_ooo:shrimp"
+    },
+    {
+      "item": "flamingo_ooo:shrimp"
+    }
+  ],
+  "result": {
+    "item": "flamingo_ooo:shrimp_cocktail"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

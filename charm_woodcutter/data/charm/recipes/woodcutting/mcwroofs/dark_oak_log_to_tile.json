@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwroofs"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:dark_oak_logs"
+	},
+	
+	"result":"mcwroofs:tile_log_dark_oak",
+	"count":2
+}

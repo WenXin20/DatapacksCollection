@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "polyores:frosted_gem", "required":false }
+  ]
+}

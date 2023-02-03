@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "byg:blue_netherrack",
+    "byg:embur_nylium",
+    "byg:mossy_netherrack",
+    "byg:mycelium_netherrack",
+    "extendednether:crimson_nylium",
+    "extendednether:warped_nylium",
+    "netherex:hyphae"
+  ]
+}

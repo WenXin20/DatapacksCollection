@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"valhelsia_structures"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:birch_logs"
+	},
+	
+	"result":"valhelsia_structures:birch_post",
+	"count":1
+}

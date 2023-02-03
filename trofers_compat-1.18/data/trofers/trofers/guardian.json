@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#6A9087",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.guardian"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "minecraft:guardian"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#6A9087"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.guardian.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/guardian",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

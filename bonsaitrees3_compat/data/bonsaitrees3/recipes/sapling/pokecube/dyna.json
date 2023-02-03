@@ -1,0 +1,58 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "pokecube_legends",
+  "sapling": {
+    "item": "pokecube_legends:dyna_shrub"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "pokecube_legends:aged_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "pokecube_legends:dyna_leaves_red"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "pokecube_legends:dyna_leaves_pastel_pink"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "pokecube_legends:dyna_leaves_pink"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "pokecube_legends:dyna_shrub"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

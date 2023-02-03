@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"lotr"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"lotr:fir_planks"
+	},
+	
+	"result":"lotr:fir_trapdoor",
+	"count":1
+}

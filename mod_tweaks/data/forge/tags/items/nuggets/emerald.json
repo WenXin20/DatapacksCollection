@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "byg:emeraldite_shards",
+    "inventorypets:nugget_emerald",
+    "pokecube:emerald_shard"
+  ]
+}

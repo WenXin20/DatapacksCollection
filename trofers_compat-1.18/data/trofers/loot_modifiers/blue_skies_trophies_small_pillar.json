@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_pillar",
+  "trophies": [
+    {
+      "entity": "blue_skies:alchemist",
+      "trophy": "trofers:blue_skies/alchemist"
+    },
+    {
+      "entity": "blue_skies:snow_owl",
+      "trophy": "trofers:blue_skies/snow_owl_hostile"
+    },
+    {
+      "entity": "blue_skies:summoner",
+      "trophy": "trofers:blue_skies/summoner"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

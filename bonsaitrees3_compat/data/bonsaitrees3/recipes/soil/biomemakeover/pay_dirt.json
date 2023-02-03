@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "biomemakeover",
+	"tickModifier": 0.5,
+	"soil": {
+		"item": "biomemakeover:paydirt"
+	},
+	"compatibleSoilTags": ["compost", "dirt"],
+	"display": {
+		"block": "biomemakeover:paydirt"
+	}
+}

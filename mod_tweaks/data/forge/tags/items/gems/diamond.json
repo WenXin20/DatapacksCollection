@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "tetra:pristine_diamond", "required":false },
+    { "id": "tofucraft:tofudiamond", "required":false },
+    { "id": "useless_sword:dragon_breath_diamond", "required":false }
+  ]
+}

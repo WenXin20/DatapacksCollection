@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"betternether:sign_anchor_tree",
+	"betternether:sign_mushroom",
+	"betternether:sign_mushroom_fir",
+	"betternether:sign_rubeus",
+	"betternether:sign_stalagnate",
+	"betternether:sign_wart",
+	"betternether:sign_willow",
+    "betternether:sign_nether_sakura"
+  ]
+}

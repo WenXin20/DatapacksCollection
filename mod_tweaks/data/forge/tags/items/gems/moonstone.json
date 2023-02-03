@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "blue_skies:moonstone", "required":false },
+    { "id": "blue_skies:moonstone_crystal", "required":false }
+  ]
+}

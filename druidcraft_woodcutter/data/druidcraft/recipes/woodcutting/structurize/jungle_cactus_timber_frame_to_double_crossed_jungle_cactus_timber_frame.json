@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:jungle_cactus_timber_frame"
+	},
+	
+	"result":"structurize:double_crossed_jungle_cactus_timber_frame",
+	"count":1
+}

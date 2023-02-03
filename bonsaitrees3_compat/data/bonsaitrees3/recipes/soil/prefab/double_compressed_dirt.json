@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "prefab",
+	"tickModifier": 0.5,
+	"soil": {
+		"item": "prefab:block_double_compressed_dirt"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "prefab:block_double_compressed_dirt"
+	}
+}

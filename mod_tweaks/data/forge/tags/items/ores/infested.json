@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "chaosawakens:red_ant_infested_ore",
+    "chaosawakens:termite_infested_ore"
+  ]
+}

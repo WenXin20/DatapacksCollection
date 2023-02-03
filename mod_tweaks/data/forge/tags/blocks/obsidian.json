@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:crying_obsidian"
+  ],
+  "optional": [
+    "betterendforge:mossy_obsidian",
+    "betternether:blue_obsidian",
+    "betternether:blue_obsidian_bricks",
+    "betternether:blue_obsidian_tile",
+    "betternether:blue_obsidian_tile_small",
+    "betternether:obsidian_bricks",
+    "betternether:obsidian_tile",
+    "betternether:obsidian_tile_small",
+    "charm:refined_obsidian",
+    "extendednether:crying_obsidian",
+    "masonry:obsidiantiled",
+    "netherreactor:crystaline_glowing_obsidian",
+    "netherreactor:glowing_obsidian",
+    "productivebees:obsidian_nest",
+    "rediscovered:ancient_crying_obsidian"
+  ]
+}

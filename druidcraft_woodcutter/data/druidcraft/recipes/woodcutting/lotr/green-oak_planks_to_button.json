@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"lotr"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"lotr:green_oak_planks"
+	},
+	
+	"result":"lotr:green_oak_button",
+	"count":1
+}

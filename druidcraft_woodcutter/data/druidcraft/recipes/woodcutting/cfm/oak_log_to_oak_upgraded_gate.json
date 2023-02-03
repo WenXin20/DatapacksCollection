@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"cfm"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:oak_logs"
+	},
+	
+	"result":"cfm:oak_upgraded_gate",
+	"count":1
+}

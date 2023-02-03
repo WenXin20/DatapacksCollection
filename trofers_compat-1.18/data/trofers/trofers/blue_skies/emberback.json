@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#103537",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.emberback"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:emberback"
+  },
+  "colors": {
+    "base": "#111C2F",
+    "accent": "#103537"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.emberback.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/emberback",
+      "cooldown": 9600
+    }
+  }
+}

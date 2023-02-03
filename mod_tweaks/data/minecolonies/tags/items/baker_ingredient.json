@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#forge:crops/barley",
+    "#forge:crops/oat",
+    "#forge:crops/rice",
+    "#forge:crops/rye",
+    "#forge:crops/wheat"
+  ]
+}

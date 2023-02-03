@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#56847E",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.drowned"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:drowned"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#56847E"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.drowned.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/drowned",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

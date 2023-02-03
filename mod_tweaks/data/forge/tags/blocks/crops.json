@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#forge:crops/flax",
+	"#forge:crops/leek",
+	"#forge:crops/rice",
+	"#forge:crops/tomato"
+  ]
+}

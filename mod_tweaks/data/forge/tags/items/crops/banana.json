@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "alexmobs:banana", "required":false },
+    { "id": "croptopia:banana", "required":false },
+    { "id": "neapolitan:banana", "required":false },
+    { "id": "piggybankmod:golden_banana", "required":false },
+    { "id": "silentgear:golden_nether_banana", "required":false },
+    { "id": "silentgear:nether_banana", "required":false }
+  ]
+}

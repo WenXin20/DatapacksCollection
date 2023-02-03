@@ -1,0 +1,19 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"habitat",
+  "sapling": {
+    "item": "habitat:yellow_ball_cactus"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "habitat:yellow_ball_cactus"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    }
+  ],
+  "compatibleSoilTags": [
+    "sand"
+  ]
+}

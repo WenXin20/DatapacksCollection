@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"switchbow"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "tag": "forge:rods/wooden"
+    },
+    {
+      "tag": "forge:feathers"
+    }
+  ],
+  "result": {
+    "item": "switchbow:arrowknockback",
+    "count": 6
+  }
+}

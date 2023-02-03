@@ -1,0 +1,37 @@
+{
+  "name": {
+    "color": "#BFBBAA",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.elder_guardian"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "minecraft:elder_guardian"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#BFBBAA"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.elder_guardian.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:haste",
+        "duration": 800,
+        "amplifier": 2
+      },
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 1600
+      }
+    }
+  }
+}

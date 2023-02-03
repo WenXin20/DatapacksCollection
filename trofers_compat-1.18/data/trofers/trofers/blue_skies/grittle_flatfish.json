@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#3C374C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.grittle_flatfish"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "blue_skies:grittle_flatfish"
+  },
+  "colors": {
+    "base": "#15171B",
+    "accent": "#3C374C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.tropical_fish.flop"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/grittle_flatfish",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

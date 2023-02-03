@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#A0977F",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.stoneling"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "quark:stoneling",
+    "nbt": "{variant:4b,carryingItem:{id:\"minecraft:raw_iron\",Count:1b}}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#A0977F"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "quark:entity.stoneling.meep"
+    },
+    "rewards": {
+      "lootTable": "quark:entities/stoneling",
+      "cooldown": 288000
+    }
+  }
+}

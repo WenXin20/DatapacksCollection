@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.rookidee"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.rookidee"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/chicken_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:rookidee"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"minecraftboom"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/prismarine"
+    },
+    {
+      "tag": "forge:rods/wooden"
+    },
+    {
+      "tag": "forge:feathers"
+    }
+  ],
+  "result": {
+    "item": "minecraftboom:prismarine_arrow",
+    "count": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"atmospheric",
+  "sapling": {
+    "item": "atmospheric:rosewood_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "atmospheric:rosewood_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "atmospheric:rosewood_leaves"
+      },
+      "rolls": 1,
+      "chance": 0.1,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "atmospheric:rosewood_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

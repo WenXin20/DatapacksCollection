@@ -1,0 +1,36 @@
+{
+  "name": {
+    "color": "#B0C4D8",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.dolphin"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:dolphin"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#B0C4D8"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.dolphin.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:dolphins_grace",
+        "duration": 800
+      },
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 400
+      }
+    }
+  }
+}

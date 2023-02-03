@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"alexsmobs:emu_feather",
+	"alexsmobs:roadrunner_feather",
+	"chaosawakens:peacock_feather",
+	"dungeons_gear:light_feather",
+	"frozenup:chilloo_feather",
+	"greekfantasy:magic_feather",
+	"nethercraft:red_feather",
+	"silentgear:fluffy_feather",
+	"twilightforest:raven_feather",
+	"ultimate_unicorn_mod:pegasus_feather",
+	"untitledduckmod:duck_feather"
+  ]
+}

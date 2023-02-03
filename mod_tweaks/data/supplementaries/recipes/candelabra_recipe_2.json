@@ -1,0 +1,28 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"supplementaries"
+	}
+  ],
+  "group": "supplementaries",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "222",
+    " 2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:torch"
+    },
+    "2": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "supplementaries:candelabra",
+    "count": 1
+  }
+}

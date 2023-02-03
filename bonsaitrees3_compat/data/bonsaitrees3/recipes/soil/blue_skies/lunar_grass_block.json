@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "blue_skies",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "blue_skies:lunar_grass_block"
+	},
+	"compatibleSoilTags": ["grass"],
+	"display": {
+		"block": "blue_skies:lunar_grass_block"
+	}
+}

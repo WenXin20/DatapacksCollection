@@ -1,0 +1,50 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "terraqueous",
+  "sapling": {
+    "item": "terraqueous:coconut_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "terraqueous:coconut_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "terraqueous:coconut_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "terraqueous:coconut_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    },
+    {
+      "result": {
+        "item": "terraqueous:coconut"
+      },
+      "rolls": 1,
+      "chance": 0.05,
+	  "requiresBees":true
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

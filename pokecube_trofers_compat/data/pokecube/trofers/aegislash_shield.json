@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.aegislash_shield"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.aegislash_shield"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/iron_3",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "y": 2.0
+    },
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "pokecube:aegislash_shield",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

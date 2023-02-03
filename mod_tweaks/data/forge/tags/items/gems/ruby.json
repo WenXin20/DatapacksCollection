@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "betternether:nether_ruby", "required": false },
+    { "id": "combat:ruby", "required": false },
+    { "id": "earthtojavamobs:ruby", "required": false },
+    { "id": "gemsnjewels:ruby", "required": false },
+    { "id": "rediscovered:ruby", "required": false },
+    { "id": "tofucraft:zundaruby", "required": false }
+  ]
+}

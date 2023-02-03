@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.samurott"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.samurott"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/fish_3",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.33333334
+  },
+  "entity": {
+    "type": "pokecube:samurott"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

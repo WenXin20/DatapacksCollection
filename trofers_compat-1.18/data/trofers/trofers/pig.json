@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#F1A3A4",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.pig"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:pig",
+    "nbt": "{UUID: [I; -1883173249, -554614415, -1774000146, 1551098959]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#F1A3A4"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.pig.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/pig",
+      "cooldown": 9600
+    }
+  }
+}

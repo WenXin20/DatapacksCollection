@@ -1,0 +1,6742 @@
+{
+  "pokemon": [
+    {
+      "name": "tyrogue",
+      "stats": {
+        "lootTable": "pokecube:entities/tyrogue"
+      }
+    },
+    {
+      "name": "glameow",
+      "stats": {
+        "lootTable": "pokecube:entities/glameow"
+      }
+    },
+    {
+      "name": "blastoise",
+      "stats": {
+        "lootTable": "pokecube:entities/blastoise"
+      }
+    },
+    {
+      "name": "shaymin_land",
+      "stats": {
+        "lootTable": "pokecube:entities/shaymin_land"
+      }
+    },
+    {
+      "name": "minior",
+      "stats": {
+        "lootTable": "pokecube:entities/minior"
+      }
+    },
+    {
+      "name": "marowak",
+      "stats": {
+        "lootTable": "pokecube:entities/marowak"
+      }
+    },
+    {
+      "name": "quilava",
+      "stats": {
+        "lootTable": "pokecube:entities/quilava"
+      }
+    },
+    {
+      "name": "electivire",
+      "stats": {
+        "lootTable": "pokecube:entities/electivire"
+      }
+    },
+    {
+      "name": "delphox",
+      "stats": {
+        "lootTable": "pokecube:entities/delphox"
+      }
+    },
+    {
+      "name": "cranidos",
+      "stats": {
+        "lootTable": "pokecube:entities/cranidos"
+      }
+    },
+    {
+      "name": "petilil",
+      "stats": {
+        "lootTable": "pokecube:entities/petilil"
+      }
+    },
+    {
+      "name": "purrloin",
+      "stats": {
+        "lootTable": "pokecube:entities/purrloin"
+      }
+    },
+    {
+      "name": "galvantula",
+      "stats": {
+        "lootTable": "pokecube:entities/galvantula"
+      }
+    },
+    {
+      "name": "igglybuff",
+      "stats": {
+        "lootTable": "pokecube:entities/igglybuff"
+      }
+    },
+    {
+      "name": "persian_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/persian_alola"
+      }
+    },
+    {
+      "name": "morgrem",
+      "stats": {
+        "lootTable": "pokecube:entities/morgrem"
+      }
+    },
+    {
+      "name": "trevenant",
+      "stats": {
+        "lootTable": "pokecube:entities/trevenant"
+      }
+    },
+    {
+      "name": "dracozolt",
+      "stats": {
+        "lootTable": "pokecube:entities/dracozolt"
+      }
+    },
+    {
+      "name": "gengar_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/gengar_gigantamax"
+      }
+    },
+    {
+      "name": "rillaboom_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/rillaboom_gigantamax"
+      }
+    },
+    {
+      "name": "regirock",
+      "stats": {
+        "lootTable": "pokecube:entities/regirock"
+      }
+    },
+    {
+      "name": "nosepass",
+      "stats": {
+        "lootTable": "pokecube:entities/nosepass"
+      }
+    },
+    {
+      "name": "lycanroc_dusk",
+      "stats": {
+        "lootTable": "pokecube:entities/lycanroc_dusk"
+      }
+    },
+    {
+      "name": "hariyama",
+      "stats": {
+        "lootTable": "pokecube:entities/hariyama"
+      }
+    },
+    {
+      "name": "clauncher",
+      "stats": {
+        "lootTable": "pokecube:entities/clauncher"
+      }
+    },
+    {
+      "name": "milotic",
+      "stats": {
+        "lootTable": "pokecube:entities/milotic"
+      }
+    },
+    {
+      "name": "toxtricity_lowkey",
+      "stats": {
+        "lootTable": "pokecube:entities/toxtricity_lowkey"
+      }
+    },
+    {
+      "name": "nincada",
+      "stats": {
+        "lootTable": "pokecube:entities/nincada"
+      }
+    },
+    {
+      "name": "finneon",
+      "stats": {
+        "lootTable": "pokecube:entities/finneon"
+      }
+    },
+    {
+      "name": "zarude",
+      "stats": {
+        "lootTable": "pokecube:entities/zarude"
+      }
+    },
+    {
+      "name": "silvally_bug",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_bug"
+      }
+    },
+    {
+      "name": "pichu",
+      "stats": {
+        "lootTable": "pokecube:entities/pichu"
+      }
+    },
+    {
+      "name": "dragapult",
+      "stats": {
+        "lootTable": "pokecube:entities/dragapult"
+      }
+    },
+    {
+      "name": "cascoon",
+      "stats": {
+        "lootTable": "pokecube:entities/cascoon"
+      }
+    },
+    {
+      "name": "bastiodon",
+      "stats": {
+        "lootTable": "pokecube:entities/bastiodon"
+      }
+    },
+    {
+      "name": "happiny",
+      "stats": {
+        "lootTable": "pokecube:entities/happiny"
+      }
+    },
+    {
+      "name": "azelf",
+      "stats": {
+        "lootTable": "pokecube:entities/azelf"
+      }
+    },
+    {
+      "name": "pinsir",
+      "stats": {
+        "lootTable": "pokecube:entities/pinsir"
+      }
+    },
+    {
+      "name": "manaphy",
+      "stats": {
+        "lootTable": "pokecube:entities/manaphy"
+      }
+    },
+    {
+      "name": "wishiwashi",
+      "stats": {
+        "lootTable": "pokecube:entities/wishiwashi"
+      }
+    },
+    {
+      "name": "vivillon",
+      "stats": {
+        "lootTable": "pokecube:entities/vivillon"
+      }
+    },
+    {
+      "name": "silvally_fighting",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_fighting"
+      }
+    },
+    {
+      "name": "orange_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/orange_core_minior"
+      }
+    },
+    {
+      "name": "hitmontop",
+      "stats": {
+        "lootTable": "pokecube:entities/hitmontop"
+      }
+    },
+    {
+      "name": "frogadier",
+      "stats": {
+        "lootTable": "pokecube:entities/frogadier"
+      }
+    },
+    {
+      "name": "silvally_dragon",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_dragon"
+      }
+    },
+    {
+      "name": "togekiss",
+      "stats": {
+        "lootTable": "pokecube:entities/togekiss"
+      }
+    },
+    {
+      "name": "golduck",
+      "stats": {
+        "lootTable": "pokecube:entities/golduck"
+      }
+    },
+    {
+      "name": "marshtomp",
+      "stats": {
+        "lootTable": "pokecube:entities/marshtomp"
+      }
+    },
+    {
+      "name": "entei",
+      "stats": {
+        "lootTable": "pokecube:entities/entei"
+      }
+    },
+    {
+      "name": "dusclops",
+      "stats": {
+        "lootTable": "pokecube:entities/dusclops"
+      }
+    },
+    {
+      "name": "squirtle",
+      "stats": {
+        "lootTable": "pokecube:entities/squirtle"
+      }
+    },
+    {
+      "name": "machamp_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/machamp_gigantamax"
+      }
+    },
+    {
+      "name": "woobat",
+      "stats": {
+        "lootTable": "pokecube:entities/woobat"
+      }
+    },
+    {
+      "name": "gabite",
+      "stats": {
+        "lootTable": "pokecube:entities/gabite"
+      }
+    },
+    {
+      "name": "scyther",
+      "stats": {
+        "lootTable": "pokecube:entities/scyther"
+      }
+    },
+    {
+      "name": "slowbro_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/slowbro_galar"
+      }
+    },
+    {
+      "name": "furret",
+      "stats": {
+        "lootTable": "pokecube:entities/furret"
+      }
+    },
+    {
+      "name": "rockruff",
+      "stats": {
+        "lootTable": "pokecube:entities/rockruff"
+      }
+    },
+    {
+      "name": "meowth_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/meowth_galar"
+      }
+    },
+    {
+      "name": "tornadus_incarnate",
+      "stats": {
+        "lootTable": "pokecube:entities/tornadus_incarnate"
+      }
+    },
+    {
+      "name": "pikipek",
+      "stats": {
+        "lootTable": "pokecube:entities/pikipek"
+      }
+    },
+    {
+      "name": "camerupt",
+      "stats": {
+        "lootTable": "pokecube:entities/camerupt"
+      }
+    },
+    {
+      "name": "mantine",
+      "stats": {
+        "lootTable": "pokecube:entities/mantine"
+      }
+    },
+    {
+      "name": "metagross",
+      "stats": {
+        "lootTable": "pokecube:entities/metagross"
+      }
+    },
+    {
+      "name": "pelipper",
+      "stats": {
+        "lootTable": "pokecube:entities/pelipper"
+      }
+    },
+    {
+      "name": "regieleki",
+      "stats": {
+        "lootTable": "pokecube:entities/regieleki"
+      }
+    },
+    {
+      "name": "hitmonlee",
+      "stats": {
+        "lootTable": "pokecube:entities/hitmonlee"
+      }
+    },
+    {
+      "name": "abomasnow",
+      "stats": {
+        "lootTable": "pokecube:entities/abomasnow"
+      }
+    },
+    {
+      "name": "krabby",
+      "stats": {
+        "lootTable": "pokecube:entities/krabby"
+      }
+    },
+    {
+      "name": "obstagoon",
+      "stats": {
+        "lootTable": "pokecube:entities/obstagoon"
+      }
+    },
+    {
+      "name": "arbok",
+      "stats": {
+        "lootTable": "pokecube:entities/arbok"
+      }
+    },
+    {
+      "name": "exeggutor",
+      "stats": {
+        "lootTable": "pokecube:entities/exeggutor"
+      }
+    },
+    {
+      "name": "gourgeist",
+      "stats": {
+        "lootTable": "pokecube:entities/gourgeist"
+      }
+    },
+    {
+      "name": "silvally_electric",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_electric"
+      }
+    },
+    {
+      "name": "tapu_fini",
+      "stats": {
+        "lootTable": "pokecube:entities/tapu_fini"
+      }
+    },
+    {
+      "name": "ducklett",
+      "stats": {
+        "lootTable": "pokecube:entities/ducklett"
+      }
+    },
+    {
+      "name": "carnivine",
+      "stats": {
+        "lootTable": "pokecube:entities/carnivine"
+      }
+    },
+    {
+      "name": "rattata_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/rattata_alola"
+      }
+    },
+    {
+      "name": "grubbin",
+      "stats": {
+        "lootTable": "pokecube:entities/grubbin"
+      }
+    },
+    {
+      "name": "charmander",
+      "stats": {
+        "lootTable": "pokecube:entities/charmander"
+      }
+    },
+    {
+      "name": "stunky",
+      "stats": {
+        "lootTable": "pokecube:entities/stunky"
+      }
+    },
+    {
+      "name": "skwovet",
+      "stats": {
+        "lootTable": "pokecube:entities/skwovet"
+      }
+    },
+    {
+      "name": "trumbeak",
+      "stats": {
+        "lootTable": "pokecube:entities/trumbeak"
+      }
+    },
+    {
+      "name": "machop",
+      "stats": {
+        "lootTable": "pokecube:entities/machop"
+      }
+    },
+    {
+      "name": "carvanha",
+      "stats": {
+        "lootTable": "pokecube:entities/carvanha"
+      }
+    },
+    {
+      "name": "orbeetle_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/orbeetle_gigantamax"
+      }
+    },
+    {
+      "name": "hydreigon",
+      "stats": {
+        "lootTable": "pokecube:entities/hydreigon"
+      }
+    },
+    {
+      "name": "doublade",
+      "stats": {
+        "lootTable": "pokecube:entities/doublade"
+      }
+    },
+    {
+      "name": "regidrago",
+      "stats": {
+        "lootTable": "pokecube:entities/regidrago"
+      }
+    },
+    {
+      "name": "roserade",
+      "stats": {
+        "lootTable": "pokecube:entities/roserade"
+      }
+    },
+    {
+      "name": "giratina_origin",
+      "stats": {
+        "lootTable": "pokecube:entities/giratina_origin"
+      }
+    },
+    {
+      "name": "stoutland",
+      "stats": {
+        "lootTable": "pokecube:entities/stoutland"
+      }
+    },
+    {
+      "name": "scraggy",
+      "stats": {
+        "lootTable": "pokecube:entities/scraggy"
+      }
+    },
+    {
+      "name": "shieldon",
+      "stats": {
+        "lootTable": "pokecube:entities/shieldon"
+      }
+    },
+    {
+      "name": "mankey",
+      "stats": {
+        "lootTable": "pokecube:entities/mankey"
+      }
+    },
+    {
+      "name": "sharpedo_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/sharpedo_mega"
+      }
+    },
+    {
+      "name": "caterpie",
+      "stats": {
+        "lootTable": "pokecube:entities/caterpie"
+      }
+    },
+    {
+      "name": "pignite",
+      "stats": {
+        "lootTable": "pokecube:entities/pignite"
+      }
+    },
+    {
+      "name": "wynaut",
+      "stats": {
+        "lootTable": "pokecube:entities/wynaut"
+      }
+    },
+    {
+      "name": "toxicroak",
+      "stats": {
+        "lootTable": "pokecube:entities/toxicroak"
+      }
+    },
+    {
+      "name": "druddigon",
+      "stats": {
+        "lootTable": "pokecube:entities/druddigon"
+      }
+    },
+    {
+      "name": "palpitoad",
+      "stats": {
+        "lootTable": "pokecube:entities/palpitoad"
+      }
+    },
+    {
+      "name": "exeggcute",
+      "stats": {
+        "lootTable": "pokecube:entities/exeggcute"
+      }
+    },
+    {
+      "name": "zapdos_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/zapdos_galar"
+      }
+    },
+    {
+      "name": "klinklang",
+      "stats": {
+        "lootTable": "pokecube:entities/klinklang"
+      }
+    },
+    {
+      "name": "remoraid",
+      "stats": {
+        "lootTable": "pokecube:entities/remoraid"
+      }
+    },
+    {
+      "name": "illumise",
+      "stats": {
+        "lootTable": "pokecube:entities/illumise"
+      }
+    },
+    {
+      "name": "darumaka_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/darumaka_galar"
+      }
+    },
+    {
+      "name": "aggron_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/aggron_mega"
+      }
+    },
+    {
+      "name": "yungoos",
+      "stats": {
+        "lootTable": "pokecube:entities/yungoos"
+      }
+    },
+    {
+      "name": "xatu",
+      "stats": {
+        "lootTable": "pokecube:entities/xatu"
+      }
+    },
+    {
+      "name": "appletun",
+      "stats": {
+        "lootTable": "pokecube:entities/appletun"
+      }
+    },
+    {
+      "name": "lapras",
+      "stats": {
+        "lootTable": "pokecube:entities/lapras"
+      }
+    },
+    {
+      "name": "mawile",
+      "stats": {
+        "lootTable": "pokecube:entities/mawile"
+      }
+    },
+    {
+      "name": "silvally_ice",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_ice"
+      }
+    },
+    {
+      "name": "necrozma_ultra",
+      "stats": {
+        "lootTable": "pokecube:entities/necrozma_ultra"
+      }
+    },
+    {
+      "name": "skiploom",
+      "stats": {
+        "lootTable": "pokecube:entities/skiploom"
+      }
+    },
+    {
+      "name": "octillery",
+      "stats": {
+        "lootTable": "pokecube:entities/octillery"
+      }
+    },
+    {
+      "name": "turtwig",
+      "stats": {
+        "lootTable": "pokecube:entities/turtwig"
+      }
+    },
+    {
+      "name": "mareep",
+      "stats": {
+        "lootTable": "pokecube:entities/mareep"
+      }
+    },
+    {
+      "name": "escavalier",
+      "stats": {
+        "lootTable": "pokecube:entities/escavalier"
+      }
+    },
+    {
+      "name": "greninja",
+      "stats": {
+        "lootTable": "pokecube:entities/greninja"
+      }
+    },
+    {
+      "name": "alcremie_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/alcremie_gigantamax"
+      }
+    },
+    {
+      "name": "cramorant",
+      "stats": {
+        "lootTable": "pokecube:entities/cramorant"
+      }
+    },
+    {
+      "name": "mewtwo",
+      "stats": {
+        "lootTable": "pokecube:entities/mewtwo"
+      }
+    },
+    {
+      "name": "amoonguss",
+      "stats": {
+        "lootTable": "pokecube:entities/amoonguss"
+      }
+    },
+    {
+      "name": "clobbopus",
+      "stats": {
+        "lootTable": "pokecube:entities/clobbopus"
+      }
+    },
+    {
+      "name": "sandslash_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/sandslash_alola"
+      }
+    },
+    {
+      "name": "miltank",
+      "stats": {
+        "lootTable": "pokecube:entities/miltank"
+      }
+    },
+    {
+      "name": "pikachu",
+      "stats": {
+        "lootTable": "pokecube:entities/pikachu"
+      }
+    },
+    {
+      "name": "munchlax",
+      "stats": {
+        "lootTable": "pokecube:entities/munchlax"
+      }
+    },
+    {
+      "name": "ponyta_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/ponyta_galar"
+      }
+    },
+    {
+      "name": "bouffalant",
+      "stats": {
+        "lootTable": "pokecube:entities/bouffalant"
+      }
+    },
+    {
+      "name": "nidoranm",
+      "stats": {
+        "lootTable": "pokecube:entities/nidoranm"
+      }
+    },
+    {
+      "name": "sandshrew",
+      "stats": {
+        "lootTable": "pokecube:entities/sandshrew"
+      }
+    },
+    {
+      "name": "meloetta_aria",
+      "stats": {
+        "lootTable": "pokecube:entities/meloetta_aria"
+      }
+    },
+    {
+      "name": "vikavolt",
+      "stats": {
+        "lootTable": "pokecube:entities/vikavolt"
+      }
+    },
+    {
+      "name": "kyurem",
+      "stats": {
+        "lootTable": "pokecube:entities/kyurem"
+      }
+    },
+    {
+      "name": "ursaring",
+      "stats": {
+        "lootTable": "pokecube:entities/ursaring"
+      }
+    },
+    {
+      "name": "swampert_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/swampert_mega"
+      }
+    },
+    {
+      "name": "sealeo",
+      "stats": {
+        "lootTable": "pokecube:entities/sealeo"
+      }
+    },
+    {
+      "name": "hippowdon",
+      "stats": {
+        "lootTable": "pokecube:entities/hippowdon"
+      }
+    },
+    {
+      "name": "drilbur",
+      "stats": {
+        "lootTable": "pokecube:entities/drilbur"
+      }
+    },
+    {
+      "name": "sawk",
+      "stats": {
+        "lootTable": "pokecube:entities/sawk"
+      }
+    },
+    {
+      "name": "eiscue",
+      "stats": {
+        "lootTable": "pokecube:entities/eiscue"
+      }
+    },
+    {
+      "name": "electabuzz",
+      "stats": {
+        "lootTable": "pokecube:entities/electabuzz"
+      }
+    },
+    {
+      "name": "floette_eternal",
+      "stats": {
+        "lootTable": "pokecube:entities/floette_eternal"
+      }
+    },
+    {
+      "name": "bronzong",
+      "stats": {
+        "lootTable": "pokecube:entities/bronzong"
+      }
+    },
+    {
+      "name": "applin",
+      "stats": {
+        "lootTable": "pokecube:entities/applin"
+      }
+    },
+    {
+      "name": "mudbray",
+      "stats": {
+        "lootTable": "pokecube:entities/mudbray"
+      }
+    },
+    {
+      "name": "baltoy",
+      "stats": {
+        "lootTable": "pokecube:entities/baltoy"
+      }
+    },
+    {
+      "name": "deoxys_speed",
+      "stats": {
+        "lootTable": "pokecube:entities/deoxys_speed"
+      }
+    },
+    {
+      "name": "rillaboom",
+      "stats": {
+        "lootTable": "pokecube:entities/rillaboom"
+      }
+    },
+    {
+      "name": "bagon",
+      "stats": {
+        "lootTable": "pokecube:entities/bagon"
+      }
+    },
+    {
+      "name": "duosion",
+      "stats": {
+        "lootTable": "pokecube:entities/duosion"
+      }
+    },
+    {
+      "name": "ribombee",
+      "stats": {
+        "lootTable": "pokecube:entities/ribombee"
+      }
+    },
+    {
+      "name": "silvally_fire",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_fire"
+      }
+    },
+    {
+      "name": "sentret",
+      "stats": {
+        "lootTable": "pokecube:entities/sentret"
+      }
+    },
+    {
+      "name": "shelgon",
+      "stats": {
+        "lootTable": "pokecube:entities/shelgon"
+      }
+    },
+    {
+      "name": "duraludon",
+      "stats": {
+        "lootTable": "pokecube:entities/duraludon"
+      }
+    },
+    {
+      "name": "alakazam",
+      "stats": {
+        "lootTable": "pokecube:entities/alakazam"
+      }
+    },
+    {
+      "name": "dodrio",
+      "stats": {
+        "lootTable": "pokecube:entities/dodrio"
+      }
+    },
+    {
+      "name": "runerigus",
+      "stats": {
+        "lootTable": "pokecube:entities/runerigus"
+      }
+    },
+    {
+      "name": "weedle",
+      "stats": {
+        "lootTable": "pokecube:entities/weedle"
+      }
+    },
+    {
+      "name": "marowak_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/marowak_alola"
+      }
+    },
+    {
+      "name": "diancie_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/diancie_mega"
+      }
+    },
+    {
+      "name": "barraskewda",
+      "stats": {
+        "lootTable": "pokecube:entities/barraskewda"
+      }
+    },
+    {
+      "name": "chingling",
+      "stats": {
+        "lootTable": "pokecube:entities/chingling"
+      }
+    },
+    {
+      "name": "stonjourner",
+      "stats": {
+        "lootTable": "pokecube:entities/stonjourner"
+      }
+    },
+    {
+      "name": "whismur",
+      "stats": {
+        "lootTable": "pokecube:entities/whismur"
+      }
+    },
+    {
+      "name": "medicham",
+      "stats": {
+        "lootTable": "pokecube:entities/medicham"
+      }
+    },
+    {
+      "name": "dusknoir",
+      "stats": {
+        "lootTable": "pokecube:entities/dusknoir"
+      }
+    },
+    {
+      "name": "vibrava",
+      "stats": {
+        "lootTable": "pokecube:entities/vibrava"
+      }
+    },
+    {
+      "name": "arceus",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus"
+      }
+    },
+    {
+      "name": "marill",
+      "stats": {
+        "lootTable": "pokecube:entities/marill"
+      }
+    },
+    {
+      "name": "doduo",
+      "stats": {
+        "lootTable": "pokecube:entities/doduo"
+      }
+    },
+    {
+      "name": "nidoking",
+      "stats": {
+        "lootTable": "pokecube:entities/nidoking"
+      }
+    },
+    {
+      "name": "mandibuzz",
+      "stats": {
+        "lootTable": "pokecube:entities/mandibuzz"
+      }
+    },
+    {
+      "name": "toxtricity_lowkey_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/toxtricity_lowkey_gigantamax"
+      }
+    },
+    {
+      "name": "slowking_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/slowking_galar"
+      }
+    },
+    {
+      "name": "karrablast",
+      "stats": {
+        "lootTable": "pokecube:entities/karrablast"
+      }
+    },
+    {
+      "name": "swirlix",
+      "stats": {
+        "lootTable": "pokecube:entities/swirlix"
+      }
+    },
+    {
+      "name": "darkrai",
+      "stats": {
+        "lootTable": "pokecube:entities/darkrai"
+      }
+    },
+    {
+      "name": "silvally_flying",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_flying"
+      }
+    },
+    {
+      "name": "klang",
+      "stats": {
+        "lootTable": "pokecube:entities/klang"
+      }
+    },
+    {
+      "name": "jangmo-o",
+      "stats": {
+        "lootTable": "pokecube:entities/jangmo-o"
+      }
+    },
+    {
+      "name": "klefki",
+      "stats": {
+        "lootTable": "pokecube:entities/klefki"
+      }
+    },
+    {
+      "name": "crabrawler",
+      "stats": {
+        "lootTable": "pokecube:entities/crabrawler"
+      }
+    },
+    {
+      "name": "duskull",
+      "stats": {
+        "lootTable": "pokecube:entities/duskull"
+      }
+    },
+    {
+      "name": "tornadus_therian",
+      "stats": {
+        "lootTable": "pokecube:entities/tornadus_therian"
+      }
+    },
+    {
+      "name": "hawlucha",
+      "stats": {
+        "lootTable": "pokecube:entities/hawlucha"
+      }
+    },
+    {
+      "name": "dewgong",
+      "stats": {
+        "lootTable": "pokecube:entities/dewgong"
+      }
+    },
+    {
+      "name": "oricorio_baile",
+      "stats": {
+        "lootTable": "pokecube:entities/oricorio_baile"
+      }
+    },
+    {
+      "name": "muk_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/muk_alola"
+      }
+    },
+    {
+      "name": "luxray",
+      "stats": {
+        "lootTable": "pokecube:entities/luxray"
+      }
+    },
+    {
+      "name": "kartana",
+      "stats": {
+        "lootTable": "pokecube:entities/kartana"
+      }
+    },
+    {
+      "name": "morpeko",
+      "stats": {
+        "lootTable": "pokecube:entities/morpeko"
+      }
+    },
+    {
+      "name": "meltan",
+      "stats": {
+        "lootTable": "pokecube:entities/meltan"
+      }
+    },
+    {
+      "name": "missingno",
+      "stats": {
+        "lootTable": "pokecube:entities/missingno"
+      }
+    },
+    {
+      "name": "jynx",
+      "stats": {
+        "lootTable": "pokecube:entities/jynx"
+      }
+    },
+    {
+      "name": "aron",
+      "stats": {
+        "lootTable": "pokecube:entities/aron"
+      }
+    },
+    {
+      "name": "floette",
+      "stats": {
+        "lootTable": "pokecube:entities/floette"
+      }
+    },
+    {
+      "name": "drizzile",
+      "stats": {
+        "lootTable": "pokecube:entities/drizzile"
+      }
+    },
+    {
+      "name": "glalie",
+      "stats": {
+        "lootTable": "pokecube:entities/glalie"
+      }
+    },
+    {
+      "name": "barbaracle",
+      "stats": {
+        "lootTable": "pokecube:entities/barbaracle"
+      }
+    },
+    {
+      "name": "unown",
+      "stats": {
+        "lootTable": "pokecube:entities/unown"
+      }
+    },
+    {
+      "name": "dhelmise",
+      "stats": {
+        "lootTable": "pokecube:entities/dhelmise"
+      }
+    },
+    {
+      "name": "pidgeotto",
+      "stats": {
+        "lootTable": "pokecube:entities/pidgeotto"
+      }
+    },
+    {
+      "name": "weavile",
+      "stats": {
+        "lootTable": "pokecube:entities/weavile"
+      }
+    },
+    {
+      "name": "hoopa_unbound",
+      "stats": {
+        "lootTable": "pokecube:entities/hoopa_unbound"
+      }
+    },
+    {
+      "name": "piplup",
+      "stats": {
+        "lootTable": "pokecube:entities/piplup"
+      }
+    },
+    {
+      "name": "yellow_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/yellow_core_minior"
+      }
+    },
+    {
+      "name": "throh",
+      "stats": {
+        "lootTable": "pokecube:entities/throh"
+      }
+    },
+    {
+      "name": "chewtle",
+      "stats": {
+        "lootTable": "pokecube:entities/chewtle"
+      }
+    },
+    {
+      "name": "heatran",
+      "stats": {
+        "lootTable": "pokecube:entities/heatran"
+      }
+    },
+    {
+      "name": "vanillish",
+      "stats": {
+        "lootTable": "pokecube:entities/vanillish"
+      }
+    },
+    {
+      "name": "solgaleo_dusk",
+      "stats": {
+        "lootTable": "pokecube:entities/solgaleo_dusk"
+      }
+    },
+    {
+      "name": "shiftry",
+      "stats": {
+        "lootTable": "pokecube:entities/shiftry"
+      }
+    },
+    {
+      "name": "jigglypuff",
+      "stats": {
+        "lootTable": "pokecube:entities/jigglypuff"
+      }
+    },
+    {
+      "name": "eternatus",
+      "stats": {
+        "lootTable": "pokecube:entities/eternatus"
+      }
+    },
+    {
+      "name": "latios_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/latios_mega"
+      }
+    },
+    {
+      "name": "slaking",
+      "stats": {
+        "lootTable": "pokecube:entities/slaking"
+      }
+    },
+    {
+      "name": "seaking",
+      "stats": {
+        "lootTable": "pokecube:entities/seaking"
+      }
+    },
+    {
+      "name": "sylveon",
+      "stats": {
+        "lootTable": "pokecube:entities/sylveon"
+      }
+    },
+    {
+      "name": "latios",
+      "stats": {
+        "lootTable": "pokecube:entities/latios"
+      }
+    },
+    {
+      "name": "ponyta",
+      "stats": {
+        "lootTable": "pokecube:entities/ponyta"
+      }
+    },
+    {
+      "name": "bidoof",
+      "stats": {
+        "lootTable": "pokecube:entities/bidoof"
+      }
+    },
+    {
+      "name": "deino",
+      "stats": {
+        "lootTable": "pokecube:entities/deino"
+      }
+    },
+    {
+      "name": "jumpluff",
+      "stats": {
+        "lootTable": "pokecube:entities/jumpluff"
+      }
+    },
+    {
+      "name": "lugia",
+      "stats": {
+        "lootTable": "pokecube:entities/lugia"
+      }
+    },
+    {
+      "name": "torchic",
+      "stats": {
+        "lootTable": "pokecube:entities/torchic"
+      }
+    },
+    {
+      "name": "duraludon_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/duraludon_gigantamax"
+      }
+    },
+    {
+      "name": "simipour",
+      "stats": {
+        "lootTable": "pokecube:entities/simipour"
+      }
+    },
+    {
+      "name": "diglett",
+      "stats": {
+        "lootTable": "pokecube:entities/diglett"
+      }
+    },
+    {
+      "name": "glastrier",
+      "stats": {
+        "lootTable": "pokecube:entities/glastrier"
+      }
+    },
+    {
+      "name": "avalugg",
+      "stats": {
+        "lootTable": "pokecube:entities/avalugg"
+      }
+    },
+    {
+      "name": "tapu_koko",
+      "stats": {
+        "lootTable": "pokecube:entities/tapu_koko"
+      }
+    },
+    {
+      "name": "shaymin_sky",
+      "stats": {
+        "lootTable": "pokecube:entities/shaymin_sky"
+      }
+    },
+    {
+      "name": "herdier",
+      "stats": {
+        "lootTable": "pokecube:entities/herdier"
+      }
+    },
+    {
+      "name": "darumaka",
+      "stats": {
+        "lootTable": "pokecube:entities/darumaka"
+      }
+    },
+    {
+      "name": "litwick",
+      "stats": {
+        "lootTable": "pokecube:entities/litwick"
+      }
+    },
+    {
+      "name": "popplio",
+      "stats": {
+        "lootTable": "pokecube:entities/popplio"
+      }
+    },
+    {
+      "name": "greedent",
+      "stats": {
+        "lootTable": "pokecube:entities/greedent"
+      }
+    },
+    {
+      "name": "sandslash",
+      "stats": {
+        "lootTable": "pokecube:entities/sandslash"
+      }
+    },
+    {
+      "name": "archeops",
+      "stats": {
+        "lootTable": "pokecube:entities/archeops"
+      }
+    },
+    {
+      "name": "cramorant_gorging",
+      "stats": {
+        "lootTable": "pokecube:entities/cramorant_gorging"
+      }
+    },
+    {
+      "name": "garchomp_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/garchomp_mega"
+      }
+    },
+    {
+      "name": "growlithe",
+      "stats": {
+        "lootTable": "pokecube:entities/growlithe"
+      }
+    },
+    {
+      "name": "eelektross",
+      "stats": {
+        "lootTable": "pokecube:entities/eelektross"
+      }
+    },
+    {
+      "name": "lurantis",
+      "stats": {
+        "lootTable": "pokecube:entities/lurantis"
+      }
+    },
+    {
+      "name": "numel",
+      "stats": {
+        "lootTable": "pokecube:entities/numel"
+      }
+    },
+    {
+      "name": "minccino",
+      "stats": {
+        "lootTable": "pokecube:entities/minccino"
+      }
+    },
+    {
+      "name": "clefairy",
+      "stats": {
+        "lootTable": "pokecube:entities/clefairy"
+      }
+    },
+    {
+      "name": "oricorio_sensu",
+      "stats": {
+        "lootTable": "pokecube:entities/oricorio_sensu"
+      }
+    },
+    {
+      "name": "chansey",
+      "stats": {
+        "lootTable": "pokecube:entities/chansey"
+      }
+    },
+    {
+      "name": "goldeen",
+      "stats": {
+        "lootTable": "pokecube:entities/goldeen"
+      }
+    },
+    {
+      "name": "bisharp",
+      "stats": {
+        "lootTable": "pokecube:entities/bisharp"
+      }
+    },
+    {
+      "name": "zebstrika",
+      "stats": {
+        "lootTable": "pokecube:entities/zebstrika"
+      }
+    },
+    {
+      "name": "hatenna",
+      "stats": {
+        "lootTable": "pokecube:entities/hatenna"
+      }
+    },
+    {
+      "name": "volcanion",
+      "stats": {
+        "lootTable": "pokecube:entities/volcanion"
+      }
+    },
+    {
+      "name": "rolycoly",
+      "stats": {
+        "lootTable": "pokecube:entities/rolycoly"
+      }
+    },
+    {
+      "name": "cyndaquil",
+      "stats": {
+        "lootTable": "pokecube:entities/cyndaquil"
+      }
+    },
+    {
+      "name": "violet_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/violet_core_minior"
+      }
+    },
+    {
+      "name": "torterra",
+      "stats": {
+        "lootTable": "pokecube:entities/torterra"
+      }
+    },
+    {
+      "name": "rhydon",
+      "stats": {
+        "lootTable": "pokecube:entities/rhydon"
+      }
+    },
+    {
+      "name": "fomantis",
+      "stats": {
+        "lootTable": "pokecube:entities/fomantis"
+      }
+    },
+    {
+      "name": "azumarill",
+      "stats": {
+        "lootTable": "pokecube:entities/azumarill"
+      }
+    },
+    {
+      "name": "thievul",
+      "stats": {
+        "lootTable": "pokecube:entities/thievul"
+      }
+    },
+    {
+      "name": "eternatus_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/eternatus_gigantamax"
+      }
+    },
+    {
+      "name": "porygon2",
+      "stats": {
+        "lootTable": "pokecube:entities/porygon2"
+      }
+    },
+    {
+      "name": "dubwool",
+      "stats": {
+        "lootTable": "pokecube:entities/dubwool"
+      }
+    },
+    {
+      "name": "articuno_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/articuno_galar"
+      }
+    },
+    {
+      "name": "stunfisk",
+      "stats": {
+        "lootTable": "pokecube:entities/stunfisk"
+      }
+    },
+    {
+      "name": "stakataka",
+      "stats": {
+        "lootTable": "pokecube:entities/stakataka"
+      }
+    },
+    {
+      "name": "mewtwo_mega-y",
+      "stats": {
+        "lootTable": "pokecube:entities/mewtwo_mega-y"
+      }
+    },
+    {
+      "name": "bellossom",
+      "stats": {
+        "lootTable": "pokecube:entities/bellossom"
+      }
+    },
+    {
+      "name": "melmetal_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/melmetal_gigantamax"
+      }
+    },
+    {
+      "name": "centiskorch",
+      "stats": {
+        "lootTable": "pokecube:entities/centiskorch"
+      }
+    },
+    {
+      "name": "liepard",
+      "stats": {
+        "lootTable": "pokecube:entities/liepard"
+      }
+    },
+    {
+      "name": "talonflame",
+      "stats": {
+        "lootTable": "pokecube:entities/talonflame"
+      }
+    },
+    {
+      "name": "slakoth",
+      "stats": {
+        "lootTable": "pokecube:entities/slakoth"
+      }
+    },
+    {
+      "name": "bronzor",
+      "stats": {
+        "lootTable": "pokecube:entities/bronzor"
+      }
+    },
+    {
+      "name": "durant",
+      "stats": {
+        "lootTable": "pokecube:entities/durant"
+      }
+    },
+    {
+      "name": "girafarig",
+      "stats": {
+        "lootTable": "pokecube:entities/girafarig"
+      }
+    },
+    {
+      "name": "butterfree",
+      "stats": {
+        "lootTable": "pokecube:entities/butterfree"
+      }
+    },
+    {
+      "name": "tynamo",
+      "stats": {
+        "lootTable": "pokecube:entities/tynamo"
+      }
+    },
+    {
+      "name": "skrelp",
+      "stats": {
+        "lootTable": "pokecube:entities/skrelp"
+      }
+    },
+    {
+      "name": "noibat",
+      "stats": {
+        "lootTable": "pokecube:entities/noibat"
+      }
+    },
+    {
+      "name": "tranquill",
+      "stats": {
+        "lootTable": "pokecube:entities/tranquill"
+      }
+    },
+    {
+      "name": "aromatisse",
+      "stats": {
+        "lootTable": "pokecube:entities/aromatisse"
+      }
+    },
+    {
+      "name": "copperajah_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/copperajah_gigantamax"
+      }
+    },
+    {
+      "name": "corviknight",
+      "stats": {
+        "lootTable": "pokecube:entities/corviknight"
+      }
+    },
+    {
+      "name": "croconaw",
+      "stats": {
+        "lootTable": "pokecube:entities/croconaw"
+      }
+    },
+    {
+      "name": "arrokuda",
+      "stats": {
+        "lootTable": "pokecube:entities/arrokuda"
+      }
+    },
+    {
+      "name": "magneton",
+      "stats": {
+        "lootTable": "pokecube:entities/magneton"
+      }
+    },
+    {
+      "name": "wobbuffet",
+      "stats": {
+        "lootTable": "pokecube:entities/wobbuffet"
+      }
+    },
+    {
+      "name": "grumpig",
+      "stats": {
+        "lootTable": "pokecube:entities/grumpig"
+      }
+    },
+    {
+      "name": "kangaskhan_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/kangaskhan_mega"
+      }
+    },
+    {
+      "name": "scolipede",
+      "stats": {
+        "lootTable": "pokecube:entities/scolipede"
+      }
+    },
+    {
+      "name": "lilligant",
+      "stats": {
+        "lootTable": "pokecube:entities/lilligant"
+      }
+    },
+    {
+      "name": "calyrex",
+      "stats": {
+        "lootTable": "pokecube:entities/calyrex"
+      }
+    },
+    {
+      "name": "croagunk",
+      "stats": {
+        "lootTable": "pokecube:entities/croagunk"
+      }
+    },
+    {
+      "name": "sceptile",
+      "stats": {
+        "lootTable": "pokecube:entities/sceptile"
+      }
+    },
+    {
+      "name": "foongus",
+      "stats": {
+        "lootTable": "pokecube:entities/foongus"
+      }
+    },
+    {
+      "name": "victini",
+      "stats": {
+        "lootTable": "pokecube:entities/victini"
+      }
+    },
+    {
+      "name": "thundurus_therian",
+      "stats": {
+        "lootTable": "pokecube:entities/thundurus_therian"
+      }
+    },
+    {
+      "name": "kubfu",
+      "stats": {
+        "lootTable": "pokecube:entities/kubfu"
+      }
+    },
+    {
+      "name": "kricketune",
+      "stats": {
+        "lootTable": "pokecube:entities/kricketune"
+      }
+    },
+    {
+      "name": "genesect",
+      "stats": {
+        "lootTable": "pokecube:entities/genesect"
+      }
+    },
+    {
+      "name": "rattata",
+      "stats": {
+        "lootTable": "pokecube:entities/rattata"
+      }
+    },
+    {
+      "name": "granbull",
+      "stats": {
+        "lootTable": "pokecube:entities/granbull"
+      }
+    },
+    {
+      "name": "tirtouga",
+      "stats": {
+        "lootTable": "pokecube:entities/tirtouga"
+      }
+    },
+    {
+      "name": "anorith",
+      "stats": {
+        "lootTable": "pokecube:entities/anorith"
+      }
+    },
+    {
+      "name": "beautifly",
+      "stats": {
+        "lootTable": "pokecube:entities/beautifly"
+      }
+    },
+    {
+      "name": "darmanitan_zen_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/darmanitan_zen_galar"
+      }
+    },
+    {
+      "name": "zubat",
+      "stats": {
+        "lootTable": "pokecube:entities/zubat"
+      }
+    },
+    {
+      "name": "carracosta",
+      "stats": {
+        "lootTable": "pokecube:entities/carracosta"
+      }
+    },
+    {
+      "name": "hoothoot",
+      "stats": {
+        "lootTable": "pokecube:entities/hoothoot"
+      }
+    },
+    {
+      "name": "cutiefly",
+      "stats": {
+        "lootTable": "pokecube:entities/cutiefly"
+      }
+    },
+    {
+      "name": "ekans",
+      "stats": {
+        "lootTable": "pokecube:entities/ekans"
+      }
+    },
+    {
+      "name": "rotom_mow",
+      "stats": {
+        "lootTable": "pokecube:entities/rotom_mow"
+      }
+    },
+    {
+      "name": "voltorb",
+      "stats": {
+        "lootTable": "pokecube:entities/voltorb"
+      }
+    },
+    {
+      "name": "electrike",
+      "stats": {
+        "lootTable": "pokecube:entities/electrike"
+      }
+    },
+    {
+      "name": "cosmoem",
+      "stats": {
+        "lootTable": "pokecube:entities/cosmoem"
+      }
+    },
+    {
+      "name": "buizel",
+      "stats": {
+        "lootTable": "pokecube:entities/buizel"
+      }
+    },
+    {
+      "name": "oricorio_pau",
+      "stats": {
+        "lootTable": "pokecube:entities/oricorio_pau"
+      }
+    },
+    {
+      "name": "froslass",
+      "stats": {
+        "lootTable": "pokecube:entities/froslass"
+      }
+    },
+    {
+      "name": "toxtricity_amped_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/toxtricity_amped_gigantamax"
+      }
+    },
+    {
+      "name": "maractus",
+      "stats": {
+        "lootTable": "pokecube:entities/maractus"
+      }
+    },
+    {
+      "name": "cryogonal",
+      "stats": {
+        "lootTable": "pokecube:entities/cryogonal"
+      }
+    },
+    {
+      "name": "ditto",
+      "stats": {
+        "lootTable": "pokecube:entities/ditto"
+      }
+    },
+    {
+      "name": "golurk",
+      "stats": {
+        "lootTable": "pokecube:entities/golurk"
+      }
+    },
+    {
+      "name": "sharpedo",
+      "stats": {
+        "lootTable": "pokecube:entities/sharpedo"
+      }
+    },
+    {
+      "name": "venipede",
+      "stats": {
+        "lootTable": "pokecube:entities/venipede"
+      }
+    },
+    {
+      "name": "solrock",
+      "stats": {
+        "lootTable": "pokecube:entities/solrock"
+      }
+    },
+    {
+      "name": "clefable",
+      "stats": {
+        "lootTable": "pokecube:entities/clefable"
+      }
+    },
+    {
+      "name": "darmanitan_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/darmanitan_galar"
+      }
+    },
+    {
+      "name": "camerupt_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/camerupt_mega"
+      }
+    },
+    {
+      "name": "tentacool",
+      "stats": {
+        "lootTable": "pokecube:entities/tentacool"
+      }
+    },
+    {
+      "name": "audino_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/audino_mega"
+      }
+    },
+    {
+      "name": "wurmple",
+      "stats": {
+        "lootTable": "pokecube:entities/wurmple"
+      }
+    },
+    {
+      "name": "beedrill_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/beedrill_mega"
+      }
+    },
+    {
+      "name": "raticate_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/raticate_alola"
+      }
+    },
+    {
+      "name": "honedge",
+      "stats": {
+        "lootTable": "pokecube:entities/honedge"
+      }
+    },
+    {
+      "name": "slowbro",
+      "stats": {
+        "lootTable": "pokecube:entities/slowbro"
+      }
+    },
+    {
+      "name": "ampharos_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/ampharos_mega"
+      }
+    },
+    {
+      "name": "togedemaru",
+      "stats": {
+        "lootTable": "pokecube:entities/togedemaru"
+      }
+    },
+    {
+      "name": "roggenrola",
+      "stats": {
+        "lootTable": "pokecube:entities/roggenrola"
+      }
+    },
+    {
+      "name": "oranguru",
+      "stats": {
+        "lootTable": "pokecube:entities/oranguru"
+      }
+    },
+    {
+      "name": "incineroar",
+      "stats": {
+        "lootTable": "pokecube:entities/incineroar"
+      }
+    },
+    {
+      "name": "dartrix",
+      "stats": {
+        "lootTable": "pokecube:entities/dartrix"
+      }
+    },
+    {
+      "name": "spinda",
+      "stats": {
+        "lootTable": "pokecube:entities/spinda"
+      }
+    },
+    {
+      "name": "burmy",
+      "stats": {
+        "lootTable": "pokecube:entities/burmy"
+      }
+    },
+    {
+      "name": "chespin",
+      "stats": {
+        "lootTable": "pokecube:entities/chespin"
+      }
+    },
+    {
+      "name": "calyrex_ice_rider",
+      "stats": {
+        "lootTable": "pokecube:entities/calyrex_ice_rider"
+      }
+    },
+    {
+      "name": "swablu",
+      "stats": {
+        "lootTable": "pokecube:entities/swablu"
+      }
+    },
+    {
+      "name": "zweilous",
+      "stats": {
+        "lootTable": "pokecube:entities/zweilous"
+      }
+    },
+    {
+      "name": "quagsire",
+      "stats": {
+        "lootTable": "pokecube:entities/quagsire"
+      }
+    },
+    {
+      "name": "pupitar",
+      "stats": {
+        "lootTable": "pokecube:entities/pupitar"
+      }
+    },
+    {
+      "name": "drapion",
+      "stats": {
+        "lootTable": "pokecube:entities/drapion"
+      }
+    },
+    {
+      "name": "dwebble",
+      "stats": {
+        "lootTable": "pokecube:entities/dwebble"
+      }
+    },
+    {
+      "name": "shellos",
+      "stats": {
+        "lootTable": "pokecube:entities/shellos"
+      }
+    },
+    {
+      "name": "snivy",
+      "stats": {
+        "lootTable": "pokecube:entities/snivy"
+      }
+    },
+    {
+      "name": "stufful",
+      "stats": {
+        "lootTable": "pokecube:entities/stufful"
+      }
+    },
+    {
+      "name": "phanpy",
+      "stats": {
+        "lootTable": "pokecube:entities/phanpy"
+      }
+    },
+    {
+      "name": "deoxys",
+      "stats": {
+        "lootTable": "pokecube:entities/deoxys"
+      }
+    },
+    {
+      "name": "jolteon",
+      "stats": {
+        "lootTable": "pokecube:entities/jolteon"
+      }
+    },
+    {
+      "name": "arceus_fire",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_fire"
+      }
+    },
+    {
+      "name": "blissey",
+      "stats": {
+        "lootTable": "pokecube:entities/blissey"
+      }
+    },
+    {
+      "name": "landorus_therian",
+      "stats": {
+        "lootTable": "pokecube:entities/landorus_therian"
+      }
+    },
+    {
+      "name": "wailord",
+      "stats": {
+        "lootTable": "pokecube:entities/wailord"
+      }
+    },
+    {
+      "name": "greninja_ash",
+      "stats": {
+        "lootTable": "pokecube:entities/greninja_ash"
+      }
+    },
+    {
+      "name": "zigzagoon_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/zigzagoon_galar"
+      }
+    },
+    {
+      "name": "manectric",
+      "stats": {
+        "lootTable": "pokecube:entities/manectric"
+      }
+    },
+    {
+      "name": "seviper",
+      "stats": {
+        "lootTable": "pokecube:entities/seviper"
+      }
+    },
+    {
+      "name": "arceus_fighting",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_fighting"
+      }
+    },
+    {
+      "name": "mewtwo_mega-x",
+      "stats": {
+        "lootTable": "pokecube:entities/mewtwo_mega-x"
+      }
+    },
+    {
+      "name": "lucario",
+      "stats": {
+        "lootTable": "pokecube:entities/lucario"
+      }
+    },
+    {
+      "name": "copperajah",
+      "stats": {
+        "lootTable": "pokecube:entities/copperajah"
+      }
+    },
+    {
+      "name": "snubbull",
+      "stats": {
+        "lootTable": "pokecube:entities/snubbull"
+      }
+    },
+    {
+      "name": "sawsbuck",
+      "stats": {
+        "lootTable": "pokecube:entities/sawsbuck"
+      }
+    },
+    {
+      "name": "slowpoke",
+      "stats": {
+        "lootTable": "pokecube:entities/slowpoke"
+      }
+    },
+    {
+      "name": "vigoroth",
+      "stats": {
+        "lootTable": "pokecube:entities/vigoroth"
+      }
+    },
+    {
+      "name": "cradily",
+      "stats": {
+        "lootTable": "pokecube:entities/cradily"
+      }
+    },
+    {
+      "name": "dunsparce",
+      "stats": {
+        "lootTable": "pokecube:entities/dunsparce"
+      }
+    },
+    {
+      "name": "lombre",
+      "stats": {
+        "lootTable": "pokecube:entities/lombre"
+      }
+    },
+    {
+      "name": "beheeyem",
+      "stats": {
+        "lootTable": "pokecube:entities/beheeyem"
+      }
+    },
+    {
+      "name": "aurorus",
+      "stats": {
+        "lootTable": "pokecube:entities/aurorus"
+      }
+    },
+    {
+      "name": "drifblim",
+      "stats": {
+        "lootTable": "pokecube:entities/drifblim"
+      }
+    },
+    {
+      "name": "ho-oh",
+      "stats": {
+        "lootTable": "pokecube:entities/ho-oh"
+      }
+    },
+    {
+      "name": "conkeldurr",
+      "stats": {
+        "lootTable": "pokecube:entities/conkeldurr"
+      }
+    },
+    {
+      "name": "sirfetchd",
+      "stats": {
+        "lootTable": "pokecube:entities/sirfetchd"
+      }
+    },
+    {
+      "name": "uxie",
+      "stats": {
+        "lootTable": "pokecube:entities/uxie"
+      }
+    },
+    {
+      "name": "venonat",
+      "stats": {
+        "lootTable": "pokecube:entities/venonat"
+      }
+    },
+    {
+      "name": "snorlax_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/snorlax_gigantamax"
+      }
+    },
+    {
+      "name": "alakazam_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/alakazam_mega"
+      }
+    },
+    {
+      "name": "gothitelle",
+      "stats": {
+        "lootTable": "pokecube:entities/gothitelle"
+      }
+    },
+    {
+      "name": "heliolisk",
+      "stats": {
+        "lootTable": "pokecube:entities/heliolisk"
+      }
+    },
+    {
+      "name": "silvally_grass",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_grass"
+      }
+    },
+    {
+      "name": "omanyte",
+      "stats": {
+        "lootTable": "pokecube:entities/omanyte"
+      }
+    },
+    {
+      "name": "boltund",
+      "stats": {
+        "lootTable": "pokecube:entities/boltund"
+      }
+    },
+    {
+      "name": "poliwrath",
+      "stats": {
+        "lootTable": "pokecube:entities/poliwrath"
+      }
+    },
+    {
+      "name": "bunnelby",
+      "stats": {
+        "lootTable": "pokecube:entities/bunnelby"
+      }
+    },
+    {
+      "name": "glaceon",
+      "stats": {
+        "lootTable": "pokecube:entities/glaceon"
+      }
+    },
+    {
+      "name": "bulbasaur",
+      "stats": {
+        "lootTable": "pokecube:entities/bulbasaur"
+      }
+    },
+    {
+      "name": "natu",
+      "stats": {
+        "lootTable": "pokecube:entities/natu"
+      }
+    },
+    {
+      "name": "sableye",
+      "stats": {
+        "lootTable": "pokecube:entities/sableye"
+      }
+    },
+    {
+      "name": "ninetales_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/ninetales_alola"
+      }
+    },
+    {
+      "name": "flabebe",
+      "stats": {
+        "lootTable": "pokecube:entities/flabebe"
+      }
+    },
+    {
+      "name": "aggron",
+      "stats": {
+        "lootTable": "pokecube:entities/aggron"
+      }
+    },
+    {
+      "name": "raikou",
+      "stats": {
+        "lootTable": "pokecube:entities/raikou"
+      }
+    },
+    {
+      "name": "lampent",
+      "stats": {
+        "lootTable": "pokecube:entities/lampent"
+      }
+    },
+    {
+      "name": "zygarde_100",
+      "stats": {
+        "lootTable": "pokecube:entities/zygarde_100"
+      }
+    },
+    {
+      "name": "wormadam_sandy",
+      "stats": {
+        "lootTable": "pokecube:entities/wormadam_sandy"
+      }
+    },
+    {
+      "name": "aerodactyl_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/aerodactyl_mega"
+      }
+    },
+    {
+      "name": "lopunny",
+      "stats": {
+        "lootTable": "pokecube:entities/lopunny"
+      }
+    },
+    {
+      "name": "lumineon",
+      "stats": {
+        "lootTable": "pokecube:entities/lumineon"
+      }
+    },
+    {
+      "name": "urshifu_rapid_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/urshifu_rapid_gigantamax"
+      }
+    },
+    {
+      "name": "rowlet",
+      "stats": {
+        "lootTable": "pokecube:entities/rowlet"
+      }
+    },
+    {
+      "name": "fearow",
+      "stats": {
+        "lootTable": "pokecube:entities/fearow"
+      }
+    },
+    {
+      "name": "stunfisk_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/stunfisk_galar"
+      }
+    },
+    {
+      "name": "medicham_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/medicham_mega"
+      }
+    },
+    {
+      "name": "elgyem",
+      "stats": {
+        "lootTable": "pokecube:entities/elgyem"
+      }
+    },
+    {
+      "name": "keldeo",
+      "stats": {
+        "lootTable": "pokecube:entities/keldeo"
+      }
+    },
+    {
+      "name": "lopunny_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/lopunny_mega"
+      }
+    },
+    {
+      "name": "zamazenta",
+      "stats": {
+        "lootTable": "pokecube:entities/zamazenta"
+      }
+    },
+    {
+      "name": "hippopotas",
+      "stats": {
+        "lootTable": "pokecube:entities/hippopotas"
+      }
+    },
+    {
+      "name": "kingler_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/kingler_gigantamax"
+      }
+    },
+    {
+      "name": "pancham",
+      "stats": {
+        "lootTable": "pokecube:entities/pancham"
+      }
+    },
+    {
+      "name": "quilladin",
+      "stats": {
+        "lootTable": "pokecube:entities/quilladin"
+      }
+    },
+    {
+      "name": "trubbish",
+      "stats": {
+        "lootTable": "pokecube:entities/trubbish"
+      }
+    },
+    {
+      "name": "swanna",
+      "stats": {
+        "lootTable": "pokecube:entities/swanna"
+      }
+    },
+    {
+      "name": "seadra",
+      "stats": {
+        "lootTable": "pokecube:entities/seadra"
+      }
+    },
+    {
+      "name": "monferno",
+      "stats": {
+        "lootTable": "pokecube:entities/monferno"
+      }
+    },
+    {
+      "name": "gogoat",
+      "stats": {
+        "lootTable": "pokecube:entities/gogoat"
+      }
+    },
+    {
+      "name": "blipbug",
+      "stats": {
+        "lootTable": "pokecube:entities/blipbug"
+      }
+    },
+    {
+      "name": "arcanine",
+      "stats": {
+        "lootTable": "pokecube:entities/arcanine"
+      }
+    },
+    {
+      "name": "treecko",
+      "stats": {
+        "lootTable": "pokecube:entities/treecko"
+      }
+    },
+    {
+      "name": "orbeetle",
+      "stats": {
+        "lootTable": "pokecube:entities/orbeetle"
+      }
+    },
+    {
+      "name": "hatterene",
+      "stats": {
+        "lootTable": "pokecube:entities/hatterene"
+      }
+    },
+    {
+      "name": "comfey",
+      "stats": {
+        "lootTable": "pokecube:entities/comfey"
+      }
+    },
+    {
+      "name": "charizard_mega-x",
+      "stats": {
+        "lootTable": "pokecube:entities/charizard_mega-x"
+      }
+    },
+    {
+      "name": "forretress",
+      "stats": {
+        "lootTable": "pokecube:entities/forretress"
+      }
+    },
+    {
+      "name": "heracross",
+      "stats": {
+        "lootTable": "pokecube:entities/heracross"
+      }
+    },
+    {
+      "name": "chimecho",
+      "stats": {
+        "lootTable": "pokecube:entities/chimecho"
+      }
+    },
+    {
+      "name": "bounsweet",
+      "stats": {
+        "lootTable": "pokecube:entities/bounsweet"
+      }
+    },
+    {
+      "name": "geodude_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/geodude_alola"
+      }
+    },
+    {
+      "name": "indeedee",
+      "stats": {
+        "lootTable": "pokecube:entities/indeedee"
+      }
+    },
+    {
+      "name": "shellder",
+      "stats": {
+        "lootTable": "pokecube:entities/shellder"
+      }
+    },
+    {
+      "name": "gyarados",
+      "stats": {
+        "lootTable": "pokecube:entities/gyarados"
+      }
+    },
+    {
+      "name": "drednaw_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/drednaw_gigantamax"
+      }
+    },
+    {
+      "name": "mawile_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/mawile_mega"
+      }
+    },
+    {
+      "name": "tangela",
+      "stats": {
+        "lootTable": "pokecube:entities/tangela"
+      }
+    },
+    {
+      "name": "luvdisc",
+      "stats": {
+        "lootTable": "pokecube:entities/luvdisc"
+      }
+    },
+    {
+      "name": "reuniclus",
+      "stats": {
+        "lootTable": "pokecube:entities/reuniclus"
+      }
+    },
+    {
+      "name": "bellsprout",
+      "stats": {
+        "lootTable": "pokecube:entities/bellsprout"
+      }
+    },
+    {
+      "name": "steelix",
+      "stats": {
+        "lootTable": "pokecube:entities/steelix"
+      }
+    },
+    {
+      "name": "pumpkaboo_small",
+      "stats": {
+        "lootTable": "pokecube:entities/pumpkaboo_small"
+      }
+    },
+    {
+      "name": "vaporeon",
+      "stats": {
+        "lootTable": "pokecube:entities/vaporeon"
+      }
+    },
+    {
+      "name": "sneasel",
+      "stats": {
+        "lootTable": "pokecube:entities/sneasel"
+      }
+    },
+    {
+      "name": "larvesta",
+      "stats": {
+        "lootTable": "pokecube:entities/larvesta"
+      }
+    },
+    {
+      "name": "genesectsdrive",
+      "stats": {
+        "lootTable": "pokecube:entities/genesectsdrive"
+      }
+    },
+    {
+      "name": "houndour",
+      "stats": {
+        "lootTable": "pokecube:entities/houndour"
+      }
+    },
+    {
+      "name": "vullaby",
+      "stats": {
+        "lootTable": "pokecube:entities/vullaby"
+      }
+    },
+    {
+      "name": "magnemite",
+      "stats": {
+        "lootTable": "pokecube:entities/magnemite"
+      }
+    },
+    {
+      "name": "ludicolo",
+      "stats": {
+        "lootTable": "pokecube:entities/ludicolo"
+      }
+    },
+    {
+      "name": "krokorok",
+      "stats": {
+        "lootTable": "pokecube:entities/krokorok"
+      }
+    },
+    {
+      "name": "fennekin",
+      "stats": {
+        "lootTable": "pokecube:entities/fennekin"
+      }
+    },
+    {
+      "name": "crustle",
+      "stats": {
+        "lootTable": "pokecube:entities/crustle"
+      }
+    },
+    {
+      "name": "noctowl",
+      "stats": {
+        "lootTable": "pokecube:entities/noctowl"
+      }
+    },
+    {
+      "name": "vileplume",
+      "stats": {
+        "lootTable": "pokecube:entities/vileplume"
+      }
+    },
+    {
+      "name": "polteageist",
+      "stats": {
+        "lootTable": "pokecube:entities/polteageist"
+      }
+    },
+    {
+      "name": "pawniard",
+      "stats": {
+        "lootTable": "pokecube:entities/pawniard"
+      }
+    },
+    {
+      "name": "celesteela",
+      "stats": {
+        "lootTable": "pokecube:entities/celesteela"
+      }
+    },
+    {
+      "name": "butterfree_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/butterfree_gigantamax"
+      }
+    },
+    {
+      "name": "metagross_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/metagross_mega"
+      }
+    },
+    {
+      "name": "litleo",
+      "stats": {
+        "lootTable": "pokecube:entities/litleo"
+      }
+    },
+    {
+      "name": "tyranitar",
+      "stats": {
+        "lootTable": "pokecube:entities/tyranitar"
+      }
+    },
+    {
+      "name": "blastoise_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/blastoise_mega"
+      }
+    },
+    {
+      "name": "charizard_mega-y",
+      "stats": {
+        "lootTable": "pokecube:entities/charizard_mega-y"
+      }
+    },
+    {
+      "name": "inteleon_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/inteleon_gigantamax"
+      }
+    },
+    {
+      "name": "eelektrik",
+      "stats": {
+        "lootTable": "pokecube:entities/eelektrik"
+      }
+    },
+    {
+      "name": "arctovish",
+      "stats": {
+        "lootTable": "pokecube:entities/arctovish"
+      }
+    },
+    {
+      "name": "nickit",
+      "stats": {
+        "lootTable": "pokecube:entities/nickit"
+      }
+    },
+    {
+      "name": "scizor",
+      "stats": {
+        "lootTable": "pokecube:entities/scizor"
+      }
+    },
+    {
+      "name": "arceus_bug",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_bug"
+      }
+    },
+    {
+      "name": "furfrou",
+      "stats": {
+        "lootTable": "pokecube:entities/furfrou"
+      }
+    },
+    {
+      "name": "zeraora",
+      "stats": {
+        "lootTable": "pokecube:entities/zeraora"
+      }
+    },
+    {
+      "name": "latias_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/latias_mega"
+      }
+    },
+    {
+      "name": "cubone",
+      "stats": {
+        "lootTable": "pokecube:entities/cubone"
+      }
+    },
+    {
+      "name": "delibird",
+      "stats": {
+        "lootTable": "pokecube:entities/delibird"
+      }
+    },
+    {
+      "name": "snover",
+      "stats": {
+        "lootTable": "pokecube:entities/snover"
+      }
+    },
+    {
+      "name": "empoleon",
+      "stats": {
+        "lootTable": "pokecube:entities/empoleon"
+      }
+    },
+    {
+      "name": "raticate",
+      "stats": {
+        "lootTable": "pokecube:entities/raticate"
+      }
+    },
+    {
+      "name": "slugma",
+      "stats": {
+        "lootTable": "pokecube:entities/slugma"
+      }
+    },
+    {
+      "name": "horsea",
+      "stats": {
+        "lootTable": "pokecube:entities/horsea"
+      }
+    },
+    {
+      "name": "snom",
+      "stats": {
+        "lootTable": "pokecube:entities/snom"
+      }
+    },
+    {
+      "name": "chimchar",
+      "stats": {
+        "lootTable": "pokecube:entities/chimchar"
+      }
+    },
+    {
+      "name": "morelull",
+      "stats": {
+        "lootTable": "pokecube:entities/morelull"
+      }
+    },
+    {
+      "name": "mr_mime_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/mr_mime_galar"
+      }
+    },
+    {
+      "name": "deerling",
+      "stats": {
+        "lootTable": "pokecube:entities/deerling"
+      }
+    },
+    {
+      "name": "aipom",
+      "stats": {
+        "lootTable": "pokecube:entities/aipom"
+      }
+    },
+    {
+      "name": "coalossal_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/coalossal_gigantamax"
+      }
+    },
+    {
+      "name": "feraligatr",
+      "stats": {
+        "lootTable": "pokecube:entities/feraligatr"
+      }
+    },
+    {
+      "name": "meowth_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/meowth_gigantamax"
+      }
+    },
+    {
+      "name": "corphish",
+      "stats": {
+        "lootTable": "pokecube:entities/corphish"
+      }
+    },
+    {
+      "name": "ampharos",
+      "stats": {
+        "lootTable": "pokecube:entities/ampharos"
+      }
+    },
+    {
+      "name": "gliscor",
+      "stats": {
+        "lootTable": "pokecube:entities/gliscor"
+      }
+    },
+    {
+      "name": "omastar",
+      "stats": {
+        "lootTable": "pokecube:entities/omastar"
+      }
+    },
+    {
+      "name": "mimikyu",
+      "stats": {
+        "lootTable": "pokecube:entities/mimikyu"
+      }
+    },
+    {
+      "name": "poliwag",
+      "stats": {
+        "lootTable": "pokecube:entities/poliwag"
+      }
+    },
+    {
+      "name": "eevee_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/eevee_gigantamax"
+      }
+    },
+    {
+      "name": "silvally",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally"
+      }
+    },
+    {
+      "name": "sandaconda_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/sandaconda_gigantamax"
+      }
+    },
+    {
+      "name": "piloswine",
+      "stats": {
+        "lootTable": "pokecube:entities/piloswine"
+      }
+    },
+    {
+      "name": "wartortle",
+      "stats": {
+        "lootTable": "pokecube:entities/wartortle"
+      }
+    },
+    {
+      "name": "snorunt",
+      "stats": {
+        "lootTable": "pokecube:entities/snorunt"
+      }
+    },
+    {
+      "name": "fletchinder",
+      "stats": {
+        "lootTable": "pokecube:entities/fletchinder"
+      }
+    },
+    {
+      "name": "mr_mime",
+      "stats": {
+        "lootTable": "pokecube:entities/mr_mime"
+      }
+    },
+    {
+      "name": "cofagrigus",
+      "stats": {
+        "lootTable": "pokecube:entities/cofagrigus"
+      }
+    },
+    {
+      "name": "tyrantrum",
+      "stats": {
+        "lootTable": "pokecube:entities/tyrantrum"
+      }
+    },
+    {
+      "name": "genesectddrive",
+      "stats": {
+        "lootTable": "pokecube:entities/genesectddrive"
+      }
+    },
+    {
+      "name": "aegislash_blade",
+      "stats": {
+        "lootTable": "pokecube:entities/aegislash_blade"
+      }
+    },
+    {
+      "name": "lileep",
+      "stats": {
+        "lootTable": "pokecube:entities/lileep"
+      }
+    },
+    {
+      "name": "dragonite",
+      "stats": {
+        "lootTable": "pokecube:entities/dragonite"
+      }
+    },
+    {
+      "name": "magcargo",
+      "stats": {
+        "lootTable": "pokecube:entities/magcargo"
+      }
+    },
+    {
+      "name": "buzzwole",
+      "stats": {
+        "lootTable": "pokecube:entities/buzzwole"
+      }
+    },
+    {
+      "name": "flapple_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/flapple_gigantamax"
+      }
+    },
+    {
+      "name": "spheal",
+      "stats": {
+        "lootTable": "pokecube:entities/spheal"
+      }
+    },
+    {
+      "name": "dialga",
+      "stats": {
+        "lootTable": "pokecube:entities/dialga"
+      }
+    },
+    {
+      "name": "pumpkaboo_super",
+      "stats": {
+        "lootTable": "pokecube:entities/pumpkaboo_super"
+      }
+    },
+    {
+      "name": "terrakion",
+      "stats": {
+        "lootTable": "pokecube:entities/terrakion"
+      }
+    },
+    {
+      "name": "arceus_ice",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_ice"
+      }
+    },
+    {
+      "name": "corsola_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/corsola_galar"
+      }
+    },
+    {
+      "name": "ariados",
+      "stats": {
+        "lootTable": "pokecube:entities/ariados"
+      }
+    },
+    {
+      "name": "arceus_electric",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_electric"
+      }
+    },
+    {
+      "name": "vespiquen",
+      "stats": {
+        "lootTable": "pokecube:entities/vespiquen"
+      }
+    },
+    {
+      "name": "magikarp",
+      "stats": {
+        "lootTable": "pokecube:entities/magikarp"
+      }
+    },
+    {
+      "name": "carbink",
+      "stats": {
+        "lootTable": "pokecube:entities/carbink"
+      }
+    },
+    {
+      "name": "altaria_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/altaria_mega"
+      }
+    },
+    {
+      "name": "palossand",
+      "stats": {
+        "lootTable": "pokecube:entities/palossand"
+      }
+    },
+    {
+      "name": "boldore",
+      "stats": {
+        "lootTable": "pokecube:entities/boldore"
+      }
+    },
+    {
+      "name": "politoed",
+      "stats": {
+        "lootTable": "pokecube:entities/politoed"
+      }
+    },
+    {
+      "name": "scatterbug",
+      "stats": {
+        "lootTable": "pokecube:entities/scatterbug"
+      }
+    },
+    {
+      "name": "golett",
+      "stats": {
+        "lootTable": "pokecube:entities/golett"
+      }
+    },
+    {
+      "name": "relicanth",
+      "stats": {
+        "lootTable": "pokecube:entities/relicanth"
+      }
+    },
+    {
+      "name": "regice",
+      "stats": {
+        "lootTable": "pokecube:entities/regice"
+      }
+    },
+    {
+      "name": "moltres_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/moltres_galar"
+      }
+    },
+    {
+      "name": "zoroark",
+      "stats": {
+        "lootTable": "pokecube:entities/zoroark"
+      }
+    },
+    {
+      "name": "kingler",
+      "stats": {
+        "lootTable": "pokecube:entities/kingler"
+      }
+    },
+    {
+      "name": "falinks",
+      "stats": {
+        "lootTable": "pokecube:entities/falinks"
+      }
+    },
+    {
+      "name": "turtonator",
+      "stats": {
+        "lootTable": "pokecube:entities/turtonator"
+      }
+    },
+    {
+      "name": "yanma",
+      "stats": {
+        "lootTable": "pokecube:entities/yanma"
+      }
+    },
+    {
+      "name": "hakamo-o",
+      "stats": {
+        "lootTable": "pokecube:entities/hakamo-o"
+      }
+    },
+    {
+      "name": "rhyperior",
+      "stats": {
+        "lootTable": "pokecube:entities/rhyperior"
+      }
+    },
+    {
+      "name": "mudkip",
+      "stats": {
+        "lootTable": "pokecube:entities/mudkip"
+      }
+    },
+    {
+      "name": "arceus_water",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_water"
+      }
+    },
+    {
+      "name": "combusken",
+      "stats": {
+        "lootTable": "pokecube:entities/combusken"
+      }
+    },
+    {
+      "name": "gallade_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/gallade_mega"
+      }
+    },
+    {
+      "name": "darmanitan_zen",
+      "stats": {
+        "lootTable": "pokecube:entities/darmanitan_zen"
+      }
+    },
+    {
+      "name": "pheromosa",
+      "stats": {
+        "lootTable": "pokecube:entities/pheromosa"
+      }
+    },
+    {
+      "name": "milcery",
+      "stats": {
+        "lootTable": "pokecube:entities/milcery"
+      }
+    },
+    {
+      "name": "kirlia",
+      "stats": {
+        "lootTable": "pokecube:entities/kirlia"
+      }
+    },
+    {
+      "name": "metang",
+      "stats": {
+        "lootTable": "pokecube:entities/metang"
+      }
+    },
+    {
+      "name": "blitzle",
+      "stats": {
+        "lootTable": "pokecube:entities/blitzle"
+      }
+    },
+    {
+      "name": "perrserker",
+      "stats": {
+        "lootTable": "pokecube:entities/perrserker"
+      }
+    },
+    {
+      "name": "nidoqueen",
+      "stats": {
+        "lootTable": "pokecube:entities/nidoqueen"
+      }
+    },
+    {
+      "name": "feebas",
+      "stats": {
+        "lootTable": "pokecube:entities/feebas"
+      }
+    },
+    {
+      "name": "raboot",
+      "stats": {
+        "lootTable": "pokecube:entities/raboot"
+      }
+    },
+    {
+      "name": "naganadel",
+      "stats": {
+        "lootTable": "pokecube:entities/naganadel"
+      }
+    },
+    {
+      "name": "electrode",
+      "stats": {
+        "lootTable": "pokecube:entities/electrode"
+      }
+    },
+    {
+      "name": "komala",
+      "stats": {
+        "lootTable": "pokecube:entities/komala"
+      }
+    },
+    {
+      "name": "mightyena",
+      "stats": {
+        "lootTable": "pokecube:entities/mightyena"
+      }
+    },
+    {
+      "name": "staraptor",
+      "stats": {
+        "lootTable": "pokecube:entities/staraptor"
+      }
+    },
+    {
+      "name": "togepi",
+      "stats": {
+        "lootTable": "pokecube:entities/togepi"
+      }
+    },
+    {
+      "name": "alomomola",
+      "stats": {
+        "lootTable": "pokecube:entities/alomomola"
+      }
+    },
+    {
+      "name": "diancie",
+      "stats": {
+        "lootTable": "pokecube:entities/diancie"
+      }
+    },
+    {
+      "name": "espurr",
+      "stats": {
+        "lootTable": "pokecube:entities/espurr"
+      }
+    },
+    {
+      "name": "starly",
+      "stats": {
+        "lootTable": "pokecube:entities/starly"
+      }
+    },
+    {
+      "name": "nidorino",
+      "stats": {
+        "lootTable": "pokecube:entities/nidorino"
+      }
+    },
+    {
+      "name": "psyduck",
+      "stats": {
+        "lootTable": "pokecube:entities/psyduck"
+      }
+    },
+    {
+      "name": "chinchou",
+      "stats": {
+        "lootTable": "pokecube:entities/chinchou"
+      }
+    },
+    {
+      "name": "sandshrew_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/sandshrew_alola"
+      }
+    },
+    {
+      "name": "clamperl",
+      "stats": {
+        "lootTable": "pokecube:entities/clamperl"
+      }
+    },
+    {
+      "name": "zamazenta_crowned",
+      "stats": {
+        "lootTable": "pokecube:entities/zamazenta_crowned"
+      }
+    },
+    {
+      "name": "kakuna",
+      "stats": {
+        "lootTable": "pokecube:entities/kakuna"
+      }
+    },
+    {
+      "name": "wishiwashi_school",
+      "stats": {
+        "lootTable": "pokecube:entities/wishiwashi_school"
+      }
+    },
+    {
+      "name": "serperior",
+      "stats": {
+        "lootTable": "pokecube:entities/serperior"
+      }
+    },
+    {
+      "name": "linoone_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/linoone_galar"
+      }
+    },
+    {
+      "name": "gulpin",
+      "stats": {
+        "lootTable": "pokecube:entities/gulpin"
+      }
+    },
+    {
+      "name": "noivern",
+      "stats": {
+        "lootTable": "pokecube:entities/noivern"
+      }
+    },
+    {
+      "name": "red_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/red_core_minior"
+      }
+    },
+    {
+      "name": "inkay",
+      "stats": {
+        "lootTable": "pokecube:entities/inkay"
+      }
+    },
+    {
+      "name": "lucario_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/lucario_mega"
+      }
+    },
+    {
+      "name": "nuzleaf",
+      "stats": {
+        "lootTable": "pokecube:entities/nuzleaf"
+      }
+    },
+    {
+      "name": "vulpix",
+      "stats": {
+        "lootTable": "pokecube:entities/vulpix"
+      }
+    },
+    {
+      "name": "absol",
+      "stats": {
+        "lootTable": "pokecube:entities/absol"
+      }
+    },
+    {
+      "name": "shuppet",
+      "stats": {
+        "lootTable": "pokecube:entities/shuppet"
+      }
+    },
+    {
+      "name": "panpour",
+      "stats": {
+        "lootTable": "pokecube:entities/panpour"
+      }
+    },
+    {
+      "name": "arctozolt",
+      "stats": {
+        "lootTable": "pokecube:entities/arctozolt"
+      }
+    },
+    {
+      "name": "corviknight_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/corviknight_gigantamax"
+      }
+    },
+    {
+      "name": "espeon",
+      "stats": {
+        "lootTable": "pokecube:entities/espeon"
+      }
+    },
+    {
+      "name": "lycanroc",
+      "stats": {
+        "lootTable": "pokecube:entities/lycanroc"
+      }
+    },
+    {
+      "name": "golem",
+      "stats": {
+        "lootTable": "pokecube:entities/golem"
+      }
+    },
+    {
+      "name": "azurill",
+      "stats": {
+        "lootTable": "pokecube:entities/azurill"
+      }
+    },
+    {
+      "name": "gible",
+      "stats": {
+        "lootTable": "pokecube:entities/gible"
+      }
+    },
+    {
+      "name": "geodude",
+      "stats": {
+        "lootTable": "pokecube:entities/geodude"
+      }
+    },
+    {
+      "name": "banette",
+      "stats": {
+        "lootTable": "pokecube:entities/banette"
+      }
+    },
+    {
+      "name": "venomoth",
+      "stats": {
+        "lootTable": "pokecube:entities/venomoth"
+      }
+    },
+    {
+      "name": "grimer_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/grimer_alola"
+      }
+    },
+    {
+      "name": "mesprit",
+      "stats": {
+        "lootTable": "pokecube:entities/mesprit"
+      }
+    },
+    {
+      "name": "nihilego",
+      "stats": {
+        "lootTable": "pokecube:entities/nihilego"
+      }
+    },
+    {
+      "name": "dewott",
+      "stats": {
+        "lootTable": "pokecube:entities/dewott"
+      }
+    },
+    {
+      "name": "helioptile",
+      "stats": {
+        "lootTable": "pokecube:entities/helioptile"
+      }
+    },
+    {
+      "name": "lillipup",
+      "stats": {
+        "lootTable": "pokecube:entities/lillipup"
+      }
+    },
+    {
+      "name": "landorus_incarnate",
+      "stats": {
+        "lootTable": "pokecube:entities/landorus_incarnate"
+      }
+    },
+    {
+      "name": "wingull",
+      "stats": {
+        "lootTable": "pokecube:entities/wingull"
+      }
+    },
+    {
+      "name": "graveler",
+      "stats": {
+        "lootTable": "pokecube:entities/graveler"
+      }
+    },
+    {
+      "name": "minun",
+      "stats": {
+        "lootTable": "pokecube:entities/minun"
+      }
+    },
+    {
+      "name": "mantyke",
+      "stats": {
+        "lootTable": "pokecube:entities/mantyke"
+      }
+    },
+    {
+      "name": "arceus_dark",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_dark"
+      }
+    },
+    {
+      "name": "articuno",
+      "stats": {
+        "lootTable": "pokecube:entities/articuno"
+      }
+    },
+    {
+      "name": "misdreavus",
+      "stats": {
+        "lootTable": "pokecube:entities/misdreavus"
+      }
+    },
+    {
+      "name": "arceus_fairy",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_fairy"
+      }
+    },
+    {
+      "name": "swadloon",
+      "stats": {
+        "lootTable": "pokecube:entities/swadloon"
+      }
+    },
+    {
+      "name": "arceus_dragon",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_dragon"
+      }
+    },
+    {
+      "name": "flygon",
+      "stats": {
+        "lootTable": "pokecube:entities/flygon"
+      }
+    },
+    {
+      "name": "arceus_ghost",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_ghost"
+      }
+    },
+    {
+      "name": "litten",
+      "stats": {
+        "lootTable": "pokecube:entities/litten"
+      }
+    },
+    {
+      "name": "mew",
+      "stats": {
+        "lootTable": "pokecube:entities/mew"
+      }
+    },
+    {
+      "name": "luxio",
+      "stats": {
+        "lootTable": "pokecube:entities/luxio"
+      }
+    },
+    {
+      "name": "scrafty",
+      "stats": {
+        "lootTable": "pokecube:entities/scrafty"
+      }
+    },
+    {
+      "name": "inteleon",
+      "stats": {
+        "lootTable": "pokecube:entities/inteleon"
+      }
+    },
+    {
+      "name": "pinsir_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/pinsir_mega"
+      }
+    },
+    {
+      "name": "kyogre",
+      "stats": {
+        "lootTable": "pokecube:entities/kyogre"
+      }
+    },
+    {
+      "name": "sizzlipede",
+      "stats": {
+        "lootTable": "pokecube:entities/sizzlipede"
+      }
+    },
+    {
+      "name": "musharna",
+      "stats": {
+        "lootTable": "pokecube:entities/musharna"
+      }
+    },
+    {
+      "name": "magby",
+      "stats": {
+        "lootTable": "pokecube:entities/magby"
+      }
+    },
+    {
+      "name": "gyarados_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/gyarados_mega"
+      }
+    },
+    {
+      "name": "zekrom",
+      "stats": {
+        "lootTable": "pokecube:entities/zekrom"
+      }
+    },
+    {
+      "name": "ledyba",
+      "stats": {
+        "lootTable": "pokecube:entities/ledyba"
+      }
+    },
+    {
+      "name": "machoke",
+      "stats": {
+        "lootTable": "pokecube:entities/machoke"
+      }
+    },
+    {
+      "name": "registeel",
+      "stats": {
+        "lootTable": "pokecube:entities/registeel"
+      }
+    },
+    {
+      "name": "prinplup",
+      "stats": {
+        "lootTable": "pokecube:entities/prinplup"
+      }
+    },
+    {
+      "name": "hypno",
+      "stats": {
+        "lootTable": "pokecube:entities/hypno"
+      }
+    },
+    {
+      "name": "gastrodon",
+      "stats": {
+        "lootTable": "pokecube:entities/gastrodon"
+      }
+    },
+    {
+      "name": "machamp",
+      "stats": {
+        "lootTable": "pokecube:entities/machamp"
+      }
+    },
+    {
+      "name": "lairon",
+      "stats": {
+        "lootTable": "pokecube:entities/lairon"
+      }
+    },
+    {
+      "name": "makuhita",
+      "stats": {
+        "lootTable": "pokecube:entities/makuhita"
+      }
+    },
+    {
+      "name": "oddish",
+      "stats": {
+        "lootTable": "pokecube:entities/oddish"
+      }
+    },
+    {
+      "name": "drowzee",
+      "stats": {
+        "lootTable": "pokecube:entities/drowzee"
+      }
+    },
+    {
+      "name": "roselia",
+      "stats": {
+        "lootTable": "pokecube:entities/roselia"
+      }
+    },
+    {
+      "name": "spritzee",
+      "stats": {
+        "lootTable": "pokecube:entities/spritzee"
+      }
+    },
+    {
+      "name": "hoopa_confined",
+      "stats": {
+        "lootTable": "pokecube:entities/hoopa_confined"
+      }
+    },
+    {
+      "name": "kommo-o",
+      "stats": {
+        "lootTable": "pokecube:entities/kommo-o"
+      }
+    },
+    {
+      "name": "slurpuff",
+      "stats": {
+        "lootTable": "pokecube:entities/slurpuff"
+      }
+    },
+    {
+      "name": "impidimp",
+      "stats": {
+        "lootTable": "pokecube:entities/impidimp"
+      }
+    },
+    {
+      "name": "rookidee",
+      "stats": {
+        "lootTable": "pokecube:entities/rookidee"
+      }
+    },
+    {
+      "name": "heracross_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/heracross_mega"
+      }
+    },
+    {
+      "name": "charizard",
+      "stats": {
+        "lootTable": "pokecube:entities/charizard"
+      }
+    },
+    {
+      "name": "gloom",
+      "stats": {
+        "lootTable": "pokecube:entities/gloom"
+      }
+    },
+    {
+      "name": "toucannon",
+      "stats": {
+        "lootTable": "pokecube:entities/toucannon"
+      }
+    },
+    {
+      "name": "bruxish",
+      "stats": {
+        "lootTable": "pokecube:entities/bruxish"
+      }
+    },
+    {
+      "name": "sunflora",
+      "stats": {
+        "lootTable": "pokecube:entities/sunflora"
+      }
+    },
+    {
+      "name": "wigglytuff",
+      "stats": {
+        "lootTable": "pokecube:entities/wigglytuff"
+      }
+    },
+    {
+      "name": "xerneas",
+      "stats": {
+        "lootTable": "pokecube:entities/xerneas"
+      }
+    },
+    {
+      "name": "beedrill",
+      "stats": {
+        "lootTable": "pokecube:entities/beedrill"
+      }
+    },
+    {
+      "name": "banette_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/banette_mega"
+      }
+    },
+    {
+      "name": "darmanitan",
+      "stats": {
+        "lootTable": "pokecube:entities/darmanitan"
+      }
+    },
+    {
+      "name": "poliwhirl",
+      "stats": {
+        "lootTable": "pokecube:entities/poliwhirl"
+      }
+    },
+    {
+      "name": "shedinja",
+      "stats": {
+        "lootTable": "pokecube:entities/shedinja"
+      }
+    },
+    {
+      "name": "krookodile",
+      "stats": {
+        "lootTable": "pokecube:entities/krookodile"
+      }
+    },
+    {
+      "name": "eldegoss",
+      "stats": {
+        "lootTable": "pokecube:entities/eldegoss"
+      }
+    },
+    {
+      "name": "charmeleon",
+      "stats": {
+        "lootTable": "pokecube:entities/charmeleon"
+      }
+    },
+    {
+      "name": "stantler",
+      "stats": {
+        "lootTable": "pokecube:entities/stantler"
+      }
+    },
+    {
+      "name": "spectrier",
+      "stats": {
+        "lootTable": "pokecube:entities/spectrier"
+      }
+    },
+    {
+      "name": "cosmog",
+      "stats": {
+        "lootTable": "pokecube:entities/cosmog"
+      }
+    },
+    {
+      "name": "bergmite",
+      "stats": {
+        "lootTable": "pokecube:entities/bergmite"
+      }
+    },
+    {
+      "name": "mime_jr",
+      "stats": {
+        "lootTable": "pokecube:entities/mime_jr"
+      }
+    },
+    {
+      "name": "cursola",
+      "stats": {
+        "lootTable": "pokecube:entities/cursola"
+      }
+    },
+    {
+      "name": "oricorio_pom-pom",
+      "stats": {
+        "lootTable": "pokecube:entities/oricorio_pom-pom"
+      }
+    },
+    {
+      "name": "pangoro",
+      "stats": {
+        "lootTable": "pokecube:entities/pangoro"
+      }
+    },
+    {
+      "name": "pachirisu",
+      "stats": {
+        "lootTable": "pokecube:entities/pachirisu"
+      }
+    },
+    {
+      "name": "cinderace",
+      "stats": {
+        "lootTable": "pokecube:entities/cinderace"
+      }
+    },
+    {
+      "name": "type_null",
+      "stats": {
+        "lootTable": "pokecube:entities/type_null"
+      }
+    },
+    {
+      "name": "skiddo",
+      "stats": {
+        "lootTable": "pokecube:entities/skiddo"
+      }
+    },
+    {
+      "name": "sceptile_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/sceptile_mega"
+      }
+    },
+    {
+      "name": "giratina",
+      "stats": {
+        "lootTable": "pokecube:entities/giratina"
+      }
+    },
+    {
+      "name": "sinistea",
+      "stats": {
+        "lootTable": "pokecube:entities/sinistea"
+      }
+    },
+    {
+      "name": "malamar",
+      "stats": {
+        "lootTable": "pokecube:entities/malamar"
+      }
+    },
+    {
+      "name": "teddiursa",
+      "stats": {
+        "lootTable": "pokecube:entities/teddiursa"
+      }
+    },
+    {
+      "name": "gourgeist_large",
+      "stats": {
+        "lootTable": "pokecube:entities/gourgeist_large"
+      }
+    },
+    {
+      "name": "pikachu_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/pikachu_gigantamax"
+      }
+    },
+    {
+      "name": "muk",
+      "stats": {
+        "lootTable": "pokecube:entities/muk"
+      }
+    },
+    {
+      "name": "seedot",
+      "stats": {
+        "lootTable": "pokecube:entities/seedot"
+      }
+    },
+    {
+      "name": "braviary",
+      "stats": {
+        "lootTable": "pokecube:entities/braviary"
+      }
+    },
+    {
+      "name": "shelmet",
+      "stats": {
+        "lootTable": "pokecube:entities/shelmet"
+      }
+    },
+    {
+      "name": "suicune",
+      "stats": {
+        "lootTable": "pokecube:entities/suicune"
+      }
+    },
+    {
+      "name": "pidgey",
+      "stats": {
+        "lootTable": "pokecube:entities/pidgey"
+      }
+    },
+    {
+      "name": "oshawott",
+      "stats": {
+        "lootTable": "pokecube:entities/oshawott"
+      }
+    },
+    {
+      "name": "claydol",
+      "stats": {
+        "lootTable": "pokecube:entities/claydol"
+      }
+    },
+    {
+      "name": "beartic",
+      "stats": {
+        "lootTable": "pokecube:entities/beartic"
+      }
+    },
+    {
+      "name": "pidove",
+      "stats": {
+        "lootTable": "pokecube:entities/pidove"
+      }
+    },
+    {
+      "name": "raichu_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/raichu_alola"
+      }
+    },
+    {
+      "name": "beldum",
+      "stats": {
+        "lootTable": "pokecube:entities/beldum"
+      }
+    },
+    {
+      "name": "aerodactyl",
+      "stats": {
+        "lootTable": "pokecube:entities/aerodactyl"
+      }
+    },
+    {
+      "name": "simisage",
+      "stats": {
+        "lootTable": "pokecube:entities/simisage"
+      }
+    },
+    {
+      "name": "loudred",
+      "stats": {
+        "lootTable": "pokecube:entities/loudred"
+      }
+    },
+    {
+      "name": "nidoranf",
+      "stats": {
+        "lootTable": "pokecube:entities/nidoranf"
+      }
+    },
+    {
+      "name": "paras",
+      "stats": {
+        "lootTable": "pokecube:entities/paras"
+      }
+    },
+    {
+      "name": "grimer",
+      "stats": {
+        "lootTable": "pokecube:entities/grimer"
+      }
+    },
+    {
+      "name": "rhyhorn",
+      "stats": {
+        "lootTable": "pokecube:entities/rhyhorn"
+      }
+    },
+    {
+      "name": "wimpod",
+      "stats": {
+        "lootTable": "pokecube:entities/wimpod"
+      }
+    },
+    {
+      "name": "brionne",
+      "stats": {
+        "lootTable": "pokecube:entities/brionne"
+      }
+    },
+    {
+      "name": "larvitar",
+      "stats": {
+        "lootTable": "pokecube:entities/larvitar"
+      }
+    },
+    {
+      "name": "gligar",
+      "stats": {
+        "lootTable": "pokecube:entities/gligar"
+      }
+    },
+    {
+      "name": "spoink",
+      "stats": {
+        "lootTable": "pokecube:entities/spoink"
+      }
+    },
+    {
+      "name": "silvally_dark",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_dark"
+      }
+    },
+    {
+      "name": "tyranitar_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/tyranitar_mega"
+      }
+    },
+    {
+      "name": "wormadam_trash",
+      "stats": {
+        "lootTable": "pokecube:entities/wormadam_trash"
+      }
+    },
+    {
+      "name": "garbodor",
+      "stats": {
+        "lootTable": "pokecube:entities/garbodor"
+      }
+    },
+    {
+      "name": "ralts",
+      "stats": {
+        "lootTable": "pokecube:entities/ralts"
+      }
+    },
+    {
+      "name": "shinx",
+      "stats": {
+        "lootTable": "pokecube:entities/shinx"
+      }
+    },
+    {
+      "name": "meowth_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/meowth_alola"
+      }
+    },
+    {
+      "name": "wooper",
+      "stats": {
+        "lootTable": "pokecube:entities/wooper"
+      }
+    },
+    {
+      "name": "glalie_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/glalie_mega"
+      }
+    },
+    {
+      "name": "rotom",
+      "stats": {
+        "lootTable": "pokecube:entities/rotom"
+      }
+    },
+    {
+      "name": "tapu_bulu",
+      "stats": {
+        "lootTable": "pokecube:entities/tapu_bulu"
+      }
+    },
+    {
+      "name": "decidueye",
+      "stats": {
+        "lootTable": "pokecube:entities/decidueye"
+      }
+    },
+    {
+      "name": "meganium",
+      "stats": {
+        "lootTable": "pokecube:entities/meganium"
+      }
+    },
+    {
+      "name": "gurdurr",
+      "stats": {
+        "lootTable": "pokecube:entities/gurdurr"
+      }
+    },
+    {
+      "name": "jirachi",
+      "stats": {
+        "lootTable": "pokecube:entities/jirachi"
+      }
+    },
+    {
+      "name": "absol_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/absol_mega"
+      }
+    },
+    {
+      "name": "servine",
+      "stats": {
+        "lootTable": "pokecube:entities/servine"
+      }
+    },
+    {
+      "name": "castform_snow",
+      "stats": {
+        "lootTable": "pokecube:entities/castform_snow"
+      }
+    },
+    {
+      "name": "moltres",
+      "stats": {
+        "lootTable": "pokecube:entities/moltres"
+      }
+    },
+    {
+      "name": "axew",
+      "stats": {
+        "lootTable": "pokecube:entities/axew"
+      }
+    },
+    {
+      "name": "kingdra",
+      "stats": {
+        "lootTable": "pokecube:entities/kingdra"
+      }
+    },
+    {
+      "name": "exeggutor_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/exeggutor_alola"
+      }
+    },
+    {
+      "name": "smoochum",
+      "stats": {
+        "lootTable": "pokecube:entities/smoochum"
+      }
+    },
+    {
+      "name": "pineco",
+      "stats": {
+        "lootTable": "pokecube:entities/pineco"
+      }
+    },
+    {
+      "name": "grimmsnarl_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/grimmsnarl_gigantamax"
+      }
+    },
+    {
+      "name": "solgaleo",
+      "stats": {
+        "lootTable": "pokecube:entities/solgaleo"
+      }
+    },
+    {
+      "name": "phione",
+      "stats": {
+        "lootTable": "pokecube:entities/phione"
+      }
+    },
+    {
+      "name": "silvally_psychic",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_psychic"
+      }
+    },
+    {
+      "name": "golbat",
+      "stats": {
+        "lootTable": "pokecube:entities/golbat"
+      }
+    },
+    {
+      "name": "yamper",
+      "stats": {
+        "lootTable": "pokecube:entities/yamper"
+      }
+    },
+    {
+      "name": "nidorina",
+      "stats": {
+        "lootTable": "pokecube:entities/nidorina"
+      }
+    },
+    {
+      "name": "bonsly",
+      "stats": {
+        "lootTable": "pokecube:entities/bonsly"
+      }
+    },
+    {
+      "name": "wormadam",
+      "stats": {
+        "lootTable": "pokecube:entities/wormadam"
+      }
+    },
+    {
+      "name": "skorupi",
+      "stats": {
+        "lootTable": "pokecube:entities/skorupi"
+      }
+    },
+    {
+      "name": "volcarona",
+      "stats": {
+        "lootTable": "pokecube:entities/volcarona"
+      }
+    },
+    {
+      "name": "diglett_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/diglett_alola"
+      }
+    },
+    {
+      "name": "araquanid",
+      "stats": {
+        "lootTable": "pokecube:entities/araquanid"
+      }
+    },
+    {
+      "name": "centiskorch_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/centiskorch_gigantamax"
+      }
+    },
+    {
+      "name": "joltik",
+      "stats": {
+        "lootTable": "pokecube:entities/joltik"
+      }
+    },
+    {
+      "name": "bewear",
+      "stats": {
+        "lootTable": "pokecube:entities/bewear"
+      }
+    },
+    {
+      "name": "haxorus",
+      "stats": {
+        "lootTable": "pokecube:entities/haxorus"
+      }
+    },
+    {
+      "name": "dedenne",
+      "stats": {
+        "lootTable": "pokecube:entities/dedenne"
+      }
+    },
+    {
+      "name": "salamence",
+      "stats": {
+        "lootTable": "pokecube:entities/salamence"
+      }
+    },
+    {
+      "name": "blue_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/blue_core_minior"
+      }
+    },
+    {
+      "name": "umbreon",
+      "stats": {
+        "lootTable": "pokecube:entities/umbreon"
+      }
+    },
+    {
+      "name": "grotle",
+      "stats": {
+        "lootTable": "pokecube:entities/grotle"
+      }
+    },
+    {
+      "name": "pyukumuku",
+      "stats": {
+        "lootTable": "pokecube:entities/pyukumuku"
+      }
+    },
+    {
+      "name": "kabuto",
+      "stats": {
+        "lootTable": "pokecube:entities/kabuto"
+      }
+    },
+    {
+      "name": "huntail",
+      "stats": {
+        "lootTable": "pokecube:entities/huntail"
+      }
+    },
+    {
+      "name": "silvally_steel",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_steel"
+      }
+    },
+    {
+      "name": "deoxys_attack",
+      "stats": {
+        "lootTable": "pokecube:entities/deoxys_attack"
+      }
+    },
+    {
+      "name": "tympole",
+      "stats": {
+        "lootTable": "pokecube:entities/tympole"
+      }
+    },
+    {
+      "name": "melmetal",
+      "stats": {
+        "lootTable": "pokecube:entities/melmetal"
+      }
+    },
+    {
+      "name": "farfetchd_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/farfetchd_galar"
+      }
+    },
+    {
+      "name": "walrein",
+      "stats": {
+        "lootTable": "pokecube:entities/walrein"
+      }
+    },
+    {
+      "name": "slowpoke_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/slowpoke_galar"
+      }
+    },
+    {
+      "name": "blaziken_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/blaziken_mega"
+      }
+    },
+    {
+      "name": "cufant",
+      "stats": {
+        "lootTable": "pokecube:entities/cufant"
+      }
+    },
+    {
+      "name": "trapinch",
+      "stats": {
+        "lootTable": "pokecube:entities/trapinch"
+      }
+    },
+    {
+      "name": "pidgeot",
+      "stats": {
+        "lootTable": "pokecube:entities/pidgeot"
+      }
+    },
+    {
+      "name": "regigigas",
+      "stats": {
+        "lootTable": "pokecube:entities/regigigas"
+      }
+    },
+    {
+      "name": "blaziken",
+      "stats": {
+        "lootTable": "pokecube:entities/blaziken"
+      }
+    },
+    {
+      "name": "sudowoodo",
+      "stats": {
+        "lootTable": "pokecube:entities/sudowoodo"
+      }
+    },
+    {
+      "name": "donphan",
+      "stats": {
+        "lootTable": "pokecube:entities/donphan"
+      }
+    },
+    {
+      "name": "rotom_frost",
+      "stats": {
+        "lootTable": "pokecube:entities/rotom_frost"
+      }
+    },
+    {
+      "name": "gorebyss",
+      "stats": {
+        "lootTable": "pokecube:entities/gorebyss"
+      }
+    },
+    {
+      "name": "urshifu_single",
+      "stats": {
+        "lootTable": "pokecube:entities/urshifu_single"
+      }
+    },
+    {
+      "name": "weezing_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/weezing_galar"
+      }
+    },
+    {
+      "name": "skitty",
+      "stats": {
+        "lootTable": "pokecube:entities/skitty"
+      }
+    },
+    {
+      "name": "primeape",
+      "stats": {
+        "lootTable": "pokecube:entities/primeape"
+      }
+    },
+    {
+      "name": "typhlosion",
+      "stats": {
+        "lootTable": "pokecube:entities/typhlosion"
+      }
+    },
+    {
+      "name": "sewaddle",
+      "stats": {
+        "lootTable": "pokecube:entities/sewaddle"
+      }
+    },
+    {
+      "name": "tyrunt",
+      "stats": {
+        "lootTable": "pokecube:entities/tyrunt"
+      }
+    },
+    {
+      "name": "arceus_flying",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_flying"
+      }
+    },
+    {
+      "name": "venusaur",
+      "stats": {
+        "lootTable": "pokecube:entities/venusaur"
+      }
+    },
+    {
+      "name": "graveler_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/graveler_alola"
+      }
+    },
+    {
+      "name": "starmie",
+      "stats": {
+        "lootTable": "pokecube:entities/starmie"
+      }
+    },
+    {
+      "name": "sableye_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/sableye_mega"
+      }
+    },
+    {
+      "name": "sigilyph",
+      "stats": {
+        "lootTable": "pokecube:entities/sigilyph"
+      }
+    },
+    {
+      "name": "shiinotic",
+      "stats": {
+        "lootTable": "pokecube:entities/shiinotic"
+      }
+    },
+    {
+      "name": "latias",
+      "stats": {
+        "lootTable": "pokecube:entities/latias"
+      }
+    },
+    {
+      "name": "sobble",
+      "stats": {
+        "lootTable": "pokecube:entities/sobble"
+      }
+    },
+    {
+      "name": "golisopod",
+      "stats": {
+        "lootTable": "pokecube:entities/golisopod"
+      }
+    },
+    {
+      "name": "mareanie",
+      "stats": {
+        "lootTable": "pokecube:entities/mareanie"
+      }
+    },
+    {
+      "name": "dragalge",
+      "stats": {
+        "lootTable": "pokecube:entities/dragalge"
+      }
+    },
+    {
+      "name": "unfezant",
+      "stats": {
+        "lootTable": "pokecube:entities/unfezant"
+      }
+    },
+    {
+      "name": "primarina",
+      "stats": {
+        "lootTable": "pokecube:entities/primarina"
+      }
+    },
+    {
+      "name": "rapidash_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/rapidash_galar"
+      }
+    },
+    {
+      "name": "grovyle",
+      "stats": {
+        "lootTable": "pokecube:entities/grovyle"
+      }
+    },
+    {
+      "name": "dewpider",
+      "stats": {
+        "lootTable": "pokecube:entities/dewpider"
+      }
+    },
+    {
+      "name": "hitmonchan",
+      "stats": {
+        "lootTable": "pokecube:entities/hitmonchan"
+      }
+    },
+    {
+      "name": "flaaffy",
+      "stats": {
+        "lootTable": "pokecube:entities/flaaffy"
+      }
+    },
+    {
+      "name": "honchkrow",
+      "stats": {
+        "lootTable": "pokecube:entities/honchkrow"
+      }
+    },
+    {
+      "name": "snorlax",
+      "stats": {
+        "lootTable": "pokecube:entities/snorlax"
+      }
+    },
+    {
+      "name": "urshifu_single_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/urshifu_single_gigantamax"
+      }
+    },
+    {
+      "name": "lotad",
+      "stats": {
+        "lootTable": "pokecube:entities/lotad"
+      }
+    },
+    {
+      "name": "cobalion",
+      "stats": {
+        "lootTable": "pokecube:entities/cobalion"
+      }
+    },
+    {
+      "name": "magmar",
+      "stats": {
+        "lootTable": "pokecube:entities/magmar"
+      }
+    },
+    {
+      "name": "ninjask",
+      "stats": {
+        "lootTable": "pokecube:entities/ninjask"
+      }
+    },
+    {
+      "name": "salamence_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/salamence_mega"
+      }
+    },
+    {
+      "name": "lunala",
+      "stats": {
+        "lootTable": "pokecube:entities/lunala"
+      }
+    },
+    {
+      "name": "goomy",
+      "stats": {
+        "lootTable": "pokecube:entities/goomy"
+      }
+    },
+    {
+      "name": "crabominable",
+      "stats": {
+        "lootTable": "pokecube:entities/crabominable"
+      }
+    },
+    {
+      "name": "cinderace_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/cinderace_gigantamax"
+      }
+    },
+    {
+      "name": "rufflet",
+      "stats": {
+        "lootTable": "pokecube:entities/rufflet"
+      }
+    },
+    {
+      "name": "reshiram",
+      "stats": {
+        "lootTable": "pokecube:entities/reshiram"
+      }
+    },
+    {
+      "name": "cinccino",
+      "stats": {
+        "lootTable": "pokecube:entities/cinccino"
+      }
+    },
+    {
+      "name": "sunkern",
+      "stats": {
+        "lootTable": "pokecube:entities/sunkern"
+      }
+    },
+    {
+      "name": "dottler",
+      "stats": {
+        "lootTable": "pokecube:entities/dottler"
+      }
+    },
+    {
+      "name": "swinub",
+      "stats": {
+        "lootTable": "pokecube:entities/swinub"
+      }
+    },
+    {
+      "name": "keldeo_resolute",
+      "stats": {
+        "lootTable": "pokecube:entities/keldeo_resolute"
+      }
+    },
+    {
+      "name": "silvally_ground",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_ground"
+      }
+    },
+    {
+      "name": "basculin",
+      "stats": {
+        "lootTable": "pokecube:entities/basculin"
+      }
+    },
+    {
+      "name": "toxtricity_amped",
+      "stats": {
+        "lootTable": "pokecube:entities/toxtricity_amped"
+      }
+    },
+    {
+      "name": "drakloak",
+      "stats": {
+        "lootTable": "pokecube:entities/drakloak"
+      }
+    },
+    {
+      "name": "magearna",
+      "stats": {
+        "lootTable": "pokecube:entities/magearna"
+      }
+    },
+    {
+      "name": "braixen",
+      "stats": {
+        "lootTable": "pokecube:entities/braixen"
+      }
+    },
+    {
+      "name": "accelgor",
+      "stats": {
+        "lootTable": "pokecube:entities/accelgor"
+      }
+    },
+    {
+      "name": "pyroar",
+      "stats": {
+        "lootTable": "pokecube:entities/pyroar"
+      }
+    },
+    {
+      "name": "tapu_lele",
+      "stats": {
+        "lootTable": "pokecube:entities/tapu_lele"
+      }
+    },
+    {
+      "name": "totodile",
+      "stats": {
+        "lootTable": "pokecube:entities/totodile"
+      }
+    },
+    {
+      "name": "sandile",
+      "stats": {
+        "lootTable": "pokecube:entities/sandile"
+      }
+    },
+    {
+      "name": "kabutops",
+      "stats": {
+        "lootTable": "pokecube:entities/kabutops"
+      }
+    },
+    {
+      "name": "togetic",
+      "stats": {
+        "lootTable": "pokecube:entities/togetic"
+      }
+    },
+    {
+      "name": "yanmega",
+      "stats": {
+        "lootTable": "pokecube:entities/yanmega"
+      }
+    },
+    {
+      "name": "ferrothorn",
+      "stats": {
+        "lootTable": "pokecube:entities/ferrothorn"
+      }
+    },
+    {
+      "name": "drampa",
+      "stats": {
+        "lootTable": "pokecube:entities/drampa"
+      }
+    },
+    {
+      "name": "gengar_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/gengar_mega"
+      }
+    },
+    {
+      "name": "houndoom",
+      "stats": {
+        "lootTable": "pokecube:entities/houndoom"
+      }
+    },
+    {
+      "name": "porygon",
+      "stats": {
+        "lootTable": "pokecube:entities/porygon"
+      }
+    },
+    {
+      "name": "qwilfish",
+      "stats": {
+        "lootTable": "pokecube:entities/qwilfish"
+      }
+    },
+    {
+      "name": "dustox",
+      "stats": {
+        "lootTable": "pokecube:entities/dustox"
+      }
+    },
+    {
+      "name": "abra",
+      "stats": {
+        "lootTable": "pokecube:entities/abra"
+      }
+    },
+    {
+      "name": "flareon",
+      "stats": {
+        "lootTable": "pokecube:entities/flareon"
+      }
+    },
+    {
+      "name": "mienshao",
+      "stats": {
+        "lootTable": "pokecube:entities/mienshao"
+      }
+    },
+    {
+      "name": "wooloo",
+      "stats": {
+        "lootTable": "pokecube:entities/wooloo"
+      }
+    },
+    {
+      "name": "lanturn",
+      "stats": {
+        "lootTable": "pokecube:entities/lanturn"
+      }
+    },
+    {
+      "name": "abomasnow_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/abomasnow_mega"
+      }
+    },
+    {
+      "name": "zangoose",
+      "stats": {
+        "lootTable": "pokecube:entities/zangoose"
+      }
+    },
+    {
+      "name": "kecleon",
+      "stats": {
+        "lootTable": "pokecube:entities/kecleon"
+      }
+    },
+    {
+      "name": "grookey",
+      "stats": {
+        "lootTable": "pokecube:entities/grookey"
+      }
+    },
+    {
+      "name": "tropius",
+      "stats": {
+        "lootTable": "pokecube:entities/tropius"
+      }
+    },
+    {
+      "name": "gigalith",
+      "stats": {
+        "lootTable": "pokecube:entities/gigalith"
+      }
+    },
+    {
+      "name": "tsareena",
+      "stats": {
+        "lootTable": "pokecube:entities/tsareena"
+      }
+    },
+    {
+      "name": "groudon",
+      "stats": {
+        "lootTable": "pokecube:entities/groudon"
+      }
+    },
+    {
+      "name": "skarmory",
+      "stats": {
+        "lootTable": "pokecube:entities/skarmory"
+      }
+    },
+    {
+      "name": "salazzle",
+      "stats": {
+        "lootTable": "pokecube:entities/salazzle"
+      }
+    },
+    {
+      "name": "grapploct",
+      "stats": {
+        "lootTable": "pokecube:entities/grapploct"
+      }
+    },
+    {
+      "name": "groudon_primal",
+      "stats": {
+        "lootTable": "pokecube:entities/groudon_primal"
+      }
+    },
+    {
+      "name": "gothorita",
+      "stats": {
+        "lootTable": "pokecube:entities/gothorita"
+      }
+    },
+    {
+      "name": "scorbunny",
+      "stats": {
+        "lootTable": "pokecube:entities/scorbunny"
+      }
+    },
+    {
+      "name": "venusaur_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/venusaur_mega"
+      }
+    },
+    {
+      "name": "kyurem_black",
+      "stats": {
+        "lootTable": "pokecube:entities/kyurem_black"
+      }
+    },
+    {
+      "name": "gumshoos",
+      "stats": {
+        "lootTable": "pokecube:entities/gumshoos"
+      }
+    },
+    {
+      "name": "kadabra",
+      "stats": {
+        "lootTable": "pokecube:entities/kadabra"
+      }
+    },
+    {
+      "name": "tentacruel",
+      "stats": {
+        "lootTable": "pokecube:entities/tentacruel"
+      }
+    },
+    {
+      "name": "weezing",
+      "stats": {
+        "lootTable": "pokecube:entities/weezing"
+      }
+    },
+    {
+      "name": "chandelure",
+      "stats": {
+        "lootTable": "pokecube:entities/chandelure"
+      }
+    },
+    {
+      "name": "pidgeot_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/pidgeot_mega"
+      }
+    },
+    {
+      "name": "floatzel",
+      "stats": {
+        "lootTable": "pokecube:entities/floatzel"
+      }
+    },
+    {
+      "name": "garbodor_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/garbodor_gigantamax"
+      }
+    },
+    {
+      "name": "yveltal",
+      "stats": {
+        "lootTable": "pokecube:entities/yveltal"
+      }
+    },
+    {
+      "name": "cloyster",
+      "stats": {
+        "lootTable": "pokecube:entities/cloyster"
+      }
+    },
+    {
+      "name": "vanilluxe",
+      "stats": {
+        "lootTable": "pokecube:entities/vanilluxe"
+      }
+    },
+    {
+      "name": "rampardos",
+      "stats": {
+        "lootTable": "pokecube:entities/rampardos"
+      }
+    },
+    {
+      "name": "parasect",
+      "stats": {
+        "lootTable": "pokecube:entities/parasect"
+      }
+    },
+    {
+      "name": "pansage",
+      "stats": {
+        "lootTable": "pokecube:entities/pansage"
+      }
+    },
+    {
+      "name": "leavanny",
+      "stats": {
+        "lootTable": "pokecube:entities/leavanny"
+      }
+    },
+    {
+      "name": "whirlipede",
+      "stats": {
+        "lootTable": "pokecube:entities/whirlipede"
+      }
+    },
+    {
+      "name": "chikorita",
+      "stats": {
+        "lootTable": "pokecube:entities/chikorita"
+      }
+    },
+    {
+      "name": "poochyena",
+      "stats": {
+        "lootTable": "pokecube:entities/poochyena"
+      }
+    },
+    {
+      "name": "xurkitree",
+      "stats": {
+        "lootTable": "pokecube:entities/xurkitree"
+      }
+    },
+    {
+      "name": "calyrex_shadow_rider",
+      "stats": {
+        "lootTable": "pokecube:entities/calyrex_shadow_rider"
+      }
+    },
+    {
+      "name": "simisear",
+      "stats": {
+        "lootTable": "pokecube:entities/simisear"
+      }
+    },
+    {
+      "name": "archen",
+      "stats": {
+        "lootTable": "pokecube:entities/archen"
+      }
+    },
+    {
+      "name": "munna",
+      "stats": {
+        "lootTable": "pokecube:entities/munna"
+      }
+    },
+    {
+      "name": "passimian",
+      "stats": {
+        "lootTable": "pokecube:entities/passimian"
+      }
+    },
+    {
+      "name": "haunter",
+      "stats": {
+        "lootTable": "pokecube:entities/haunter"
+      }
+    },
+    {
+      "name": "bayleef",
+      "stats": {
+        "lootTable": "pokecube:entities/bayleef"
+      }
+    },
+    {
+      "name": "delcatty",
+      "stats": {
+        "lootTable": "pokecube:entities/delcatty"
+      }
+    },
+    {
+      "name": "deoxys_defense",
+      "stats": {
+        "lootTable": "pokecube:entities/deoxys_defense"
+      }
+    },
+    {
+      "name": "onix",
+      "stats": {
+        "lootTable": "pokecube:entities/onix"
+      }
+    },
+    {
+      "name": "tauros",
+      "stats": {
+        "lootTable": "pokecube:entities/tauros"
+      }
+    },
+    {
+      "name": "zygarde_50",
+      "stats": {
+        "lootTable": "pokecube:entities/zygarde_50"
+      }
+    },
+    {
+      "name": "castform",
+      "stats": {
+        "lootTable": "pokecube:entities/castform"
+      }
+    },
+    {
+      "name": "crobat",
+      "stats": {
+        "lootTable": "pokecube:entities/crobat"
+      }
+    },
+    {
+      "name": "silvally_ghost",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_ghost"
+      }
+    },
+    {
+      "name": "golem_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/golem_alola"
+      }
+    },
+    {
+      "name": "excadrill",
+      "stats": {
+        "lootTable": "pokecube:entities/excadrill"
+      }
+    },
+    {
+      "name": "charjabug",
+      "stats": {
+        "lootTable": "pokecube:entities/charjabug"
+      }
+    },
+    {
+      "name": "dugtrio",
+      "stats": {
+        "lootTable": "pokecube:entities/dugtrio"
+      }
+    },
+    {
+      "name": "elekid",
+      "stats": {
+        "lootTable": "pokecube:entities/elekid"
+      }
+    },
+    {
+      "name": "samurott",
+      "stats": {
+        "lootTable": "pokecube:entities/samurott"
+      }
+    },
+    {
+      "name": "ledian",
+      "stats": {
+        "lootTable": "pokecube:entities/ledian"
+      }
+    },
+    {
+      "name": "bibarel",
+      "stats": {
+        "lootTable": "pokecube:entities/bibarel"
+      }
+    },
+    {
+      "name": "gothita",
+      "stats": {
+        "lootTable": "pokecube:entities/gothita"
+      }
+    },
+    {
+      "name": "lunatone",
+      "stats": {
+        "lootTable": "pokecube:entities/lunatone"
+      }
+    },
+    {
+      "name": "palkia",
+      "stats": {
+        "lootTable": "pokecube:entities/palkia"
+      }
+    },
+    {
+      "name": "cacnea",
+      "stats": {
+        "lootTable": "pokecube:entities/cacnea"
+      }
+    },
+    {
+      "name": "zygarde_10",
+      "stats": {
+        "lootTable": "pokecube:entities/zygarde_10"
+      }
+    },
+    {
+      "name": "arceus_rock",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_rock"
+      }
+    },
+    {
+      "name": "lycanroc_midnight",
+      "stats": {
+        "lootTable": "pokecube:entities/lycanroc_midnight"
+      }
+    },
+    {
+      "name": "silvally_rock",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_rock"
+      }
+    },
+    {
+      "name": "slowbro_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/slowbro_mega"
+      }
+    },
+    {
+      "name": "barboach",
+      "stats": {
+        "lootTable": "pokecube:entities/barboach"
+      }
+    },
+    {
+      "name": "leafeon",
+      "stats": {
+        "lootTable": "pokecube:entities/leafeon"
+      }
+    },
+    {
+      "name": "hoppip",
+      "stats": {
+        "lootTable": "pokecube:entities/hoppip"
+      }
+    },
+    {
+      "name": "arceus_grass",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_grass"
+      }
+    },
+    {
+      "name": "arceus_poison",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_poison"
+      }
+    },
+    {
+      "name": "purugly",
+      "stats": {
+        "lootTable": "pokecube:entities/purugly"
+      }
+    },
+    {
+      "name": "staravia",
+      "stats": {
+        "lootTable": "pokecube:entities/staravia"
+      }
+    },
+    {
+      "name": "meowstic",
+      "stats": {
+        "lootTable": "pokecube:entities/meowstic"
+      }
+    },
+    {
+      "name": "flapple",
+      "stats": {
+        "lootTable": "pokecube:entities/flapple"
+      }
+    },
+    {
+      "name": "morpeko_hangry",
+      "stats": {
+        "lootTable": "pokecube:entities/morpeko_hangry"
+      }
+    },
+    {
+      "name": "urshifu_rapid",
+      "stats": {
+        "lootTable": "pokecube:entities/urshifu_rapid"
+      }
+    },
+    {
+      "name": "mudsdale",
+      "stats": {
+        "lootTable": "pokecube:entities/mudsdale"
+      }
+    },
+    {
+      "name": "arceus_ground",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_ground"
+      }
+    },
+    {
+      "name": "cherubi",
+      "stats": {
+        "lootTable": "pokecube:entities/cherubi"
+      }
+    },
+    {
+      "name": "green_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/green_core_minior"
+      }
+    },
+    {
+      "name": "meditite",
+      "stats": {
+        "lootTable": "pokecube:entities/meditite"
+      }
+    },
+    {
+      "name": "zapdos",
+      "stats": {
+        "lootTable": "pokecube:entities/zapdos"
+      }
+    },
+    {
+      "name": "scizor_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/scizor_mega"
+      }
+    },
+    {
+      "name": "audino",
+      "stats": {
+        "lootTable": "pokecube:entities/audino"
+      }
+    },
+    {
+      "name": "ferroseed",
+      "stats": {
+        "lootTable": "pokecube:entities/ferroseed"
+      }
+    },
+    {
+      "name": "crawdaunt",
+      "stats": {
+        "lootTable": "pokecube:entities/crawdaunt"
+      }
+    },
+    {
+      "name": "kangaskhan",
+      "stats": {
+        "lootTable": "pokecube:entities/kangaskhan"
+      }
+    },
+    {
+      "name": "zorua",
+      "stats": {
+        "lootTable": "pokecube:entities/zorua"
+      }
+    },
+    {
+      "name": "blacephalon",
+      "stats": {
+        "lootTable": "pokecube:entities/blacephalon"
+      }
+    },
+    {
+      "name": "ivysaur",
+      "stats": {
+        "lootTable": "pokecube:entities/ivysaur"
+      }
+    },
+    {
+      "name": "garchomp",
+      "stats": {
+        "lootTable": "pokecube:entities/garchomp"
+      }
+    },
+    {
+      "name": "thundurus_incarnate",
+      "stats": {
+        "lootTable": "pokecube:entities/thundurus_incarnate"
+      }
+    },
+    {
+      "name": "spiritomb",
+      "stats": {
+        "lootTable": "pokecube:entities/spiritomb"
+      }
+    },
+    {
+      "name": "rapidash",
+      "stats": {
+        "lootTable": "pokecube:entities/rapidash"
+      }
+    },
+    {
+      "name": "tepig",
+      "stats": {
+        "lootTable": "pokecube:entities/tepig"
+      }
+    },
+    {
+      "name": "cubchoo",
+      "stats": {
+        "lootTable": "pokecube:entities/cubchoo"
+      }
+    },
+    {
+      "name": "cramorant_gulping",
+      "stats": {
+        "lootTable": "pokecube:entities/cramorant_gulping"
+      }
+    },
+    {
+      "name": "houndoom_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/houndoom_mega"
+      }
+    },
+    {
+      "name": "skuntank",
+      "stats": {
+        "lootTable": "pokecube:entities/skuntank"
+      }
+    },
+    {
+      "name": "timburr",
+      "stats": {
+        "lootTable": "pokecube:entities/timburr"
+      }
+    },
+    {
+      "name": "zigzagoon",
+      "stats": {
+        "lootTable": "pokecube:entities/zigzagoon"
+      }
+    },
+    {
+      "name": "sandaconda",
+      "stats": {
+        "lootTable": "pokecube:entities/sandaconda"
+      }
+    },
+    {
+      "name": "blastoise_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/blastoise_gigantamax"
+      }
+    },
+    {
+      "name": "farfetchd",
+      "stats": {
+        "lootTable": "pokecube:entities/farfetchd"
+      }
+    },
+    {
+      "name": "drednaw",
+      "stats": {
+        "lootTable": "pokecube:entities/drednaw"
+      }
+    },
+    {
+      "name": "lapras_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/lapras_gigantamax"
+      }
+    },
+    {
+      "name": "weepinbell",
+      "stats": {
+        "lootTable": "pokecube:entities/weepinbell"
+      }
+    },
+    {
+      "name": "froakie",
+      "stats": {
+        "lootTable": "pokecube:entities/froakie"
+      }
+    },
+    {
+      "name": "hatterene_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/hatterene_gigantamax"
+      }
+    },
+    {
+      "name": "magnezone",
+      "stats": {
+        "lootTable": "pokecube:entities/magnezone"
+      }
+    },
+    {
+      "name": "hattrem",
+      "stats": {
+        "lootTable": "pokecube:entities/hattrem"
+      }
+    },
+    {
+      "name": "pumpkaboo_large",
+      "stats": {
+        "lootTable": "pokecube:entities/pumpkaboo_large"
+      }
+    },
+    {
+      "name": "genesectbdrive",
+      "stats": {
+        "lootTable": "pokecube:entities/genesectbdrive"
+      }
+    },
+    {
+      "name": "smeargle",
+      "stats": {
+        "lootTable": "pokecube:entities/smeargle"
+      }
+    },
+    {
+      "name": "dugtrio_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/dugtrio_alola"
+      }
+    },
+    {
+      "name": "staryu",
+      "stats": {
+        "lootTable": "pokecube:entities/staryu"
+      }
+    },
+    {
+      "name": "victreebel",
+      "stats": {
+        "lootTable": "pokecube:entities/victreebel"
+      }
+    },
+    {
+      "name": "phantump",
+      "stats": {
+        "lootTable": "pokecube:entities/phantump"
+      }
+    },
+    {
+      "name": "zacian",
+      "stats": {
+        "lootTable": "pokecube:entities/zacian"
+      }
+    },
+    {
+      "name": "whiscash",
+      "stats": {
+        "lootTable": "pokecube:entities/whiscash"
+      }
+    },
+    {
+      "name": "venusaur_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/venusaur_gigantamax"
+      }
+    },
+    {
+      "name": "dreepy",
+      "stats": {
+        "lootTable": "pokecube:entities/dreepy"
+      }
+    },
+    {
+      "name": "amaura",
+      "stats": {
+        "lootTable": "pokecube:entities/amaura"
+      }
+    },
+    {
+      "name": "drifloon",
+      "stats": {
+        "lootTable": "pokecube:entities/drifloon"
+      }
+    },
+    {
+      "name": "silvally_water",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_water"
+      }
+    },
+    {
+      "name": "rayquaza_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/rayquaza_mega"
+      }
+    },
+    {
+      "name": "breloom",
+      "stats": {
+        "lootTable": "pokecube:entities/breloom"
+      }
+    },
+    {
+      "name": "thwackey",
+      "stats": {
+        "lootTable": "pokecube:entities/thwackey"
+      }
+    },
+    {
+      "name": "alcremie",
+      "stats": {
+        "lootTable": "pokecube:entities/alcremie"
+      }
+    },
+    {
+      "name": "metapod",
+      "stats": {
+        "lootTable": "pokecube:entities/metapod"
+      }
+    },
+    {
+      "name": "zacian_crowned",
+      "stats": {
+        "lootTable": "pokecube:entities/zacian_crowned"
+      }
+    },
+    {
+      "name": "meowth",
+      "stats": {
+        "lootTable": "pokecube:entities/meowth"
+      }
+    },
+    {
+      "name": "yamask_galar",
+      "stats": {
+        "lootTable": "pokecube:entities/yamask_galar"
+      }
+    },
+    {
+      "name": "vanillite",
+      "stats": {
+        "lootTable": "pokecube:entities/vanillite"
+      }
+    },
+    {
+      "name": "pincurchin",
+      "stats": {
+        "lootTable": "pokecube:entities/pincurchin"
+      }
+    },
+    {
+      "name": "florges",
+      "stats": {
+        "lootTable": "pokecube:entities/florges"
+      }
+    },
+    {
+      "name": "patrat",
+      "stats": {
+        "lootTable": "pokecube:entities/patrat"
+      }
+    },
+    {
+      "name": "klink",
+      "stats": {
+        "lootTable": "pokecube:entities/klink"
+      }
+    },
+    {
+      "name": "armaldo",
+      "stats": {
+        "lootTable": "pokecube:entities/armaldo"
+      }
+    },
+    {
+      "name": "frosmoth",
+      "stats": {
+        "lootTable": "pokecube:entities/frosmoth"
+      }
+    },
+    {
+      "name": "appletun_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/appletun_gigantamax"
+      }
+    },
+    {
+      "name": "sandygast",
+      "stats": {
+        "lootTable": "pokecube:entities/sandygast"
+      }
+    },
+    {
+      "name": "gallade",
+      "stats": {
+        "lootTable": "pokecube:entities/gallade"
+      }
+    },
+    {
+      "name": "sliggoo",
+      "stats": {
+        "lootTable": "pokecube:entities/sliggoo"
+      }
+    },
+    {
+      "name": "cresselia",
+      "stats": {
+        "lootTable": "pokecube:entities/cresselia"
+      }
+    },
+    {
+      "name": "kricketot",
+      "stats": {
+        "lootTable": "pokecube:entities/kricketot"
+      }
+    },
+    {
+      "name": "swalot",
+      "stats": {
+        "lootTable": "pokecube:entities/swalot"
+      }
+    },
+    {
+      "name": "guzzlord",
+      "stats": {
+        "lootTable": "pokecube:entities/guzzlord"
+      }
+    },
+    {
+      "name": "genesectcdrive",
+      "stats": {
+        "lootTable": "pokecube:entities/genesectcdrive"
+      }
+    },
+    {
+      "name": "mamoswine",
+      "stats": {
+        "lootTable": "pokecube:entities/mamoswine"
+      }
+    },
+    {
+      "name": "silvally_fairy",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_fairy"
+      }
+    },
+    {
+      "name": "spinarak",
+      "stats": {
+        "lootTable": "pokecube:entities/spinarak"
+      }
+    },
+    {
+      "name": "swellow",
+      "stats": {
+        "lootTable": "pokecube:entities/swellow"
+      }
+    },
+    {
+      "name": "chesnaught",
+      "stats": {
+        "lootTable": "pokecube:entities/chesnaught"
+      }
+    },
+    {
+      "name": "cleffa",
+      "stats": {
+        "lootTable": "pokecube:entities/cleffa"
+      }
+    },
+    {
+      "name": "fraxure",
+      "stats": {
+        "lootTable": "pokecube:entities/fraxure"
+      }
+    },
+    {
+      "name": "frillish",
+      "stats": {
+        "lootTable": "pokecube:entities/frillish"
+      }
+    },
+    {
+      "name": "surskit",
+      "stats": {
+        "lootTable": "pokecube:entities/surskit"
+      }
+    },
+    {
+      "name": "wailmer",
+      "stats": {
+        "lootTable": "pokecube:entities/wailmer"
+      }
+    },
+    {
+      "name": "rotom_wash",
+      "stats": {
+        "lootTable": "pokecube:entities/rotom_wash"
+      }
+    },
+    {
+      "name": "dragonair",
+      "stats": {
+        "lootTable": "pokecube:entities/dragonair"
+      }
+    },
+    {
+      "name": "emolga",
+      "stats": {
+        "lootTable": "pokecube:entities/emolga"
+      }
+    },
+    {
+      "name": "coalossal",
+      "stats": {
+        "lootTable": "pokecube:entities/coalossal"
+      }
+    },
+    {
+      "name": "kyogre_primal",
+      "stats": {
+        "lootTable": "pokecube:entities/kyogre_primal"
+      }
+    },
+    {
+      "name": "budew",
+      "stats": {
+        "lootTable": "pokecube:entities/budew"
+      }
+    },
+    {
+      "name": "toxel",
+      "stats": {
+        "lootTable": "pokecube:entities/toxel"
+      }
+    },
+    {
+      "name": "indigo_core_minior",
+      "stats": {
+        "lootTable": "pokecube:entities/indigo_core_minior"
+      }
+    },
+    {
+      "name": "celebi",
+      "stats": {
+        "lootTable": "pokecube:entities/celebi"
+      }
+    },
+    {
+      "name": "murkrow",
+      "stats": {
+        "lootTable": "pokecube:entities/murkrow"
+      }
+    },
+    {
+      "name": "arceus_steel",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_steel"
+      }
+    },
+    {
+      "name": "gengar",
+      "stats": {
+        "lootTable": "pokecube:entities/gengar"
+      }
+    },
+    {
+      "name": "silcoon",
+      "stats": {
+        "lootTable": "pokecube:entities/silcoon"
+      }
+    },
+    {
+      "name": "emboar",
+      "stats": {
+        "lootTable": "pokecube:entities/emboar"
+      }
+    },
+    {
+      "name": "eiscue_noice",
+      "stats": {
+        "lootTable": "pokecube:entities/eiscue_noice"
+      }
+    },
+    {
+      "name": "shuckle",
+      "stats": {
+        "lootTable": "pokecube:entities/shuckle"
+      }
+    },
+    {
+      "name": "linoone",
+      "stats": {
+        "lootTable": "pokecube:entities/linoone"
+      }
+    },
+    {
+      "name": "silvally_poison",
+      "stats": {
+        "lootTable": "pokecube:entities/silvally_poison"
+      }
+    },
+    {
+      "name": "plusle",
+      "stats": {
+        "lootTable": "pokecube:entities/plusle"
+      }
+    },
+    {
+      "name": "gossifleur",
+      "stats": {
+        "lootTable": "pokecube:entities/gossifleur"
+      }
+    },
+    {
+      "name": "infernape",
+      "stats": {
+        "lootTable": "pokecube:entities/infernape"
+      }
+    },
+    {
+      "name": "riolu",
+      "stats": {
+        "lootTable": "pokecube:entities/riolu"
+      }
+    },
+    {
+      "name": "ambipom",
+      "stats": {
+        "lootTable": "pokecube:entities/ambipom"
+      }
+    },
+    {
+      "name": "watchog",
+      "stats": {
+        "lootTable": "pokecube:entities/watchog"
+      }
+    },
+    {
+      "name": "kyurem_white",
+      "stats": {
+        "lootTable": "pokecube:entities/kyurem_white"
+      }
+    },
+    {
+      "name": "binacle",
+      "stats": {
+        "lootTable": "pokecube:entities/binacle"
+      }
+    },
+    {
+      "name": "grimmsnarl",
+      "stats": {
+        "lootTable": "pokecube:entities/grimmsnarl"
+      }
+    },
+    {
+      "name": "corsola",
+      "stats": {
+        "lootTable": "pokecube:entities/corsola"
+      }
+    },
+    {
+      "name": "spearow",
+      "stats": {
+        "lootTable": "pokecube:entities/spearow"
+      }
+    },
+    {
+      "name": "dratini",
+      "stats": {
+        "lootTable": "pokecube:entities/dratini"
+      }
+    },
+    {
+      "name": "koffing",
+      "stats": {
+        "lootTable": "pokecube:entities/koffing"
+      }
+    },
+    {
+      "name": "taillow",
+      "stats": {
+        "lootTable": "pokecube:entities/taillow"
+      }
+    },
+    {
+      "name": "lickitung",
+      "stats": {
+        "lootTable": "pokecube:entities/lickitung"
+      }
+    },
+    {
+      "name": "eevee",
+      "stats": {
+        "lootTable": "pokecube:entities/eevee"
+      }
+    },
+    {
+      "name": "tangrowth",
+      "stats": {
+        "lootTable": "pokecube:entities/tangrowth"
+      }
+    },
+    {
+      "name": "cottonee",
+      "stats": {
+        "lootTable": "pokecube:entities/cottonee"
+      }
+    },
+    {
+      "name": "lunala_dawn",
+      "stats": {
+        "lootTable": "pokecube:entities/lunala_dawn"
+      }
+    },
+    {
+      "name": "gardevoir_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/gardevoir_mega"
+      }
+    },
+    {
+      "name": "goodra",
+      "stats": {
+        "lootTable": "pokecube:entities/goodra"
+      }
+    },
+    {
+      "name": "meloetta_pirouette",
+      "stats": {
+        "lootTable": "pokecube:entities/meloetta_pirouette"
+      }
+    },
+    {
+      "name": "charizard_gigantamax",
+      "stats": {
+        "lootTable": "pokecube:entities/charizard_gigantamax"
+      }
+    },
+    {
+      "name": "persian",
+      "stats": {
+        "lootTable": "pokecube:entities/persian"
+      }
+    },
+    {
+      "name": "rotom_heat",
+      "stats": {
+        "lootTable": "pokecube:entities/rotom_heat"
+      }
+    },
+    {
+      "name": "indeedee_female",
+      "stats": {
+        "lootTable": "pokecube:entities/indeedee_female"
+      }
+    },
+    {
+      "name": "silicobra",
+      "stats": {
+        "lootTable": "pokecube:entities/silicobra"
+      }
+    },
+    {
+      "name": "gourgeist_super",
+      "stats": {
+        "lootTable": "pokecube:entities/gourgeist_super"
+      }
+    },
+    {
+      "name": "dracovish",
+      "stats": {
+        "lootTable": "pokecube:entities/dracovish"
+      }
+    },
+    {
+      "name": "toxapex",
+      "stats": {
+        "lootTable": "pokecube:entities/toxapex"
+      }
+    },
+    {
+      "name": "cacturne",
+      "stats": {
+        "lootTable": "pokecube:entities/cacturne"
+      }
+    },
+    {
+      "name": "gastly",
+      "stats": {
+        "lootTable": "pokecube:entities/gastly"
+      }
+    },
+    {
+      "name": "gourgeist_small",
+      "stats": {
+        "lootTable": "pokecube:entities/gourgeist_small"
+      }
+    },
+    {
+      "name": "seel",
+      "stats": {
+        "lootTable": "pokecube:entities/seel"
+      }
+    },
+    {
+      "name": "probopass",
+      "stats": {
+        "lootTable": "pokecube:entities/probopass"
+      }
+    },
+    {
+      "name": "mr_rime",
+      "stats": {
+        "lootTable": "pokecube:entities/mr_rime"
+      }
+    },
+    {
+      "name": "diggersby",
+      "stats": {
+        "lootTable": "pokecube:entities/diggersby"
+      }
+    },
+    {
+      "name": "salandit",
+      "stats": {
+        "lootTable": "pokecube:entities/salandit"
+      }
+    },
+    {
+      "name": "shroomish",
+      "stats": {
+        "lootTable": "pokecube:entities/shroomish"
+      }
+    },
+    {
+      "name": "buneary",
+      "stats": {
+        "lootTable": "pokecube:entities/buneary"
+      }
+    },
+    {
+      "name": "masquerain",
+      "stats": {
+        "lootTable": "pokecube:entities/masquerain"
+      }
+    },
+    {
+      "name": "torracat",
+      "stats": {
+        "lootTable": "pokecube:entities/torracat"
+      }
+    },
+    {
+      "name": "whimsicott",
+      "stats": {
+        "lootTable": "pokecube:entities/whimsicott"
+      }
+    },
+    {
+      "name": "exploud",
+      "stats": {
+        "lootTable": "pokecube:entities/exploud"
+      }
+    },
+    {
+      "name": "arceus_psychic",
+      "stats": {
+        "lootTable": "pokecube:entities/arceus_psychic"
+      }
+    },
+    {
+      "name": "mienfoo",
+      "stats": {
+        "lootTable": "pokecube:entities/mienfoo"
+      }
+    },
+    {
+      "name": "castform_rain",
+      "stats": {
+        "lootTable": "pokecube:entities/castform_rain"
+      }
+    },
+    {
+      "name": "seismitoad",
+      "stats": {
+        "lootTable": "pokecube:entities/seismitoad"
+      }
+    },
+    {
+      "name": "lickilicky",
+      "stats": {
+        "lootTable": "pokecube:entities/lickilicky"
+      }
+    },
+    {
+      "name": "chatot",
+      "stats": {
+        "lootTable": "pokecube:entities/chatot"
+      }
+    },
+    {
+      "name": "fletchling",
+      "stats": {
+        "lootTable": "pokecube:entities/fletchling"
+      }
+    },
+    {
+      "name": "aegislash_shield",
+      "stats": {
+        "lootTable": "pokecube:entities/aegislash_shield"
+      }
+    },
+    {
+      "name": "magmortar",
+      "stats": {
+        "lootTable": "pokecube:entities/magmortar"
+      }
+    },
+    {
+      "name": "jellicent",
+      "stats": {
+        "lootTable": "pokecube:entities/jellicent"
+      }
+    },
+    {
+      "name": "combee",
+      "stats": {
+        "lootTable": "pokecube:entities/combee"
+      }
+    },
+    {
+      "name": "carkol",
+      "stats": {
+        "lootTable": "pokecube:entities/carkol"
+      }
+    },
+    {
+      "name": "corvisquire",
+      "stats": {
+        "lootTable": "pokecube:entities/corvisquire"
+      }
+    },
+    {
+      "name": "mothim",
+      "stats": {
+        "lootTable": "pokecube:entities/mothim"
+      }
+    },
+    {
+      "name": "porygon-z",
+      "stats": {
+        "lootTable": "pokecube:entities/porygon-z"
+      }
+    },
+    {
+      "name": "clawitzer",
+      "stats": {
+        "lootTable": "pokecube:entities/clawitzer"
+      }
+    },
+    {
+      "name": "marshadow",
+      "stats": {
+        "lootTable": "pokecube:entities/marshadow"
+      }
+    },
+    {
+      "name": "rotom_fan",
+      "stats": {
+        "lootTable": "pokecube:entities/rotom_fan"
+      }
+    },
+    {
+      "name": "spewpa",
+      "stats": {
+        "lootTable": "pokecube:entities/spewpa"
+      }
+    },
+    {
+      "name": "cherrim",
+      "stats": {
+        "lootTable": "pokecube:entities/cherrim"
+      }
+    },
+    {
+      "name": "cherrim_sunny",
+      "stats": {
+        "lootTable": "pokecube:entities/cherrim_sunny"
+      }
+    },
+    {
+      "name": "swampert",
+      "stats": {
+        "lootTable": "pokecube:entities/swampert"
+      }
+    },
+    {
+      "name": "altaria",
+      "stats": {
+        "lootTable": "pokecube:entities/altaria"
+      }
+    },
+    {
+      "name": "vulpix_alola",
+      "stats": {
+        "lootTable": "pokecube:entities/vulpix_alola"
+      }
+    },
+    {
+      "name": "pansear",
+      "stats": {
+        "lootTable": "pokecube:entities/pansear"
+      }
+    },
+    {
+      "name": "heatmor",
+      "stats": {
+        "lootTable": "pokecube:entities/heatmor"
+      }
+    },
+    {
+      "name": "raichu",
+      "stats": {
+        "lootTable": "pokecube:entities/raichu"
+      }
+    },
+    {
+      "name": "rayquaza",
+      "stats": {
+        "lootTable": "pokecube:entities/rayquaza"
+      }
+    },
+    {
+      "name": "solosis",
+      "stats": {
+        "lootTable": "pokecube:entities/solosis"
+      }
+    },
+    {
+      "name": "steelix_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/steelix_mega"
+      }
+    },
+    {
+      "name": "castform_sun",
+      "stats": {
+        "lootTable": "pokecube:entities/castform_sun"
+      }
+    },
+    {
+      "name": "poipole",
+      "stats": {
+        "lootTable": "pokecube:entities/poipole"
+      }
+    },
+    {
+      "name": "manectric_mega",
+      "stats": {
+        "lootTable": "pokecube:entities/manectric_mega"
+      }
+    },
+    {
+      "name": "mismagius",
+      "stats": {
+        "lootTable": "pokecube:entities/mismagius"
+      }
+    },
+    {
+      "name": "necrozma",
+      "stats": {
+        "lootTable": "pokecube:entities/necrozma"
+      }
+    },
+    {
+      "name": "swoobat",
+      "stats": {
+        "lootTable": "pokecube:entities/swoobat"
+      }
+    },
+    {
+      "name": "virizion",
+      "stats": {
+        "lootTable": "pokecube:entities/virizion"
+      }
+    },
+    {
+      "name": "pumpkaboo",
+      "stats": {
+        "lootTable": "pokecube:entities/pumpkaboo"
+      }
+    },
+    {
+      "name": "ninetales",
+      "stats": {
+        "lootTable": "pokecube:entities/ninetales"
+      }
+    },
+    {
+      "name": "gardevoir",
+      "stats": {
+        "lootTable": "pokecube:entities/gardevoir"
+      }
+    },
+    {
+      "name": "steenee",
+      "stats": {
+        "lootTable": "pokecube:entities/steenee"
+      }
+    },
+    {
+      "name": "torkoal",
+      "stats": {
+        "lootTable": "pokecube:entities/torkoal"
+      }
+    },
+    {
+      "name": "yamask",
+      "stats": {
+        "lootTable": "pokecube:entities/yamask"
+      }
+    },
+    {
+      "name": "slowking",
+      "stats": {
+        "lootTable": "pokecube:entities/slowking"
+      }
+    },
+    {
+      "name": "volbeat",
+      "stats": {
+        "lootTable": "pokecube:entities/volbeat"
+      }
+    }
+  ]
+}

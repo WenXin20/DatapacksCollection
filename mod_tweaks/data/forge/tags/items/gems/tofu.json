@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "tofucraft:advtofugem", "required": false },
+    { "id": "tofucraft:tofugem", "required": false }
+  ]
+}

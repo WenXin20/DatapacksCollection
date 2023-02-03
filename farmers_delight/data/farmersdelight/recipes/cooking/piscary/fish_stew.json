@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"piscary"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:raw_fishes"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    }
+  ],
+  "result": {
+    "item": "piscary:fish_stew"
+  },
+  "container": {
+    "item": "penguinlib:deep_bowl"
+  }
+}

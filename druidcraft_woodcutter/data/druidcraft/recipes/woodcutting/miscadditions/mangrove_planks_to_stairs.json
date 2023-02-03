@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"miscadditions"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"miscadditions:mangrove_planks"
+	},
+	
+	"result":"miscadditions:mangrove_stairs",
+	"count":1
+}

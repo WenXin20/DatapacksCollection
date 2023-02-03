@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "gaiadimension:pink_agate_log",
+    "gaiadimension:stripped_pink_agate_log",
+    "gaiadimension:pink_agate_wood",
+    "gaiadimension:stripped_pink_agate_wood"
+  ]
+}

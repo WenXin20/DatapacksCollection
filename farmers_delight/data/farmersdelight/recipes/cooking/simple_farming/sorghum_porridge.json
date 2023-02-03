@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/sorghum"
+    },
+    {
+      "tag": "forge:crops/sorghum"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:sorghum_porridge"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

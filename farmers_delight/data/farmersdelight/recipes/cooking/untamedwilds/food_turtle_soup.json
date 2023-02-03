@@ -1,0 +1,33 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"untamedwilds"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "untamedwilds:food_turtle_raw"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    }
+  ],
+  "result": {
+    "item": "untamedwilds:food_turtle_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.serperior"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.serperior"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/wheat_seeds_3",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.15151516
+  },
+  "entity": {
+    "type": "pokecube:serperior"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

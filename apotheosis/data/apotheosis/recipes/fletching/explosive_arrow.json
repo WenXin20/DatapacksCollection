@@ -1,0 +1,27 @@
+{
+	"type": "apotheosis:fletching",
+	"conditions": [
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		}
+	],
+	"ingredients": [{
+			"item": "minecraft:fire_charge"
+		},
+		{
+			"tag": "forge:gunpowder"
+		},
+		{
+			"tag": "minecraft:arrows"
+		}
+	],
+	"result": {
+		"item": "apotheosis:explosive_arrow",
+		"count": 1
+	}
+}

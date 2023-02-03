@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"upgrade_aquatic"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"upgrade_aquatic:driftwood_planks"
+	},
+	
+	"result":"upgrade_aquatic:driftwood_button",
+	"count":1
+}

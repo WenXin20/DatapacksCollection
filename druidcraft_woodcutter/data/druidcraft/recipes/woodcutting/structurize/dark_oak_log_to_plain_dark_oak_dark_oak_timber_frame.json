@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:dark_oak_log"
+	},
+	
+	"result":"structurize:plain_dark_oak_dark_oak_timber_frame",
+	"count":8
+}

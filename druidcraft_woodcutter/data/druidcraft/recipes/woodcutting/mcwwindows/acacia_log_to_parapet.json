@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwwindows"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:acacia_logs"
+	},
+	
+	"result":"mcwwindows:acacia_log_parapet",
+	"count":4
+}

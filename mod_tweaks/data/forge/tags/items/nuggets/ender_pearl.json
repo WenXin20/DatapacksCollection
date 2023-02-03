@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betterendforge:ender_shard",
+    "cutepuppymod:endercore",
+    "inventorypets:nugget_ender"
+  ]
+}

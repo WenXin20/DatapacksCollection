@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "bloodfruit:tendrilstone",
+    "byg:rocky_stone",
+    "explorercraft:basalt_cobblestone",
+    "extcaves:dirtstone_cobble",
+    "iceandfire:chared_cobblestone",
+    "iceandfire:crackled_cobblestone",
+    "iceandfire:frozen_cobblestone"
+  ]
+}

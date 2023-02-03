@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "quark",
+	"tickModifier": 1.2,
+	"soil": {
+		"item": "quark:dirt_bricks"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "quark:dirt_bricks"
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"gobber2"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_gooey_beef_nether"
+    },
+    {
+      "item": "gobber2:gobber2_goo_nether"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:crops/potato"
+    }
+  ],
+  "result": {
+    "item": "gobber2:gobber2_gooey_beefstew_nether"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

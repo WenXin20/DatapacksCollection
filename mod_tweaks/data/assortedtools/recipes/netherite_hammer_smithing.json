@@ -1,0 +1,19 @@
+{
+  "conditions":
+  [
+    {
+      "type":"forge:mod_loaded",
+      "modid":"assortedtools"
+    }
+  ],
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "assortedtools:diamond_hammer"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "assortedtools:netherite_hammer"
+  }
+}

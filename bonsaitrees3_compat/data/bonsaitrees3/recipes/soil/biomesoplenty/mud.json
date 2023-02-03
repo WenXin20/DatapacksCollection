@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "biomesoplenty",
+	"tickModifier": 0.8,
+	"soil": {
+		"item": "biomesoplenty:mud"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "biomesoplenty:mud"
+	}
+}

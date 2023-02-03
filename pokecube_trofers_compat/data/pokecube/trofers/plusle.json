@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.plusle"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.plusle"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/redstone_rabbit_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:plusle"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

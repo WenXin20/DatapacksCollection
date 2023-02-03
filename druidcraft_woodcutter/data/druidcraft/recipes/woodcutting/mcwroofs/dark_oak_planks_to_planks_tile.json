@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwroofs"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:dark_oak_planks"
+	},
+	
+	"result":"mcwroofs:tile_planks_dark_oak",
+	"count":2
+}

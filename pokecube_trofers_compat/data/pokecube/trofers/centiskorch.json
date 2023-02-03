@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.centiskorch"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.centiskorch"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/blaze_rabbit_1",
+      "cooldown": 72000
+    }
+  },
+  "display": {
+    "scale": 0.2
+  },
+  "entity": {
+    "type": "pokecube:centiskorch",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

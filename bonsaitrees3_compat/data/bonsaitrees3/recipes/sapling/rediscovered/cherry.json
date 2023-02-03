@@ -1,0 +1,42 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "rediscovered",
+  "sapling": {
+    "item": "rediscovered:cherry_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "rediscovered:cherry_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "rediscovered:cherry_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "rediscovered:cherry_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "cinderscapes:sulfur_quartz", "required": false }
+  ]
+}

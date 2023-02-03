@@ -1,0 +1,43 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "habitat",
+  "sapling": {
+    "item": "habitat:fairy_ring_mushroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "habitat:fairy_ring_mushroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75,
+	  "requiresSilkTouch":true
+    },
+    {
+      "result": {
+        "item": "habitat:fairy_ring_mushroom"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "habitat:fairy_ring_mushroom_block"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch":true
+    },
+    {
+      "result": {
+        "item": "habitat:fairylight"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "mycelium"
+  ],
+  "ticks":400
+}

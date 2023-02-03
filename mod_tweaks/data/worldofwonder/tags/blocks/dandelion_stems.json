@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "worldofwonder:stripped_stem_log",
+    "worldofwonder:stem_wood",
+    "worldofwonder:stripped_stem_wood",
+    "worldofwonder:stem_log"
+  ]
+}

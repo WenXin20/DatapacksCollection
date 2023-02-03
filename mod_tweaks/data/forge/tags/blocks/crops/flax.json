@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "lotr:flax",
+    "lotr:flax_crop",
+    "silentgear:flax_fiber",
+    "silentgear:flax_plant"
+  ]
+}

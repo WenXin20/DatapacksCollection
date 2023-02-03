@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#C88748",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.maned_wolf"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:maned_wolf"
+  },
+  "colors": {
+    "base": "#311813",
+    "accent": "#C88748"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:maned_wolf_idle"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/maned_wolf",
+      "cooldown": 9600
+    }
+  }
+}

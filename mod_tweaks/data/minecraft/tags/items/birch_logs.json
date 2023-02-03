@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#byg:palo_verde_logs",
+    "byg:palo_verde_log",
+    "byg:stripped_palo_verde_log",
+    "byg:palo_verde_wood",
+    "byg:stripped_palo_verde_wood",
+    "enhanced_vanilla_remastered:mossybirchlog",
+    "productivebees:birch_wood_nest"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	"type": "apotheosis:fletching",
+	"conditions": [
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"iceandfire"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"apotheosis"
+		}
+	],
+	"ingredients": [
+		{
+			"item": "minecraft:flint"
+		},
+		{
+			"tag": "forge:rods/wooden"
+		},
+		{
+			"item": "iceandfire:stymphalian_bird_feather"
+		}
+	],
+	"result": {
+		"item": "iceandfire:stymphalian_arrow",
+		"count": 6
+	}
+}

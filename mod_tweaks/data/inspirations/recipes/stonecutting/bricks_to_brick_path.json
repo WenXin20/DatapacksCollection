@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"inspirations"
+		}
+	],
+	
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:bricks"
+	},
+	
+	"result":"inspirations:brick_path",
+	"count":3
+}

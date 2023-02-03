@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "modid": "betterendforge",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#993B99",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.betterendforge.end_slime"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "betterendforge:end_slime",
+    "nbt": "{Size:1}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#993B99"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.slime.squish"
+    },
+    "rewards": {
+      "lootTable": "betterendforge:entities/end_slime",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:jump_boost",
+        "duration": 800,
+        "amplifier": 2
+      }
+    }
+  }
+}

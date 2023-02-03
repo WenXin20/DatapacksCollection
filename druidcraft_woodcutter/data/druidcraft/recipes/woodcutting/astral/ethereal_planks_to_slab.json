@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"astral"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"astral:ethereal_planks"
+	},
+	
+	"result":"astral:ethereal_slab",
+	"count":2
+}

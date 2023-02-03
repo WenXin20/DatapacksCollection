@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.drednaw"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.drednaw"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/turtleshells_3",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "pokecube:drednaw"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#6C7239",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.anaconda"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "z": 1.625
+    },
+    "scale": 0.65
+  },
+  "entity": {
+    "type": "alexsmobs:anaconda",
+    "nbt": "{ BodyIndex: 5, BodyModel: 1 }"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#6C7239"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:anaconda_attack"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/anaconda",
+      "cooldown": 9600
+    }
+  }
+}

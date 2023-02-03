@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.snover"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.snover"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/both_ice",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "pokecube:snover"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

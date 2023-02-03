@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"natureplus"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"natureplus:azure_logs"
+	},
+	
+	"result":"natureplus:stripped_azure_wood_wall",
+	"count":1
+}

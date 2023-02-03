@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_pillar",
+  "trophies": [
+    {
+      "entity": "blue_skies:arachnarch",
+      "trophy": "trofers:blue_skies/arachnarch"
+    },
+    {
+      "entity": "blue_skies:starlit_crusher",
+      "trophy": "trofers:blue_skies/starlit_crusher"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

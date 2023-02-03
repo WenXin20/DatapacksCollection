@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"embellishcraft-bop"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"biomesoplenty:mahogany_logs"
+	},
+	
+	"result":"embellishcraft-bop:mahogany_suspended_stairs",
+	"count":8
+}

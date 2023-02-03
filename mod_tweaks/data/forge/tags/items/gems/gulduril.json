@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "lotr:gulduril_crystal", "required":false }
+  ]
+}

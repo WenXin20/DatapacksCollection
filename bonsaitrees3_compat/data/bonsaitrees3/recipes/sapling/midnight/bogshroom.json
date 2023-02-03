@@ -1,0 +1,48 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"midnight",
+  "sapling": {
+    "item": "midnight:bogshroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "midnight:bogshroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:bogshroom_hat"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:bogshroom_powder"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:bogshroom_shelf"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:bogshroom"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

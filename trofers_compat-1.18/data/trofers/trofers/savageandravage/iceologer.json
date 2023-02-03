@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "savageandravage",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#1A467F",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.savageandravage.iceologer"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "savageandravage:iceologer"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#1A467F"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "savageandravage:entity.iceologer.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/vex",
+      "cooldown": 288000
+    }
+  }
+}

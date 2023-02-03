@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"byg:black_ice","required":false},
+    {"id":"byg:packed_black_ice","required":false},
+    {"id":"ecologics:thin_ice","required":false},
+    {"id":"immersive_weathering:thin_ice","required":false},
+    {"id":"rare-ice:rare_ice","required":false}
+  ]
+}

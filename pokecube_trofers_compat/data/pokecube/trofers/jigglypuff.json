@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.jigglypuff"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.jigglypuff"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/moonstone",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.75
+  },
+  "entity": {
+    "type": "pokecube:jigglypuff"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

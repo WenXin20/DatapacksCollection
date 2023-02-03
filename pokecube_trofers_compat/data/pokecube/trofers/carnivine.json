@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.carnivine"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.carnivine"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/vines",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.35714287
+  },
+  "entity": {
+    "type": "pokecube:carnivine"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

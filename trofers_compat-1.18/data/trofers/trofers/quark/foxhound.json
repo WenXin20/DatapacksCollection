@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#F8985C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.foxhound"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "quark:foxhound",
+    "nbt": "{Owner:[I;0,0,0,0],Sitting:1b,IsBlue:0b,UUID:[I; 941050873, 553929521, -1759716438, 41519092]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#F8985C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wolf.ambient"
+    },
+    "rewards": {
+      "lootTable": "quark:entities/foxhound",
+      "cooldown": 9600
+    }
+  }
+}

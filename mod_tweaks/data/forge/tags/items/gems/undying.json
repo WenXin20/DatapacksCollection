@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "useless_sword:undying_gem", "required": false }
+  ]
+}

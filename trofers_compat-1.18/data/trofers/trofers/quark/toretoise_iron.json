@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#D8AF93",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.toretoise"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "quark:toretoise",
+    "nbt": "{oreType:2}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D8AF93"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wither.break_block"
+    },
+    "rewards": {
+      "lootTable": "minecraft:blocks/iron_ore",
+      "cooldown": 288000
+    }
+  }
+}

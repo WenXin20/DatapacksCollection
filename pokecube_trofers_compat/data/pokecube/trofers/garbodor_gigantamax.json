@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.garbodor_gigantamax"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.garbodor"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/spider_eye",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.07
+  },
+  "entity": {
+    "type": "pokecube:garbodor_gigantamax"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

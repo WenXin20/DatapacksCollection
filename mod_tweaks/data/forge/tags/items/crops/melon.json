@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:melon_slice", "required":false },
+    { "id": "thermal:frost_melon_slice", "required":false },
+    { "id": "tofucraft:salty_melon", "required":false }
+  ]
+}

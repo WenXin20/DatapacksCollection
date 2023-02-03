@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.kyogre"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.kyogre"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/fish_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.15
+  },
+  "entity": {
+    "type": "pokecube:kyogre"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

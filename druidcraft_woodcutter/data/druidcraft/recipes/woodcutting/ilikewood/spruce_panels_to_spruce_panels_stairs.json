@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"ilikewood"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"ilikewood:spruce_panels"
+	},
+	
+	"result":"ilikewood:spruce_panels_stairs",
+	"count":1
+}

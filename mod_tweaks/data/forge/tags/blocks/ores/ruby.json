@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betternether:nether_ruby_ore",
+    "combat:ruby_ore",
+    "sullys_mod:ruby_ore"
+  ]
+}

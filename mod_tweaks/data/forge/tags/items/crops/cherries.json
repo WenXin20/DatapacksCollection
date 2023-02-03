@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "blue_skies:cherry", "required":false },
+    { "id": "chaosawakens:cherries", "required":false },
+    { "id": "forbidden_arcanus:cherry_peach", "required":false },
+    { "id": "lotr:cherry", "required":false }
+  ]
+}

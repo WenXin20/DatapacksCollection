@@ -1,0 +1,42 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "pokecube",
+  "sapling": {
+    "item": "pokecube:berry_tamato"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "minecraft:oak_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "pokecube:berry_tamato"
+      },
+      "rolls": 1,
+      "chance": 0.5
+    },
+    {
+      "result": {
+        "item": "pokecube:leaves_tamato"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

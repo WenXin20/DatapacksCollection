@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwroofs"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:dark_oak_logs"
+	},
+	
+	"result":"mcwroofs:tile_log_dark_oak",
+	"count":2
+}

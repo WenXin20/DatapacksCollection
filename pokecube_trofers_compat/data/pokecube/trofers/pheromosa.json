@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.pheromosa"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.pheromosa"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/spider",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.2777778
+  },
+  "entity": {
+    "type": "pokecube:pheromosa"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

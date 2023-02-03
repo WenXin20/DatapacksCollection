@@ -1,0 +1,19 @@
+{
+	"replace": false,
+    "values": [
+		{ "id": "#forge:chests/cursed", "required": false },
+		{ "id": "enhanced_mushrooms:brown_mushroom_trapped_chest", "required": false },
+		{ "id": "enhanced_mushrooms:glowshroom_trapped_chest", "required": false },
+		{ "id": "iceandfire:ghost_chest", "required": false },
+		{ "id": "quark:bamboo_trapped_chest", "required": false },
+		{ "id": "quark:driftwood_trapped_chest", "required": false },
+		{ "id": "quark:mushroom_trapped_chest", "required": false },
+		{ "id": "quark:nether_brick_trapped_chest", "required": false },
+		{ "id": "quark:poise_trapped_chest", "required": false },
+		{ "id": "quark:prismarine_trapped_chest", "required": false },
+		{ "id": "quark:purpur_trapped_chest", "required": false },
+		{ "id": "quark:willow_trapped_chest", "required": false },
+		{ "id": "quark:wisteria_trapped_chest", "required": false },
+		{ "id": "worldofwonder:stem_trapped_chest", "required": false }
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cactus",
+    "minecraft:sugar_cane",
+    "minecraft:vine",
+    "minecraft:twisting_vines",
+    "minecraft:weeping_vines"
+  ],
+  "optional": [
+    "#pokecube:fruit",
+    "atmospheric:passion_vine",
+    "biomesoplenty:willow_vine",
+    "bloom_and_gloom:kabloom_bush",
+    "bloom_and_gloom:rafflesia",
+    "byg:blue_glowcane",
+    "byg:pink_glowcane",
+    "byg:purple_glowcane",
+    "byg:red_glowcane",
+    "upgrade_aquatic:mulberry_vine"
+  ]
+}

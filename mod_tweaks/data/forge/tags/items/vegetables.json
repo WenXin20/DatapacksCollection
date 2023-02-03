@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#forge:crops/corn",
+	"#forge:crops/eggplant",
+	"#forge:crops/tomato",
+    "blue_skies:cryo_root",
+    "blue_skies:fiery_beans",
+    "blue_skies:solnut",
+    "blue_skies:winter_leaves"
+  ]
+}

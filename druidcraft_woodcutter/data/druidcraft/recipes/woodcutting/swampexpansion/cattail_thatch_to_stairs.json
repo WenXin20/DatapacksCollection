@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"swampexpansion"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"swampexpansion:cattail_thatch"
+	},
+	
+	"result":"swampexpansion:cattail_thatch_stairs",
+	"count":1
+}

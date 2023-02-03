@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "forbidden_arcanus",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "forbidden_arcanus:darkstone"
+	},
+	"compatibleSoilTags": ["stone"],
+	"display": {
+		"block": "forbidden_arcanus:darkstone"
+	}
+}

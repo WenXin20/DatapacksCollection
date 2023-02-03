@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"endergetic"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"endergetic:poise_vertical_planks"
+	},
+	
+	"result":"endergetic:poise_planks",
+	"count":1
+}

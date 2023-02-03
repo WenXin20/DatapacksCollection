@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"botania"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"botania:glimmering_dreamwood"
+	},
+	
+	"result":"botania:dreamwood",
+	"count":1
+}

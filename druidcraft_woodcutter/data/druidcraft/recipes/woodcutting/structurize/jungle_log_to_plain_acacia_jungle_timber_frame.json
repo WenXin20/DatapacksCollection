@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:jungle_log"
+	},
+	
+	"result":"structurize:plain_acacia_jungle_timber_frame",
+	"count":8
+}

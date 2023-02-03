@@ -1,0 +1,47 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#EFAE4C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.horizofin_tunid"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "x": -0.75,
+      "y": 1.0
+    },
+    "rotation": {
+      "z": -90.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "blue_skies:horizofin_tunid"
+  },
+  "colors": {
+    "base": "#A83D25",
+    "accent": "#EFAE4C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.tropical_fish.flop"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/horizofin_tunid",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

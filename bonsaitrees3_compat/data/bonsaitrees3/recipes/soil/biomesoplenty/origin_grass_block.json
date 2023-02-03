@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "biomesoplenty",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "biomesoplenty:origin_grass_block"
+	},
+	"compatibleSoilTags": ["grass"],
+	"display": {
+		"block": "biomesoplenty:origin_grass_block"
+	}
+}

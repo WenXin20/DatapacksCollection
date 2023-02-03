@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#EC586C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.sliv"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "blue_skies:sliv"
+  },
+  "colors": {
+    "base": "#510568",
+    "accent": "#EC586C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.sliv.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/nyctofly",
+      "cooldown": 9600
+    }
+  }
+}

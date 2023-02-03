@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"valhelsia_structures"
+		},
+        {
+            "type":"forge:mod_loaded",
+            "modid":"charm"
+        },
+        {
+            "type": "charm:module_enabled",
+            "module": "charm:woodcutters"
+        }
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:jungle_logs"
+	},
+	
+	"result":"valhelsia_structures:jungle_post",
+	"count":1
+}

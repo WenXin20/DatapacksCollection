@@ -1,0 +1,1 @@
+{"conditions":[{"type":"forge:mod_loaded","modid":"biomesoplenty"},{"type":"forge:mod_loaded","modid":"charm"},{"type": "charm:module_enabled","module": "charm:woodcutters"}],"type":"minecraft:woodcutting","ingredient":{"tag":"biomesoplenty:redwood_logs"},"result":"minecraft:ladder","count":4}

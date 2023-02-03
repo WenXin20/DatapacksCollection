@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.horsea"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.horsea"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/squid_fish_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:horsea"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

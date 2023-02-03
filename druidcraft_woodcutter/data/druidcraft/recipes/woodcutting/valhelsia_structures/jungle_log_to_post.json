@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"valhelsia_structures"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:jungle_logs"
+	},
+	
+	"result":"valhelsia_structures:jungle_post",
+	"count":1
+}

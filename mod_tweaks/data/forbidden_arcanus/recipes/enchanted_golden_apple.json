@@ -1,0 +1,34 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"forbidden_arcanus"
+		}
+	],
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "#X#",
+        "###"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "tag": "forge:ingots/arcane_gold"
+        },
+        "X":
+        {
+            "tag": "forge:fruits/apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:enchanted_golden_apple"
+    }
+}

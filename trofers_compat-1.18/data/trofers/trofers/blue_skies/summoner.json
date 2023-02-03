@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#3F324F",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.summoner"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:summoner"
+  },
+  "colors": {
+    "base": "#101628",
+    "accent": "#3F324F"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.summoner.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:blocks/falsite_ore",
+      "cooldown": 19200
+    }
+  }
+}

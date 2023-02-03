@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "druidcraft:fiery_glass_ore",
+    "druidcraft:nether_fiery_glass_ore"
+  ]
+}

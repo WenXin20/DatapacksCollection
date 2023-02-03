@@ -1,0 +1,14 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"usefulrailroads"
+		}
+	],
+	"type": "usefulrailroads:track_builder_fuel",
+	"ingredient": {
+		"tag": "forge:storage_blocks/coal"
+	},
+	"fuel": 900
+}

@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"untamedwilds"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "item": "untamedwilds:flora_hemlock"
+    }
+  ],
+  "result": {
+    "item": "untamedwilds:food_hemlock_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

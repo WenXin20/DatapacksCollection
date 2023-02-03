@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#E37C21",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.fox"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "z": -1.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:fox",
+    "nbt": "{Type:\"red\",Sitting:1b}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#E37C21"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.fox.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/fox",
+      "cooldown": 9600
+    }
+  }
+}

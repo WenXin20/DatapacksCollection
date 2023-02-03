@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "tconstruct",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "tconstruct:ichor_slime_dirt"
+	},
+	"compatibleSoilTags": ["slimy_dirt"],
+	"display": {
+		"block": "tconstruct:ichor_slime_dirt"
+	}
+}

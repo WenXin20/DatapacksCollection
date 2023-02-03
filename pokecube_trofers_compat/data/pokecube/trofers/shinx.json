@@ -1,0 +1,33 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.shinx"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.shinx"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/redstone_rabbit_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "z": 1.0
+    },
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:shinx"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

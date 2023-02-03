@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#forge:nuggets/amethyst",
+    "#forge:nuggets/arcane_gold",
+    "#forge:nuggets/buddysteel",
+    "#forge:nuggets/coal",
+    "#forge:nuggets/deep_luminis",
+    "#forge:nuggets/diamond",
+    "#forge:nuggets/emerald",
+    "#forge:nuggets/ender_pearl",
+    "#forge:nuggets/hallowed_gold",
+    "#forge:nuggets/lapis",
+    "#forge:nuggets/leather",
+    "#forge:nuggets/luminis",
+    "#forge:nuggets/moonstone",
+    "#forge:nuggets/obsidian",
+    "#forge:nuggets/perfect_buddysteel",
+    "#forge:nuggets/soul"
+  ]
+}

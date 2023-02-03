@@ -1,0 +1,26 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"skinnedlanterns"
+	},
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"endergetic"
+	}
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endergetic:ender_lantern"
+    },
+    {
+      "item": "minecraft:skeleton_skull"
+    }
+  ],
+  "result": {
+    "item": "skinnedlanterns:skeleton_ender_lantern_block",
+    "count": 1
+  }
+}

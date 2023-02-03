@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"embellishcraft-bop"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"biomesoplenty:jacaranda_logs"
+	},
+	
+	"result":"embellishcraft-bop:jacaranda_terrace_chair",
+	"count":4
+}

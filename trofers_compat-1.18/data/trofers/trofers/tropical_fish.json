@@ -1,0 +1,42 @@
+{
+  "name": {
+    "color": "#FF4040",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.tropical_fish"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "x": -0.75,
+      "y": 1.0
+    },
+    "rotation": {
+      "z": -90.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:tropical_fish",
+    "nbt": "{Variant:918273}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#FF4040"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.tropical_fish.flop"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/tropical_fish",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

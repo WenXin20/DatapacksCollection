@@ -1,0 +1,26 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"skinnedlanterns"
+	},
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"endergetic"
+	}
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endergetic:ender_lantern"
+    },
+    {
+      "item": "minecraft:carved_pumpkin"
+    }
+  ],
+  "result": {
+    "item": "skinnedlanterns:jack_o_lantern_ender_lantern_block",
+    "count": 1
+  }
+}

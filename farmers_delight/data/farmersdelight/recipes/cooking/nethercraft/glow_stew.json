@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"nethercraft"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "nethercraft:purple_glowshroom"
+    },
+    {
+      "item": "nethercraft:green_glowshroom"
+    }
+  ],
+  "result": {
+    "item": "nethercraft:glow_stew"
+  },
+  "container": {
+    "item": "nethercraft:glowood_bowl"
+  }
+}

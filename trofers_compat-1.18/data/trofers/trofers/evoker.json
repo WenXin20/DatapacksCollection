@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#959C9C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.evoker"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:evoker"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#959C9C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.evoker.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/evoker",
+      "cooldown": 568000
+    }
+  }
+}

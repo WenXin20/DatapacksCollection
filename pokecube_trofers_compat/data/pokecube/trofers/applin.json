@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.applin"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.applin"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/apple",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:applin"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

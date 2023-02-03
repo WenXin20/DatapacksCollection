@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"byg"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"byg:green_enchanted_logs"
+	},
+	
+	"result":"byg:green_enchanted_planks",
+	"count":4
+}

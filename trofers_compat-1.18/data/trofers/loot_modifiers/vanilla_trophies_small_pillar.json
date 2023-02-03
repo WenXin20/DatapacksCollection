@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:small_pillar",
+  "trophies": [
+    {
+      "entity": "minecraft:armor_stand",
+      "trophy": "trofers:armor_stand"
+    },
+    {
+      "entity": "minecraft:elder_guardian",
+      "trophy": "trofers:elder_guardian"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:zombie_villager"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:villager"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

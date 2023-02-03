@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:birch_spruce_timber_frame"
+	},
+	
+	"result":"structurize:double_crossed_birch_spruce_timber_frame",
+	"count":1
+}

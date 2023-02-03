@@ -1,0 +1,26 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"pokecube_legends",
+  "sapling": {
+    "item": "pokecube_legends:crystallized_cactus"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "pokecube_legends:crystallized_cactus"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    },
+    {
+      "result": {
+        "item": "pokecube_legends:aquamarine_shard"
+      },
+      "rolls": 1,
+      "chance": 0.005
+    }
+  ],
+  "compatibleSoilTags": [
+    "sand"
+  ]
+}

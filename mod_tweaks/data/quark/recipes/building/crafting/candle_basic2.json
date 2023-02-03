@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "T",
+    "T"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:string"
+    },
+    "T": {
+      "tag": "forge:wax"
+    }
+  },
+  "result": {
+    "item": "quark:white_candle",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "tallow_and_candles"
+    },
+	{
+		"type":"forge:mod_loaded",
+		"modid":"quark"
+	}
+  ]
+}

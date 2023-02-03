@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"quark"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"quark:vertical_birch_planks"
+	},
+	
+	"result":"minecraft:birch_planks",
+	"count":1
+}

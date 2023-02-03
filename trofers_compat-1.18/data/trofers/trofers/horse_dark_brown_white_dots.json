@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#301A10",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.horse"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.3
+  },
+  "entity": {
+    "type": "minecraft:horse",
+    "nbt": "{Variant:774}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#301A10"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.horse.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/horse",
+      "cooldown": 24600
+    }
+  }
+}

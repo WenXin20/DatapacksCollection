@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.spoink"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.spoink"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/ender_pig_1",
+      "cooldown": 72000
+    }
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "pokecube:spoink"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

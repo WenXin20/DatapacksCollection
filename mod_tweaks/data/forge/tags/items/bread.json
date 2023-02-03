@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:bread",
+	{ "id": "buzzierbees:honey_bread", "required": false },
+	{ "id": "gobber2:gobber2_gooey_bread", "required": false },
+	{ "id": "gobber2:gobber2_gooey_bread_nether", "required": false },
+	{ "id": "minecolonies:chorus_bread", "required": false },
+	{ "id": "minecolonies:golden_bread", "required": false },
+	{ "id": "minecolonies:sugary_bread", "required": false },
+	{ "id": "minecolonies:milky_bread", "required": false },
+	{ "id": "nethercraft:devil_bread", "required": false },
+	{ "id": "simplefarming:banana_bread", "required": false },
+	{ "id": "simplefarming:zucchini_bread", "required": false },
+	{ "id": "simplefarming:cornbread", "required": false },
+	{ "id": "simplefarming:sorghum_bread", "required": false },
+	{ "id": "upgrade_aquatic:mulberry_bread", "required": false }
+  ]
+}

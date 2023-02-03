@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "midnight:shadowroot_log",
+    "midnight:shadowroot_stripped_log",
+    "midnight:shadowroot_stripped_wood",
+    "midnight:shadowroot_wood"
+  ]
+}

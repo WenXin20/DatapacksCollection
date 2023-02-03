@@ -1,0 +1,35 @@
+{
+  "name": {
+    "color": "#BF886D",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.villager"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:villager",
+    "nbt": "{VillagerData:{profession:\"minecraft:weaponsmith\",level:5,type:\"minecraft:plains\"}}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#BF886D"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.villager.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:hero_of_the_village",
+        "duration": 1200,
+        "amplifier": 1
+      },
+      "cooldown": 19200
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"usefulrailroads"
+		}
+	],
+	"type": "usefulrailroads:teleport_rail_fuel",
+	"ingredient": {
+		"tag": "forge:dusts/redstone"
+	},
+	"fuel": 5
+}

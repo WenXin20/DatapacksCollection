@@ -1,0 +1,33 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:pumpkin_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"lotr"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"lotr:lairelosse_logs"
+	},
+	
+	"result":"lotr:lairelosse_fence_gate",
+	"count":1
+}

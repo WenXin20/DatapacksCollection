@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "pokecube_legends",
+	"tickModifier": 0.8,
+	"soil": {
+		"item": "pokecube_legends:jungle_dirt"
+	},
+	"compatibleSoilTags": ["jungle", "dirt"],
+	"display": {
+		"block": "pokecube_legends:jungle_dirt"
+	}
+}

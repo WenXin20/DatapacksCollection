@@ -1,0 +1,234 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:small_plate",
+  "trophies": [
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_black"
+    },
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_brown"
+    },
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_gray"
+    },
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_light_gray"
+    },
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_red"
+    },
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_shiny"
+    },
+    {
+      "entity": "minecraft:chicken",
+      "trophy": "trofers:quark/chicken_yellow"
+    },
+    {
+      "entity": "minecraft:cow",
+      "trophy": "trofers:quark/cow_black"
+    },
+    {
+      "entity": "minecraft:cow",
+      "trophy": "trofers:quark/cow_black_spotted"
+    },
+    {
+      "entity": "minecraft:cow",
+      "trophy": "trofers:quark/cow_brown"
+    },
+    {
+      "entity": "minecraft:cow",
+      "trophy": "trofers:quark/cow_brown_spotted"
+    },
+    {
+      "entity": "minecraft:cow",
+      "trophy": "trofers:quark/cow_shiny"
+    },
+    {
+      "entity": "quark:crab",
+      "trophy": "trofers:quark/crab"
+    },
+    {
+      "entity": "quark:crab",
+      "trophy": "trofers:quark/crab_blue"
+    },
+    {
+      "entity": "quark:crab",
+      "trophy": "trofers:quark/crab_green"
+    },
+    {
+      "entity": "quark:forgotten",
+      "trophy": "trofers:quark/forgotten"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_jack"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_jack_sweater"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_kermit"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_kermit_sweater"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_rat"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_rat_sweater"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_snake"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_snake_sweater"
+    },
+    {
+      "entity": "quark:frog",
+      "trophy": "trofers:quark/frog_sweater"
+    },
+    {
+      "entity": "minecraft:llama",
+      "trophy": "trofers:quark/llama_shiny"
+    },
+    {
+      "entity": "minecraft:pig",
+      "trophy": "trofers:quark/pig_black"
+    },
+    {
+      "entity": "minecraft:pig",
+      "trophy": "trofers:quark/pig_pale_pink"
+    },
+    {
+      "entity": "minecraft:pig",
+      "trophy": "trofers:quark/pig_shiny"
+    },
+    {
+      "entity": "minecraft:pig",
+      "trophy": "trofers:quark/pig_tan"
+    },
+    {
+      "entity": "minecraft:rabbit",
+      "trophy": "trofers:quark/rabbit_shiny"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_andesite"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_andesite_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_calcite"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_calcite_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_deepslate"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_deepslate_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_diorite"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_diorite_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_dripstone"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_dripstone_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_granite"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_granite_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_jasper"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_jasper_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_limestone"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_limestone_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_shale"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_shale_lichen"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_tuff"
+    },
+    {
+      "entity": "quark:stoneling",
+      "trophy": "trofers:quark/stoneling_tuff_lichen"
+    },
+    {
+      "entity": "quark:wraith",
+      "trophy": "trofers:quark/wraith"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "biomemakeover",
+  "sapling": {
+    "item": "biomemakeover:purple_glowshroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "biomemakeover:glowshroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75,
+	  "requiresSilkTouch":true
+    },
+    {
+      "result": {
+        "item": "biomemakeover:purple_glowshroom"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "biomemakeover:purple_glowshroom_block"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch":true
+    }
+  ],
+  "compatibleSoilTags": [
+    "mycelium"
+  ],
+  "ticks":400
+}

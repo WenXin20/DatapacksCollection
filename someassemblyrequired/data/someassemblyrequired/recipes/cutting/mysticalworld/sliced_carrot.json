@@ -1,0 +1,23 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"mysticalworld"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"someassemblyrequired"
+	}
+  ],
+  "type": "someassemblyrequired:cutting",
+  "ingredient": {
+    "tag": "forge:crops/carrot"
+  },
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": {
+    "item": "mysticalworld:sliced_carrot",
+    "count": 4
+  }
+}

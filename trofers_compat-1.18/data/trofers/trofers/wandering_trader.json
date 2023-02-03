@@ -1,0 +1,32 @@
+{
+  "name": {
+    "color": "#425F90",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.wandering_trader"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:wandering_trader"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#425F90"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wandering_trader.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:invisibility",
+        "duration": 800
+      }
+    }
+  }
+}

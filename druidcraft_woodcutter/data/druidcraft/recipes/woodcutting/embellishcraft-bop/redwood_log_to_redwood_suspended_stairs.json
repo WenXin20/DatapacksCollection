@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"embellishcraft-bop"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"biomesoplenty:redwood_logs"
+	},
+	
+	"result":"embellishcraft-bop:redwood_suspended_stairs",
+	"count":8
+}

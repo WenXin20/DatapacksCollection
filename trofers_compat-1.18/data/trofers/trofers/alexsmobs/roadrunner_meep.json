@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#49C5E1",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.roadrunner"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:roadrunner",
+    "nbt": "{CustomName:'{\"text\":\"Meep\"}'}"
+  },
+  "colors": {
+    "base": "#38489C",
+    "accent": "#49C5E1"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:roadrunner_meep"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/roadrunner",
+      "cooldown": 9600
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:cobblestone"
+	},
+	
+	"result":"minecraft:cobblestone",
+	"count":1
+}

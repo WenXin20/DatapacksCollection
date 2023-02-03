@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "cspirit:lump_of_coal",
+    "silentgear:netherwood_charoal",
+    "survive:charcoal_filter"
+  ]
+}

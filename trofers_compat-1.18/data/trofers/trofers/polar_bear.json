@@ -1,0 +1,33 @@
+{
+  "name": {
+    "color": "#F2F2F4",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.polar_bear"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "z": -0.5
+    },
+    "scale": 0.3
+  },
+  "entity": {
+    "type": "minecraft:polar_bear"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#F2F2F4"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.polar_bear.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/polar_bear",
+      "cooldown": 9600
+    }
+  }
+}

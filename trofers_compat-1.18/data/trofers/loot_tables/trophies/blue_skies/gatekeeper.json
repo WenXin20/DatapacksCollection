@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "trofers:optional_item",
+          "when": [
+            {
+              "modid": "blue_skies",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "name": "blue_skies:zeal_lighter",
+          "weight": 2
+        },
+        {
+          "type": "trofers:optional_item",
+          "when": [
+            {
+              "modid": "blue_skies",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "name": "blue_skies:blue_journal",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

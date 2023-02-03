@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "pokecube_legends",
+	"tickModifier": 1.7,
+	"soil": {
+		"item": "pokecube_legends:aged_coarse_dirt"
+	},
+	"compatibleSoilTags": ["aged", "dirt"],
+	"display": {
+		"block": "pokecube_legends:aged_coarse_dirt"
+	}
+}

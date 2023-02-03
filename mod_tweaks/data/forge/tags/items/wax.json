@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#forge:tallow",
+    "beesourceful:beeswax",
+    "blue_skies:bug_guts",
+    "buzzierbees:wax",
+    "charm:beeswax",
+    "eidolon:tallow",
+    "extlights:wax_chunk",
+    "forbidden_arcanus:wax",
+    "lotr:beeswax",
+    "quark:tallow",
+    "resourcefulbees:beeswax",
+    "untamedwilds:material_fat"
+  ]
+}

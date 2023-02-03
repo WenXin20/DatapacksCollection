@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:bamboo_plantable_on",
+    "#minecraft:small_flowers"
+  ],
+  "optional": [
+    "#forge:dirt",
+    "#forge:heads",
+    "#forge:mushrooms"
+  ]
+}

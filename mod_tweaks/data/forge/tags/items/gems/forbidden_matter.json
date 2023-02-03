@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "polyores:forbidden_matter", "required":false }
+  ]
+}

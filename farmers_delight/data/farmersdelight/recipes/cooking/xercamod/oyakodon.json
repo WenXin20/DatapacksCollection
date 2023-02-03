@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"xercamod"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "tag": "forge:cooked_eggs"
+    }
+  ],
+  "result": {
+    "item": "xercamod:oyakodon"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

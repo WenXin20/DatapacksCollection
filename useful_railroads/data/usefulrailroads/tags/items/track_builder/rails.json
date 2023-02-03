@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:rails",
+		"minecraft:powered_rail"
+	],
+	"optional": [
+		"usefulrailroads:highspeed_rail",
+		"usefulrailroads:clamp_rail"
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#607576",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.stray"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:stray",
+    "nbt": "{HandItems:[{id:\"minecraft:bow\",Count:1b,tag:{Damage:0}},{}]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#607576"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.stray.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/stray",
+      "cooldown": 9600
+    }
+  }
+}

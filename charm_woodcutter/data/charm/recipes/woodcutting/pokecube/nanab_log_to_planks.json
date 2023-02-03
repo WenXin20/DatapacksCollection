@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"pokecube"
+		},
+        {
+            "type":"forge:mod_loaded",
+            "modid":"charm"
+        },
+        {
+            "type": "charm:module_enabled",
+            "module": "charm:woodcutters"
+        }
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"pokecube:log_nanab"
+	},
+	
+	"result":"pokecube:plank_nanab",
+	"count":4
+}

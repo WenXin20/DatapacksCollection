@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_pillar",
+  "trophies": [
+    {
+      "entity": "minecraft:ender_dragon",
+      "trophy": "trofers:ender_dragon"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

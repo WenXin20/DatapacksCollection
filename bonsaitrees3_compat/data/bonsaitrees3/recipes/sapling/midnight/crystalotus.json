@@ -1,0 +1,20 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"midnight",
+  "sapling": {
+    "item": "midnight:crystalotus"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "midnight:crystalotus"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

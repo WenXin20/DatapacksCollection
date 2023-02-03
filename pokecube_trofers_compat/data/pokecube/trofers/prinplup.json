@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.prinplup"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.prinplup"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/chicken_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "pokecube:prinplup"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

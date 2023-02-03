@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#2378CF",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.toretoise"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "quark:toretoise",
+    "nbt": "{oreType:4}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#2378CF"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wither.break_block"
+    },
+    "rewards": {
+      "lootTable": "minecraft:blocks/lapis_ore",
+      "cooldown": 288000
+    }
+  }
+}

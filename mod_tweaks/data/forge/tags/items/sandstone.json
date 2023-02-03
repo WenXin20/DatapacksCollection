@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"infernalexp:glowdust_sandstone",
+    "betternether:soul_sandstone",
+    "quark:soul_sandstone"
+  ]
+}

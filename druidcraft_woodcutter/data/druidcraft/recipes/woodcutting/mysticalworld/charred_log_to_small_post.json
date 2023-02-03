@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mysticalworld"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"mysticalworld:charred_log"
+	},
+	
+	"result":"mysticalworld:charred_small_post",
+	"count":8
+}

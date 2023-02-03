@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "eidolon:lesser_soul_gem", "required": false },
+    { "id": "malum:soulstone", "required": false },
+    { "id": "wyrmroost:soul_crystal", "required": false }
+  ]
+}

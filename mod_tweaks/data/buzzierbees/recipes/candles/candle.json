@@ -1,0 +1,28 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"buzzierbees"
+		}
+	],
+	
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "S",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:string"
+        },
+        "S": {
+			"tag": "forge:wax"
+        }
+    },
+    "result": {
+        "item": "buzzierbees:candle",
+        "count": 2
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#E4AF24",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.chicken"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:chicken",
+	"nbt": "{UUID: [I; -375352181, 552878776, -1751825896, 996044089]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#E4AF24"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.chicken.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/chicken",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:slow_falling",
+        "duration": 800
+      }
+    }
+  }
+}

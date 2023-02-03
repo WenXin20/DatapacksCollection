@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "endergetic:end_corrock_block",
+    "endergetic:nether_corrock_block",
+    "endergetic:overworld_corrock_block",
+    "jellyfishing:coralstone",
+    "more_jellyfish:deep_coralstone",
+    "upgrade_aquatic:acan_coral_block",
+    "upgrade_aquatic:branch_coral_block",
+    "upgrade_aquatic:chrome_coral_block",
+    "upgrade_aquatic:elder_prismarine_coral_block",
+    "upgrade_aquatic:finger_coral_block",
+    "upgrade_aquatic:moss_coral_block",
+    "upgrade_aquatic:petal_coral_block",
+    "upgrade_aquatic:pillow_coral_block",
+    "upgrade_aquatic:prismarine_coral_block",
+    "upgrade_aquatic:rock_coral_block",
+    "upgrade_aquatic:silk_coral_block",
+    "upgrade_aquatic:star_coral_block"
+  ]
+}

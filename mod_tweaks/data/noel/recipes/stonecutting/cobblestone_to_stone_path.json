@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"noel"
+		}
+	],
+	
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:cobblestone"
+	},
+	
+	"result":"noel:stone_path",
+	"count":1
+}

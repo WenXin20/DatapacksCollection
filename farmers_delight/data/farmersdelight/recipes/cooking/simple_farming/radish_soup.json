@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/radish"
+    },
+    {
+      "tag": "forge:crops/radish"
+    },
+    {
+      "tag": "forge:crops/radish"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:radish_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

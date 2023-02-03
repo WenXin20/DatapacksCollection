@@ -1,0 +1,41 @@
+{
+  "name": {
+    "color": "#B6986C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.cod"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "x": -0.75,
+      "y": 1.0
+    },
+    "rotation": {
+      "z": -90.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:cod"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#B6986C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.cod.flop"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/cod",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

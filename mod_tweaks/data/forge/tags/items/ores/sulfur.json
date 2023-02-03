@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "cinderscapes:sulfur_quartz_ore",
+    "cinderscapes:sulfur_ore",
+    "lotr:sulfur_ore",
+    "tidbits:sulfur_ore"
+  ]
+}

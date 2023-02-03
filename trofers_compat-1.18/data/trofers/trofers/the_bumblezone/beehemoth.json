@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "the_bumblezone",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#E4AE3B",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.the_bumblezone.beehemoth"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.4
+  },
+  "entity": {
+    "type": "the_bumblezone:beehemoth",
+    "animated": true
+  },
+  "colors": {
+    "base": "#43241B",
+    "accent": "#E4AE3B"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "the_bumblezone:entity.the_bumblezone.beehemoth.hurt"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/bee",
+      "cooldown": 9600
+    }
+  }
+}

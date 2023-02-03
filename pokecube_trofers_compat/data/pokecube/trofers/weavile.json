@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.weavile"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.weavile"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.45454544
+  },
+  "entity": {
+    "type": "pokecube:weavile"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

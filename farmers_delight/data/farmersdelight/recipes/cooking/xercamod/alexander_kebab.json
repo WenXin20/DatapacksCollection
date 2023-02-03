@@ -1,0 +1,33 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"xercamod"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "xercamod:doner_slice"
+    },
+    {
+      "item": "xercamod:item_yoghurt"
+    },
+    {
+      "item": "xercamod:item_tomato_slices"
+    },
+    {
+      "tag": "forge:bread"
+    }
+  ],
+  "result": {
+    "item": "xercamod:item_alexander"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

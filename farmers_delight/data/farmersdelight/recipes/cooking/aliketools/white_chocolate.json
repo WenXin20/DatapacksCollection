@@ -1,0 +1,24 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"aliketools"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "result": {
+    "item": "aliketools:white_chocolate"
+  },
+  "container": {
+    "item": "farmersdelight:milk_bottle"
+  }
+}

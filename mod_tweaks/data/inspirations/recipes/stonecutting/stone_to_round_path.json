@@ -1,0 +1,18 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"inspirations"
+		}
+	],
+	
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:stone"
+	},
+	"result":"inspirations:round_path",
+	"count":2
+}

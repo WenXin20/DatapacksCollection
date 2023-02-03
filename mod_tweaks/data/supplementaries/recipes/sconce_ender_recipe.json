@@ -1,0 +1,32 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"supplementaries"
+	},
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"endergetic"
+	}
+  ],
+  "group": "supplementaries",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "212",
+    " 2 "
+  ],
+  "key": {
+    "1": {
+      "item": "endergetic:ender_torch"
+    },
+    "2": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supplementaries:sconce_ender",
+    "count": 1
+  }
+}

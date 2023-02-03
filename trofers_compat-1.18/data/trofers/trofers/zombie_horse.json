@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#76A045",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.zombie_horse"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.32
+  },
+  "entity": {
+    "type": "minecraft:zombie_horse"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#76A045"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.zombie_horse.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/zombie_horse",
+      "cooldown": 9600
+    }
+  }
+}

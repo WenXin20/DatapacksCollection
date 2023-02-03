@@ -1,0 +1,36 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "undergarden",
+  "sapling": {
+    "item": "undergarden:ink_mushroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "minecraft:mushroom_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "undergarden:ink_mushroom"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "undergarden:ink_mushroom_cap"
+      },
+      "rolls": 1,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    }
+  ],
+  "compatibleSoilTags": [
+    "deepsoil",
+    "deepturf"
+  ]
+}

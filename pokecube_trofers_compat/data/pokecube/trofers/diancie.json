@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.diancie"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.diancie"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/diamond_legend",
+      "cooldown": 288000
+    }
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "pokecube:diancie"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

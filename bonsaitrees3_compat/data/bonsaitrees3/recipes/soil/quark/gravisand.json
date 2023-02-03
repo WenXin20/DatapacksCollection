@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "quark",
+	"tickModifier": 0.5,
+	"soil": {
+		"item": "quark:gravisand"
+	},
+	"compatibleSoilTags": ["sand"],
+	"display": {
+		"block": "quark:gravisand"
+	}
+}

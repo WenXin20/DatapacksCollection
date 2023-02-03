@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+		},
+        {
+            "type":"forge:mod_loaded",
+            "modid":"charm"
+        },
+        {
+            "type": "charm:module_enabled",
+            "module": "charm:woodcutters"
+        }
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"simplefarming:squash_block"
+	},
+	
+	"result":"simplefarming:squash",
+	"count":4
+}

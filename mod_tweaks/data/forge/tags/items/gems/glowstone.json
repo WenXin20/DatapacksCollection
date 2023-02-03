@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "lotr:glowstone_crystal", "required":false }
+  ]
+}

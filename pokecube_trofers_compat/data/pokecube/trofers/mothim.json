@@ -1,0 +1,35 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.mothim"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.mothim"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/chicken_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "pokecube:mothim",
+    "nbt": "{OnGround: 0b}",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.mawile_mega"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.mawile"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/iron_chicken_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "pokecube:mawile_mega"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

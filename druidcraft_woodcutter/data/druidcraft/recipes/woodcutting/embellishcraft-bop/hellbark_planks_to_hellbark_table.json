@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"embellishcraft-bop"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"biomesoplenty:hellbark_planks"
+	},
+	
+	"result":"embellishcraft-bop:hellbark_table",
+	"count":1
+}

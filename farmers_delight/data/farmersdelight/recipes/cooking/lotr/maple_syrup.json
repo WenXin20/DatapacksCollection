@@ -1,0 +1,24 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"lotr"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "lotr:maple_logs"
+    }
+  ],
+  "result": {
+    "item": "lotr:maple_syrup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

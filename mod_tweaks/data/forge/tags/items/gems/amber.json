@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "betterendforge:amber_gem", "required":false },
+    { "id": "cyclic:gem_amber", "required":false },
+    { "id": "darkerdepths:amber", "required":false },
+    { "id": "pokecube:fossil_aerodactyl", "required":false }
+  ]
+}

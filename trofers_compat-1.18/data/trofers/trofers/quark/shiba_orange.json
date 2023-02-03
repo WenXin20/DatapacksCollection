@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#C78955",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.shiba"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "quark:shiba",
+    "nbt": "{Owner:[I;0,0,0,0],Sitting:1b,CollarColor:14b, UUID: [I; 991406239, 1890273062, -1659293825, 2000590679]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#C78955"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wolf.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/wolf",
+      "cooldown": 9600
+    }
+  }
+}

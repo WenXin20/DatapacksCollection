@@ -1,0 +1,35 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.venomoth"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.venomoth"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/spider_eye",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.33333334
+  },
+  "entity": {
+    "type": "pokecube:venomoth",
+    "nbt": "{OnGround: 0b}",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

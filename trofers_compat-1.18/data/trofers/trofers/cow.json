@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#6C5234",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.cow"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:cow",
+	"nbt": "{UUID: [I; 1610991742, 91243542, -1356697491, 1366748553]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#6C5234"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.cow.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/cow",
+      "cooldown": 9600
+    }
+  }
+}

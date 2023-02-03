@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"aquaculture:fish_bones",
+	"blue_skies:azulfo_horn",
+	"miscadditions:charred_bones",
+	"nethercraft:ghast_bones",
+	"scenic:fish_bones"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#E6BDED",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.shade_monitor"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:shade_monitor",
+	"nbt": "{Biome: 6b}"
+  },
+  "colors": {
+    "base": "#463F5B",
+    "accent": "#E6BDED"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.shade_monitor.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/shade_monitor",
+      "cooldown": 9600
+    }
+  }
+}

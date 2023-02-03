@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#BC311F",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.crab"
+      }
+    ]
+  },
+  "display": {
+    "rotation": {
+      "y": 90.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "quark:crab",
+	"nbt": "{Variant:0}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#BC311F"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "quark:entity.crab.idle"
+    },
+    "rewards": {
+      "lootTable": "quark:entities/crab",
+      "cooldown": 9600
+    }
+  }
+}

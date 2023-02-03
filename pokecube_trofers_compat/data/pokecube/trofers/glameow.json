@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.glameow"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.glameow"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "y": -0.1,
+      "z": -2.0
+    },
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:glameow"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

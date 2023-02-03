@@ -1,0 +1,26 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"forbidden_arcanus"
+		}
+	],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X",
+        "#"
+    ],
+    "key": {
+        "X": {
+            "tag": "forge:string"
+        },
+        "#": {
+            "tag": "forge:wax"
+        }
+    },
+    "result": {
+        "item": "forbidden_arcanus:candle",
+        "count": 4
+    }
+}

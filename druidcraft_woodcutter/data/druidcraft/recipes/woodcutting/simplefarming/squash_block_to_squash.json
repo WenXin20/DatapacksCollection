@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"simplefarming:squash_block"
+	},
+	
+	"result":"simplefarming:squash",
+	"count":4
+}

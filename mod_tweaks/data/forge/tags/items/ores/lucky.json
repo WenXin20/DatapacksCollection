@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "gobber2:gobber2_lucky_block",
+    "luckyores:badluckyore",
+    "luckyores:baseluckyore"
+  ]
+}

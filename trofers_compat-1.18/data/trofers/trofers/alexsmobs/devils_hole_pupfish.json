@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#567BC4",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.devils_hole_pupfish"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "alexsmobs:devils_hole_pupfish",
+    "nbt": "{PupfishScale:1.0f}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#567BC4"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.cod.flop"
+    },
+    "rewards": {
+      "lootTable": "alexsmobs:entities/devils_hole_pupfish",
+      "cooldown": 9600
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": {
+    "color": "#EDB262",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.ocelot"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:ocelot"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#EDB262"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.ocelot.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:speed",
+        "duration": 800,
+        "amplifier": 3
+      }
+    }
+  }
+}

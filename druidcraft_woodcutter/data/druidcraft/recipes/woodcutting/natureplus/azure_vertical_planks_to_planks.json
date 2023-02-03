@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"natureplus"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"natureplus:vertical_azure_planks"
+	},
+	
+	"result":"natureplus:azure_planks",
+	"count":1
+}

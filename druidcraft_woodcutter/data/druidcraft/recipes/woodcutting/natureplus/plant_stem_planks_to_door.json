@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"natureplus"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"natureplus:plant_stem_planks"
+	},
+	
+	"result":"natureplus:plant_stem_door",
+	"count":1
+}

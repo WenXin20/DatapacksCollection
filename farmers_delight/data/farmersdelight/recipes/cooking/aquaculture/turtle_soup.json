@@ -1,0 +1,24 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"aquaculture"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "aquaculture:turtle"
+    }
+  ],
+  "result": {
+    "item": "aquaculture:turtle_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

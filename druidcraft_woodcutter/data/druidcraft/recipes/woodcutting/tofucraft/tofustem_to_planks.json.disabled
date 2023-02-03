@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"tofucraft"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"tofucraft:tofulogs"
+	},
+	
+	"result":"tofucraft:tofustem_planks",
+	"count":4
+}

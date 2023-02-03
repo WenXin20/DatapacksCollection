@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#745DFF",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.starlit_crusher"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "blue_skies:starlit_crusher"
+  },
+  "colors": {
+    "base": "#49515F",
+    "accent": "#745DFF"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.starlit_crusher.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:blocks/potted_starlit_sapling",
+      "cooldown": 9600
+    }
+  }
+}

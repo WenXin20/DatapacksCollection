@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"byg"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"byg:aspen_logs"
+	},
+	
+	"result":"byg:aspen_trapdoor",
+	"count":4
+}

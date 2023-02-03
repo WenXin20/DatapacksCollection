@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#55413B",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.toretoise"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "quark:toretoise"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#55413B"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wither.break_block"
+    },
+    "rewards": {
+      "lootTable": "minecraft:blocks/brown_terracotta",
+      "cooldown": 9600
+    }
+  }
+}

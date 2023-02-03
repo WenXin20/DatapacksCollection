@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "quicksand",
+	"tickModifier": 0.8,
+	"soil": {
+		"item": "quicksand:quicksand_bucket"
+	},
+	"compatibleSoilTags": ["sand"],
+	"display": {
+		"block": "quicksand:quicksand"
+	}
+}

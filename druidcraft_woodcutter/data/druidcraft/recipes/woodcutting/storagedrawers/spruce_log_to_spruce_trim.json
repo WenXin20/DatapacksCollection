@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"storagedrawers"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:spruce_log"
+	},
+	
+	"result":"storagedrawers:spruce_trim",
+	"count":1
+}

@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:medium_pillar",
+  "trophies": [
+    {
+      "entity": "minecraft:wither",
+      "trophy": "trofers:wither"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

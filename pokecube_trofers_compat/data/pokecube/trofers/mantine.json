@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.mantine"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.mantine"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/fish_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.23809525
+  },
+  "entity": {
+    "type": "pokecube:mantine"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

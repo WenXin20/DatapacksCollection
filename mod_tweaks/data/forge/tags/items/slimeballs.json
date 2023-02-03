@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "autumnity:snail_slime",
+    "betterendforge:gelatine",
+    "byg:embur_gel_ball",
+    "more_jellyfish:gelatinous_milk",
+    "outer_end:spectragel",
+    "tofucraft:gelatin",
+    "tofucraft:zundama"
+  ]
+}

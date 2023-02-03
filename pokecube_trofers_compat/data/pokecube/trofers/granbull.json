@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.granbull"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.granbull"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.35714287
+  },
+  "entity": {
+    "type": "pokecube:granbull"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

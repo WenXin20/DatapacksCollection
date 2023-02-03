@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "good_nights_sleep:dead_log",
+    "good_nights_sleep:stripped_dead_log",
+    "good_nights_sleep:dead_wood",
+    "good_nights_sleep:stripped_dead_wood"
+  ]
+}

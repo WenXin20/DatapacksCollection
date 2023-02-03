@@ -1,0 +1,14 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "druidcraft"
+        }
+    ],
+    "type": "druidcraft:woodcutting",
+    "ingredient": {
+        "tag": "minecraft:birch_logs"
+    },
+    "result": "silents_mechanisms:birch_drying_rack",
+    "count": 3
+}

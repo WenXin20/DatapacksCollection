@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/oat"
+    },
+    {
+      "tag": "forge:crops/oat"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:oatmeal"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

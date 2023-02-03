@@ -1,0 +1,49 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"gaiadimension",
+  "sapling": {
+    "item": "gaiadimension:burning_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "gaiadimension:burning_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "gaiadimension:agate_stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "gaiadimension:hot_dust"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "gaiadimension:burning_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "gaiadimension:burning_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

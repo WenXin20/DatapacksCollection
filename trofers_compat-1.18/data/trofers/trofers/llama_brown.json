@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#9B6323",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.llama"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:llama",
+    "nbt": "{Variant: 2, UUID: [I; 1655247663, -590525898, -2092121435, 1345986402]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#9B6323"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.llama.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/llama",
+      "cooldown": 9600
+    }
+  }
+}

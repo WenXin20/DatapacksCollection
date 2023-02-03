@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/cucumber"
+    },
+    {
+      "tag": "forge:crops/cucumber"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:cucumber_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

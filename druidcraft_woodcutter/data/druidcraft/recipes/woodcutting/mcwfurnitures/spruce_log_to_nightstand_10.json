@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwfurnitures"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:spruce_logs"
+	},
+	
+	"result":"mcwfurnitures:spruce_nightstand_10",
+	"count":2
+}

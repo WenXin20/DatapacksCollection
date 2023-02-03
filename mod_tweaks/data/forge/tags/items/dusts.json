@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#forge:dusts/astral",
+    "#forge:dusts/brim",
+    "#forge:dusts/charcoal",
+    "#forge:dusts/coal",
+    "#forge:dusts/cosmic",
+    "#forge:dusts/diamond",
+    "#forge:dusts/emerald",
+    "#forge:dusts/ender",
+    "#forge:dusts/ender_pearl",
+    "#forge:dusts/endermite",
+    "#forge:dusts/eye_of_ender",
+    "#forge:dusts/floo",
+    "#forge:dusts/glowstone",
+    "#forge:dusts/gold",
+    "#forge:dusts/gunpowder",
+    "#forge:dusts/iron",
+    "#forge:dusts/mana",
+    "#forge:dusts/netherite",
+    "#forge:dusts/niter",
+    "#forge:dusts/obsidian",
+    "#forge:dusts/pixie",
+    "#forge:dusts/pollen",
+    "#forge:dusts/stone",
+    "#forge:dusts/sugar",
+    "#forge:dusts/sulfur",
+    "#forge:dusts/wood"
+  ]
+}

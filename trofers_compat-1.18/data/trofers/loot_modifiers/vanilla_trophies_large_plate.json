@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_plate",
+  "trophies": [
+    {
+      "entity": "minecraft:ghast",
+      "trophy": "trofers:ghast"
+    },
+    {
+      "entity": "minecraft:giant",
+      "trophy": "trofers:giant"
+    },
+    {
+      "entity": "minecraft:hoglin",
+      "trophy": "trofers:hoglin"
+    },
+    {
+      "entity": "minecraft:magma_cube",
+      "trophy": "trofers:magma_cube"
+    },
+    {
+      "entity": "minecraft:ravager",
+      "trophy": "trofers:ravager"
+    },
+    {
+      "entity": "minecraft:slime",
+      "trophy": "trofers:slime"
+    },
+    {
+      "entity": "minecraft:zoglin",
+      "trophy": "trofers:zoglin"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

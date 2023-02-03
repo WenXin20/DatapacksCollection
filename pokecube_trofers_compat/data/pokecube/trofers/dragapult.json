@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.dragapult"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.dragapult"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/enderpearls_3",
+      "cooldown": 72000
+    }
+  },
+  "display": {
+    "scale": 0.16666667
+  },
+  "entity": {
+    "type": "pokecube:dragapult"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"good_nights_sleep"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "good_nights_sleep:hope_mushroom"
+    },
+    {
+      "item": "good_nights_sleep:powdered_sugar"
+    }
+  ],
+  "result": {
+    "item": "good_nights_sleep:luxurious_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwfurnitures"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:acacia_logs"
+	},
+	
+	"result":"mcwfurnitures:acacia_nightstand_9",
+	"count":2
+}

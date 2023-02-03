@@ -1,0 +1,49 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"forbidden_arcanus",
+  "sapling": {
+    "item": "forbidden_arcanus:cherrywood_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "forbidden_arcanus:cherrywood_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "forbidden_arcanus:cherrywood_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "forbidden_arcanus:cherrywood_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    },
+    {
+      "result": {
+        "item": "forbidden_arcanus:cherry_peach"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

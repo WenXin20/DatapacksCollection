@@ -1,0 +1,19 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"creeperoverhaul",
+  "sapling": {
+    "item": "creeperoverhaul:tiny_cactus"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "creeperoverhaul:tiny_cactus"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    }
+  ],
+  "compatibleSoilTags": [
+    "sand"
+  ]
+}

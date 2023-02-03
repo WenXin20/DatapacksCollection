@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#8D1290",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.toucan"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:toucan",
+    "nbt": "{Variant:0,CustomName:'{\"text\":\"Sam\"}'}"
+  },
+  "colors": {
+    "base": "#29B0DC",
+    "accent": "#8D1290"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:toucan_idle"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/toucan",
+      "cooldown": 9600
+    }
+  }
+}

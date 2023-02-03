@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "buddycards:zylex", "required": false }
+  ]
+}

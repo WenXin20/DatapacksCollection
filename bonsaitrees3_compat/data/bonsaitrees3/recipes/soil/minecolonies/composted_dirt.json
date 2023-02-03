@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "minecolonies",
+	"tickModifier": 0.5,
+	"soil": {
+		"item": "minecolonies:composted_dirt"
+	},
+	"compatibleSoilTags": ["compost", "dirt"],
+	"display": {
+		"block": "minecolonies:composted_dirt"
+	}
+}

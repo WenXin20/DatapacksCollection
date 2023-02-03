@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#CBE8FF",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.crystal_camel"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:crystal_camel"
+  },
+  "colors": {
+    "base": "#A3A3A3",
+    "accent": "#CBE8FF"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.crystal_camel.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/crystal_camel",
+      "cooldown": 9600
+    }
+  }
+}

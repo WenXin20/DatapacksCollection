@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betternether:cincinnasite_pedestal",
+    "terrestria:small_oak_log",
+    "terrestria:stripped_sakura_log",
+    "terrestria:stripped_small_oak_log",
+    "terrestria:stripped_yucca_palm_log",
+    "terrestria:yucca_palm_log",
+    "twilightforest:brown_thorns",
+    "twilightforest:burnt_thorns",
+    "twilightforest:green_thorns"
+  ]
+}
+
+

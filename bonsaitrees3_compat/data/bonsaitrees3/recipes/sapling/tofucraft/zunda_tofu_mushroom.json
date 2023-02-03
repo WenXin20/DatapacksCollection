@@ -1,0 +1,40 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "tofucraft",
+  "sapling": {
+    "item": "tofucraft:zundatofu_mushroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "tofucraft:tofustem"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "tofucraft:blocktofuzunda"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "tofucraft:tofuzunda"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "tofucraft:zundatofu_mushroom"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "tofu"
+  ]
+}

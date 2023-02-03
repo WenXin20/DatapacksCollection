@@ -1,0 +1,82 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:medium_plate",
+  "trophies": [
+    {
+      "entity": "blue_skies:crogre",
+      "trophy": "trofers:blue_skies/crogre"
+    },
+    {
+      "entity": "blue_skies:crynocerous",
+      "trophy": "trofers:blue_skies/crynocerous"
+    },
+    {
+      "entity": "blue_skies:crynocerous",
+      "trophy": "trofers:blue_skies/crynocerous_packed_ice"
+    },
+    {
+      "entity": "blue_skies:infested_swarmer",
+      "trophy": "trofers:blue_skies/infested_swarmer"
+    },
+    {
+      "entity": "blue_skies:seclam",
+      "trophy": "trofers:blue_skies/seclam"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_crystal_dunes"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_crystal_roughs"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_everbright"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_halloween"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_moonlit_reservoir"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_overworld"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_shaded_woodlands"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_sunset_maple_forest"
+    },
+    {
+      "entity": "blue_skies:shade_monitor",
+      "trophy": "trofers:blue_skies/shade_monitor_unorthodox_valley"
+    },
+    {
+      "entity": "blue_skies:spewter",
+      "trophy": "trofers:blue_skies/spewter"
+    },
+    {
+      "entity": "blue_skies:whistleshell_crab",
+      "trophy": "trofers:blue_skies/whistleshell_crab_green"
+    },
+    {
+      "entity": "blue_skies:whistleshell_crab",
+      "trophy": "trofers:blue_skies/whistleshell_crab_red"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

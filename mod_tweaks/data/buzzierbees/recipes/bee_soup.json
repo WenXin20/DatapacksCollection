@@ -1,0 +1,32 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"buzzierbees"
+		}
+	],
+	
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{
+			"item": "minecraft:bowl"
+		},
+		{
+			"item": "minecraft:honeycomb"
+		},
+		{
+			"item": "minecraft:honey_bottle"
+		},
+		{
+			"tag": "forge:wax"
+		},
+		{
+			"item": "buzzierbees:crystallized_honey"
+		}
+	],
+	"result": {
+		"item": "buzzierbees:bee_soup"
+	}
+}

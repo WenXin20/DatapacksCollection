@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"chaosawakens"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "item": "chaosawakens:dead_irukandji"
+    },
+    {
+      "tag": "forge:rods/crystal"
+    },
+    {
+      "item": "chaosawakens:peacock_feather"
+    }
+  ],
+  "result": {
+    "item": "chaosawakens:irukandji_arrow",
+    "count": 6
+  }
+}

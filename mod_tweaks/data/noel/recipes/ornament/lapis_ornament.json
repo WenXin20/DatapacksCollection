@@ -1,0 +1,34 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"noel"
+		}
+	],
+    "type": "minecraft:crafting_shaped",
+    "group": "ornament",
+    "pattern":
+    [
+        "#",
+		"&"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:string"
+        },
+		"&":
+        {
+            "tag": "forge:gems/lapis"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:lapis_ornament",
+        "count": 1
+    }
+}

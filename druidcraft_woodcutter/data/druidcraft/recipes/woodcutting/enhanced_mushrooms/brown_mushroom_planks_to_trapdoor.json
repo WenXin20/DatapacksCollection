@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"enhanced_mushrooms"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"enhanced_mushrooms:brown_mushroom_planks"
+	},
+	
+	"result":"enhanced_mushrooms:brown_mushroom_trapdoor",
+	"count":1
+}

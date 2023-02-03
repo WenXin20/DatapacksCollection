@@ -1,0 +1,14 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "druidcraft"
+        }
+    ],
+    "type": "druidcraft:woodcutting",
+    "ingredient": {
+        "tag": "minecraft:dark_oak_logs"
+    },
+    "result": "silents_mechanisms:dark_oak_drying_rack",
+    "count": 3
+}

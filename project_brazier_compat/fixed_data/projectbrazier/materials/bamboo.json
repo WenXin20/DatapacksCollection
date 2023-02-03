@@ -1,0 +1,35 @@
+{
+	"materialType": "wood",
+	"requiredMod": "twigs",
+	"name": "bamboo",
+	"properties": {
+		"mapColor": "wood",
+		"resistance": 3.0,
+		"hardness": 2.0,
+		"harvestLevel": 0,
+		"harvestTool": "axe"
+	},
+	"textures": {
+		"log": "twigs:block/bundled_bamboo",
+		"log_top": "twigs:block/bundled_bamboo_top",
+		"stripped_log": "twigs:block/stripped_bundled_bamboo",
+		"stripped_log_top": "twigs:block/stripped_bundled_bamboo_top",
+		"planks": "twigs:block/stripped_bamboo_planks"
+	},
+	"items": {
+		"log": "twigs:bundled_bamboo",
+		"wood": "twigs:bundled_bamboo",
+		"stripped_log": "twigs:stripped_bundled_bamboo",
+		"stripped_wood": "twigs:stripped_bundled_bamboo",
+		"planks": "twigs:stripped_bamboo_planks",
+		"leaves": "twigs:bamboo_leaves"
+	},
+	"blocks": {
+		"log": "twigs:bundled_bamboo",
+		"wood": "twigs:bundled_bamboo",
+		"stripped_log": "twigs:stripped_bundled_bamboo",
+		"stripped_wood": "twigs:stripped_bundled_bamboo",
+		"planks": "twigs:stripped_bamboo_planks",
+		"leaves": "twigs:bamboo_leaves"
+	}
+}

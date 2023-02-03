@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "simplefarming:noodles"
+    },
+    {
+      "item": "simplefarming:noodles"
+    }
+  ],
+  "result": {
+    "item": "simplefarming:chicken_noodle_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

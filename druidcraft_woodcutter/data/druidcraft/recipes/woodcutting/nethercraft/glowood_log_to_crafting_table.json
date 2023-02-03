@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"nethercraft"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"nethercraft:glowood_logs"
+	},
+	
+	"result":"nethercraft:glowood_crafting_table",
+	"count":1
+}

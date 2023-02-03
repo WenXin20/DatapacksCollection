@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mubble"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"mubble:cherry_oak_logs"
+	},
+	
+	"result":"mubble:cherry_oak_trapdoor",
+	"count":4
+}

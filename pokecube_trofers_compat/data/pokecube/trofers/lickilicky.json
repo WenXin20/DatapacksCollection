@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.lickilicky"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.lickilicky"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_3",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.29411763
+  },
+  "entity": {
+    "type": "pokecube:lickilicky"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "pandoras_creatures:arachnon_crystal", "required":false }
+  ]
+}

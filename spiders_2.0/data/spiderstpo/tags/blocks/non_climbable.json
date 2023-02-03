@@ -1,0 +1,38 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:black_glazed_terracotta",
+    "minecraft:blue_glazed_terracotta",
+    "minecraft:blue_ice",
+    "minecraft:brown_glazed_terracotta",
+    "minecraft:cyan_glazed_terracotta",
+    "minecraft:gray_glazed_terracotta",
+    "minecraft:green_glazed_terracotta",
+    "minecraft:ice",
+    "minecraft:light_blue_glazed_terracotta",
+    "minecraft:light_gray_glazed_terracotta",
+    "minecraft:lime_glazed_terracotta",
+    "minecraft:magenta_glazed_terracotta",
+    "minecraft:orange_glazed_terracotta",
+    "minecraft:packed_ice",
+    "minecraft:pink_glazed_terracotta",
+    "minecraft:purple_glazed_terracotta",
+    "minecraft:red_glazed_terracotta",
+    "minecraft:white_glazed_terracotta",
+    "minecraft:yellow_glazed_terracotta"
+  ],
+  "optional": [
+    "byg:black_ice",
+    "byg:packed_black_ice",
+    "iceandfire:dragon_ice",
+    "netherex:frostburn_ice",
+    "netherex:icy_nether_bricks",
+    "netherex:icy_nether_bricks_fence",
+    "netherex:icy_nether_bricks_fence_gate",
+    "netherex:icy_nether_bricks_slab",
+    "netherex:icy_nether_bricks_stairs",
+    "netherex:icy_nether_bricks_wall",
+    "netherex:icy_netherrack",
+    "netherex:icy_netherrack_path"
+  ]
+}

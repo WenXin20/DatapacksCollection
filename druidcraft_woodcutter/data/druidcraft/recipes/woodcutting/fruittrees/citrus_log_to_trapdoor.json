@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"fruittrees"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"fruittrees:citrus_logs"
+	},
+	
+	"result":"fruittrees:citrus_trapdoor",
+	"count":4
+}

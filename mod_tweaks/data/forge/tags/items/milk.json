@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "forbidden_arcanus:edelwood_milk_bucket",
+    "frozenup:mug_of_milk",
+    "lotr:milk_drink",
+    "ravageandcabbage:ravager_milk",
+    "simplytea:teapot_frothed",
+    "simplytea:teapot_milk"
+  ]
+}

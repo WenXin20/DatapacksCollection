@@ -1,0 +1,35 @@
+{
+  "name": {
+    "color": "#686868",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.rabbit"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:rabbit",
+    "nbt": "{RabbitType: 2, UUID: [I; -1216045990, 380849777, -1079128269, 2113750282]}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#282828"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.rabbit.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/rabbit",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:jump_boost",
+        "duration": 800
+      }
+    }
+  }
+}

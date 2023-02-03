@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.bisharp"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.bisharp"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.3125
+  },
+  "entity": {
+    "type": "pokecube:bisharp"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

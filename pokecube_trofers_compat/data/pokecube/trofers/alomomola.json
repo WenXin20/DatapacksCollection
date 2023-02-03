@@ -1,0 +1,33 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.alomomola"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.alomomola"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/fish_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "y": -5.0
+    },
+    "scale": 0.4
+  },
+  "entity": {
+    "type": "pokecube:alomomola"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

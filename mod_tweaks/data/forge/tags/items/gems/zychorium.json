@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "zycraft:blue_zychorium", "required": false },
+    { "id": "zycraft:dark_zychorium", "required": false },
+    { "id": "zycraft:green_zychorium", "required": false },
+    { "id": "zycraft:light_zychorium", "required": false },
+    { "id": "zycraft:red_zychorium", "required": false }
+  ]
+}

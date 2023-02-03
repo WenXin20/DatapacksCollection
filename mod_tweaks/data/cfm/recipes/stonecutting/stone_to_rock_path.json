@@ -1,0 +1,18 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"cfm"
+		}
+	],
+	
+	"type":"minecraft:stonecutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:stone"
+	},
+	"result":"cfm:rock_path",
+	"count":4
+}

@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "trofers:optional_item",
+          "when": [
+            {
+              "modid": "supplementaries",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "name": "supplementaries:bomb",
+          "weight": 5
+        },
+        {
+          "type": "trofers:optional_item",
+          "when": [
+            {
+              "modid": "supplementaries",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "name": "supplementaries:bomb_blue",
+          "weight": 2
+        },
+        {
+          "type": "trofers:optional_item",
+          "when": [
+            {
+              "modid": "supplementaries",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "name": "minecraft:tnt",
+          "weight": 1
+        },
+        {
+          "type": "trofers:optional_item",
+          "when": [
+            {
+              "modid": "supplementaries",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "name": "supplementaries:rope_arrow",
+          "weight": 8
+        }
+      ]
+    }
+  ]
+}

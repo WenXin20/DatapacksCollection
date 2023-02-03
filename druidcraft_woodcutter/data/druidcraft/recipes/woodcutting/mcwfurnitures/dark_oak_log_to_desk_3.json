@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mcwfurnitures"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"minecraft:dark_oak_logs"
+	},
+	
+	"result":"mcwfurnitures:dark_oak_desk_3",
+	"count":1
+}

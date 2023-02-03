@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"projectvibrantjourneys"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "projectvibrantjourneys:raw_clam"
+    },
+    {
+      "item": "projectvibrantjourneys:raw_clam"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "result": {
+    "item": "projectvibrantjourneys:clam_chowder"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

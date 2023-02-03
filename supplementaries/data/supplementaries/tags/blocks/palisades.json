@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betternether:stalagnate_stem",
+    "betternether:mushroom_fir_stem",
+    "betternether:mushroom_stem"
+  ]
+}

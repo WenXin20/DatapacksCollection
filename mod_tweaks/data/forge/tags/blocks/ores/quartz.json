@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "cinderscapes:rose_quartz_ore",
+    "cinderscapes:smoky_quartz_ore",
+    "cinderscapes:sulfur_quartz_ore",
+    "productivebees:nether_quartz_nest"
+  ]
+}

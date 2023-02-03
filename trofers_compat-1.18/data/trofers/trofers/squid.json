@@ -1,0 +1,37 @@
+{
+  "name": {
+    "color": "#546D80",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.squid"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "y": 5.0
+    },
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:squid"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#546D80"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.squid.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/squid",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

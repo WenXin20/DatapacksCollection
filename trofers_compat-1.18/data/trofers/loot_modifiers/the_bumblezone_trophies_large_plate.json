@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_plate",
+  "trophies": [
+    {
+      "entity": "the_bumblezone:honey_slime",
+      "trophy": "trofers:the_bumblezone/honey_slime"
+    },
+    {
+      "entity": "the_bumblezone:honey_slime",
+      "trophy": "trofers:the_bumblezone/honey_slime_honeyless"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

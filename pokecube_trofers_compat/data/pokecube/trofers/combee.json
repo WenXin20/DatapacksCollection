@@ -1,0 +1,35 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.combee"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.combee"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/honeycomb_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 1.0
+  },
+  "entity": {
+    "type": "pokecube:combee",
+    "nbt": "{OnGround:0b, NoGravity:1b, aiRoutines: {AIRBORNE:1b}}",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

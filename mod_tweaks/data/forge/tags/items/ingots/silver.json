@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "chaosawakens:silver_lump",
+    "gemsnjewels:silver_ingot",
+    "useless_sword:silvillager"
+  ]
+}

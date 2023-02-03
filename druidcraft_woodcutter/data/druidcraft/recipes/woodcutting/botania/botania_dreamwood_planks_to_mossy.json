@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"botania"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"botania:dreamwood_planks"
+	},
+	
+	"result":"botania:mossy_dreamwood_planks",
+	"count":1
+}

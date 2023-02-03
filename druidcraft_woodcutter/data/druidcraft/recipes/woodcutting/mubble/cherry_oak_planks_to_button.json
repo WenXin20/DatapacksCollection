@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"mubble"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"mubble:cherry_oak_planks"
+	},
+	
+	"result":"mubble:cherry_oak_button",
+	"count":1
+}

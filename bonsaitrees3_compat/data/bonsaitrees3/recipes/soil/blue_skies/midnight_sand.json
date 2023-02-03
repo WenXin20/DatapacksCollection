@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "blue_skies",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "blue_skies:midnight_sand"
+	},
+	"compatibleSoilTags": ["sand"],
+	"display": {
+		"block": "blue_skies:midnight_sand"
+	}
+}

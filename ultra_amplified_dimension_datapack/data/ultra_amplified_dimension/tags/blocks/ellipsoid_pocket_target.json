@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#c:sand",
+    "#c:sandstone",
+    "#c:stone",
+    "#c:netherrack",
+    "#c:ores",
+    "#c:end_stones",
+    "#forge:sand",
+    "#forge:sandstone",
+    "#forge:stone",
+    "#forge:netherrack",
+    "#forge:gravel",
+    "#forge:ores",
+    "#forge:obsidian",
+    "#minecraft:ice",
+    "#minecraft:base_stone_overworld",
+    "#minecraft:base_stone_nether",
+    "#minecraft:nylium",
+    "#minecraft:sand",
+    "#ultra_amplified_dimension:terracotta",
+    "#ultra_amplified_dimension:dirt_like",
+    "minecraft:end_stone",
+    "minecraft:clay"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#53595D",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.gorilla"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:gorilla",
+    "nbt": "{GorillaSitting:1b,Silverback:0b}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#53595D"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:gorilla_idle"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/gorilla",
+      "cooldown": 9600
+    }
+  }
+}

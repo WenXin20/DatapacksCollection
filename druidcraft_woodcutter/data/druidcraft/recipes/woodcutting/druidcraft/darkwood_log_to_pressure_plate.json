@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"druidcraft"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"druidcraft:darkwood_logs"
+	},
+	
+	"result":"druidcraft:darkwood_pressure_plate",
+	"count":4
+}

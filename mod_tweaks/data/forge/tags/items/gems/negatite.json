@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "good_nights_sleep:negatite_gem", "required": false }
+  ]
+}

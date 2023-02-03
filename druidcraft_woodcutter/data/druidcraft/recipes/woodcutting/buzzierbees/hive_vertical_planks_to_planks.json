@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"buzzierbees"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"buzzierbees:vertical_hive_planks"
+	},
+	
+	"result":"buzzierbees:hive_planks",
+	"count":1
+}

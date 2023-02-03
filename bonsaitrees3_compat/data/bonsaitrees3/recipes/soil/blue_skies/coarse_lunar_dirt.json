@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "blue_skies",
+	"tickModifier": 1.5,
+	"soil": {
+		"item": "blue_skies:coarse_lunar_dirt"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "blue_skies:coarse_lunar_dirt"
+	}
+}

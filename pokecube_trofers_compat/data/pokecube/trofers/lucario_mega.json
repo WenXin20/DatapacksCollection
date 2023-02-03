@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.lucario_mega"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.lucario"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/rabbit_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.41666666
+  },
+  "entity": {
+    "type": "pokecube:lucario_mega",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.abomasnow"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.abomasnow"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/snow_rabbit_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.22727272
+  },
+  "entity": {
+    "type": "pokecube:abomasnow"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

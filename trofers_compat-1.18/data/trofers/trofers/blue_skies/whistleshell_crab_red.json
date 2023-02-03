@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#753E4E",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.whistleshell_crab"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "blue_skies:whistleshell_crab",
+	"nbt": "{CrabType: 0b}"
+  },
+  "colors": {
+    "base": "#753E4E",
+    "accent": "#E0CDA8"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.turtle.hurt"
+    },
+    "rewards": {
+      "lootTable": "minecraft:blocks/kelp",
+      "cooldown": 9600
+    }
+  }
+}

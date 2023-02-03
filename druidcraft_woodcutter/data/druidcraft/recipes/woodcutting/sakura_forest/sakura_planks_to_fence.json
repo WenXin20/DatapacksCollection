@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"sakura_forest"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"sakura_forest:sakura_planks"
+	},
+	
+	"result":"sakura_forest:sakura_fence",
+	"count":1
+}

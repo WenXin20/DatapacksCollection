@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#C1E9FF",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.snow_owl"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "blue_skies:snow_owl",
+	"nbt": "{OwlHostile: 0b}"
+  },
+  "colors": {
+    "base": "#C1E9FF",
+    "accent": "#DAF1FF"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.snow_owl.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/snow_owl",
+      "cooldown": 9600
+    }
+  }
+}

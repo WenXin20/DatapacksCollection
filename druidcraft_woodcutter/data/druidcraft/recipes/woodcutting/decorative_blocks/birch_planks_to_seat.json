@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"decorative_blocks"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"minecraft:birch_planks"
+	},
+	
+	"result":"decorative_blocks:birch_seat",
+	"count":2
+}

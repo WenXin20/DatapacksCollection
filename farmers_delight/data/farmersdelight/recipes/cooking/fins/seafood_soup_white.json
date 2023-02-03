@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"fins"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "fins:white_bull_crap_claw"
+    },
+    {
+      "tag": "forge:raw_fishes"
+    },
+    {
+      "tag": "forge:raw_fishes"
+    }
+  ],
+  "result": {
+    "item": "fins:seafood_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

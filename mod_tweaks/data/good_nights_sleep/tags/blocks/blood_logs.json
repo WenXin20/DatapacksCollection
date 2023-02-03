@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "good_nights_sleep:blood_log",
+    "good_nights_sleep:stripped_blood_log",
+    "good_nights_sleep:blood_wood",
+    "good_nights_sleep:stripped_blood_wood"
+  ]
+}

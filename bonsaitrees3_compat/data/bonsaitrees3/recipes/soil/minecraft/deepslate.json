@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "minecraft",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "minecraft:deepslate"
+	},
+	"compatibleSoilTags": ["stone", "deepslate"],
+	"display": {
+		"block": "minecraft:deepslate"
+	}
+}

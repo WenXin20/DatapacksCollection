@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "tofucraft",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "tofucraft:tofu_terrain"
+	},
+	"compatibleSoilTags": ["tofu"],
+	"display": {
+		"block": "tofucraft:tofu_terrain"
+	}
+}

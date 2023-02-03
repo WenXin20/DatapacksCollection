@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "polyores:obscure_gem", "required": false }
+  ]
+}

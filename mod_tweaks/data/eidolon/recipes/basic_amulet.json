@@ -1,0 +1,27 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"eidolon"
+	}
+  ],
+  "type": "minecraft:crafting_shaped",
+  "group": "eidolon",
+  "pattern": [
+    " x ",
+    "x x",
+    " y "
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:string"
+    },
+    "y": {
+      "tag": "forge:ingots/arcane_gold"
+    }
+  },
+  "result": {
+    "item": "eidolon:basic_amulet"
+  }
+}

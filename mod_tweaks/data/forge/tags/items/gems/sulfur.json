@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "betterendforge:sulphur_crystal", "required": false },
+    { "id": "cinderscapes:sulfur_quartz", "required": false }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	"replace": false,
+    "values": [],
+	"optional": [
+		"inventorypets:sand_block",
+		"inventorypets:sand_spawn"
+	]
+}

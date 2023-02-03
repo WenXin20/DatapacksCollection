@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "betternether:nether_ruby", "required": false }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"tofucraft"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "tofucraft:tofu"
+    },
+    {
+      "item": "tofucraft:bottlesoysauce"
+    },
+    {
+      "tag": "forge:crops/leek"
+    }
+  ],
+  "result": {
+    "item": "tofucraft:hiyayakko"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

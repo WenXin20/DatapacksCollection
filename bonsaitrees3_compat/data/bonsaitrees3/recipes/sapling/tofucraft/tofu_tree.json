@@ -1,0 +1,41 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "tofucraft",
+  "sapling": {
+    "item": "tofucraft:sapling_tofu"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "tofucraft:blocktofuishi"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "tofucraft:leaves_tofu"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "tofucraft:tofuishi"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "tofucraft:sapling_tofu"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "tofu"
+  ]
+}

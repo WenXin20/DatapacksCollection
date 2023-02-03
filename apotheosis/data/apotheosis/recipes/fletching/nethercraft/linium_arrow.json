@@ -1,0 +1,33 @@
+{
+  "conditions":
+  	[
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"nethercraft"
+  		}
+  	],
+  "type": "apotheosis:fletching",
+  "ingredients": [
+    {
+      "item": "nethercraft:linium_ingot"
+    },
+    {
+      "item": "nethercraft:ghast_rod"
+    },
+    {
+      "item": "nethercraft:red_feather"
+    }
+  ],
+  "result": {
+    "item": "nethercraft:linium_arrow",
+    "count": 6
+  }
+}

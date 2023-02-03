@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "decorative_blocks",
+	"tickModifier": 2.0,
+	"soil": {
+		"item": "decorative_blocks:rocky_dirt"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "decorative_blocks:rocky_dirt"
+	}
+}

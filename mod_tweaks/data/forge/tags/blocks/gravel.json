@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"iceandfire:crackled_gravel",
+	"iceandfire:frozen_gravel",
+	"iceandfire:chared_gravel",
+	"infernalexp:rubble",
+	"productivebees:gravel_nest",
+	"tofucraft:blocktofuminced"
+  ]
+}

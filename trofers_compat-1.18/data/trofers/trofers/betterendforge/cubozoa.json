@@ -1,0 +1,44 @@
+{
+  "conditions": [
+    {
+      "modid": "betterendforge",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#365AC4",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.betterendforge.cubozoa"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.75
+  },
+  "entity": {
+    "type": "betterendforge:cubozoa"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#365AC4"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.squid.ambient"
+    },
+    "rewards": {
+      "lootTable": "betterendforge:entities/cubozoa",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      },
+      "statusEffect": {
+        "effect": "minecraft:instant_damage",
+        "duration": 1
+      }
+    }
+  }
+}

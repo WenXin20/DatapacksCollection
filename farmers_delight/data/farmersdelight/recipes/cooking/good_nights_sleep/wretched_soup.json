@@ -1,0 +1,27 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"good_nights_sleep"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "good_nights_sleep:despair_mushroom"
+    },
+    {
+      "item": "good_nights_sleep:necrotic_extract"
+    }
+  ],
+  "result": {
+    "item": "good_nights_sleep:wretched_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

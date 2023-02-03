@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"betternether:anchor_tree_gate",
+	"betternether:mushroom_fir_gate",
+	"betternether:mushroom_gate",
+	"betternether:nether_sakura_gate",
+	"betternether:reeds_gate",
+	"betternether:rubeus_gate",
+	"betternether:stalagnate_planks_gate",
+	"betternether:wart_gate",
+	"betternether:willow_gate",
+	"desolation:charred_fence_gate",
+    "noel:frosted_fence_gate",
+    "noel:peppermint_fence_gate"
+  ]
+}

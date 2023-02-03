@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#735C49",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.seal"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:seal",
+    "nbt": "{Arctic:0b,CustomName:'{\"text\":\"He Was\"}'}"
+  },
+  "colors": {
+    "base": "#65584B",
+    "accent": "#735C49"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:seal_idle"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/seal",
+      "cooldown": 9600
+    }
+  }
+}

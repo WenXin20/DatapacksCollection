@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "quark",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#9D4D44",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.quark.stoneling"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "quark:stoneling",
+    "nbt": "{variant:7b,carryingItem:{id:\"minecraft:netherite_scrap\",Count:1b}}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#9D4D44"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "quark:entity.stoneling.meep"
+    },
+    "rewards": {
+      "lootTable": "quark:entities/stoneling",
+      "cooldown": 288000
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+	{ "id": "cnb:potted_lilytad_flower", "required": false },
+	{ "id": "extendedmushrooms:glowshroom_potted", "required": false },
+	{ "id": "extendedmushrooms:infested_flower_potted", "required": false },
+	{ "id": "extendedmushrooms:poisonous_mushroom_potted", "required": false },
+	{ "id": "habitat:potted_kabloom_bush", "required": false },
+	{ "id": "habitat:potted_rafflesia", "required": false },
+	{ "id": "habitat:potted_slime_fern", "required": false },
+	{ "id": "supplementaries:hanging_flower_pot", "required": false },
+	{ "id": "worldofwonder:potted_dande_lion_sprout", "required": false }
+  ]
+}

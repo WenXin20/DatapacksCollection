@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:stone_bricks",
+    "minecraft:dirt_path",
+    "minecraft:gravel",
+    "minecraft:stone_brick_slab",
+    "minecraft:stone_brick_stairs"
+  ],
+  "optional": [
+    "#minecolonies:concrete",
+    "car:asphalt_slab",
+    "car:asphalt_slope_flat_lower",
+    "car:asphalt_slope_flat_upper",
+    "car:asphalt_slope",
+    "car:asphalt",
+    "cfm:rock_path",
+    "inspirations:brick_path",
+    "inspirations:rock_path",
+    "inspirations:round_path",
+    "inspirations:tile_path",
+    "quark:andesite_pavement",
+    "quark:basalt_pavement",
+    "quark:diorite_pavement",
+    "quark:granite_pavement",
+    "quark:jasper_pavement",
+    "quark:limestone_pavement",
+    "quark:marble_pavement",
+    "quark:slate_pavement"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"chipped"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"someassemblyrequired"
+	}
+  ],
+  "type": "someassemblyrequired:cutting",
+  "ingredient": {
+    "tag": "chipped:melon"
+  },
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": {
+    "item": "minecraft:melon_slice",
+    "count": 9
+  }
+}

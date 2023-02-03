@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "polyores:blazing_gem", "required":false }
+  ]
+}

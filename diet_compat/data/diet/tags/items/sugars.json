@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"alexsmobs:rainbow_jelly","required":false},
+    {"id":"create:chocolate_bucket","required":false},
+    {"id":"create:honey_bucket","required":false},
+    {"id":"farmersdelight:honey_glazed_ham_block","required":false},
+    {"id":"gobberdelight:blue_pie_slice","required":false},
+    {"id":"gobberdelight:end_cake","required":false},
+    {"id":"gobberdelight:end_ice_cream","required":false},
+    {"id":"gobberdelight:red_pie_slice","required":false},
+    {"id":"lilwings:crimson_cake","required":false},
+    {"id":"lilwings:golden_cake","required":false},
+    {"id":"minecolonies:sweet_bread","required":false},
+    {"id":"teletubbies:custard","required":false},
+    {"id":"the_bumblezone:honey_bucket","required":false},
+    {"id":"thermal:jelly","required":false}
+  ]
+}

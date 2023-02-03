@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"enhanced_mushrooms"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"enhanced_mushrooms:glowshroom_planks"
+	},
+	
+	"result":"enhanced_mushrooms:glowshroom_vertical_slab",
+	"count":2
+}

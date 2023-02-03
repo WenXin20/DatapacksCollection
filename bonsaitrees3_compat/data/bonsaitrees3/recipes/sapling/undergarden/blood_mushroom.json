@@ -1,0 +1,43 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "undergarden",
+  "sapling": {
+    "item": "undergarden:blood_mushroom"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "undergarden:blood_mushroom_stalk"
+      },
+      "rolls": 1,
+      "chance": 0.75,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "undergarden:blood_mushroom_globule"
+      },
+      "rolls": 1,
+      "chance": 0.5
+    },
+    {
+      "result": {
+        "item": "undergarden:blood_mushroom"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "undergarden:blood_mushroom_cap"
+      },
+      "rolls": 1,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    }
+  ],
+  "compatibleSoilTags": [
+    "deepsoil",
+    "deepturf"
+  ]
+}

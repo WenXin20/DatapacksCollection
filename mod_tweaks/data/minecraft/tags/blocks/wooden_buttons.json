@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betternether:anchor_tree_button",
+    "betternether:mushroom_button",
+    "betternether:mushroom_fir_button",
+    "betternether:nether_sakura_button",
+    "betternether:reeds_button",
+    "betternether:rubeus_button",
+    "betternether:stalagnate_planks_button",
+    "betternether:wart_button",
+    "betternether:willow_button"
+  ]
+}

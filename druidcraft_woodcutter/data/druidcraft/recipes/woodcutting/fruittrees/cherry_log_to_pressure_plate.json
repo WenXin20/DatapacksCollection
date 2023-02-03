@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"fruittrees"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"fruittrees:cherry_logs"
+	},
+	
+	"result":"fruittrees:cherry_pressure_plate",
+	"count":4
+}

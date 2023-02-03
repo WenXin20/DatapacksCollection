@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "blue_skies",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "blue_skies:ventium_lava_bucket"
+	},
+	"compatibleSoilTags": ["lava"],
+	"display": {
+		"fluid": "minecraft:lava"
+	}
+}

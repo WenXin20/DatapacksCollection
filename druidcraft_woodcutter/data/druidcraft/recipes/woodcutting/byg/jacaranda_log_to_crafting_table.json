@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"byg"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"byg:jacaranda_logs"
+	},
+	
+	"result":"byg:jacaranda_crafting_table",
+	"count":1
+}

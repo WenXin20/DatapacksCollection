@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "midnight:dark_willow_log",
+    "midnight:dark_willow_stripped_log",
+    "midnight:dark_willow_stripped_wood",
+    "midnight:dark_willow_wood"
+  ]
+}

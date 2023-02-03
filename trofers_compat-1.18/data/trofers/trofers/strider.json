@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#B44040",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.strider"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:strider"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#B44040"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.strider.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/strider",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:fire_resistance",
+        "duration": 800
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#E4AE3B",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.bee"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:bee"
+  },
+  "colors": {
+    "base": "#43241B",
+    "accent": "#E4AE3B"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.bee.pollinate"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/bee",
+      "cooldown": 9600
+    }
+  }
+}

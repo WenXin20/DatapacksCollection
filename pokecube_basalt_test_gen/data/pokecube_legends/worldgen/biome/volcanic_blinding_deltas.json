@@ -1,0 +1,52 @@
+{
+  "temperature": 2,
+  "downfall": 0.2,
+  "precipitation": "none",
+  "effects": {
+    "sky_color": 7012352,
+    "fog_color": 7012352,
+    "water_color": 11994630,
+    "water_fog_color": 11994630,
+    "grass_color": 3944746,
+    "foliage_color": 2958880,
+    "ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+    "mood_sound": {
+      "sound": "minecraft:ambient.basalt_deltas.mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 0.18
+    }
+  },
+  "carvers": {
+    "air": [
+      "pokecube_legends:canyon",
+      "pokecube_legends:cave",
+      "pokecube_legends:cave_extra_underground"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [
+      "minecraft:basalt_pillar",
+      "pokecube_legends:large_basalt_columns",
+      "pokecube_legends:small_basalt_columns"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "spawners": {},
+  "spawn_costs": {}
+}

@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farlanders:endumium_crystal", "required":false }
+  ]
+}

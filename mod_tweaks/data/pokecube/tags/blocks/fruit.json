@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:melon", 
+    "minecraft:pumpkin"
+  ],
+  "optional": [
+    "#forge:fruits",
+    "#pokecube:berry_fruits"
+  ]
+}

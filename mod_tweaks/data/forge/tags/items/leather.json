@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"silents_mechanisms:zombie_leather",
+	"netherex:black_salamander_hide",
+	"netherex:orange_salamander_hide",
+	"ultimate_unicorn_mod:destrier_hide"
+  ]
+}

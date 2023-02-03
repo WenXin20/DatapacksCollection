@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#A3BF5D",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.crogre"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:crogre"
+  },
+  "colors": {
+    "base": "#A8A179",
+    "accent": "#A3BF5D"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.crogre.idle"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/slime",
+      "cooldown": 9600
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "pokecube_legends",
+	"tickModifier": 1.5,
+	"soil": {
+		"item": "pokecube_legends:mushroom_coarse_dirt"
+	},
+	"compatibleSoilTags": ["mycelium", "dirt"],
+	"display": {
+		"block": "pokecube_legends:mushroom_coarse_dirt"
+	}
+}

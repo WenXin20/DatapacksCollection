@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "the_bumblezone",
+	"tickModifier": 0.5,
+	"soil": {
+		"item": "the_bumblezone:sugar_water_bucket"
+	},
+	"compatibleSoilTags": ["water"],
+	"display": {
+		"fluid": "the_bumblezone:sugar_water_still"
+	}
+}

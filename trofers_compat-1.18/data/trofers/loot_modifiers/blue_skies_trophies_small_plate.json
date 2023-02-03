@@ -1,0 +1,166 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:small_plate",
+  "trophies": [
+    {
+      "entity": "blue_skies:armored_frost_spirit",
+      "trophy": "trofers:blue_skies/armored_frost_spirit"
+    },
+    {
+      "entity": "blue_skies:armored_frost_spirit",
+      "trophy": "trofers:blue_skies/armored_frost_spirit_packed_ice"
+    },
+    {
+      "entity": "blue_skies:artificial_golem",
+      "trophy": "trofers:blue_skies/artificial_golem"
+    },
+    {
+      "entity": "blue_skies:artificial_golem",
+      "trophy": "trofers:blue_skies/artificial_golem_enraged"
+    },
+    {
+      "entity": "blue_skies:artificial_golem",
+      "trophy": "trofers:blue_skies/artificial_golem_ranged"
+    },
+    {
+      "entity": "blue_skies:charscale_moki",
+      "trophy": "trofers:blue_skies/charscale_moki"
+    },
+    {
+      "entity": "blue_skies:cosmic_fox",
+      "trophy": "trofers:blue_skies/cosmic_fox"
+    },
+    {
+      "entity": "blue_skies:emberback",
+      "trophy": "trofers:blue_skies/emberback"
+    },
+    {
+      "entity": "blue_skies:firefly",
+      "trophy": "trofers:blue_skies/firefly"
+    },
+    {
+      "entity": "blue_skies:frost_spirit",
+      "trophy": "trofers:blue_skies/frost_spirit"
+    },
+    {
+      "entity": "blue_skies:gatekeeper",
+      "trophy": "trofers:blue_skies/gatekeeper"
+    },
+    {
+      "entity": "blue_skies:grittle_flatfish",
+      "trophy": "trofers:blue_skies/grittle_flatfish"
+    },
+    {
+      "entity": "blue_skies:horizofin_tunid",
+      "trophy": "trofers:blue_skies/horizofin_tunid"
+    },
+    {
+      "entity": "blue_skies:jelly_drifter",
+      "trophy": "trofers:blue_skies/jelly_drifter_amber"
+    },
+    {
+      "entity": "blue_skies:jelly_drifter",
+      "trophy": "trofers:blue_skies/jelly_drifter_crimson"
+    },
+    {
+      "entity": "blue_skies:jelly_drifter",
+      "trophy": "trofers:blue_skies/jelly_drifter_icy"
+    },
+    {
+      "entity": "blue_skies:jelly_drifter",
+      "trophy": "trofers:blue_skies/jelly_drifter_rose"
+    },
+    {
+      "entity": "blue_skies:jelly_drifter",
+      "trophy": "trofers:blue_skies/jelly_drifter_snow"
+    },
+    {
+      "entity": "blue_skies:jelly_drifter",
+      "trophy": "trofers:blue_skies/jelly_drifter_teal"
+    },
+    {
+      "entity": "blue_skies:municipal_monkfish",
+      "trophy": "trofers:blue_skies/municipal_monkfish"
+    },
+    {
+      "entity": "blue_skies:nested_spider",
+      "trophy": "trofers:blue_skies/nested_spider"
+    },
+    {
+      "entity": "blue_skies:shrumpty",
+      "trophy": "trofers:blue_skies/shrumpty"
+    },
+    {
+      "entity": "blue_skies:sliv",
+      "trophy": "trofers:blue_skies/sliv"
+    },
+    {
+      "entity": "blue_skies:snow_owl",
+      "trophy": "trofers:blue_skies/snow_owl"
+    },
+    {
+      "entity": "blue_skies:stonelet",
+      "trophy": "trofers:blue_skies/stonelet"
+    },
+    {
+      "entity": "blue_skies:venom_spider",
+      "trophy": "trofers:blue_skies/venom_spider"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:blue_skies/villager_brightlands"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:blue_skies/villager_calming_skies"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:blue_skies/villager_crystal_dunes"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:blue_skies/villager_shaded_woodlands"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:blue_skies/villager_slushlands"
+    },
+    {
+      "entity": "minecraft:villager",
+      "trophy": "trofers:blue_skies/villager_sunset_maple_forest"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:blue_skies/zombie_villager_brightlands"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:blue_skies/zombie_villager_calming_skies"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:blue_skies/zombie_villager_crystal_dunes"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:blue_skies/zombie_villager_shaded_woodlands"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:blue_skies/zombie_villager_slushlands"
+    },
+    {
+      "entity": "minecraft:zombie_villager",
+      "trophy": "trofers:blue_skies/zombie_villager_sunset_maple_forest"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

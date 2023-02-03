@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#E59796",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.zoglin"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "minecraft:zoglin"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#E59796"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.zoglin.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/zoglin",
+      "cooldown": 9600
+    }
+  }
+}

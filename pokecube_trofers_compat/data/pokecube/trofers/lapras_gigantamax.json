@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.lapras_gigantamax"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.lapras"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/fish_1",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.09090909
+  },
+  "entity": {
+    "type": "pokecube:lapras_gigantamax"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

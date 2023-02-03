@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"nethercraft"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"nethercraft:glowood_planks"
+	},
+	
+	"result":"nethercraft:glowood_slab",
+	"count":2
+}

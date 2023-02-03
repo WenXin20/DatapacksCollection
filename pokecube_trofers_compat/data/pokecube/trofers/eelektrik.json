@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.eelektrik"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.eelektrik"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/redstone_fish_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.41666666
+  },
+  "entity": {
+    "type": "pokecube:eelektrik"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

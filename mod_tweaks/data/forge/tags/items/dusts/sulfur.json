@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betterendforge:crystalline_sulphur",
+    "cinderscapes:sulfur",
+    "lotr:sulfur"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "astral:stripped_ethereal_log",
+    "astral:ethereal_wood",
+    "astral:stripped_ethereal_wood",
+    "astral:ethereal_log"
+  ]
+}

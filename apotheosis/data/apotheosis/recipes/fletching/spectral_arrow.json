@@ -1,0 +1,27 @@
+{
+	"type": "apotheosis:fletching",
+	"conditions": [
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		}
+	],
+	"ingredients": [{
+			"tag": "forge:dusts/glowstone"
+		},
+		{
+			"tag": "minecraft:arrows"
+		},
+		{
+			"tag": "forge:dusts/glowstone"
+		}
+	],
+	"result": {
+		"item": "minecraft:spectral_arrow",
+		"count": 2
+	}
+}

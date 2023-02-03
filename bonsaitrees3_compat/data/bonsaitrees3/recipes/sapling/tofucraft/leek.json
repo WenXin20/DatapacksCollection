@@ -1,0 +1,40 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "tofucraft",
+  "sapling": {
+    "item": "tofucraft:leek"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "tofucraft:leek_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "tofucraft:leek_green_stem"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "tofucraft:leek"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    },
+	{
+      "result": {
+        "item": "tofucraft:blockleek"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "tofu"
+  ]
+}

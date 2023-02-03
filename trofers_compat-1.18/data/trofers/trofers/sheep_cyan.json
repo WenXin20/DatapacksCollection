@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#169B9C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.sheep"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:sheep",
+    "nbt": "{Color: 9b}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#169B9C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.sheep.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:entities/sheep/cyan",
+      "cooldown": 9600
+    }
+  }
+}

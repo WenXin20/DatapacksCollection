@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.suicune"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.suicune"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/generic_legend",
+      "cooldown": 2400000
+    }
+  },
+  "display": {
+    "scale": 0.3
+  },
+  "entity": {
+    "type": "pokecube:suicune"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

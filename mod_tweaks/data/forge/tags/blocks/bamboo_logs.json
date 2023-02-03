@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "bambooeverything:bamboo_bundle",
+    "bambootiful:bamboo_pillar",
+    "quark:bamboo_block"
+  ]
+}

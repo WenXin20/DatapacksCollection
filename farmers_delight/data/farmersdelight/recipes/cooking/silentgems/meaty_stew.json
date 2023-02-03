@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"silentgems"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "silentgems:stew_meat"
+    }
+  ],
+  "result": {
+    "item": "silentgems:meaty_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"conditions":
+	[
+        {
+            "type":"forge:mod_loaded",
+            "modid":"buzzierbees"
+        },
+        {
+            "type":"forge:mod_loaded",
+            "modid":"charm"
+        },
+        {
+            "type": "charm:module_enabled",
+            "module": "charm:woodcutters"
+        }
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"buzzierbees:hive_planks"
+	},
+	
+	"result":"buzzierbees:hive_trapdoor",
+	"count":1
+}

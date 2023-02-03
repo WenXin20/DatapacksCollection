@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:coral_plants",
+		"#minecraft:underwater_bonemeals",
+		"minecraft:grass",
+		"minecraft:sugar_cane",
+		"minecraft:bamboo",
+		"minecraft:tall_grass",
+		"minecraft:fern",
+		"minecraft:dead_bush",
+		"minecraft:seagrass",
+		"minecraft:large_fern"
+	],
+  "optional": [
+		"#forge:grass",
+		"extcaves:moss_jungle_b",
+		"extcaves:hanging_roots",
+		"midnight:double_lumen_bud",
+		"midnight:malignant_blue_plant_surface",
+		"midnight:malignant_green_plant_surface",
+		"midnight:malignant_purple_plant_surface",
+		"midnight:malignant_red_plant_surface",
+		"midnight:tall_grass"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betternether:nether_ruby_block",
+    "combat:ruby_block",
+    "earthtojavamobs:ruby_block",
+    "gemsnjewels:ruby_block",
+    "sullys_mod:ruby_block"
+  ]
+}

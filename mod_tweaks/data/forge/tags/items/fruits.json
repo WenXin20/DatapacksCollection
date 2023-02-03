@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#forge:crops/apple",
+	"#forge:crops/banana",
+	"#forge:crops/blueberries",
+	"#forge:crops/bolloom",
+	"#forge:crops/brewberries",
+	"#forge:crops/cherries",
+	"#forge:crops/chorus",
+	"#forge:crops/crescent",
+	"#forge:crops/holly_berries",
+	"#forge:crops/joshua",
+	"#forge:crops/kabloom",
+	"#forge:crops/mulberries",
+	"#forge:crops/mulberry",
+	"#forge:crops/orange",
+	"#forge:crops/passionfruit",
+	"#forge:crops/peach",
+	"#forge:crops/pear",
+	"#forge:crops/pine",
+	"#forge:crops/pineapple",
+	"#forge:crops/scalefruit",
+	"#forge:crops/strawberries",
+	"#forge:crops/strawberry",
+	"#forge:crops/tomato",
+	"#forge:crops/yucca"
+  ]
+}

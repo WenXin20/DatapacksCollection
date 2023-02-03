@@ -1,0 +1,41 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"midnight",
+  "sapling": {
+    "item": "midnight:glob_fungus"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "midnight:glob_fungus_stem"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "midnight:dark_stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "midnight:glob_fungus_hat"
+      },
+      "rolls": 1,
+      "chance": 0.1
+    },
+    {
+      "result": {
+        "item": "midnight:glob_fungus"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

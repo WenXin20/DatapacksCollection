@@ -1,0 +1,16 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"zycraft"
+	}
+  ],
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zycraft:aluminium_ore"
+  },
+  "result": "zycraft:aluminium",
+  "experience": 0.35,
+  "cookingtime": 200
+}

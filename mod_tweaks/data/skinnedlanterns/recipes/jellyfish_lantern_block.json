@@ -1,0 +1,26 @@
+{
+  "conditions":
+  [
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"skinnedlanterns"
+	},
+	{
+	  "type":"forge:mod_loaded",
+	  "modid":"jellyfishing"
+	}
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lantern"
+    },
+    {
+      "item": "jellyfishing:jellyfish_jelly"
+    }
+  ],
+  "result": {
+    "item": "skinnedlanterns:jellyfish_lantern_block",
+    "count": 1
+  }
+}

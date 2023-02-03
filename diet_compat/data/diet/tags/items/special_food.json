@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"farmersdelight:honey_glazed_ham_block","required":false},
+    {"id":"farmersdelight:roast_chicken_block","required":false},
+    {"id":"farmersdelight:shepherds_pie_block","required":false},
+    {"id":"farmersdelight:stuffed_pumpkin_block","required":false},
+    {"id":"farmersrespite:coffee_cake","required":false},
+    {"id":"farmersrespite:rose_hip_pie","required":false},
+    {"id":"lilwings:crimson_cake","required":false},
+    {"id":"lilwings:golden_cake","required":false}
+  ]
+}

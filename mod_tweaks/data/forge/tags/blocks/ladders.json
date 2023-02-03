@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#quark:ladders",
+	"autumnity:maple_ladder",
+    "betternether:anchor_tree_ladder",
+    "betternether:mushroom_ladder",
+    "betternether:mushroom_fir_ladder",
+    "betternether:nether_sakura_ladder",
+    "betternether:reeds_ladder",
+    "betternether:rubeus_ladder",
+    "betternether:stalagnate_planks_ladder",
+    "betternether:wart_ladder",
+    "betternether:willow_ladder",
+	"buildersaddition:iron_ladder",
+	"buildersaddition:iron_ladder_rough",
+	"endergetic:poise_ladder",
+	"engineersdecor:metal_rung_ladder",
+	"engineersdecor:treated_wood_ladder",
+	"enhanced_mushrooms:brown_mushroom_ladder",
+	"enhanced_mushrooms:glowshroom_ladder",
+	"enhanced_mushrooms:red_mushroom_ladder",
+	"lotr:mallorn_ladder",
+	"minecraft:ladder",
+	"multibeds:ladder",
+	"nethercraft:glowood_ladder",
+	"swampexpansion:willow_ladder",
+	"worldofwonder:stem_ladder"
+  ]
+}

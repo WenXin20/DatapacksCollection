@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "modid": "dummmmmmy",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#672323",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.dummmmmmy.target_dummy"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "dummmmmmy:target_dummy"
+  },
+  "colors": {
+    "base": "#3E2D1D",
+    "accent": "#672323"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.player.attack.strong"
+    }
+  }
+}

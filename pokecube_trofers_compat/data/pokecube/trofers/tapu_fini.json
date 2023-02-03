@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.tapu_fini"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.tapu_fini"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/generic_legend",
+      "cooldown": 2400000
+    }
+  },
+  "display": {
+    "offset": {
+      "y": 1.0
+    },
+    "scale": 0.45
+  },
+  "entity": {
+    "type": "pokecube:tapu_fini",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

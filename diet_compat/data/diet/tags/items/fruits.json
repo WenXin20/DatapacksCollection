@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cocoa_beans",
+    {"id":"#pokecube:berries","required":false},
+    {"id":"domesticationinnovation:rotten_apple","required":false},
+    {"id":"ecologics:coconut_slice","required":false},
+    {"id":"ecologics:cooked_prickly_pear","required":false},
+    {"id":"ecologics:prickly_pear","required":false},
+    {"id":"ecologics:tropical_stew","required":false},
+    {"id":"farmersrespite:coffee_berries","required":false},
+    {"id":"gobberdelight:blue_pie_slice","required":false},
+    {"id":"gobberdelight:red_pie_slice","required":false},
+    {"id":"hauntedharvest:grim_apple","required":false},
+    {"id":"hauntedharvest:rotten_apple","required":false},
+    {"id":"hedgehog:kiwi","required":false},
+    {"id":"lilwings:crimson_cake","required":false},
+    {"id":"lilwings:crimson_cocoa_beans","required":false},
+    {"id":"lilwings:golden_cake","required":false},
+    {"id":"minecolonies:chorus_bread","required":false},
+    {"id":"mysticalworld:gall_apple","required":false},
+    {"id":"overweight_farming:melon_juice","required":false},
+    {"id":"pokecube:berryjuice","required":false},
+    {"id":"pokecube_legends:golden_sweet_berries","required":false},
+    {"id":"thermal:jelly","required":false}
+  ]
+}

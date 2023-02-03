@@ -1,0 +1,41 @@
+{
+  "name": {
+    "color": "#A83735",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.salmon"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "x": -0.75,
+      "y": 1.0
+    },
+    "rotation": {
+      "z": -90.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:salmon"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#A83735"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.salmon.flop"
+    },
+    "rewards": {
+      "lootTable": "trofers:inject/salmon",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 800
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#6990A1",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.infested_swarmer"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:infested_swarmer"
+  },
+  "colors": {
+    "base": "#20192B",
+    "accent": "#6990A1"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "blue_skies:entity.infested_swarmer.idle"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/infested_swarmer",
+      "cooldown": 9600
+    }
+  }
+}

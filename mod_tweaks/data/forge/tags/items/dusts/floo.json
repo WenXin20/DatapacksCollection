@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "floocraftft:floopowder_eight",
+    "floocraftft:floopowder_four",
+    "floocraftft:floopowder_infinite",
+    "floocraftft:floopowder_one",
+    "floocraftft:floopowder_two"
+  ]
+}

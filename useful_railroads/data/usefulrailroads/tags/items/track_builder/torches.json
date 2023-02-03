@@ -1,0 +1,35 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:redstone_torch",
+		"minecraft:torch"
+	],
+	"optional": [
+		"bambooblocks:bamboo_torch",
+		"druidcraft:fiery_torch",
+		"extendednether:soul_torch",
+		"iceandfire:burnt_torch",
+		"iceandfire:dread_torch",
+		"inspirations:torch_lever",
+		"lotr:blue_mallorn_torch",
+		"lotr:gold_mallorn_torch",
+		"lotr:green_mallorn_torch",
+		"lotr:high_elven_torch",
+		"lotr:orc_torch",
+		"nethercraft:charcoal_torch",
+		"nethercraft:foulite_torch",
+		"silentgear:stone_torch",
+		"tofucraft:tofutorch_ishi",
+		"tofucraft:tofutorch_kinu",
+		"tofucraft:tofutorch_metal",
+		"tofucraft:tofutorch_momen",
+		"upgrade_aquatic:jelly_torch_blue",
+		"upgrade_aquatic:jelly_torch_green",
+		"upgrade_aquatic:jelly_torch_orange",
+		"upgrade_aquatic:jelly_torch_pink",
+		"upgrade_aquatic:jelly_torch_purple",
+		"upgrade_aquatic:jelly_torch_red",
+		"upgrade_aquatic:jelly_torch_white",
+		"upgrade_aquatic:jelly_torch_yellow"
+	]
+}

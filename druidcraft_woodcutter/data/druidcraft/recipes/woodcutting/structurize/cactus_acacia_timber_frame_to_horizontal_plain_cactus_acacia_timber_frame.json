@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:cactus_acacia_timber_frame"
+	},
+	
+	"result":"structurize:horizontal_plain_cactus_acacia_timber_frame",
+	"count":1
+}

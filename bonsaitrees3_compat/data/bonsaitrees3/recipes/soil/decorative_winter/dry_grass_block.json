@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "decorative_winter",
+	"tickModifier": 1.2,
+	"soil": {
+		"item": "decorative_winter:dry_grass_block"
+	},
+	"compatibleSoilTags": ["grass"],
+	"display": {
+		"block": "decorative_winter:dry_grass_block"
+	}
+}

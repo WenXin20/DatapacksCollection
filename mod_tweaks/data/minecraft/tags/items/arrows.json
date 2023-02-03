@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#iceandfire:dragon_arrows",
+    "minecolonies:firearrow"
+  ]
+}

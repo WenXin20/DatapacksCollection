@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.vikavolt"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.vikavolt"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/redstone_spider_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.33333334
+  },
+  "entity": {
+    "type": "pokecube:vikavolt"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

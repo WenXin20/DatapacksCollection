@@ -1,0 +1,1 @@
+{"conditions":[{"type":"forge:mod_loaded","modid":"midnight"},{"type":"forge:mod_loaded","modid":"charm"},{"type": "charm:module_enabled","module": "charm:woodcutters"}],"type":"minecraft:woodcutting","ingredient":{"item":"midnight:dead_wood_log"},"result":"midnight:dark_stick","count":8}

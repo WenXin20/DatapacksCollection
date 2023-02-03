@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"forbidden_arcanus"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/beetroot"
+    },
+    {
+      "tag": "forge:crops/beetroot"
+    },
+    {
+      "tag": "forge:crops/beetroot"
+    }
+  ],
+  "result": {
+    "item": "forbidden_arcanus:edelwood_beetroot_soup_bucket"
+  },
+  "container": {
+    "item": "forbidden_arcanus:edelwood_bucket"
+  }
+}

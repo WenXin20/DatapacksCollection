@@ -1,0 +1,27 @@
+{
+	"type": "apotheosis:fletching",
+	"conditions": [
+		{
+			"type": "apotheosis:module",
+			"module": "village"
+		},
+  		{
+  			"type":"forge:mod_loaded",
+  			"modid":"apotheosis"
+  		}
+	],
+	"ingredients": [{
+			"tag": "forge:obsidian"
+		},
+		{
+			"tag": "forge:rods/wooden"
+		},
+		{
+			"tag": "forge:feathers"
+		}
+	],
+	"result": {
+		"item": "apotheosis:obsidian_arrow",
+		"count": 6
+	}
+}

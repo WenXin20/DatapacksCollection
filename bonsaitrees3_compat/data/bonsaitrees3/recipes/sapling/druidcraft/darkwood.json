@@ -1,0 +1,49 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod":"druidcraft",
+  "sapling": {
+    "item": "druidcraft:darkwood_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "druidcraft:darkwood_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "minecraft:apple"
+      },
+      "rolls": 1,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "druidcraft:darkwood_leaves"
+      },
+      "rolls": 1,
+      "chance": 0.1,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "druidcraft:darkwood_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

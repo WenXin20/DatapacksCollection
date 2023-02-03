@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "lotr:flax", "required":false },
+    { "id": "lotr:flax_crop", "required":false },
+    { "id": "silentgear:flax_fiber", "required":false },
+    { "id": "silentgear:flax_plant", "required":false }
+  ]
+}

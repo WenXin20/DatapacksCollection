@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "rechiseled",
+	"tickModifier": 1.5,
+	"soil": {
+		"item": "rechiseled:dirt_blobs"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "rechiseled:dirt_blobs"
+	}
+}

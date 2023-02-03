@@ -1,0 +1,30 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"rats"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "rats:herb_bundle"
+    },
+    {
+      "item": "rats:plague_leech"
+    },
+    {
+      "item": "rats:treacle"
+    }
+  ],
+  "result": {
+    "item": "rats:plague_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

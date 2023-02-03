@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "netherex:rime_crystal", "required": false }
+  ]
+}

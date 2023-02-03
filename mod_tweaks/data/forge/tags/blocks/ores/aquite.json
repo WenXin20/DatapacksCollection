@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "blue_skies:everbright_aquite_ore",
+    "blue_skies:everdawn_aquite_ore"
+  ]
+}

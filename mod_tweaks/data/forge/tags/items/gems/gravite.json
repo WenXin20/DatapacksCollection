@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "polyores:gravite_gem", "required":false }
+  ]
+}

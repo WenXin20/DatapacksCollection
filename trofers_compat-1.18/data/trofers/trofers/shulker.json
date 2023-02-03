@@ -1,0 +1,33 @@
+{
+  "name": {
+    "color": "#986A97",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.shulker"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:shulker",
+    "nbt": "{Color:16b}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#986A97"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.shulker.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:levitation",
+        "duration": 100
+      }
+    }
+  }
+}

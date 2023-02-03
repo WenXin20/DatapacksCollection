@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#minecraft:wooden_doors",
+    "betternether:bone_cincinnasite_door",
+    "noel:frosted_door",
+    "noel:peppermint_door",
+    "tofucraft:tofudoor_ishi",
+    "tofucraft:tofudoor_kinu",
+    "tofucraft:tofudoor_metal",
+    "tofucraft:tofudoor_momen"
+  ]
+}

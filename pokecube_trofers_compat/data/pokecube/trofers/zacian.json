@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.zacian"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.zacian"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/iron_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "pokecube:zacian"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

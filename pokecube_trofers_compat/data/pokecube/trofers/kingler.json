@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.kingler"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.kingler"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/shear_fish",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "pokecube:kingler"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "jellyfishing:coral_plant",
+    "jellyfishing:tube_plant",
+    "upgrade_aquatic:elder_prismarine_coral_fan",
+    "upgrade_aquatic:prismarine_coral_fan"
+  ]
+}

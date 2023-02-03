@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"structurize"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"forge:cactus_cactus_timber_frame"
+	},
+	
+	"result":"structurize:one_crossed_rl_cactus_cactus_timber_frame",
+	"count":1
+}

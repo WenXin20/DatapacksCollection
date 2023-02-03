@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "foragecraft:leek", "required":false },
+    { "id": "tofucraft:leek", "required":false }
+  ]
+}

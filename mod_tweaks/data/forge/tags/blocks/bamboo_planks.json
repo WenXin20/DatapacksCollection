@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "bambooblocks:bamboo_planks",
+    "bambooblocks:horizontal_bamboo_planks",
+    "bambootiful:bamboo_planks",
+    "bambootiful:vertical_bamboo_planks",
+    "enhanced_vanilla_remastered:bamboothatching"
+  ]
+}

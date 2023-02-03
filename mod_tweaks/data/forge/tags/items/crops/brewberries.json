@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "blue_skies:black_brewberry", "required":false },
+    { "id": "blue_skies:brewberry", "required":false },
+    { "id": "blue_skies:pink_brewberry", "required":false }
+  ]
+}

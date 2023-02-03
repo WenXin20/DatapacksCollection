@@ -1,0 +1,31 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"decorative_blocks"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"charm"
+		},
+		{
+			"type": "charm:module_enabled",
+			"module": "charm:woodcutters"
+		},
+		{
+			"type":"forge:mod_loaded",
+			"modid":"biomesoplenty"
+		}
+	],
+	
+	"type":"minecraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"biomesoplenty:magic_logs"
+	},
+	
+	"result":"decorative_blocks:magic_beam",
+	"count":1
+}

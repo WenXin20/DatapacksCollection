@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "atum:bone_ore",
+    "chaosawakens:fossilised_emerald_gator",
+    "chaosawakens:fossilised_ent",
+    "chaosawakens:fossilised_hercules_beetle",
+    "chaosawakens:fossilised_ruby_bug",
+    "deextinction:block_fossil",
+    "miscadditions:fossil_ore_dirt",
+    "miscadditions:fossil_ore_gravel",
+    "miscadditions:fossil_ore_stone",
+    "pokecube:fossilstone"
+  ]
+}

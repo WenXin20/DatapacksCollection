@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#C9D2DC",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.seagull"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:seagull"
+  },
+  "colors": {
+    "base": "#4D5051",
+    "accent": "#C9D2DC"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:seagull_idle"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/seagull",
+      "cooldown": 9600
+    }
+  }
+}

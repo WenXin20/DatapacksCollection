@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#aquaculture:turtle",
+    "#minecraft:fishes",
+    "aliketools:calamari",
+    "aquaculture:fish_fillet_raw",
+    "aquaculture:jellyfish",
+    "farmersdelight:cod_slice",
+    "farmersdelight:salmon_slice",
+    "flamingo_ooo:shrimp",
+    "mysticalworld:raw_squid",
+    "pandoras_creatures:crab_meat",
+    "pandoras_creatures:seahorse",
+    "quark:crab_leg",
+    "simplefarming:raw_calamari",
+    "sullys_mod:tentacle"
+  ]
+}

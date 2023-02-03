@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "acmc:flower_black_sunflower",
+    "acmc:flower_blue_sunflower",
+    "acmc:flower_cyan_sunflower",
+    "acmc:flower_red_sunflower",
+    "acmc:flower_magenta_sunflower",
+    "acmc:flower_orange_sunflower",
+    "acmc:flower_pink_sunflower",
+    "acmc:flower_white_sunflower",
+    "acmc:flower_yellow_sunflower",
+    "acmc:flower_lilac_sunflower",
+    "acmc:flower_black_peony",
+    "acmc:flower_blue_peony",
+    "acmc:flower_cyan_peony",
+    "acmc:flower_red_peony",
+    "acmc:flower_magenta_peony",
+    "acmc:flower_orange_peony",
+    "acmc:flower_pink_peony",
+    "acmc:flower_white_peony",
+    "acmc:flower_yellow_peony",
+    "acmc:flower_lilac_peony",
+    "atmospheric:tall_yucca_flower",
+    "betterendforge:umbrella_moss_tall",
+    "endergetic:poise_grass_tall",
+    "lotr:tall_wheatgrass",
+    "malum:lavender"
+  ]
+}

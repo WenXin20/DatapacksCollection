@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betterendforge:ender_dust",
+    "mahoutsukai:powdered_ender",
+    "terraqueous:ender_dust"
+  ]
+}

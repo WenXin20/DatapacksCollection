@@ -1,0 +1,258 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "trofers:random_trophy_chance"
+    }
+  ],
+  "trophyBase": "trofers:large_plate",
+  "trophies": [
+    {
+      "entity": "minecraft:axolotl",
+      "trophy": "trofers:axolotl"
+    },
+    {
+      "entity": "minecraft:axolotl",
+      "trophy": "trofers:axolotl_blue"
+    },
+    {
+      "entity": "minecraft:axolotl",
+      "trophy": "trofers:axolotl_cyan"
+    },
+    {
+      "entity": "minecraft:axolotl",
+      "trophy": "trofers:axolotl_gold"
+    },
+    {
+      "entity": "minecraft:axolotl",
+      "trophy": "trofers:axolotl_wild"
+    },
+    {
+      "entity": "minecraft:cat",
+      "trophy": "trofers:cat_jellie"
+    },
+    {
+      "entity": "minecraft:dolphin",
+      "trophy": "trofers:dolphin"
+    },
+    {
+      "entity": "minecraft:donkey",
+      "trophy": "trofers:donkey"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_black"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_black_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_black_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_black_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_black_white_field"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_brown"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_brown_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_brown_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_brown_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_brown_white_field"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_chestnut"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_chestnut_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_chestnut_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_chestnut_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_chestnut_white_field"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_creamy"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_creamy_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_creamy_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_creamy_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_creamy_white_field"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_dark_brown"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_dark_brown_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_dark_brown_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_dark_brown_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_dark_brown_white_field"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_gray"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_gray_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_gray_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_gray_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_gray_white_field"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_white"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_white_black_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_white_dots"
+    },
+    {
+      "entity": "minecraft:horse",
+      "trophy": "trofers:horse_white_field"
+    },
+    {
+      "entity": "minecraft:iron_golem",
+      "trophy": "trofers:iron_golem"
+    },
+    {
+      "entity": "minecraft:llama",
+      "trophy": "trofers:llama"
+    },
+    {
+      "entity": "minecraft:llama",
+      "trophy": "trofers:llama_brown"
+    },
+    {
+      "entity": "minecraft:llama",
+      "trophy": "trofers:llama_gray"
+    },
+    {
+      "entity": "minecraft:llama",
+      "trophy": "trofers:llama_white"
+    },
+    {
+      "entity": "minecraft:mule",
+      "trophy": "trofers:mule"
+    },
+    {
+      "entity": "minecraft:ocelot",
+      "trophy": "trofers:ocelot"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda_aggressive"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda_brown"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda_lazy"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda_playful"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda_weak"
+    },
+    {
+      "entity": "minecraft:panda",
+      "trophy": "trofers:panda_worried"
+    },
+    {
+      "entity": "minecraft:polar_bear",
+      "trophy": "trofers:polar_bear"
+    },
+    {
+      "entity": "minecraft:skeleton_horse",
+      "trophy": "trofers:skeleton_horse"
+    },
+    {
+      "entity": "minecraft:turtle",
+      "trophy": "trofers:turtle"
+    },
+    {
+      "entity": "minecraft:zombie_horse",
+      "trophy": "trofers:zombie_horse"
+    }
+  ],
+  "type": "trofers:add_entity_trophy"
+}

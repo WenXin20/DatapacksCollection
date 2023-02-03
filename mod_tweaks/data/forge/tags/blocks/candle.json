@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#buzzier_bees:candles",
+	"#cavesandcliffs:candles",
+	"#quark:candles",
+	"buildersaddition:soul_candle",
+	"buildersaddition:candle",
+	"buildersaddition:large_soul_candle",
+	"buildersaddition:large_candle",
+	"eidolon:candle",
+	"extlights:light_candle",
+	"extlights:light_candle_large",
+	"extlights:light_candlestick",
+	"noel:candle"
+  ]
+}

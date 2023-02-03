@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "restored_earth",
+	"tickModifier": 0.8,
+	"soil": {
+		"item": "restored_earth:mud_bucket"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"fluid": "restored_earth:mud"
+	}
+}

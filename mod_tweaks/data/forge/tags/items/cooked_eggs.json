@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "betteranimalsplus:fried_egg",
+    "simplefarming:cooked_egg",
+    "xercamod:item_fried_egg"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#minecraft:wooden_pressure_plates",
+	"betternether:bone_plate",
+	"betternether:cincinnasite_plate"
+  ]
+}

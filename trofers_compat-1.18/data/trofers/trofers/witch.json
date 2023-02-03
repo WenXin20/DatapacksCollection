@@ -1,0 +1,33 @@
+{
+  "name": {
+    "color": "#A39482",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.witch"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:witch"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#A39482"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.witch.ambient"
+    },
+    "rewards": {
+      "statusEffect": {
+        "effect": "minecraft:regeneration",
+        "duration": 600
+      },
+      "cooldown": 9600
+    }
+  }
+}

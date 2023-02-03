@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.rapidash"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.rapidash"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/coal_cow_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.29411763
+  },
+  "entity": {
+    "type": "pokecube:rapidash"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

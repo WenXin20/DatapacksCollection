@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"astral"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"astral:ethereal_planks"
+	},
+	
+	"result":"astral:metaphoric_bone",
+	"count":2
+}

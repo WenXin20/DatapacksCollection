@@ -1,0 +1,50 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "terraqueous",
+  "sapling": {
+    "item": "terraqueous:mango_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "terraqueous:mango_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "terraqueous:mango_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "terraqueous:mango_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    },
+    {
+      "result": {
+        "item": "terraqueous:mango"
+      },
+      "rolls": 1,
+      "chance": 0.05,
+	  "requiresBees":true
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

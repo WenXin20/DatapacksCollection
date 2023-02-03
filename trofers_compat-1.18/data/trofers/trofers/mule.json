@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#89492C",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.mule"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "minecraft:mule"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#89492C"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.mule.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/mule",
+      "cooldown": 9600
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#forge:fillet_knife",
+    "#forge:knife",
+    "#forge:knives",
+    "#forge:tools/knives",
+	"#mysticalworld:knives"
+  ]
+}

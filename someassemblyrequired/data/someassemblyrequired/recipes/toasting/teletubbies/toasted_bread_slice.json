@@ -1,0 +1,19 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+			"modid":"thermal"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"someassemblyrequired"
+	}
+  ],
+  "type": "someassemblyrequired:toasting",
+  "ingredient": {
+    "item": "minecraft:cookie"
+  },
+  "result": {
+    "item": "teletubbies:toast"
+  }
+}

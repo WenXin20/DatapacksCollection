@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "modid": "betterendforge",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#404040",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.betterendforge.shadow_walker"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "betterendforge:shadow_walker"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#010203"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "betterendforge:betterendforge.entity.shadow_walker"
+    },
+    "rewards": {
+      "lootTable": "betterendforge:entities/shadow_walker",
+      "cooldown": 9600,
+      "statusEffect": {
+        "effect": "minecraft:blindness",
+        "duration": 200
+      }
+    }
+  }
+}

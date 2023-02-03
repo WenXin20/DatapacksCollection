@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#D5957B",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.hoglin"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.25
+  },
+  "entity": {
+    "type": "minecraft:hoglin",
+    "nbt": "{IsImmuneToZombification:1b}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D5957B"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.hoglin.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/hoglin",
+      "cooldown": 9600
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "forbidden_arcanus",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "forbidden_arcanus:edelwood_lava_bucket"
+	},
+	"compatibleSoilTags": ["lava"],
+	"display": {
+		"fluid": "minecraft:lava"
+	}
+}

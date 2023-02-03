@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+	"#minecraft:wooden_trapdoors",
+    "extendednether:warped_trapdoor",
+    "extendednether:crimson_trapdoor",
+    "noel:frosted_trapdoor",
+    "noel:peppermint_trapdoor"
+  ]
+}

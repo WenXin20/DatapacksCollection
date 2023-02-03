@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"sakurarosea"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"sakurarosea:sakura_logs"
+	},
+	
+	"result":"sakurarosea:sakura_boat",
+	"count":1
+}

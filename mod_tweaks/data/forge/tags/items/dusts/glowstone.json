@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "byg:blue_glowcane_dust",
+    "byg:pink_glowcane_dust",
+    "byg:purple_glowcane_dust",
+    "byg:red_glowcane_dust",
+    "lotr:glowstone_crystal"
+  ]
+}

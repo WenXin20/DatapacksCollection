@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#minecraft:corals",
+    "betterendforge:bubble_coral",
+    "jellyfishing:coral_plant",
+    "jellyfishing:tube_plant",
+    "upgrade_aquatic:elder_prismarine_coral_shower",
+    "upgrade_aquatic:prismarine_coral_shower"
+  ]
+}

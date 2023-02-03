@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "crumbs:birch_barrel", "required": false },
+    { "id": "crumbs:crimson_barrel", "required": false },
+    { "id": "crumbs:dark_oak_barrel", "required": false },
+    { "id": "crumbs:jungle_barrel", "required": false },
+    { "id": "crumbs:oak_barrel", "required": false },
+    { "id": "crumbs:warped_barrel", "required": false },
+    { "id": "domum_ornamentum:blockbarreldeco_onside", "required": false },
+    { "id": "domum_ornamentum:blockbarreldeco_standing", "required": false }
+  ]
+}

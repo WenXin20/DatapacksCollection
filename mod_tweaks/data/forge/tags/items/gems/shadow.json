@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "eidolon:shadow_gem", "required": false }
+  ]
+}

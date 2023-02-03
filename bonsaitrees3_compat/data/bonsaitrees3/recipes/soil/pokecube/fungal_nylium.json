@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "pokecube_legends",
+	"tickModifier": 1.0,
+	"soil": {
+		"item": "pokecube_legends:fungal_nylium"
+	},
+	"compatibleSoilTags": ["mycelium", "fungal_nylium"],
+	"display": {
+		"block": "pokecube_legends:fungal_nylium"
+	}
+}

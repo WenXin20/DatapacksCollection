@@ -1,0 +1,31 @@
+{
+  "name": {
+    "color": "#AB9E94",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.cat"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:cat",
+    "nbt": "{Sitting:1b,CatType:7}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#AB9E94"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.cat.ambient"
+    },
+    "rewards": {
+      "lootTable": "minecraft:gameplay/cat_morning_gift",
+      "cooldown": 9600
+    }
+  }
+}

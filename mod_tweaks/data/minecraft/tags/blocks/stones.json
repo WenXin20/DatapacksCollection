@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "byg:overgrown_stone",
+    "extcaves:stone",
+    "moolands:moo_rock"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "#forge:dirt",
+    "byg:ivis_phylium",
+    "byg:overgrown_stone"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"upgrade_aquatic"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"tag":"upgrade_aquatic:driftwood_logs"
+	},
+	
+	"result":"upgrade_aquatic:vertical_driftwood_planks",
+	"count":4
+}

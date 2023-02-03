@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "evolved_rpg:everice_gem", "required":false }
+  ]
+}

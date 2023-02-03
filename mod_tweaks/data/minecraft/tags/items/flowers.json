@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "sullys_mod:lumiflower", "required": false },
+    { "id": "sullys_mod:moss", "required": false },
+    { "id": "sullys_mod:thorns", "required": false },
+    { "id": "sullys_mod:wither_moss", "required": false }
+  ]
+}

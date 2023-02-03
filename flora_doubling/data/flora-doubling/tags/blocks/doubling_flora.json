@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+		"#minecraft:coral_plants",
+		"#minecraft:corals",
+		"#minecraft:flowers",
+		"#minecraft:small_flowers",
+		"#minecraft:tall_flowers"
+    ],
+    "optional": []
+}

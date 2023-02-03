@@ -1,0 +1,24 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"cutepuppymod"
+		}
+	],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " X ",
+        "XXX",
+        " X "
+    ],
+    "key": {
+        "X": {
+            "item": "cutepuppymod:endercore"
+        }
+    },
+    "result": {
+        "item": "minecraft:ender_pearl",
+        "count": 1
+    }
+}

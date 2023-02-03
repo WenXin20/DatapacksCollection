@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "pokecube_legends",
+	"tickModifier": 1.4,
+	"soil": {
+		"item": "pokecube_legends:rooted_corrupted_dirt"
+	},
+	"compatibleSoilTags": ["corrupted", "dirt"],
+	"display": {
+		"block": "pokecube_legends:rooted_corrupted_dirt"
+	}
+}

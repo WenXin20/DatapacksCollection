@@ -1,0 +1,12 @@
+{
+	"type": "bonsaitrees3:soil",
+	"mod": "minecraft",
+	"tickModifier": 1.2,
+	"soil": {
+		"item": "minecraft:rooted_dirt"
+	},
+	"compatibleSoilTags": ["dirt"],
+	"display": {
+		"block": "minecraft:rooted_dirt"
+	}
+}

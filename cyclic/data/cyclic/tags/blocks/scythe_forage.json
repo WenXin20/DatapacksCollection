@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:small_flowers",
+		"minecraft:bamboo",
+		"minecraft:brown_mushroom",
+		"minecraft:brown_mushroom_block",
+		"minecraft:kelp",
+		"minecraft:lilac",
+		"minecraft:lily_pad",
+		"minecraft:melon",
+		"minecraft:mushroom_stem",
+		"minecraft:peony",
+		"minecraft:pumpkin",
+		"minecraft:red_mushroom",
+		"minecraft:red_mushroom_block",
+		"minecraft:rose_bush",
+		"minecraft:sugar_cane",
+		"minecraft:sunflower",
+		"minecraft:sweet_berry_bush",
+		"minecraft:vine"
+	],
+	"optional": [
+		"#forge:mushrooms",
+		"#forge:vines",
+		"#mubble:mushroom_blocks",
+		"#mubble:mushrooms",
+		"#silentgems:glowroses",
+		"midnight:suavis",
+		"rediscovered:empty_peony_bush",
+		"rediscovered:empty_rose_bush"
+	]
+}

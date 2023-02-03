@@ -1,0 +1,30 @@
+{
+  "name": {
+    "color": "#D30000",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.pokecube.xurkitree"
+      }
+    ]
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "pokecube_mobs:mobs.xurkitree"
+    },
+    "rewards": {
+      "lootTable": "pokecube:entities/redstone_creeper_2",
+      "cooldown": 9600
+    }
+  },
+  "display": {
+    "scale": 0.13157895
+  },
+  "entity": {
+    "type": "pokecube:xurkitree"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#D30000"
+  }
+}

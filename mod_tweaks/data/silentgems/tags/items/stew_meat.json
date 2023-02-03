@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "aliketools:raw_horse",
+    "aquaculture:frog_legs_raw",
+    "exoticbirds:raw_birdmeat",
+    "flamingo_ooo:suspicious_chicken",
+    "gentlefawn:venison",
+    "miscadditions:frog_leg",
+    "mysticalworld:venison",
+    "natureplus:raw_duck",
+    "pandoras_creatures:bufflon_beef",
+    "quark:frog_leg",
+    "simple_ostriches:raw_ostrich_meat",
+    "simplefarming:raw_horse_meat",
+    "sullys_mod:dodo_drumstick"
+  ]
+}

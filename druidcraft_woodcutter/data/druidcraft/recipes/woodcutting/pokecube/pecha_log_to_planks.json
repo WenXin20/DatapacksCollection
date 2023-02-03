@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"pokecube"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"pokecube:log_pecha"
+	},
+	
+	"result":"pokecube:plank_pecha",
+	"count":4
+}

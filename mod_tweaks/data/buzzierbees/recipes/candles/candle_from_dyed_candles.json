@@ -1,0 +1,23 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"buzzierbees"
+		}
+	],
+	
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    	{
+            "tag": "buzzierbees:dyed_candles"
+        },
+        {
+			"tag": "forge:wax"
+        }
+    ],
+    "result": {
+        "item": "buzzierbees:candle",
+        "count": 1
+    }
+}

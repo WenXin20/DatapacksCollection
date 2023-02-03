@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "modid": "supplementaries",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#73100B",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.supplementaries.red_merchant"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "supplementaries:red_merchant"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#73100B"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wandering_trader.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/supplementaries/red_merchant",
+      "cooldown": 19200
+    }
+  }
+}

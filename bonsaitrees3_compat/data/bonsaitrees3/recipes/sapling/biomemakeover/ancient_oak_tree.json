@@ -1,0 +1,49 @@
+{
+  "type": "bonsaitrees3:sapling",
+  "mod": "biomemakeover",
+  "sapling": {
+    "item": "biomemakeover:ancient_oak_sapling"
+  },
+  "drops": [
+    {
+      "result": {
+        "item": "biomemakeover:ancient_oak_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+    {
+      "result": {
+        "item": "minecraft:stick"
+      },
+      "rolls": 3,
+      "chance": 0.2
+    },
+    {
+      "result": {
+        "item": "biomemakeover:ancient_oak_leaves"
+      },
+      "rolls": 2,
+      "chance": 0.2,
+	  "requiresSilkTouch": true
+    },
+    {
+      "result": {
+        "item": "biomemakeover:ancient_oak_sapling"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    },
+    {
+      "result": {
+        "item": "biomemakeover:ivy"
+      },
+      "rolls": 1,
+      "chance": 0.05
+    }
+  ],
+  "compatibleSoilTags": [
+    "grass",
+    "dirt"
+  ]
+}

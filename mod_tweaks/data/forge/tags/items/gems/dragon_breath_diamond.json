@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "useless_sword:dragon_breath_diamond", "required":false }
+  ]
+}

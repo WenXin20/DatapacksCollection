@@ -1,0 +1,30 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"lucky"
+		}
+	],
+	
+    "type": "crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SDS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "lucky:lucky_block"
+        },
+        "S": {
+            "tag": "forge:stone"
+        }
+    },
+    "result": {
+        "item": "lucky:marble_lucky_block"
+    }
+}

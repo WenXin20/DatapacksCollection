@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:soul_sand"
+  ],
+  "optional": [
+	"#forge:sand/colorless",
+	"betterendforge:endstone_dust",
+	"byg:black_sand",
+	"byg:blue_sand",
+	"byg:pink_sand",
+	"byg:purple_sand",
+	"byg:quartzite_sand",
+	"byg:white_sand",
+	"byg:nylium_soul_sand",
+	"charm:redstone_sand",
+	"create:limesand",
+	"engineersdecor:dense_grit_sand_block",
+	"extcaves:marlstone_powder",
+	"infernalexp:glowdust_sand",
+	"infernalexp:silt",
+	"inventorypets:nether_spawn",
+	"forbidden_arcanus:soulless_sand",
+	"lotr:white_sand",
+	"productivebees:sand_nest",
+	"productivebees:soul_sand_nest",
+	"quark:gravisand"
+  ]
+}

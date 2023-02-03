@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "blue_skies",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#D3A06E",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.blue_skies.seclam"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "blue_skies:seclam",
+	"nbt": "{Open: 0b}"
+  },
+  "colors": {
+    "base": "#8E3139",
+    "accent": "#D3A06E"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.turtle.hurt"
+    },
+    "rewards": {
+      "lootTable": "blue_skies:entities/seclam",
+      "cooldown": 9600
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [],
+  "optional": [
+    "gaiadimension:purple_agate_log",
+    "gaiadimension:stripped_purple_agate_log",
+    "gaiadimension:purple_agate_wood",
+    "gaiadimension:stripped_purple_agate_wood"
+  ]
+}

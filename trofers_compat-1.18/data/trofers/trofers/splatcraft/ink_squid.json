@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "modid": "splatcraft",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#F9801D",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.splatcraft.ink_squid"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35,
+    "rotation": {
+      "y": 180.0
+    }
+  },
+  "entity": {
+    "type": "splatcraft:ink_squid",
+    "nbt": "{Color: 14640154}"
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#F9801D"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "splatcraft:squid_bumper_pop"
+    },
+    "rewards": {
+      "lootTable": "splatcraft:blocks/canvas",
+      "cooldown": 24600
+    }
+  }
+}

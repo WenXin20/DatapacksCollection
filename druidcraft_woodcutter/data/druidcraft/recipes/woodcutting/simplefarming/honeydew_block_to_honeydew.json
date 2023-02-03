@@ -1,0 +1,19 @@
+{
+	"conditions":
+	[
+		{
+			"type":"forge:mod_loaded",
+			"modid":"simplefarming"
+		}
+	],
+	
+	"type":"druidcraft:woodcutting",
+	
+	"ingredient":
+	{
+		"item":"simplefarming:honeydew_block"
+	},
+	
+	"result":"simplefarming:honeydew",
+	"count":4
+}

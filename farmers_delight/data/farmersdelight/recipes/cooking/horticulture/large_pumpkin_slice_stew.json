@@ -1,0 +1,28 @@
+{
+  "conditions":[
+	{
+		"type":"forge:mod_loaded",
+		"modid":"autumnity"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"horticulture"
+	},
+	{
+		"type":"forge:mod_loaded",
+		"modid":"farmersdelight"
+	}
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "autumnity:large_pumpkin_slice"
+    }
+  ],
+  "result": {
+    "item": "horticulture:pumpkin_stew"
+  },
+  "container": {
+    "item": "penguinlib:deep_bowl"
+  }
+}

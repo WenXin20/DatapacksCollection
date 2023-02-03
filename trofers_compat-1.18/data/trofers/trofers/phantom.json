@@ -1,0 +1,34 @@
+{
+  "name": {
+    "color": "#5161A5",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.minecraft.phantom"
+      }
+    ]
+  },
+  "display": {
+    "offset": {
+      "y": 1.0
+    },
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:phantom",
+    "animated": true
+  },
+  "colors": {
+    "base": "#606060",
+    "accent": "#5161A5"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.phantom.ambient"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/phantom",
+      "cooldown": 9600
+    }
+  }
+}

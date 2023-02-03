@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "modid": "alexsmobs",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "name": {
+    "color": "#FFA13D",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.alexsmobs.platypus"
+      }
+    ]
+  },
+  "display": {
+    "scale": 0.35
+  },
+  "entity": {
+    "type": "alexsmobs:platypus",
+    "nbt": "{Fedora:1b,CustomName:\u0027{\"text\":\"perry\"}\u0027}"
+  },
+  "colors": {
+    "base": "#4BA1AB",
+    "accent": "#FFA13D"
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:platypus_idle"
+    },
+    "rewards": {
+      "lootTable": "trofers:trophies/alexsmobs/platypus",
+      "cooldown": 9600
+    }
+  }
+}
