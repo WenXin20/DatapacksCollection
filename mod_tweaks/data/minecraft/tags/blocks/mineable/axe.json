@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "craftingstation:crafting_station", "required": false },
+    { "id": "craftingstation:crafting_station_slab", "required": false }
+  ]
+}
