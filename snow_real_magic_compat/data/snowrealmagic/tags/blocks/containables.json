@@ -52,6 +52,7 @@
     { "id": "botania:buried_yellow_petal","required": false },
     { "id": "byg:vermilion_sculk_tendrils","required": false },
     { "id": "cfm:rock_path","required": false },
+    { "id": "darkerdepths:glowshroom","required": false },
     { "id": "decorative_winter:snowy_thin_branch","required": false },
     { "id": "decorative_winter:thin_branch","required": false },
     { "id": "druidcraftrg:hemp_crop","required": false },
