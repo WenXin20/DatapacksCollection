@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "upgrade_aquatic:stripped_riverwood"
+    "item": "upgrade_aquatic:stripped_river_wood"
   },
   "result": "upgrade_aquatic:stripped_river_post",
   "count": 4

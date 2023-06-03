@@ -1,10 +1,9 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "aquaculture:driftwood",
-    "enhanced_vanilla_remastered:mossyoaklog",
-    "productivebees:oak_wood_nest",
-    "simplefarming:fruit_log"
+  "values": [
+    { "id": "aquaculture:driftwood", "required": false },
+    { "id": "enhanced_vanilla_remastered:mossyoaklog", "required": false },
+    { "id": "productivebees:oak_wood_nest", "required": false },
+    { "id": "simplefarming:fruit_log", "required": false }
   ]
 }
