@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biome_backlog"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "biome_backlog:palm_pressure_plate"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "item": "biome_backlog:palm_planks"
+  },
+  "result": "biome_backlog:palm_pressure_plate",
+  "count": 1
+}
