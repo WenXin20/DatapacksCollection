@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "forbidden_arcanus:edelwood_trapdoor"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_planks"
+  },
+  "result": "forbidden_arcanus:edelwood_trapdoor",
+  "count": 1
+}

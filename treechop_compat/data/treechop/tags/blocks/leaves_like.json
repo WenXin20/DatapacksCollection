@@ -56,6 +56,8 @@
     { "id": "byg:shulkren_wart_block", "required": false },
     { "id": "byg:soul_shroom_block", "required": false },
     { "id": "byg:sythian_wart_block", "required": false },
+    { "id": "byg:weeping_milkcap_mushroom_block", "required": false },
+    { "id": "byg:wood_blewit_mushroom_block", "required": false },
     { "id": "chaosawakens:green_crystal_leaves", "required": false },
     { "id": "chaosawakens:red_crystal_leaves", "required": false },
     { "id": "chaosawakens:yellow_crystal_leaves", "required": false },

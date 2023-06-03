@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pokecube_legends"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "pokecube_legends:distortic_dark_oak_stairs"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "item": "pokecube_legends:distortic_dark_oak_planks"
+  },
+  "result": "pokecube_legends:distortic_dark_oak_stairs",
+  "count": 1
+}
