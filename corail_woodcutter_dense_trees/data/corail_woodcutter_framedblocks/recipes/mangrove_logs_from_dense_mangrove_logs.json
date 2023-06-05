@@ -17,6 +17,6 @@
   "ingredient": {
     "item": "densetrees:dense_mangrove_log"
   },
-  "result": "minecraft:mangrove_logs",
+  "result": "minecraft:mangrove_log",
   "count": 16
 }

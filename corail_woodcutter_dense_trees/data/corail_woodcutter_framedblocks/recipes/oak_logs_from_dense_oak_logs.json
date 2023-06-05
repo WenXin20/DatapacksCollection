@@ -17,6 +17,6 @@
   "ingredient": {
     "item": "densetrees:dense_oak_log"
   },
-  "result": "minecraft:oak_logs",
+  "result": "minecraft:oak_log",
   "count": 16
 }

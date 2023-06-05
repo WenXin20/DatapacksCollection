@@ -17,6 +17,6 @@
   "ingredient": {
     "item": "densetrees:dense_birch_log"
   },
-  "result": "minecraft:birch_logs",
+  "result": "minecraft:birch_log",
   "count": 16
 }

@@ -17,6 +17,6 @@
   "ingredient": {
     "item": "densetrees:dense_acacia_log"
   },
-  "result": "minecraft:acacia_logs",
+  "result": "minecraft:acacia_log",
   "count": 16
 }

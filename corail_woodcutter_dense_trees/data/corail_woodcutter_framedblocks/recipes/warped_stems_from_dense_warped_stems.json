@@ -17,6 +17,6 @@
   "ingredient": {
     "item": "densetrees:dense_warped_stem"
   },
-  "result": "minecraft:warped_stems",
+  "result": "minecraft:warped_stem",
   "count": 16
 }

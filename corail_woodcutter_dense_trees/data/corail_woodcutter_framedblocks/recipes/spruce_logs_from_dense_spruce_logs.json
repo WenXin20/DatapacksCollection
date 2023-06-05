@@ -17,6 +17,6 @@
   "ingredient": {
     "item": "densetrees:dense_spruce_log"
   },
-  "result": "minecraft:spruce_logs",
+  "result": "minecraft:spruce_log",
   "count": 16
 }
