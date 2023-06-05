@@ -37,8 +37,8 @@
     { "id": "betternether:willow_bark", "required": false },
     { "id": "betternether:willow_log", "required": false },
     { "id": "betternether:willow_trunk", "required": false },
-    { "id": "biome_backlog:baoab_bark", "required": false },
-    { "id": "biome_backlog:baoab_trunk", "required": false },
+    { "id": "biome_backlog:baobab_bark", "required": false },
+    { "id": "biome_backlog:baobab_trunk", "required": false },
     { "id": "biome_backlog:palm_log", "required": false },
     { "id": "biome_backlog:palm_wood", "required": false },
     { "id": "biome_backlog:stripped_palm_log", "required": false },
@@ -128,11 +128,11 @@
     { "id": "tofucraft:tofustem", "required": false },
     { "id": "unusualprehistory:ginkgo_log", "required": false },
     { "id": "unusualprehistory:ginkgo_wood", "required": false },
-    { "id": "unusualprehistory:stripped_ginkgo_log", "required": false },
-    { "id": "unusualprehistory:petrified_log", "required": false },
     { "id": "unusualprehistory:petrified_wood", "required": false },
+    { "id": "unusualprehistory:petrified_wood_log", "required": false },
+    { "id": "unusualprehistory:stripped_ginkgo_log", "required": false },
     { "id": "unusualprehistory:stripped_ginkgo_wood", "required": false },
-    { "id": "unusualprehistory:stripped_petrified_log", "required": false },
-    { "id": "unusualprehistory:stripped_petrified_wood", "required": false }
+    { "id": "unusualprehistory:stripped_petrified_wood", "required": false },
+    { "id": "unusualprehistory:stripped_petrified_wood_log", "required": false }
   ]
 }
