@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "framedblocks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "framedblocks:framed_cube"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": "framedblocks:framed_cube",
+  "count": 1
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "environmental"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "environmental:cherry_planks"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "environmental:cherry_logs"
+  },
+  "result": "environmental:cherry_planks",
+  "count": 4
+}
