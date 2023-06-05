@@ -15,8 +15,8 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/oak"
+    "tag": "minecraft:dark_oak_logs"
   },
   "result": "backpacked:dark_oak_backpack_shelf",
-  "count": 1
+  "count": 4
 }

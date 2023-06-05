@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "backpacked:warped_backpack_shelf"
+      "item": "backpacked:crimson_backpack_shelf"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:oak_logs"
+    "tag": "forge:planks/crimson"
   },
-  "result": "backpacked:warped_backpack_shelf",
-  "count": 4
+  "result": "backpacked:crimson_backpack_shelf",
+  "count": 1
 }

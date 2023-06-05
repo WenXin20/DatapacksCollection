@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "backpacked:crimson_backpack_shelf"
+      "item": "backpacked:acacia_backpack_shelf"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/oak"
+    "tag": "forge:planks/acacia"
   },
-  "result": "backpacked:crimson_backpack_shelf",
+  "result": "backpacked:acacia_backpack_shelf",
   "count": 1
 }
