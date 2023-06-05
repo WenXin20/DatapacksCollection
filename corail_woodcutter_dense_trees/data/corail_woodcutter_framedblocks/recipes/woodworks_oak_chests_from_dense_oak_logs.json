@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "densetrees"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "woodworks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "woodworks:oak_chest"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "item": "densetrees:dense_oak_log"
+  },
+  "result": "woodworks:oak_chest",
+  "count": 8
+}

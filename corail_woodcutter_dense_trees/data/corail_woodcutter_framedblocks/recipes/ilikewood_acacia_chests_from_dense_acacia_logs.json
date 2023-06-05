@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "densetrees"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ilikewood"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "ilikewood:acacia_chest"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "item": "densetrees:dense_acacia_log"
+  },
+  "result": "ilikewood:acacia_chest",
+  "count": 8
+}

@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "framedblocks"
+      "modid": "densetrees"
     },
     {
       "type": "forge:mod_loaded",
@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "framedblocks:framed_cube"
+      "item": "densetrees:dense_oak_log"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:logs"
+    "item": "densetrees:dense_oak_log"
   },
-  "result": "framedblocks:framed_cube",
-  "count": 4
+  "result": "minecraft:oak_logs",
+  "count": 16
 }

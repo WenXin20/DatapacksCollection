@@ -2,7 +2,11 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "framedblocks"
+      "modid": "densetrees"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
     },
     {
       "type": "forge:mod_loaded",
@@ -10,13 +14,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "framedblocks:framed_cube"
+      "item": "quark:spruce_chest"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:planks"
+    "item": "densetrees:dense_spruce_log"
   },
-  "result": "framedblocks:framed_cube",
-  "count": 1
+  "result": "quark:spruce_chest",
+  "count": 8
 }
