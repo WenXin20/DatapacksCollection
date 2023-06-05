@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "environmental:wisteria_post"
+      "item": "environmental:willow_post"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:planks"
+    "item": "environmental:willow_wood"
   },
-  "result": "environmental:wisteria_post",
-  "count": 1
+  "result": "environmental:willow_post",
+  "count": 4
 }

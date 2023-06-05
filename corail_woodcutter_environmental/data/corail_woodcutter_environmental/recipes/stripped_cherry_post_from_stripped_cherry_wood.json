@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "environmental:cherry_post"
+      "item": "environmental:stripped_cherry_post"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:logs"
+    "item": "environmental:stripped_cherry_wood"
   },
-  "result": "environmental:cherry_post",
+  "result": "environmental:stripped_cherry_post",
   "count": 4
 }

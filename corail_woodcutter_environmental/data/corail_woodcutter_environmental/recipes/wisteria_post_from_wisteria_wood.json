@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "environmental:stripped_cherry_post"
+      "item": "environmental:wisteria_post"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:logs"
+    "item": "environmental:wisteria_wood"
   },
-  "result": "environmental:stripped_cherry_post",
+  "result": "environmental:wisteria_post",
   "count": 4
 }
