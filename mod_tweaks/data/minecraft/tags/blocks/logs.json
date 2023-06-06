@@ -126,6 +126,7 @@
     { "id": "productivebees:spruce_wood_nest", "required": false },
     { "id": "quark:bamboo_block", "required": false },
     { "id": "tofucraft:tofustem", "required": false },
+    { "id": "twilightforest:giant_log", "required": false },
     { "id": "unusualprehistory:ginkgo_log", "required": false },
     { "id": "unusualprehistory:ginkgo_wood", "required": false },
     { "id": "unusualprehistory:petrified_wood", "required": false },
