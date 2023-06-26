@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "atmospheric:stripped_morado_wood"
+    "tag": "atmospheric:morado_logs"
   },
   "result": "atmospheric:stripped_morado_post",
   "count": 4

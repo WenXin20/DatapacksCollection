@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "atmospheric:yucca_wood"
+    "tag": "atmospheric:yucca_logs"
   },
   "result": "atmospheric:yucca_post",
   "count": 4

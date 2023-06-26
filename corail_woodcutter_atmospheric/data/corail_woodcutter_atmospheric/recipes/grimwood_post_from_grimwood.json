@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "atmospheric:grimwood"
+    "tag": "atmospheric:grimwood_logs"
   },
   "result": "atmospheric:grimwood_post",
   "count": 4

@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "atmospheric:stripped_aspen_wood"
+    "tag": "atmospheric:aspen_logs"
   },
   "result": "atmospheric:stripped_aspen_post",
   "count": 4

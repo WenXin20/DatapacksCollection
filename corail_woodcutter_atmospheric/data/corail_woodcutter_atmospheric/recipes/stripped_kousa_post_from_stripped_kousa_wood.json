@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "atmospheric:stripped_kousa_wood"
+    "tag": "atmospheric:kousa_logs"
   },
   "result": "atmospheric:stripped_kousa_post",
   "count": 4

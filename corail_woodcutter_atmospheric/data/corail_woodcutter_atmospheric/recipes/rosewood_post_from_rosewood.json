@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "item": "atmospheric:rosewood"
+    "tag": "atmospheric:rosewood_logs"
   },
   "result": "atmospheric:rosewood_post",
   "count": 4
