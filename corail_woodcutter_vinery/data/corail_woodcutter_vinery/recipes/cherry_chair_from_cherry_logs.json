@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:logs"
+    "tag": "vinery:cherry_logs"
   },
   "result": "vinery:chair",
   "count": 1
