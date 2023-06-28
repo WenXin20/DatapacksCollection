@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    { "id": "treechop:chopped_log", "required": false },
+    { "id": "treechop:chopped_log", "required": false }
   ]
 }

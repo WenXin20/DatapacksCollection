@@ -1,19 +1,19 @@
 {
   "values": [
-    { "id": "biome_backlog:palm_log",, "required": false },
-    { "id": "biome_backlog:palm_wood",, "required": false },
-    { "id": "biome_backlog:stripped_palm_log",, "required": false },
-    { "id": "biome_backlog:stripped_palm_wood",, "required": false },
-    { "id": "biome_backlog:palm_planks",, "required": false },
-    { "id": "biome_backlog:palm_door",, "required": false },
-    { "id": "biome_backlog:palm_trapdoor",, "required": false },
-    { "id": "biome_backlog:palm_fence",, "required": false },
-    { "id": "biome_backlog:palm_fence_gate",, "required": false },
-    { "id": "biome_backlog:palm_stairs",, "required": false },
-    { "id": "biome_backlog:palm_slab",, "required": false },
-    { "id": "biome_backlog:palm_button",, "required": false },
-    { "id": "biome_backlog:palm_pressure_plate",, "required": false },
-    { "id": "biome_backlog:palm_sign",, "required": false },
+    { "id": "biome_backlog:palm_log", "required": false },
+    { "id": "biome_backlog:palm_wood", "required": false },
+    { "id": "biome_backlog:stripped_palm_log", "required": false },
+    { "id": "biome_backlog:stripped_palm_wood", "required": false },
+    { "id": "biome_backlog:palm_planks", "required": false },
+    { "id": "biome_backlog:palm_door", "required": false },
+    { "id": "biome_backlog:palm_trapdoor", "required": false },
+    { "id": "biome_backlog:palm_fence", "required": false },
+    { "id": "biome_backlog:palm_fence_gate", "required": false },
+    { "id": "biome_backlog:palm_stairs", "required": false },
+    { "id": "biome_backlog:palm_slab", "required": false },
+    { "id": "biome_backlog:palm_button", "required": false },
+    { "id": "biome_backlog:palm_pressure_plate", "required": false },
+    { "id": "biome_backlog:palm_sign", "required": false },
     { "id": "biome_backlog:palm_wall_sign", "required": false }
   ]
 }
