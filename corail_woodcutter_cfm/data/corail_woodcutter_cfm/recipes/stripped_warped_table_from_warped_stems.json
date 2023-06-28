@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_birch_table"
+      "item": "cfm:stripped_warped_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:spruce_logs"
+    "tag": "minecraft:warped_stems"
   },
-  "result": "cfm:stripped_birch_table",
+  "result": "cfm:stripped_warped_table",
   "count": 1
 }

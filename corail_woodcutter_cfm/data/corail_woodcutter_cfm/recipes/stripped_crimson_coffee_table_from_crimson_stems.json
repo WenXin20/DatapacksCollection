@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_mangrove_upgraded_fence"
+      "item": "cfm:stripped_crimson_coffee_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/spruce"
+    "tag": "minecraft:crimson_stems"
   },
-  "result": "cfm:stripped_mangrove_upgraded_fence",
+  "result": "cfm:stripped_crimson_coffee_table",
   "count": 1
 }

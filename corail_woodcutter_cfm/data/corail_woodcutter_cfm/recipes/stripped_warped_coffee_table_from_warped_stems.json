@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_crimson_table"
+      "item": "cfm:stripped_warped_coffee_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
     "tag": "minecraft:warped_stems"
   },
-  "result": "cfm:stripped_crimson_table",
+  "result": "cfm:stripped_warped_coffee_table",
   "count": 1
 }

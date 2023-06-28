@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_acacia_table"
+      "item": "cfm:stripped_mangrove_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:warped_stems"
+    "tag": "minecraft:mangrove_logs"
   },
-  "result": "cfm:stripped_acacia_table",
-  "count": 1
+  "result": "cfm:stripped_mangrove_upgraded_fence",
+  "count": 4
 }

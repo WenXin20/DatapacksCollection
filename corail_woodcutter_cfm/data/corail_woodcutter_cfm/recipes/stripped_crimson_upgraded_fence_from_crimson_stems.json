@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_acacia_upgraded_fence"
+      "item": "cfm:stripped_crimson_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/warped"
+    "tag": "minecraft:crimson_stems"
   },
-  "result": "cfm:stripped_acacia_upgraded_fence",
-  "count": 1
+  "result": "cfm:stripped_crimson_upgraded_fence",
+  "count": 4
 }

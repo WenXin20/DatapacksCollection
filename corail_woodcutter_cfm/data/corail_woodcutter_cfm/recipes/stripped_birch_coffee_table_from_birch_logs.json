@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_jungle_table"
+      "item": "cfm:stripped_birch_coffee_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:spruce_logs"
+    "tag": "minecraft:birch_logs"
   },
-  "result": "cfm:stripped_jungle_table",
+  "result": "cfm:stripped_birch_coffee_table",
   "count": 1
 }

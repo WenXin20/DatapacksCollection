@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:warped_stems"
+    "tag": "minecraft:dark_oak_logs"
   },
   "result": "cfm:stripped_dark_oak_coffee_table",
   "count": 1

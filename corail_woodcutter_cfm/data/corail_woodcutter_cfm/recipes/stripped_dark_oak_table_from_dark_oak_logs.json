@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_warped_upgraded_fence"
+      "item": "cfm:stripped_dark_oak_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/spruce"
+    "tag": "minecraft:dark_oak_logs"
   },
-  "result": "cfm:stripped_warped_upgraded_fence",
+  "result": "cfm:stripped_dark_oak_table",
   "count": 1
 }

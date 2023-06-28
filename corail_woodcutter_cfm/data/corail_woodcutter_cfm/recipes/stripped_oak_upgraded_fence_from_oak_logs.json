@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_crimson_upgraded_fence"
+      "item": "cfm:stripped_oak_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:warped_stems"
+    "tag": "minecraft:oak_logs"
   },
-  "result": "cfm:stripped_crimson_upgraded_fence",
+  "result": "cfm:stripped_oak_upgraded_fence",
   "count": 4
 }

@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_crimson_kitchen_counter"
+      "item": "cfm:stripped_jungle_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:oak_logs"
+    "tag": "minecraft:jungle_logs"
   },
-  "result": "cfm:stripped_crimson_kitchen_counter",
-  "count": 1
+  "result": "cfm:stripped_jungle_upgraded_fence",
+  "count": 4
 }

@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_oak_table"
+      "item": "cfm:stripped_mangrove_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:warped_stems"
+    "tag": "minecraft:mangrove_logs"
   },
-  "result": "cfm:stripped_oak_table",
+  "result": "cfm:stripped_mangrove_table",
   "count": 1
 }

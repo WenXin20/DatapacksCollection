@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_dark_oak_upgraded_fence"
+      "item": "cfm:stripped_birch_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/warped"
+    "tag": "minecraft:birch_logs"
   },
-  "result": "cfm:stripped_dark_oak_upgraded_fence",
-  "count": 1
+  "result": "cfm:stripped_birch_upgraded_fence",
+  "count": 4
 }

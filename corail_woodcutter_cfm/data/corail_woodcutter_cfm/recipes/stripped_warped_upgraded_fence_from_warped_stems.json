@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:spruce_logs"
+    "tag": "minecraft:warped_stems"
   },
   "result": "cfm:stripped_warped_upgraded_fence",
   "count": 4

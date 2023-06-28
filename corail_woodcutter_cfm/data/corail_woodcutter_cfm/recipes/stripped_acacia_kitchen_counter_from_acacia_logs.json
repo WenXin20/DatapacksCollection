@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_oak_upgraded_fence"
+      "item": "cfm:stripped_acacia_kitchen_counter"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:warped_stems"
+    "tag": "minecraft:acacia_logs"
   },
-  "result": "cfm:stripped_oak_upgraded_fence",
-  "count": 4
+  "result": "cfm:stripped_acacia_kitchen_counter",
+  "count": 1
 }

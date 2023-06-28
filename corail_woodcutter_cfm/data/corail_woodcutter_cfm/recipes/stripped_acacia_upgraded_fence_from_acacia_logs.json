@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_jungle_coffee_table"
+      "item": "cfm:stripped_acacia_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:spruce_logs"
+    "tag": "minecraft:acacia_logs"
   },
-  "result": "cfm:stripped_jungle_coffee_table",
-  "count": 1
+  "result": "cfm:stripped_acacia_upgraded_fence",
+  "count": 4
 }

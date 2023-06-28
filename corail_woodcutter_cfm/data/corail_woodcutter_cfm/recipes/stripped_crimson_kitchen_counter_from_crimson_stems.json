@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_birch_upgraded_fence"
+      "item": "cfm:stripped_crimson_kitchen_counter"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:spruce_logs"
+    "tag": "minecraft:crimson_stems"
   },
-  "result": "cfm:stripped_birch_upgraded_fence",
-  "count": 4
+  "result": "cfm:stripped_crimson_kitchen_counter",
+  "count": 1
 }

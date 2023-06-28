@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_acacia_coffee_table"
+      "item": "cfm:stripped_oak_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:warped_stems"
+    "tag": "minecraft:oak_logs"
   },
-  "result": "cfm:stripped_acacia_coffee_table",
+  "result": "cfm:stripped_oak_table",
   "count": 1
 }

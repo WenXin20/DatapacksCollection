@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_acacia_kitchen_counter"
+      "item": "cfm:stripped_mangrove_coffee_table"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:oak_logs"
+    "tag": "minecraft:mangrove_logs"
   },
-  "result": "cfm:stripped_acacia_kitchen_counter",
+  "result": "cfm:stripped_mangrove_coffee_table",
   "count": 1
 }

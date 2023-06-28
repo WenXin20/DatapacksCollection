@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:stripped_mangrove_coffee_table"
+      "item": "cfm:stripped_dark_oak_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:spruce_logs"
+    "tag": "minecraft:dark_oak_logs"
   },
-  "result": "cfm:stripped_mangrove_coffee_table",
-  "count": 1
+  "result": "cfm:stripped_dark_oak_upgraded_fence",
+  "count": 4
 }
