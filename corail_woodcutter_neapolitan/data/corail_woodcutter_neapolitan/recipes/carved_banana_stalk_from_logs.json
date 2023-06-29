@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:logs"
+    "item": "neapolitan:banana_stalk"
   },
   "result": "neapolitan:carved_banana_stalk",
   "count": 1
