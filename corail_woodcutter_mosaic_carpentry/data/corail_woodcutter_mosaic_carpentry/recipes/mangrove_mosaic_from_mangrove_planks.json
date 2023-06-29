@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mosaic_carpentry"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "corail_woodcutter"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mosaic_carpentry:mangrove_mosaic"
+    }
+  ],
+  "type": "corail_woodcutter:woodcutting",
+  "ingredient": {
+    "item": "minecraft:mangrove_planks"
+  },
+  "result": "mosaic_carpentry:mangrove_mosaic",
+  "count": 1
+}
