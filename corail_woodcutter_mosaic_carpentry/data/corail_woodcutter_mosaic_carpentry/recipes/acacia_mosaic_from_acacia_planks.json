@@ -15,8 +15,8 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:oak_logs"
+    "tag": "forge:planks/acacia"
   },
   "result": "mosaic_carpentry:acacia_mosaic",
-  "count": 4
+  "count": 1
 }

@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "mosaic_carpentry:crimson_mosaic"
+      "item": "mosaic_carpentry:acacia_mosaic"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "forge:planks/oak"
+    "tag": "minecraft:acacia_logs"
   },
-  "result": "mosaic_carpentry:crimson_mosaic",
-  "count": 1
+  "result": "mosaic_carpentry:acacia_mosaic",
+  "count": 4
 }

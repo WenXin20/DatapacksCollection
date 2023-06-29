@@ -15,7 +15,7 @@
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:oak_logs"
+    "tag": "minecraft:crimson_stems"
   },
   "result": "mosaic_carpentry:crimson_mosaic",
   "count": 4
