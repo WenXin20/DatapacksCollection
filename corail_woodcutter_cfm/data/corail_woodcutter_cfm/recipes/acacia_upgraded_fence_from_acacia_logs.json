@@ -10,13 +10,13 @@
     },
     {
       "type": "forge:item_exists",
-      "item": "cfm:crimson_upgraded_fence"
+      "item": "cfm:acacia_upgraded_fence"
     }
   ],
   "type": "corail_woodcutter:woodcutting",
   "ingredient": {
-    "tag": "minecraft:oak_logs"
+    "tag": "minecraft:acacia_logs"
   },
-  "result": "cfm:crimson_upgraded_fence",
+  "result": "cfm:acacia_upgraded_fence",
   "count": 4
 }
