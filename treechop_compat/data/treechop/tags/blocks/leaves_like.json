@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:mushroom_caps",
     "#minecraft:leaves",
     "#minecraft:wart_blocks",
     "minecraft:mangrove_roots",

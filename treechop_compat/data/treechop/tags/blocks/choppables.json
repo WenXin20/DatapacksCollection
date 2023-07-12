@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "#minecraft:logs",
-    "#forge:mushroom_stems",
     { "id": "betternether:willow_trunk", "required": false },
     { "id": "byg:embur_pedu", "required": false },
     { "id": "forbidden_arcanus:carved_edelwood_log", "required": false },
