@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:cactus",
     { "id": "bambooeverything:bamboo_bundle", "required": false },
     { "id": "bambootiful:bamboo_pillar", "required": false },
     { "id": "bambootiful:dried_bamboo_pillar", "required": false },
@@ -126,6 +127,7 @@
     { "id": "productivebees:spruce_wood_nest", "required": false },
     { "id": "quark:bamboo_block", "required": false },
     { "id": "tofucraft:tofustem", "required": false },
+    { "id": "twilightforest:giant_log", "required": false },
     { "id": "unusualprehistory:ginkgo_log", "required": false },
     { "id": "unusualprehistory:ginkgo_wood", "required": false },
     { "id": "unusualprehistory:petrified_wood", "required": false },

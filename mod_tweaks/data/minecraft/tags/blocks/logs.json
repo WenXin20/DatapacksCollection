@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:cactus",
     { "id": "bambooeverything:bamboo_bundle", "required": false },
     { "id": "bambootiful:bamboo_pillar", "required": false },
     { "id": "bambootiful:dried_bamboo_pillar", "required": false },
