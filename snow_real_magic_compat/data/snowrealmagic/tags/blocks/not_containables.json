@@ -1,7 +1,8 @@
 {
   "replace": false,
   "values": [
-    {"id":"decorative_winter:dry_fern","required":false},
-    {"id":"decorative_winter:dry_grass","required":false}
+    { "id": "regions_unexplored:joshua_leaves","required": false },
+    { "id": "decorative_winter:dry_fern","required": false },
+    { "id": "decorative_winter:dry_grass","required": false }
   ]
 }
