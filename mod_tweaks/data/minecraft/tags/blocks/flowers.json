@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:spore_blossom",
     { "id": "sullys_mod:lumiflower", "required": false },
     { "id": "sullys_mod:moss", "required": false },
     { "id": "sullys_mod:thorns", "required": false },

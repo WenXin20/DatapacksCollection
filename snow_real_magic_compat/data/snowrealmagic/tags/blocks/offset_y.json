@@ -4,6 +4,7 @@
     "minecraft:sea_pickle",
     { "id": "#habitat:ball_cacti","required": false },
     { "id": "#regions_unexplored:branches","required": false },
+    { "id": "aether:berry_bush","required": false },
     { "id": "alexscaves:pewen_branch","required": false },
     { "id": "biomesoplenty:clover","required": false },
     { "id": "biomesoplenty:white_petals","required": false },
