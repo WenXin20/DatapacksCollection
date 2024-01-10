@@ -39,6 +39,7 @@
     { "id": "beachparty:dry_bush_tall","required": false },
     { "id": "beachparty:sand_pile","required": false },
     { "id": "beachparty:sandcastle","required": false },
+    { "id": "biome_backlog:palm_leaves_hanging","required": false },
     { "id": "biomemakeover:barrel_cactus","required": false },
     { "id": "biomemakeover:barrel_cactus_flowered","required": false },
     { "id": "biomemakeover:mycelium_roots","required": false },
