@@ -61,6 +61,7 @@
     { "id": "#cobblemon:berries","required": false },
     { "id": "#cobblemon:mints","required": false },
     { "id": "#cobblemon:plants","required": false },
+    { "id": "#cobblemon:roots","required": false },
     { "id": "#habitat:ball_cacti","required": false },
     { "id": "#immersive_weathering:leaf_piles","required": false },
     { "id": "#pokecube:berry_crops","required": false },
