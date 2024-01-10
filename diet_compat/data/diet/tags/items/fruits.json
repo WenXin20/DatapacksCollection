@@ -2,7 +2,9 @@
   "replace": false,
   "values": [
     "minecraft:cocoa_beans",
+    {"id":"#cobblemon:berries","required":false},
     {"id":"#pokecube:berries","required":false},
+    {"id":"biome_backlog:coconut_chunk","required":false},
     {"id":"domesticationinnovation:rotten_apple","required":false},
     {"id":"ecologics:coconut_slice","required":false},
     {"id":"ecologics:cooked_prickly_pear","required":false},
