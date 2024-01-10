@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "category": "crafting_table",
     "ingredients": [
         {
             "tag": "forge:workbench"
         }
     ],
     "result": {
-        "item": "minecraft:crafting_table"
-        "count": 1
+        "item": "minecraft:crafting_table
     }
 }

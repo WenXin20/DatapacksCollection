@@ -1,12 +1,12 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "chest",
   "ingredients": [
     {
       "tag": "forge:chests/wooden"
     }
   ],
   "result": {
-    "item": "minecraft:chest",
-        "count": 1
+    "item": "minecraft:chest"
   }
 }
