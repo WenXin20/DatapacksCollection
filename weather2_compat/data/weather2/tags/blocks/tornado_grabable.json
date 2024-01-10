@@ -79,6 +79,7 @@
     { "id": "ars_nouveau:sourceberry_bush","required": false },
     { "id": "beachparty:dry_bush","required": false },
     { "id": "beachparty:dry_bush_tall","required": false },
+    { "id": "beachparty:sand_pile","required": false },
     { "id": "beachparty:sandcastle","required": false },
     { "id": "betterlily:water_lily_pad","required": false },
     { "id": "biomemakeover:barrel_cactus","required": false },
