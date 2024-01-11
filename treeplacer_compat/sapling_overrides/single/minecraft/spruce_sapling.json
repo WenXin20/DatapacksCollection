@@ -1,0 +1,6 @@
+{
+   "replace": false,
+   "values": {
+      { "id": "biomesoplenty:mediterranean_forest": "biomesoplenty:spruce_poplar_tree", "required":false }
+   }
+}
