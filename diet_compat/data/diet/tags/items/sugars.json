@@ -12,6 +12,7 @@
     {"id":"lilwings:crimson_cake","required":false},
     {"id":"lilwings:golden_cake","required":false},
     {"id":"minecolonies:sweet_bread","required":false},
+    {"id":"super_block_world:yoshi_cookie","required":false},
     {"id":"teletubbies:custard","required":false},
     {"id":"the_bumblezone:honey_bucket","required":false},
     {"id":"thermal:jelly","required":false}

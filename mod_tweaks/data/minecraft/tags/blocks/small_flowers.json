@@ -182,6 +182,8 @@
     { "id": "rediscovered:paeonia", "required": false },
     { "id": "regions_unexplored:flowering_lily_pad", "required": false },
     { "id": "resourcefulbees:gold_flower", "required": false },
+    { "id": "super_block_world:white_flowerbed","required": false },
+    { "id": "super_block_world:yellow_flowerbed","required": false },
     { "id": "tofucraft:tofuflower", "required": false },
     { "id": "tofucraft:zundaum", "required": false },
     { "id": "twilightforest:huge_water_lily", "required": false },

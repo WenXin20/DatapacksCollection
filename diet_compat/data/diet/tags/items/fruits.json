@@ -24,6 +24,7 @@
     {"id":"overweight_farming:melon_juice","required":false},
     {"id":"pokecube:berryjuice","required":false},
     {"id":"pokecube_legends:golden_sweet_berries","required":false},
+    {"id":"super_block_world:yoshi_fruit","required":false},
     {"id":"thermal:jelly","required":false}
   ]
 }
