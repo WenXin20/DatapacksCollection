@@ -3,6 +3,8 @@
   "values": [
     "#forge:fence_gates/wooden",
     "#forge:fences/wooden",
+    "#forge:glass",
+    "#forge:glass_panes",
     "#forge:mushrooms",
     "#minecraft:banners",
     "#minecraft:beds",
@@ -26,6 +28,7 @@
     "#minecraft:wooden_stairs",
     "#minecraft:wooden_trapdoors",
     "#minecraft:wool",
+    "#minecraft:wool_carpets",
     "minecraft:bamboo_sapling",
     "minecraft:big_dripleaf",
     "minecraft:cobweb",
