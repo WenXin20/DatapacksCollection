@@ -1,0 +1,7 @@
+{
+   "replace": false,
+   "values": {
+      "biomesoplenty:mediterranean_forest": "biomesoplenty:sparse_oak_tree",
+      "biomesoplenty:mediterranean_forest": "biomesoplenty:oak_bush"
+   }
+}
