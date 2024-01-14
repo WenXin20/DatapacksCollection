@@ -1,18 +1,17 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-	"betternether:anchor_tree_trapdoor",
-	"betternether:mushroom_fir_trapdoor",
-	"betternether:mushroom_trapdoor",
-	"betternether:nether_sakura_trapdoor",
-	"betternether:reeds_trapdoor",
-	"betternether:rubeus_trapdoor",
-	"betternether:stalagnate_planks_trapdoor",
-	"betternether:wart_trapdoor",
-	"betternether:willow_trapdoor",
-	"desolation:charred_trap_door",
-    "noel:frosted_trapdoor",
-    "noel:peppermint_trapdoor"
+  "values": [
+    { "id": "betternether:anchor_tree_trapdoor", "required": false },
+    { "id": "betternether:mushroom_fir_trapdoor", "required": false },
+    { "id": "betternether:mushroom_trapdoor", "required": false },
+    { "id": "betternether:nether_sakura_trapdoor", "required": false },
+    { "id": "betternether:reeds_trapdoor", "required": false },
+    { "id": "betternether:rubeus_trapdoor", "required": false },
+    { "id": "betternether:stalagnate_planks_trapdoor", "required": false },
+    { "id": "betternether:wart_trapdoor", "required": false },
+    { "id": "betternether:willow_trapdoor", "required": false },
+    { "id": "desolation:charred_trap_door", "required": false },
+    { "id": "noel:frosted_trapdoor", "required": false },
+    { "id": "noel:peppermint_trapdoor", "required": false }
   ]
 }

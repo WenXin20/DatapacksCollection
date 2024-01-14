@@ -1,19 +1,18 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-	"betternether:anchor_tree_door",
-	"betternether:bone_reed_door",
-	"betternether:mushroom_door",
-	"betternether:mushroom_fir_door",
-	"betternether:nether_sakura_door",
-	"betternether:reeds_door",
-	"betternether:rubeus_door",
-	"betternether:stalagnate_planks_door",
-	"betternether:wart_door",
-	"betternether:willow_door",
-	"desolation:charred_door",
-    "noel:frosted_door",
-    "noel:peppermint_door"
+  "values": [
+    { "id": "betternether:anchor_tree_door", "required": false },
+    { "id": "betternether:bone_reed_door", "required": false },
+    { "id": "betternether:mushroom_door", "required": false },
+    { "id": "betternether:mushroom_fir_door", "required": false },
+    { "id": "betternether:nether_sakura_door", "required": false },
+    { "id": "betternether:reeds_door", "required": false },
+    { "id": "betternether:rubeus_door", "required": false },
+    { "id": "betternether:stalagnate_planks_door", "required": false },
+    { "id": "betternether:wart_door", "required": false },
+    { "id": "betternether:willow_door", "required": false },
+    { "id": "desolation:charred_door", "required": false },
+    { "id": "noel:frosted_door", "required": false },
+    { "id": "noel:peppermint_door", "required": false }
   ]
 }

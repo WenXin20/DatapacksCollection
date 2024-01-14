@@ -1,15 +1,14 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "betternether:anchor_tree_plate",
-    "betternether:mushroom_fir_plate",
-    "betternether:mushroom_plate",
-    "betternether:nether_sakura_plate",
-    "betternether:reeds_plate",
-    "betternether:rubeus_plate",
-    "betternether:stalagnate_planks_plate",
-    "betternether:wart_plate",
-    "betternether:willow_plate"
+  "values": [
+    { "id": "betternether:anchor_tree_plate", "required": false },
+    { "id": "betternether:mushroom_fir_plate", "required": false },
+    { "id": "betternether:mushroom_plate", "required": false },
+    { "id": "betternether:nether_sakura_plate", "required": false },
+    { "id": "betternether:reeds_plate", "required": false },
+    { "id": "betternether:rubeus_plate", "required": false },
+    { "id": "betternether:stalagnate_planks_plate", "required": false },
+    { "id": "betternether:wart_plate", "required": false },
+    { "id": "betternether:willow_plate", "required": false }
   ]
 }
