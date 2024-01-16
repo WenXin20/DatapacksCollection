@@ -4,6 +4,7 @@
     "minecraft:cocoa_beans",
     { "id": "#cobblemon:berries", "required": false },
     { "id": "#pokecube:berries", "required": false },
+    { "id": "beachparty:coconut_open", "required": false },
     { "id": "biome_backlog:coconut_chunk", "required": false },
     { "id": "domesticationinnovation:rotten_apple", "required": false },
     { "id": "ecologics:coconut_slice", "required": false },
