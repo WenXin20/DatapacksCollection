@@ -1,10 +1,10 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "chaosawakens:crystal_wood_shard",
-    "doggytalents:throw_stick",
-    "doggytalents:throw_stick_wet",
-    "nethercraft:glowood_stick"
+  "values": [
+    { "id": "#ilikewood:sticks", "required": false },
+    { "id": "chaosawakens:crystal_wood_shard", "required": false },
+    { "id": "doggytalents:throw_stick", "required": false },
+    { "id": "doggytalents:throw_stick_wet", "required": false },
+    { "id": "nethercraft:glowood_stick", "required": false }
   ]
 }
