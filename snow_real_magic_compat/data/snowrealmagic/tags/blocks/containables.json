@@ -145,6 +145,8 @@
     { "id": "regions_unexplored:frozen_grass", "required": false },
     { "id": "regions_unexplored:maple_leaf_pile", "required": false },
     { "id": "regions_unexplored:medium_grass", "required": false },
+    { "id": "regions_unexplored:mycotoxic_daisy", "required": false },
+    { "id": "regions_unexplored:mycotoxic_grass", "required": false },
     { "id": "regions_unexplored:mycotoxic_mushrooms", "required": false },
     { "id": "regions_unexplored:orange_maple_leaf_pile", "required": false },
     { "id": "regions_unexplored:prismoss_sprout", "required": false },
