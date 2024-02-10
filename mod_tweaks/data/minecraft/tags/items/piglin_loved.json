@@ -1,7 +1,6 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
+  "values": [
     { "id": "#forge:dusts/gold", "required": false },
     { "id": "#mekanism:clumps/gold", "required": false },
     { "id": "#mekanism:crystals/gold", "required": false },
@@ -85,6 +84,6 @@
     { "id": "super_block_world:golden_brick_wall", "required": false },
     { "id": "super_block_world:golden_bricks", "required": false },
     { "id": "terraqueous:speed_strip", "required": false },
-    { "id": "umbral_skies:hollow_golden_oak_log", "required": false }, "required": false }
+    { "id": "umbral_skies:hollow_golden_oak_log", "required": false }
   ]
 }
