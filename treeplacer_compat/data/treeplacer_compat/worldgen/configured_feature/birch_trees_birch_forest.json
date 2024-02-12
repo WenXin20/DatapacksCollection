@@ -1,7 +1,7 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "goodending:tall_birch_tree",
+    "default": "goodending:tall_birch_tree_filtered",
     "features": [
       {
         "chance": 0.25,
