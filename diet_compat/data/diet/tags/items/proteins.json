@@ -17,6 +17,7 @@
     {"id":"alexsmobs:rainbow_jelly","required":false},
     {"id":"apotheosis:lucky_foot","required":false},
     {"id":"beyond_earth:cheese","required":false},
+    { "id": "blue_skies:prepared_food", "required": false },
     {"id":"create:builders_tea","required":false},
     {"id":"duckling:duck_egg","required":false},
     {"id":"earthmobsmod:hyper_rabbit_foot","required":false},

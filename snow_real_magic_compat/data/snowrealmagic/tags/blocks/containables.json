@@ -49,6 +49,8 @@
     { "id": "biomesoplenty:dead_branch", "required": false },
     { "id": "biomesoplenty:huge_clover_petal", "required": false },
     { "id": "blue_skies:brewberry_bush", "required": false },
+    { "id": "blue_skies:sea_moss_carpet", "required": false },
+    { "id": "blue_skies:turquoise_grass", "required": false },
     { "id": "born_in_chaos_v1:gnawed_bones", "required": false },
     { "id": "botania:blue_buried_petals", "required": false },
     { "id": "botania:brown_buried_petals", "required": false },

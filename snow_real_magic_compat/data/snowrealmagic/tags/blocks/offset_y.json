@@ -9,6 +9,7 @@
     { "id": "beachparty:sandcastle", "required": false },
     { "id": "biomesoplenty:clover", "required": false },
     { "id": "biomesoplenty:white_petals", "required": false },
+    { "id": "blue_skies:sea_moss_carpet", "required": false },
     { "id": "ecologics:sandcastle", "required": false },
     { "id": "natprog:andesite_pebble", "required": false },
     { "id": "natprog:create_asurine_pebble", "required": false },

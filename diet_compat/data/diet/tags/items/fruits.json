@@ -6,6 +6,7 @@
     { "id": "#pokecube:berries", "required": false },
     { "id": "beachparty:coconut_open", "required": false },
     { "id": "biome_backlog:coconut_chunk", "required": false },
+    { "id": "blue_skies:prepared_food", "required": false },
     { "id": "domesticationinnovation:rotten_apple", "required": false },
     { "id": "ecologics:coconut_slice", "required": false },
     { "id": "ecologics:cooked_prickly_pear", "required": false },

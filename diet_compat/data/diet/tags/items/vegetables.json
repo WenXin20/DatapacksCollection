@@ -5,6 +5,7 @@
     { "id": "abundance:lavender_tea", "required": false },
     { "id": "abundance:sunflower_seeds", "required": false },
     { "id": "bettas:dried_leaves", "required": false },
+    { "id": "blue_skies:prepared_food", "required": false },
     { "id": "cobblemon:medicinal_leek", "required": false },
     { "id": "cobblemon:roasted_leek", "required": false },
     { "id": "cobblemon:leek_and_potato_stew", "required": false },

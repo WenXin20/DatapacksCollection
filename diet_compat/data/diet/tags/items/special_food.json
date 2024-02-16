@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    { "id": "blue_skies:prepared_food", "required": false },
     {"id":"farmersdelight:honey_glazed_ham_block","required":false},
     {"id":"farmersdelight:roast_chicken_block","required":false},
     {"id":"farmersdelight:shepherds_pie_block","required":false},

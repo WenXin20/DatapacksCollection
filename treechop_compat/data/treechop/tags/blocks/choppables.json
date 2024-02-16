@@ -4,6 +4,7 @@
     "#minecraft:logs",
     { "id": "#habitat:ball_cactus_blocks", "required": false },
     { "id": "betternether:willow_trunk", "required": false },
+    { "id": "blue_skies:snowcap_mushroom_stem", "required": false },
     { "id": "byg:embur_pedu", "required": false },
     { "id": "forbidden_arcanus:carved_edelwood_log", "required": false },
     { "id": "forbidden_arcanus:edelwood_log", "required": false },

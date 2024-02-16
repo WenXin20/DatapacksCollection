@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    { "id": "blue_skies:prepared_food", "required": false },
     {"id":"create:dough","required":false},
     {"id":"create:wheat_flour","required":false},
     {"id":"gobberdelight:blue_pie_slice","required":false},
