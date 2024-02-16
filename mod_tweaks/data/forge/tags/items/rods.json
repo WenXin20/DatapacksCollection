@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:rods/crystal"
+    { "id": "#forge:rods/crystal", "required": false }
   ]
 }
