@@ -1,6 +1,7 @@
 {
    "replace": false,
    "values": {
-      "biomesoplenty:mediterranean_forest": "treeplacer:oak_trees_mediterranean_forest"
+      "biomesoplenty:mediterranean_forest": "treeplacer:oak_trees_mediterranean_forest",
+      "regions_unexplored:temperate_grove": "regions_unexplored:oak_tree_with_branch"
    }
 }

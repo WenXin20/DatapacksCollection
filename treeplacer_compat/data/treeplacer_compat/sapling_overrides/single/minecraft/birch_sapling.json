@@ -1,6 +1,7 @@
 {
    "replace": false,
    "values": {
-      "minecraft:old_growth_birch_forest": "treeplacer:birch_trees_birch_forest"
+      "minecraft:old_growth_birch_forest": "treeplacer:birch_trees_birch_forest",
+      "regions_unexplored:temperate_grove": "regions_unexplored:birch_tree_aspen"
    }
 }
