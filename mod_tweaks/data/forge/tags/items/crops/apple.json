@@ -1,11 +1,6 @@
 {
   "replace": false,
   "values": [
-    { "id": "buzzierbees:honey_apple", "required":false },
-    { "id": "chaosawakens:crystal_apple", "required":false },
-    { "id": "create:honeyed_apple", "required":false },
-    { "id": "gobber2:gobber2_gooey_apple", "required":false }, 
-    { "id": "gobber2:gobber2_gooey_apple_nether", "required":false },
     { "id": "lotr:green_apple", "required":false }
   ]
 }

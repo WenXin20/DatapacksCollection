@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "babyfat:water_lettuce", "required": false },
+    { "id": "blue_skies:winter_leaves", "required": false }
+  ]
+}

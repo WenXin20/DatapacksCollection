@@ -6,8 +6,6 @@
 	{ "id": "#forge:crops/lettuce", "required": false },
 	{ "id": "#forge:crops/tomato", "required": false },
 	{ "id": "#forge:crops/turnip", "required": false },
-    { "id": "blue_skies:cryo_root", "required": false },
-    { "id": "blue_skies:fiery_beans", "required": false },
-    { "id": "blue_skies:solnut", "required": false }
+    { "id": "blue_skies:cryo_root", "required": false }
   ]
 }
