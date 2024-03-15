@@ -1,0 +1,20 @@
+{
+  "entity_type": "minecraft:sheep",
+  "type_provider": {
+    "range": 16,
+    "nbt": [
+      {
+        "nbt_type": "int",
+        "nbt_field": "Color"
+      },
+      {
+        "nbt_type": "string",
+        "nbt_field": "CustomName",
+        "is_mutable": true,
+        "parameters": {
+          "16": "\"jeb_\""
+        }
+      }
+    ]
+  }
+}
