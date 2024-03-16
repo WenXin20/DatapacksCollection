@@ -1,7 +1,7 @@
 {
   "entity_type": "minecraft:villagers",
   "type_provider": {
-    "range": 128,
+    "range": 1000,
     "nbt": [
       {
         "nbt_type": "integer",
@@ -40,7 +40,30 @@
           "21": "\"minecraft:mason\"",
           "22": "\"minecraft:shepherd\"",
           "23": "\"minecraft:toolsmith\"",
-          "24": "\"minecraft:weaponsmith\""
+          "24": "\"minecraft:weaponsmith\"",
+          "25": "\"betterarcheology:archeologist\"",
+          "26": "\"blue_skies:alchemist\"",
+          "27": "\"blue_skies:nightwatcher\"",
+          "28": "\"blue_skies:shoveler\"",
+          "29": "\"blue_skies:stargazer\"",
+          "30": "\"blue_skies:summoner\"",
+          "31": "\"blue_skies:wrangler\"",
+          "32": "\"domesticationinnovation:animal_tamer\"",
+          "33": "\"friendsandfoes:beekeeper\"",
+          "34": "\"pokecube_adventures:healer\"",
+          "35": "\"pokecube_adventures:professor\"",
+          "36": "\"pokecube_adventures:trader\"",
+          "37": "\"sawmill:carpenter\"",
+          "38": "\"wares:packager\"",
+          "39": "\"workers:cattle_farmer\"",
+          "40": "\"workers:chicken_farmer\"",
+          "41": "\"workers:farmer\"",
+          "42": "\"workers:fisherman\"",
+          "43": "\"workers:lumberjack\"",
+          "44": "\"workers:merchant\"",
+          "45": "\"workers:miner\"",
+          "46": "\"workers:shepherd\"",
+          "47": "\"workers:swineherd\""
         }
       }
     ]
