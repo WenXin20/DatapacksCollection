@@ -5,10 +5,6 @@
     "range": 1000,
     "nbt": [
       {
-        "nbt_type": "integer",
-        "nbt_field": "Level"
-      },
-      {
         "nbt_type": "string",
         "nbt_field": "profession",
         "is_mutable": false,
@@ -66,6 +62,10 @@
           "5": "\"minecraft:swamp\"",
           "6": "\"minecraft:taiga\""
         }
+      },
+      {
+        "nbt_type": "integer",
+        "nbt_field": "Level"
       }
     ]
   }

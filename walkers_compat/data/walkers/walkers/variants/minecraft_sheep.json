@@ -9,7 +9,7 @@
         "nbt_field": "CustomName",
         "is_mutable": true,
         "parameters": {
-          "16": "{\"text\":\"jeb_\"}"
+          "16": "\"jeb_\""
         }
       },
       {
@@ -17,15 +17,13 @@
         "nbt_field": "Color"
       },
       {
-        "nbt_type": "boolean",
-        "nbt_field": "Sheared"
-      },
-      {
         "nbt_type": "string",
         "nbt_field": "Variant",
         "is_mutable": true,
         "parameters": {
-          "17": "\"patched\""
+          "17": "\"fuzzy\"",
+          "18": "\"patched\"",
+          "19": "\"rocky\""
         }
       }
     ]

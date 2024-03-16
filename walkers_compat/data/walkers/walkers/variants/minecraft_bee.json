@@ -6,11 +6,19 @@
     "nbt": [
       {
         "nbt_type": "boolean",
-        "nbt_field": "HasStung"
+        "nbt_field": "HasNectar",
+        "parameters": {
+          "0": "0b",
+          "1": "1b"
+        }
       },
       {
         "nbt_type": "boolean",
-        "nbt_field": "HasNectar"
+        "nbt_field": "HasStung",
+        "parameters": {
+          "2": "0b"
+          "3": "1b"
+        }
       }
     ]
   }
