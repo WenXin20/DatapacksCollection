@@ -8,7 +8,7 @@
       {
         "nbt_type": "string",
         "nbt_field": "variant",
-        "is_mutable": true,
+        "is_mutable": false,
         "parameters": {
           "1": "\"minecraft:all_black\"",
           "2": "\"minecraft:black\"",
