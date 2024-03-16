@@ -1,4 +1,5 @@
 {
+  "required_mod": "moremobvariants",
   "entity_type": "minecraft:sheep",
   "type_provider": {
     "fallback": 0,
