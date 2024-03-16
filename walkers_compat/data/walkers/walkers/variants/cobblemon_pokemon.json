@@ -1,0 +1,14 @@
+{
+  "required_mod": "cobblemon",
+  "entity_type": "cobblemon:pokemon",
+  "type_provider": {
+    "fallback": 0,
+    "range": 1100,
+    "nbt": [
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "Shiny"
+      }
+    ]
+  }
+}

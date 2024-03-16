@@ -1,0 +1,48 @@
+{
+  "entity_type": "minecraft:villagers",
+  "type_provider": {
+    "range": 128,
+    "nbt": [
+      {
+        "nbt_type": "integer",
+        "nbt_field": "Level"
+      },
+      {
+        "nbt_type": "string",
+        "nbt_field": "profession",
+        "is_mutable": false,
+        "parameters": {
+          "0": "\"minecraft:desert\"",
+          "1": "\"minecraft:jungle\"",
+          "2": "\"minecraft:plains\"",
+          "3": "\"minecraft:savanna\"",
+          "4": "\"minecraft:snow\"",
+          "5": "\"minecraft:swamp\"",
+          "6": "\"minecraft:taiga\""
+        }
+      },
+      {
+        "nbt_type": "string",
+        "nbt_field": "type",
+        "is_mutable": false,
+        "parameters": {
+          "10": "\"minecraft:armorer\"",
+          "11": "\"minecraft:butcher\"",
+          "12": "\"minecraft:cartographer\"",
+          "13": "\"minecraft:cleric\"",
+          "14": "\"minecraft:farmer\"",
+          "15": "\"minecraft:fisherman\"",
+          "16": "\"minecraft:fletcher\"",
+          "17": "\"minecraft:leatherworker\"",
+          "18": "\"minecraft:librarian\"",
+          "19": "\"minecraft:nitwit\"",
+          "20": "\"minecraft:none\"",
+          "21": "\"minecraft:mason\"",
+          "22": "\"minecraft:shepherd\"",
+          "23": "\"minecraft:toolsmith\"",
+          "24": "\"minecraft:weaponsmith\""
+        }
+      }
+    ]
+  }
+}

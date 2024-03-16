@@ -8,8 +8,12 @@
         "nbt_field": "Color"
       },
       {
+        "nbt_type": "boolean",
+        "nbt_field": "Sheared"
+      },
+      {
         "nbt_type": "string",
-        "nbt_field": "CustomName",
+        "nbt_field": "text",
         "is_mutable": true,
         "parameters": {
           "16": "\"jeb_\""
