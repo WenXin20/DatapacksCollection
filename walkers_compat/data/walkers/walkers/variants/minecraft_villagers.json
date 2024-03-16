@@ -9,7 +9,7 @@
       },
       {
         "nbt_type": "string",
-        "nbt_field": "profession",
+        "nbt_field": "type",
         "is_mutable": false,
         "parameters": {
           "0": "\"minecraft:desert\"",
@@ -23,7 +23,7 @@
       },
       {
         "nbt_type": "string",
-        "nbt_field": "type",
+        "nbt_field": "profession",
         "is_mutable": false,
         "parameters": {
           "10": "\"minecraft:armorer\"",
