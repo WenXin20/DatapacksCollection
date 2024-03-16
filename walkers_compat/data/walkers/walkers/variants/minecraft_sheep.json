@@ -1,6 +1,7 @@
 {
   "entity_type": "minecraft:sheep",
   "type_provider": {
+    "fallback": 0,
     "range": 16,
     "nbt": [
       {

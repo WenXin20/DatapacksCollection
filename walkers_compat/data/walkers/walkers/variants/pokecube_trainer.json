@@ -2,6 +2,7 @@
   "required_mod": "pokecube_adventures",
   "entity_type": "pokecube_adventures:trainer",
   "type_provider": {
+    "fallback": 0,
     "range": 204,
     "nbt": [
       {
