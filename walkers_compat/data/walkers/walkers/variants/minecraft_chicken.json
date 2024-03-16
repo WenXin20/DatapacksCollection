@@ -1,0 +1,24 @@
+{
+  "required_mod": "moremobvariants",
+  "entity_type": "minecraft:chicken",
+  "type_provider": {
+    "fallback": 0,
+    "range": 8,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Variant",
+        "is_mutable": true,
+        "parameters": {
+          "1": "\"amber\"",
+          "2": "\"bone\"",
+          "3": "\"bronzed\"",
+          "4": "\"gold_crested\"",
+          "5": "\"midnight\"",
+          "6": "\"skewbald\"",
+          "7": "\"stormy\""
+        }
+      }
+    ]
+  }
+}
