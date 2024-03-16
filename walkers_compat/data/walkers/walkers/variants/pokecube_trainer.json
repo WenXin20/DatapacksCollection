@@ -6,10 +6,6 @@
     "range": 204,
     "nbt": [
       {
-        "nbt_type": "boolean",
-        "nbt_field": "gender"
-      },
-      {
         "nbt_type": "string",
         "nbt_field": "type",
         "is_mutable": false,
@@ -117,6 +113,10 @@
           "101": "\"youngster\"",
           "102": "\"zinnia\""
         }
+      },
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "gender"
       }
     ]
   }

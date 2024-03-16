@@ -10,20 +10,6 @@
       },
       {
         "nbt_type": "string",
-        "nbt_field": "type",
-        "is_mutable": false,
-        "parameters": {
-          "0": "\"minecraft:desert\"",
-          "1": "\"minecraft:jungle\"",
-          "2": "\"minecraft:plains\"",
-          "3": "\"minecraft:savanna\"",
-          "4": "\"minecraft:snow\"",
-          "5": "\"minecraft:swamp\"",
-          "6": "\"minecraft:taiga\""
-        }
-      },
-      {
-        "nbt_type": "string",
         "nbt_field": "profession",
         "is_mutable": false,
         "parameters": {
@@ -65,6 +51,20 @@
           "45": "\"workers:miner\"",
           "46": "\"workers:shepherd\"",
           "47": "\"workers:swineherd\""
+        }
+      },
+      {
+        "nbt_type": "string",
+        "nbt_field": "type",
+        "is_mutable": false,
+        "parameters": {
+          "0": "\"minecraft:desert\"",
+          "1": "\"minecraft:jungle\"",
+          "2": "\"minecraft:plains\"",
+          "3": "\"minecraft:savanna\"",
+          "4": "\"minecraft:snow\"",
+          "5": "\"minecraft:swamp\"",
+          "6": "\"minecraft:taiga\""
         }
       }
     ]

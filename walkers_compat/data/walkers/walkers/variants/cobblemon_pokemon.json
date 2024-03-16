@@ -3,7 +3,7 @@
   "entity_type": "cobblemon:pokemon",
   "type_provider": {
     "fallback": 0,
-    "range": 1100,
+    "range": 2,
     "nbt": [
       {
         "nbt_type": "boolean",
