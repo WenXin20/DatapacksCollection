@@ -1,0 +1,25 @@
+{
+  "required_mod": "moremobvariants",
+  "entity_type": "minecraft:zombie",
+  "type_provider": {
+    "fallback": 0,
+    "range": 8,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Variant",
+        "is_mutable": false,
+        "parameters": {
+          "1": "\"alex\"",
+          "2": "\"ari\"",
+          "3": "\"efe\"",
+          "4": "\"kai\"",
+          "5": "\"makena\"",
+          "6": "\"noor\"",
+          "7": "\"sunny\"",
+          "8": "\"zuri\""
+        }
+      }
+    ]
+  }
+}

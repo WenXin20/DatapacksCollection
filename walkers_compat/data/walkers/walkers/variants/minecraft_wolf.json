@@ -1,0 +1,26 @@
+{
+  "required_mod": "moremobvariants",
+  "entity_type": "minecraft:wolf",
+  "type_provider": {
+    "fallback": 0,
+    "range": 80,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Variant",
+        "is_mutable": false,
+        "parameters": {
+          "1": "\"french_bulldog\"",
+          "2": "\"german_shepherd\"",
+          "3": "\"golden_retriever\"",
+          "4": "\"husky\"",
+          "5": "\"jupiter\""
+        }
+      },
+      {
+        "nbt_type": "Integer",
+        "nbt_field": "CollarColor"
+      }
+    ]
+  }
+}
