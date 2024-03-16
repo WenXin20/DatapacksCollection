@@ -1,0 +1,22 @@
+{
+  "required_mod": "quark",
+  "entity_type": "quark:shiba",
+  "type_provider": {
+    "fallback": 0,
+    "range": 16,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "CustomName",
+        "is_mutable": true,
+        "parameters": {
+          "16": "\"doge\""
+        }
+      },
+      {
+        "nbt_type": "integer",
+        "nbt_field": "CollarColor"
+      }
+    ]
+  }
+}

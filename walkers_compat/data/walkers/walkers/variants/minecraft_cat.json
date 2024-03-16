@@ -1,0 +1,36 @@
+{
+  "required_mod": "moremobvariants",
+  "entity_type": "minecraft:cat",
+  "type_provider": {
+    "fallback": 0,
+    "range": 240,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Variant",
+        "is_mutable": true,
+        "parameters": {
+          "1": "\"minecraft:all_black\"",
+          "2": "\"minecraft:black\"",
+          "3": "\"minecraft:british_shorthair\"",
+          "4": "\"minecraft:calico\"",
+          "5": "\"minecraft:jellie\"",
+          "6": "\"minecraft:persian\"",
+          "7": "\"minecraft:ragdoll\"",
+          "8": "\"minecraft:red\"",
+          "9": "\"minecraft:siamese\"",
+          "10": "\"minecraft:tabby\"",
+          "11": "\"minecraft:white\"",
+          "12": "\"moremobvariants:doug\"",
+          "13": "\"moremobvariants:gray_tabby\"",
+          "14": "\"moremobvariants:handsome\"",
+          "15": "\"moremobvariants:tortoiseshell\""
+        }
+      },
+      {
+        "nbt_type": "Integer",
+        "nbt_field": "CollarColor"
+      }
+    ]
+  }
+}
