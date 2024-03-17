@@ -3,7 +3,7 @@
   "entity_type": "minecraft:cat",
   "type_provider": {
     "fallback": 0,
-    "range": 240,
+    "range": 15,
     "nbt": [
       {
         "nbt_type": "string",
@@ -26,10 +26,6 @@
           "14": "\"moremobvariants:handsome\"",
           "15": "\"moremobvariants:tortoiseshell\""
         }
-      },
-      {
-        "nbt_type": "Integer",
-        "nbt_field": "CollarColor"
       }
     ]
   }

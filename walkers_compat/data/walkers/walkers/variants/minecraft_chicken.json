@@ -8,7 +8,7 @@
       {
         "nbt_type": "string",
         "nbt_field": "Variant",
-        "is_mutable": false,
+        "is_mutable": true,
         "parameters": {
           "1": "\"amber\"",
           "2": "\"bone\"",
