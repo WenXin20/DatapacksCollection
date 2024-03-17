@@ -1,0 +1,29 @@
+{
+  "required_mod": "naturalist",
+  "entity_type": "naturalist:tortoise",
+  "type_provider": {
+    "fallback": 0,
+    "range": 14,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "CustomName",
+        "is_mutable": true,
+        "parameters": {
+          "3": "\"donatello\"",
+          "4": "\"leonardo\"",
+          "5": "\"michelangelo\"",
+          "6": "\"raphael\""
+        }
+      },
+      {
+        "nbt_type": "integer",
+        "nbt_field": "Variant"
+      },
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "HasEgg"
+      }
+    ]
+  }
+}
