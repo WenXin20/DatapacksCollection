@@ -1,0 +1,21 @@
+{
+  "entity_type": "minecraft:goat",
+  "type_provider": {
+    "fallback": 0,
+    "range": 5,
+    "nbt": [
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "HasLeftHorn"
+      },
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "HasRightHorn"
+      },
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "IsScreamingGoat"
+      }
+    ]
+  }
+}
