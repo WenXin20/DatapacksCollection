@@ -1,0 +1,25 @@
+{
+  "required_mod": "moremobvariants",
+  "entity_type": "minecraft:chicken",
+  "type_provider": {
+    "fallback": 0,
+    "range": 7,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Variant",
+        "is_mutable": false,
+        "parameters": {
+          "0": "default",
+          "1": "alex",
+          "2": "efe",
+          "3": "kai",
+          "4": "makena",
+          "5": "noor",
+          "6": "sunny",
+          "7": "zuri"
+        }
+      }
+    ]
+  }
+}
