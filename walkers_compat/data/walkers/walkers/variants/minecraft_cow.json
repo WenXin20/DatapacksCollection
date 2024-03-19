@@ -10,13 +10,14 @@
         "nbt_field": "Variant",
         "is_mutable": false,
         "parameters": {
-          "1": "\"ashen\"",
-          "2": "\"cookie\"",
-          "3": "\"dairy\"",
-          "4": "\"pinto\"",
-          "5": "\"sunset\"",
-          "6": "\"umbra\"",
-          "7": "\"wooly\""
+          "0": "default",
+          "1": "ashen",
+          "2": "cookie",
+          "3": "dairy",
+          "4": "pinto",
+          "5": "sunset",
+          "6": "umbra",
+          "7": "wooly"
         }
       }
     ]

@@ -10,21 +10,21 @@
         "nbt_field": "variant",
         "is_mutable": false,
         "parameters": {
-          "1": "\"minecraft:all_black\"",
-          "2": "\"minecraft:black\"",
-          "3": "\"minecraft:british_shorthair\"",
-          "4": "\"minecraft:calico\"",
-          "5": "\"minecraft:jellie\"",
-          "6": "\"minecraft:persian\"",
-          "7": "\"minecraft:ragdoll\"",
-          "8": "\"minecraft:red\"",
-          "9": "\"minecraft:siamese\"",
-          "10": "\"minecraft:tabby\"",
-          "11": "\"minecraft:white\"",
-          "12": "\"moremobvariants:doug\"",
-          "13": "\"moremobvariants:gray_tabby\"",
-          "14": "\"moremobvariants:handsome\"",
-          "15": "\"moremobvariants:tortoiseshell\""
+          "1": "minecraft:all_black",
+          "2": "minecraft:black",
+          "3": "minecraft:british_shorthair",
+          "4": "minecraft:calico",
+          "5": "minecraft:jellie",
+          "6": "minecraft:persian",
+          "7": "minecraft:ragdoll",
+          "8": "minecraft:red",
+          "9": "minecraft:siamese",
+          "10": "minecraft:tabby",
+          "11": "minecraft:white",
+          "12": "moremobvariants:doug",
+          "13": "moremobvariants:gray_tabby",
+          "14": "moremobvariants:handsome",
+          "15": "moremobvariants:tortoiseshell"
         }
       }
     ]

@@ -10,10 +10,10 @@
         "nbt_field": "State",
         "is_mutable": false,
         "parameters": {
-          "0": "\"normal\"",
-          "1": "\"dizzy\"",
-          "2": "\"spinning\"",
-          "3": "\"flying\""
+          "0": "normal",
+          "1": "dizzy",
+          "2": "spinning",
+          "3": "flying""
         }
       }
     ]

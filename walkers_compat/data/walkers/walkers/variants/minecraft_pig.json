@@ -3,18 +3,19 @@
   "entity_type": "minecraft:pig",
   "type_provider": {
     "fallback": 0,
-    "range": 16,
+    "range": 5,
     "nbt": [
       {
         "nbt_type": "string",
         "nbt_field": "Variant",
         "is_mutable": false,
         "parameters": {
-          "1": "\"mottled\"",
-          "2": "\"piebald\"",
-          "3": "\"pink_footed\"",
-          "4": "\"sooty\"",
-          "5": "\"spotted\""
+          "0": "default",
+          "1": "mottled",
+          "2": "piebald",
+          "3": "pink_footed",
+          "4": "sooty",
+          "5": "spotted"
         }
       },
       {

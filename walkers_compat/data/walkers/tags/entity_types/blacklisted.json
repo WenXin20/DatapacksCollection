@@ -26,6 +26,7 @@
     { "id": "guardvillagers:guard", "required": false },
     { "id": "illagerinvasion:inquisitor", "required": false },
     { "id": "illagerinvasion:invoker", "required": false },
+    { "id": "irons_spellbooks:summoned_zombie", "required": false },
     { "id": "mcda:summoned_bee", "required": false },
     { "id": "mcdar:buzzy_nest_bee", "required": false },
     { "id": "mcdar:enchanted_blue_sheep", "required": false },
