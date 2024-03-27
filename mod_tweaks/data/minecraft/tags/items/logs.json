@@ -89,6 +89,7 @@
     { "id": "byg:zelkova_log", "required": false },
     { "id": "chaosawakens:crystal_log", "required": false },
     { "id": "chaosawakens:crystal_wood", "required": false },
+    { "id": "dawnoftimebuilder:maple_red_trunk", "required": false },
     { "id": "desolation:charredlog", "required": false },
     { "id": "good_nights_sleep:blood_wood", "required": false },
     { "id": "good_nights_sleep:dead_wood", "required": false },
