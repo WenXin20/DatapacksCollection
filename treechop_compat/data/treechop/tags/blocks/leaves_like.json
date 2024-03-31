@@ -18,6 +18,7 @@
     { "id": "betterendforge:umbrella_tree_membrane", "required": false },
     { "id": "betternether:nether_sakura_leaves", "required": false },
     { "id": "blue_skies:snowcap_mushroom_block", "required": false },
+    { "id": "biomesoplenty:glowshroom_block", "required": false },
     { "id": "byg:sythian_wart_block", "required": false },
     { "id": "tofucraft:leaves_tofu", "required": false },
     { "id": "betterendforge:dragon_tree_leaves", "required": false },

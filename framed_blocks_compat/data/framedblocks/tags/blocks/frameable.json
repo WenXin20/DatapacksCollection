@@ -4,6 +4,7 @@
     "#forge:stained_glass",
     "#minecraft:ice",
     "#minecraft:leaves",
+    "#minecraft:logs",
     "#minecraft:planks",
     { "id": "#chipped:black_stained_glass", "required": false },
     { "id": "#chipped:blue_stained_glass", "required": false },
