@@ -1,0 +1,26 @@
+{
+  "required_mod": "twilightforest",
+  "entity_type": "twilightforest:bighorn_sheep",
+  "type_provider": {
+    "fallback": 0,
+    "range": 16,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "CustomName",
+        "is_mutable": true,
+        "parameters": {
+          "16": "\"jeb_\""
+        }
+      },
+      {
+        "nbt_type": "int",
+        "nbt_field": "Color"
+      },
+      {
+        "nbt_type": "boolean",
+        "nbt_field": "Sheared"
+      }
+    ]
+  }
+}

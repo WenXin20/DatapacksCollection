@@ -25,6 +25,10 @@
         "nbt_field": "Color"
       },
       {
+        "nbt_type": "boolean",
+        "nbt_field": "Sheared"
+      },
+      {
         "nbt_type": "string",
         "nbt_field": "Variant",
         "is_mutable": true,
