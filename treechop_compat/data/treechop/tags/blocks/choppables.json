@@ -16,6 +16,8 @@
     { "id": "tofucraft:blocktofuishi", "required": false },
     { "id": "tofucraft:leek_stem", "required": false },
     { "id": "tofucraft:tofustem", "required": false },
-    { "id": "twilightforest:mangrove_root", "required": false }
+    { "id": "twilightforest:liveroot_block", "required": false },
+    { "id": "twilightforest:mangrove_root", "required": false },
+    { "id": "twilightforest:root", "required": false }
   ]
 }
