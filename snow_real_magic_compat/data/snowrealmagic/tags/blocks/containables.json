@@ -20,9 +20,9 @@
     "minecraft:spore_blossom",
     "minecraft:warped_fungus",
     "minecraft:warped_roots",
+    { "id": "#botania:floating_flowers", "required": false },
     { "id": "#botania:functional_special_flowers", "required": false },
     { "id": "#botania:special_flowers", "required": false },
-    { "id": "#botania:floating_flowers", "required": false },
     { "id": "#cobblemon:berries", "required": false },
     { "id": "#cobblemon:mints", "required": false },
     { "id": "#habitat:ball_cacti", "required": false },
@@ -179,8 +179,8 @@
     { "id": "spelunkery:white_inkcap_mushroom", "required": false },
     { "id": "sprout:sprouts", "required": false },
     { "id": "super_block_world:brown_toad_stool", "required": false },
-    { "id": "super_block_world:red_toad_stool", "required": false },
     { "id": "super_block_world:red_grass", "required": false },
+    { "id": "super_block_world:red_toad_stool", "required": false },
     { "id": "teletubbies:voice_trumpet", "required": false },
     { "id": "terraincognita:caribou_moss", "required": false },
     { "id": "terraincognita:caribou_moss_wall", "required": false },
@@ -219,8 +219,8 @@
     { "id": "verdure:pebbles",  "required": false },
     { "id": "verdure:red_mushroom_shelf",  "required": false },
     { "id": "verdure:rock",  "required": false },
+    { "id": "windswept:snowy_sprouts",  "required": false },
     { "id": "windswept:wild_berry_bush",  "required": false },
-    { "id": "windswept:wild_berry_bush_pips",  "required": false },
-    { "id": "windswept:snowy_sprouts",  "required": false }
+    { "id": "windswept:wild_berry_bush_pips",  "required": false }
   ]
 }
