@@ -1,0 +1,28 @@
+{
+  "values": [
+    "#minecraft:flower_pots",
+    "#minecraft:flowers",
+    "#minecraft:small_flowers",
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:blue_orchid",
+    "minecraft:brown_mushroom",
+    "minecraft:cornflower",
+    "minecraft:fern",
+    "minecraft:grass",
+    "minecraft:lily_of_the_valley",
+    "minecraft:orange_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:pink_tulip",
+    "minecraft:red_mushroom",
+    "minecraft:red_tulip",
+    "minecraft:white_tulip",
+    { "id": "#forge:mushrooms", "required": false },
+    { "id": "biomesoplenty:clover", "required": false },
+    { "id": "regions_unexplored:clover", "required": false },
+    { "id": "twilightforest:fiddlehead", "required": false },
+    { "id": "twilightforest:mayapple", "required": false },
+    { "id": "twilightforest:mushgloom", "required": false },
+    { "id": "verdure:clover",  "required": false }
+  ]
+}
