@@ -1,8 +1,9 @@
 {
-  "entity_type": "minecraft:tropical_fish",
+  "required_mod": "alexsmobs",
+  "entity_type": "alexsmobs:flyingfish",
   "type_provider": {
     "fallback": 0,
-    "range": 100,
+    "range": 2,
     "nbt": [
       {
         "nbt_type": "integer",
