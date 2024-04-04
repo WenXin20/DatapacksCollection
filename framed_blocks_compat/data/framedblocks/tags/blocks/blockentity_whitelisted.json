@@ -1,5 +1,6 @@
 {
   "values": [
-    { "id": "#forge:workbench", "required": false }
+    { "id": "#forge:workbench", "required": false },
+    { "id": "#warp_pipes:warp_pipes", "required": false }
   ]
 }
