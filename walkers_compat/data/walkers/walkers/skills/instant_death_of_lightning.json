@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "type": "walkers:instant_die_on_damage_type",
+      "damage_type": "minecraft:lightning_bolt"
+    }
+  ],
+  "entity_types": [
+    "minecraft:turtle"
+  ]
+}

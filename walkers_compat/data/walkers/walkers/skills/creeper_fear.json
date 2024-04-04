@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "type": "walkers:feared",
+      "fearful": [
+        "minecraft:creeper"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:cat",
+    "minecraft:ocelot"
+  ]
+}

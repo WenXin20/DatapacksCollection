@@ -1,0 +1,17 @@
+{
+  "skills": [
+    {
+      "type": "walkers:rider",
+      "rideable": [
+        "minecraft:ravager"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:evoker",
+    "minecraft:illusioner",
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:witch"
+  ]
+}

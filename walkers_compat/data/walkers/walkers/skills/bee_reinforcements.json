@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "type": "walkers:reinforcements",
+      "range": 32,
+      "reinforcements": [
+        "minecraft:bee"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:bee"
+  ]
+}

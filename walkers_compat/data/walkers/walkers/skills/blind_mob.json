@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {
+      "type": "walkers:mob_effect",
+      "mob_effect": {
+        "id": "minecraft:blindness",
+        "duration": 0,
+        "amplifier": 0
+      },
+      "show_in_inventory": false
+    }
+  ],
+  "entity_types": [
+    "minecraft:warden"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "skills": [
+    {
+      "type": "walkers:cant_swim"
+    }
+  ],
+  "entity_types": [
+    "minecraft:iron_golem",
+    "friendsandfoes:copper_golem",
+    "friendsandfoes:tuff_golem"
+  ]
+}

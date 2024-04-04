@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "type": "walkers:reinforcements",
+      "range": 32,
+      "reinforcements": [
+        "minecraft:zombie"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:zombie"
+  ]
+}

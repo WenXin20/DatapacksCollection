@@ -1,0 +1,20 @@
+{
+  "skills": [
+    {
+      "type": "walkers:mob_effect",
+      "mob_effect": {
+        "id": "minecraft:dolphins_grace",
+        "duration": 0,
+        "amplifier": 0
+      },
+      "show_in_inventory": true,
+      "apply_to_self": "true",
+      "apply_to_nearby": 0,
+      "max_distance_for_entities": -1,
+      "amount_of_entities_to_apply_to": -10
+    }
+  ],
+  "entity_types": [
+    "minecraft:dolphin"
+  ]
+}

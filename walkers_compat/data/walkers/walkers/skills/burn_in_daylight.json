@@ -1,0 +1,17 @@
+{
+  "skills": [
+    {
+      "type": "walkers:burn_in_daylight",
+      "burn_in_moonlight_instead": false
+    }
+  ],
+  "entity_types": [
+    "minecraft:dolphin",
+    "minecraft:drowned",
+    "minecraft:phantom",
+    "minecraft:skeleton",
+    "minecraft:stray",
+    "minecraft:zombie",
+    "minecraft:zombie_villager"
+  ]
+}

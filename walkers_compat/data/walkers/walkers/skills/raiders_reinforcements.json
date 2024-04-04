@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "type": "walkers:reinforcements",
+      "range": 32,
+      "reinforcements": [
+        "minecraft:evoker",
+        "minecraft:illusioner",
+        "minecraft:pillager",
+        "minecraft:ravager",
+        "minecraft:vindicator",
+        "minecraft:witch"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:evoker",
+    "minecraft:illusioner",
+    "minecraft:pillager",
+    "minecraft:ravager",
+    "minecraft:vindicator",
+    "minecraft:witch"
+  ]
+}

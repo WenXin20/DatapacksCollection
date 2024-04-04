@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "type": "walkers:aquatic",
+      "is_aquatic": 0
+    }
+  ],
+  "entity_types": [
+    "minecraft:cod",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:tropical_fish"
+  ]
+}

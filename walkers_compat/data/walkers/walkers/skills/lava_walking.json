@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "type": "walkers:stand_on_fluid",
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "entity_types": [
+    "minecraft:strider"
+  ]
+}

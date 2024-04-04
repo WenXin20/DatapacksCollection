@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "type": "walkers:stand_on_fluid",
+      "fluid": "minecraft:water"
+    }
+  ],
+  "entity_types": [
+  ]
+}

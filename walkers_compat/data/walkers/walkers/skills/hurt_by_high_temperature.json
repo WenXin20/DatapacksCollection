@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "type": "walkers:temperature",
+      "cold_enough_to_snow": true
+    }
+  ],
+  "entity_types": [
+    "minecraft:snow_golem"
+  ]
+}

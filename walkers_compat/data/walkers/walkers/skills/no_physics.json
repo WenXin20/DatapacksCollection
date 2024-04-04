@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "type": "walkers:no_physics"
+    }
+  ],
+  "entity_types": [
+    "minecraft:vex"
+  ]
+}

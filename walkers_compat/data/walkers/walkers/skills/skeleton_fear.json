@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "type": "walkers:feared",
+      "fearful": [
+        "minecraft:skeleton",
+        "minecraft:stray"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:wolf"
+  ]
+}

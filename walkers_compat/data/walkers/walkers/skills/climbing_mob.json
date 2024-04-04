@@ -1,0 +1,15 @@
+{
+  "skills": [
+    {
+      "type": "walkers:climb_blocks",
+      "horizontal_collision": true,
+      "invalid_blocks": [
+        "minecraft:bedrock"
+      ]
+    }
+  ],
+  "entity_types": [
+    "minecraft:cave_spider",
+    "minecraft:spider"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "type": "walkers:temperature",
+      "cold_enough_to_snow": false
+    }
+  ],
+  "entity_types": [
+  ]
+}

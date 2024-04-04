@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "type": "walkers:undrownable"
+    }
+  ],
+  "entity_types": [
+    "minecraft:iron_golem",
+    "minecraft:snow_golem"
+	"alexsmobs:lobster",
+    "friendsandfoes:copper_golem",
+    "friendsandfoes:tuff_golem"
+  ]
+}
