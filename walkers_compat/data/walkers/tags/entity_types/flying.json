@@ -32,7 +32,7 @@
     { "id": "beachparty:pelican", "required": false },
     { "id": "betterend:dragonfly", "required": false },
     { "id": "betterend:silk_moth", "required": false },
-    { "id": "blue_skies:frost_spirit", "required": false },,
+    { "id": "blue_skies:frost_spirit", "required": false },
     { "id": "clutter:butterfly", "required": false },
     { "id": "endermanoverhaul:spirit", "required": false },
     { "id": "friendsandfoes:glare", "required": false },
