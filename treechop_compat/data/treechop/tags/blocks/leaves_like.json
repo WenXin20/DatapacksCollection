@@ -57,6 +57,8 @@
     { "id": "forbidden_arcanus:carved_edelwood_log", "required": false },
     { "id": "forbidden_arcanus:edelwood_branch", "required": false },
     { "id": "forbidden_arcanus:edelwood_log", "required": false },
+    { "id": "habitat:fairy_ring_mushroom_block", "required": false },
+    { "id": "habitat:fairylight", "required": false },
     { "id": "infernalexp:luminous_wart_block", "required": false },
     { "id": "regions_unexplored:cactus_flower", "required": false },
     { "id": "spelunkery:milly_bubcap_block", "required": false },
