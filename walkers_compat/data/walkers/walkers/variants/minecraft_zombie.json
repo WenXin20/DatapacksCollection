@@ -1,6 +1,6 @@
 {
   "required_mod": "moremobvariants",
-  "entity_type": "minecraft:chicken",
+  "entity_type": "minecraft:zombie",
   "type_provider": {
     "fallback": 0,
     "range": 7,
