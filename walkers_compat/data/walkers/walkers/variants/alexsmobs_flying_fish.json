@@ -1,6 +1,6 @@
 {
   "required_mod": "alexsmobs",
-  "entity_type": "alexsmobs:flyingfish",
+  "entity_type": "alexsmobs:flying_fish",
   "type_provider": {
     "fallback": 0,
     "range": 2,
