@@ -4,6 +4,7 @@
     "#minecraft:logs",
     { "id": "#forge:mushroom_stems", "required": false },
     { "id": "#habitat:ball_cactus_blocks", "required": false },
+    { "id": "#regions_unexplored:branches", "required": false },
     { "id": "betternether:willow_trunk", "required": false },
     { "id": "blue_skies:snowcap_mushroom_stem", "required": false },
     { "id": "biomesoplenty:glowshroom_block", "required": false },
