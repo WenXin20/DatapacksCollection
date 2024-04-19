@@ -1,19 +1,10 @@
 {
   "type": "apotheosis:fletching",
-	"conditions": [
-		{
-			"type": "apotheosis:module",
-			"module": "village"
-		},
-		{
-			"type":"forge:mod_loaded",
-			"modid":"alexsmobs"
-		},
-		{
-			"type":"forge:mod_loaded",
-			"modid":"apotheosis"
-		}
-	],
+  "conditions": [
+    { "type": "apotheosis:module", "module": "village" },
+    { "type": "forge:mod_loaded", "modid":"alexsmobs" },
+    { "type": "forge:mod_loaded", "modid":"apotheosis" }
+  ],
   "ingredients": [
     {
       "item": "alexsmobs:shark_tooth"
@@ -26,7 +17,7 @@
     }
   ],
   "result": {
-    "item": "alexsmobs:direbat_fang_arrow",
-    "count": 6
+    "item": "alexsmobs:shark_tooth_arrow",
+    "count": 8
   }
 }
