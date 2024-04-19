@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "betterarcheology:chicken_fossil_head", "required": false },
+    { "id": "betterarcheology:creeper_fossil_head", "required": false },
+    { "id": "betterarcheology:guardian_fossil_head", "required": false },
+    { "id": "betterarcheology:ocelot_fossil_head", "required": false },
+    { "id": "betterarcheology:sheep_fossil_head", "required": false },
+    { "id": "betterarcheology:villager_fossil_head", "required": false },
+    { "id": "betterarcheology:wolf_fossil_head", "required": false }
+  ]
+}

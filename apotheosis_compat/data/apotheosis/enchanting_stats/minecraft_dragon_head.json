@@ -1,0 +1,11 @@
+{
+	"block": "minecraft:dragon_head",
+	"stats": {
+		"maxEterna": 0,
+		"eterna": 0,
+		"quanta": 30,
+		"arcana": 5,
+		"rectification": 0,
+		"clues": 0
+	}
+}
