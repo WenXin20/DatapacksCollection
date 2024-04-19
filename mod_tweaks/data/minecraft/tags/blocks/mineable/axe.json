@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    { "id": "#amendments:skull_candles", "required": false },
+    { "id": "#forge:heads", "required": false },
     { "id": "craftingstation:crafting_station", "required": false },
     { "id": "craftingstation:crafting_station_slab", "required": false }
   ]

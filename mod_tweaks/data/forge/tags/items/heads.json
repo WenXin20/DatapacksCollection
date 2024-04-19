@@ -80,6 +80,12 @@
     { "id": "terraheads:wandering_trader_head", "required": false },
     { "id": "terraheads:witch_head", "required": false },
     { "id": "terraheads:zombie_villager_head", "required": false },
-    { "id": "tofucraft:tofunian_head", "required": false }
+    { "id": "tofucraft:tofunian_head", "required": false },
+    { "id": "twilightforest:creeper_skull_candle", "required": false },
+    { "id": "twilightforest:piglin_skull_candle", "required": false },
+    { "id": "twilightforest:player_skull_candle", "required": false },
+    { "id": "twilightforest:skeleton_skull_candle", "required": false },
+    { "id": "twilightforest:wither_skeleton_skull_candle", "required": false },
+    { "id": "twilightforest:zombie_skull_candle", "required": false }
   ]
 }
