@@ -1,0 +1,20 @@
+{
+  "type": "apotheosis:fletching",
+  "conditions": [
+    { "type": "apotheosis:module", "module": "village" },
+    { "type": "forge:mod_loaded", "modid":"apotheosis" },
+    { "type": "forge:mod_loaded", "modid":"quark" }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "tag": "minecraft:arrows"
+    }
+  ],
+  "result": {
+    "item": "quark:torch_arrow",
+    "count": 1
+  }
+}

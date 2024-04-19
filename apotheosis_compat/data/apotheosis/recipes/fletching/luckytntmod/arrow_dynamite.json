@@ -1,0 +1,23 @@
+{
+  "type": "apotheosis:fletching",
+  "conditions": [
+    { "type": "apotheosis:module", "module": "village" },
+    { "type": "forge:mod_loaded", "modid":"apotheosis" },
+    { "type": "forge:mod_loaded", "modid":"luckytntmod" }
+  ],
+  "ingredients": [
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "item": "luckytntmod:dynamite"
+    },
+    {
+      "tag": "minecraft:arrows"
+    }
+  ],
+  "result": {
+    "item": "luckytntmod:arrow_dynamite",
+    "count": 2
+  }
+}

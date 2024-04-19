@@ -1,0 +1,23 @@
+{
+  "type": "apotheosis:fletching",
+  "conditions": [
+    { "type": "apotheosis:module", "module": "village" },
+    { "type": "forge:mod_loaded", "modid":"apotheosis" },
+    { "type": "forge:mod_loaded", "modid":"outer_end" }
+  ],
+  "ingredients": [
+    {
+      "item": "outer_end:rose_crystal_shard"
+    },
+    {
+      "tag": "forge:rods/wooden"
+    },
+    {
+      "tag": "forge:feathers"
+    }
+  ],
+  "result": {
+    "item": "outer_end:rose_crystal_arrow",
+    "count": 6
+  }
+}
