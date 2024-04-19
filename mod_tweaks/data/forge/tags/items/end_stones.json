@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+	{ "id": "betterendforge:cave_moss", "required": false },
+	{ "id": "betterendforge:cave_moss_path", "required": false },
+	{ "id": "betterendforge:chorus_nylium", "required": false },
+	{ "id": "betterendforge:chorus_nylium_path", "required": false },
+	{ "id": "betterendforge:crystal_moss", "required": false },
+	{ "id": "betterendforge:crystal_moss_path", "required": false },
+	{ "id": "betterendforge:end_moss", "required": false },
+	{ "id": "betterendforge:end_moss_path", "required": false },
+	{ "id": "betterendforge:end_mycelium", "required": false },
+	{ "id": "betterendforge:end_mycelium_path", "required": false },
+	{ "id": "betterendforge:shadow_grass", "required": false },
+	{ "id": "betterendforge:shadow_grass_path", "required": false },
+	{ "id": "byg:cryptic_stone", "required": false },
+	{ "id": "byg:ivis_phylium", "required": false },
+	{ "id": "byg:nightshade_phylium", "required": false },
+	{ "id": "byg:shulkren_phylium", "required": false },
+	{ "id": "outer_end:azure_grass", "required": false },
+	{ "id": "productivebees:end_stone_nest", "required": false }
+  ]
+}
