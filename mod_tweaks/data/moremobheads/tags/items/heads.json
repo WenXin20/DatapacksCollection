@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     { "id": "#moremobheads:brown_llama_head", "required": false },
     { "id": "#moremobheads:colored_sheep_head", "required": false },

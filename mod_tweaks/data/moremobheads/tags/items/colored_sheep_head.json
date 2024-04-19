@@ -1,20 +1,21 @@
 {
+  "replace": false,
   "values": [
-    "moremobheads:sheep_head_black",
-    "moremobheads:sheep_head_blue",
-    "moremobheads:sheep_head_brown",
-    "moremobheads:sheep_head_cyan",
-    "moremobheads:sheep_head_gray",
-    "moremobheads:sheep_head_green",
-    "moremobheads:sheep_head_light_blue",
-    "moremobheads:sheep_head_light_gray",
-    "moremobheads:sheep_head_lime",
-    "moremobheads:sheep_head_magenta",
-    "moremobheads:sheep_head_orange",
-    "moremobheads:sheep_head_pink",
-    "moremobheads:sheep_head_purple",
-    "moremobheads:sheep_head_red",
-    "moremobheads:sheep_head_white",
-    "moremobheads:sheep_head_yellow"
+    { "id": "moremobheads:sheep_head_black", "required": false },
+    { "id": "moremobheads:sheep_head_blue", "required": false },
+    { "id": "moremobheads:sheep_head_brown", "required": false },
+    { "id": "moremobheads:sheep_head_cyan", "required": false },
+    { "id": "moremobheads:sheep_head_gray", "required": false },
+    { "id": "moremobheads:sheep_head_green", "required": false },
+    { "id": "moremobheads:sheep_head_light_blue", "required": false },
+    { "id": "moremobheads:sheep_head_light_gray", "required": false },
+    { "id": "moremobheads:sheep_head_lime", "required": false },
+    { "id": "moremobheads:sheep_head_magenta", "required": false },
+    { "id": "moremobheads:sheep_head_orange", "required": false },
+    { "id": "moremobheads:sheep_head_pink", "required": false },
+    { "id": "moremobheads:sheep_head_purple", "required": false },
+    { "id": "moremobheads:sheep_head_red", "required": false },
+    { "id": "moremobheads:sheep_head_white", "required": false },
+    { "id": "moremobheads:sheep_head_yellow", "required": false }
   ]
 }
