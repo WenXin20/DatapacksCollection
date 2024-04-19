@@ -1,5 +1,5 @@
 {
-	"block": "moremobheads:wither_wall_head_invulnerable_shield",
+	"block": "moremobheads:wither_head_invulnerable_shield",
 	"stats": {
 		"maxEterna": 0,
 		"eterna": 0,
