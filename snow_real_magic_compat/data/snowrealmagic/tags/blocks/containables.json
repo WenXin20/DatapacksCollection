@@ -48,6 +48,7 @@
     { "id": "biomesoplenty:clover", "required": false },
     { "id": "biomesoplenty:dead_branch", "required": false },
     { "id": "biomesoplenty:huge_clover_petal", "required": false },
+    { "id": "biomesoplenty:webbing", "required": false },
     { "id": "blue_skies:brewberry_bush", "required": false },
     { "id": "blue_skies:sea_moss_carpet", "required": false },
     { "id": "blue_skies:turquoise_grass", "required": false },
