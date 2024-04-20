@@ -137,6 +137,7 @@
     { "id": "regions_unexplored:bamboo_log", "required": false },
     { "id": "regions_unexplored:bamboo_log_leaves", "required": false },
     { "id": "regions_unexplored:barrel_cactus", "required": false },
+    { "id": "regions_unexplored:brimsprout", "required": false },
     { "id": "regions_unexplored:cactus_flower", "required": false },
     { "id": "regions_unexplored:cave_hyssop", "required": false },
     { "id": "regions_unexplored:clover", "required": false },

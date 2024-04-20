@@ -74,6 +74,7 @@
     { "id": "outer_end:azure_stamen", "required": false },
     { "id": "tofucraft:leaves_tofu", "required": false },
     { "id": "tofucraft:leaves_zundatofu", "required": false },
+    { "id": "twilightforest:hardened_dark_leaves", "required": false },
     { "id": "watersource:coconut_tree_leaf", "required": false },
     { "id": "worldofwonder:dandelion_fluff", "required": false },
     { "id": "worldofwonder:dandelion_petals", "required": false }
