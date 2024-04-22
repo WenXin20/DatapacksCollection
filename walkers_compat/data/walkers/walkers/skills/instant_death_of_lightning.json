@@ -1,8 +1,8 @@
 {
   "skills": [
     {
-      "type": "walkers:instant_die_on_damage_type",
-      "damage_type": "minecraft:lightning_bolt"
+      "type": "walkers:instant_die_on_damage_msg",
+      "msgId": "lightningBolt"
     }
   ],
   "entity_types": [
