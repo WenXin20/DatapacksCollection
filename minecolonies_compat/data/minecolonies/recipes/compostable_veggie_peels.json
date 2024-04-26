@@ -1,0 +1,13 @@
+{
+  "type": "minecolonies:composting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" }
+  ],
+  "input": [
+    {
+      "item": "overweight_farming:vegetable_peels"
+    }
+  ],
+  "strength": 8
+}

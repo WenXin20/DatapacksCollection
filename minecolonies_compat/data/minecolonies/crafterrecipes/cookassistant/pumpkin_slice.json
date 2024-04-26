@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "tag": "forge:crops/pumpkin"
+    }
+  ],
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:pumpkin_slice",
+  "count": 4,
+  "tool": "knife"
+}

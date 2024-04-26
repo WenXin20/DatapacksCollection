@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:cake"
+    }
+  ],
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:cake_slice",
+  "tool": "knife",
+  "count": 7
+}

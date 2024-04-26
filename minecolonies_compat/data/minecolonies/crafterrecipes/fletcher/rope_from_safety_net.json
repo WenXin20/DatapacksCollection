@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "fletcher_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:safety_net"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:rope",
+  "count": 4
+}

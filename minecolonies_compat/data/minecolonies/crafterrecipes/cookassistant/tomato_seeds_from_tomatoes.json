@@ -1,0 +1,15 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "tag": "forge:crops/tomato"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:tomato_seeds"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:apple",
+      "count": 2
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "intermediate": "farmersdelight:cooking_pot",
+  "result": "farmersdelight:apple_cider",
+  "count": 1
+}

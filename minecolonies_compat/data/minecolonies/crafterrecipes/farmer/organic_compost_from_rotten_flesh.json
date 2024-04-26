@@ -1,0 +1,27 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:bonemeal",
+      "count": 4
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:rotten_flesh",
+      "count": 2
+    },
+    {
+      "item": "farmersdelight:straw",
+      "count": 2
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:organic_compost"
+}

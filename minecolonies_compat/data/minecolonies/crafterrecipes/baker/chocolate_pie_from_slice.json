@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:chocolate_pie_slice",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:chocolate_pie",
+  "min-building-level": 3
+}

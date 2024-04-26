@@ -1,0 +1,23 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "tag": "forge:leather"
+    },
+    {
+      "tag": "forge:string",
+	  "count": 2
+    },
+    {
+      "tag": "forge:ingots/iron",
+	  "count": 2
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "refurbished_furniture:spatula"
+}

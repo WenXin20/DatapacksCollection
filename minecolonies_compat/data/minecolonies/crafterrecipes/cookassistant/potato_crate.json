@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:potato",
+      "count": 9
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:potato_crate"
+}

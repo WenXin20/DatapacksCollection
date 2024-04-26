@@ -1,0 +1,34 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "additional-output": [
+    {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:diamond_knife"
+    },
+    {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 7
+    },
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "min-building-level": 4,
+  "result": "farmersdelight:netherite_knife"
+}

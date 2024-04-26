@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:wild_onions"
+    }
+  ],
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:onion",
+  "count": 1,
+  "tool": "knife",
+  "additional-output": [
+    { "item": "minecraft:lime_dye" },
+    { "item": "minecraft:magenta_dye", "count": 2 }
+  ]
+}

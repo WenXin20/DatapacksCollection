@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:straw_bale"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:straw",
+  "count": 9
+}
