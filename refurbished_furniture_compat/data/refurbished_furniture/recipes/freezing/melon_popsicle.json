@@ -1,0 +1,12 @@
+{
+  "type": "refurbished_furniture:freezer_solidifying",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "ingredient": {
+    "item": "farmersdelight:melon_juice"
+  },
+  "result": "farmersdelight:melon_popsicle",
+  "time": 600
+}
