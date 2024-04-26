@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:campfires",
+    "#minecraft:fire",
+    "minecraft:lava",
+    { "id": "minecolonies:blockhutcook", "required": false },
+    { "id": "minecolonies:blockhutsmeltery", "required": false }
+  ]
+}

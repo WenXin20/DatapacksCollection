@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:magma_block",
+    "minecraft:lava_cauldron",
+    { "id": "#farmersdelight:tray_heat_sources", "required": false },
+    { "id": "farmersdelight:stove", "required": false }
+  ]
+}

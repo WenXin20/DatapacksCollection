@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:brown_mushroom",
+    "minecraft:mycelium",
+    "minecraft:podzol",
+    "minecraft:red_mushroom",
+    { "id": "farmersdelight:brown_mushroom_colony", "required": false },
+    { "id": "farmersdelight:organic_compost", "required": false },
+    { "id": "farmersdelight:red_mushroom_colony", "required": false },
+    { "id": "farmersdelight:rich_soil", "required": false },
+    { "id": "farmersdelight:rich_soil_farmland", "required": false },
+    { "id": "minecolonies:composted_dirt", "required": false }
+  ]
+}
