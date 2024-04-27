@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" }
+  ],
+  "ingredient": {
+    "item": "overweight_farming:overweight_potato_block"
+  },
+  "result": "overweight_farming:overweight_baked_potato_block"
+}
