@@ -1,0 +1,16 @@
+ {
+  "type": "recipe",
+  "crafter": "cookassistant_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" }
+  ],
+  "inputs": [
+    {
+      "item": "overweight_farming:overweight_potato_block"
+    }
+  ],
+  "intermediate": "minecraft:furnace",
+  "result": "overweight_farming:overweight_baked_potato_block",
+  "count": 1
+}

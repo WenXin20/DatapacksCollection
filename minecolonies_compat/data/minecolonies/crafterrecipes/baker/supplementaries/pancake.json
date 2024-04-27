@@ -1,0 +1,28 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"supplementaries" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:dough"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "supplementaries:pancake",
+  "count": 3,
+  "additional-output": [
+    { "item": "minecraft:bucket", "count": 3 }
+  ]
+}

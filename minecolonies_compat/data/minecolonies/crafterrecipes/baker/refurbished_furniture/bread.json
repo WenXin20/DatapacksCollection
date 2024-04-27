@@ -1,0 +1,15 @@
+{
+  "type": "recipe",
+  "crafter": "baker_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "refurbished_furniture:dough"
+    }
+  ],
+  "intermediate": "minecraft:furnace",
+  "result": "minecraft:bread"
+}

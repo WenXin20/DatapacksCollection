@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:mutton"
+    }
+  ],
+  "tool": "sword",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:mutton_chops",
+  "count": 2
+}

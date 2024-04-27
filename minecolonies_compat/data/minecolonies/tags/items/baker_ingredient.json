@@ -1,0 +1,9 @@
+{
+  "values": [
+    { "id": "#forge:crops/wheat", "required": false },
+    { "id": "#forge:dough/wheat", "required": false },
+    { "id": "#forge:flour/wheat", "required": false },
+    { "id": "refurbished_furniture:dough", "required": false },
+    { "id": "refurbished_furniture:wheat_flour", "required": false }
+  ]
+}

@@ -1,0 +1,21 @@
+ {
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" }
+  ],
+  "inputs": [
+    {
+      "item": "overweight_farming:peeled_overweight_cabbage_block"
+    }
+  ],
+  "tool": "hoe",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:cabbage",
+  "count": 10,
+  "additional-output": [
+    { "item": "farmersdelight:cabbage_seeds", "count": 10 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:chocolate_pie"
+    }
+  ],
+  "tool": "sword",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:chocolate_pie_slice",
+  "count": 4
+}

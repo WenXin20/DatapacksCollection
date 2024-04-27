@@ -1,12 +1,12 @@
 {
   "type": "recipe-template",
-  "tag": "minecraft:logs",
+  "tag": "pokecube:berry_logs",
   "conditions": [
-    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
     { "type":"forge:mod_loaded", "modid":"pokecube" }
   ],
   "filter": {
-    "include": [ "pokecube:log_" ],
+    "include": [ "log_" ],
     "exclude": [ "stripped_" ]
   },
   "recipe": {
@@ -21,13 +21,13 @@
         "item": "[NS]:stripped_[PATH]"
       },
       {
-        "item": "[NS]:[PATH:log_=_wood]"
+        "item": "[NS]:[PATH:log_=_log=_wood]"
       },
       {
-        "item": "[NS]:stripped_[PATH:log_=_wood]"
+        "item": "[NS]:stripped_[PATH:log_=_log=_wood]"
       }
     ],
-    "intermediate": "minecraft:air",
-    "tool": "axe"
+    "tool": "axe",
+    "intermediate": "minecraft:air"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    }
+  ],
+  "tool": "sword",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:raw_pasta"
+}

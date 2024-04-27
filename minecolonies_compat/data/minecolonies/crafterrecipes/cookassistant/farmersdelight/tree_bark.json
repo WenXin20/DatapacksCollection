@@ -1,0 +1,29 @@
+{
+  "type": "recipe-template",
+  "tag": "minecraft:logs",
+  "filter": {
+    "include": [ "_log", "log_" ],
+    "exclude": [ "stripped_", "_stripped" ]
+  },
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "alternate-output": [
+      { "item": "[NS]:stripped_[PATH]" },
+      { "item": "[NS]:stripped_[PATH:log_=_log=_wood]" }
+    ],
+    "additional-output": [
+      { "item": "farmersdelight:tree_bark" }
+    ],
+    "tool": "axe",
+    "intermediate": "farmersdelight:cutting_board"
+  }
+}

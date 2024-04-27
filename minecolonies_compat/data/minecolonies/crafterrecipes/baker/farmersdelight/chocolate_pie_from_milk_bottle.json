@@ -1,0 +1,28 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:milk_bottle",
+      "count": 3
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "count": 3
+    },
+    {
+      "item": "minecraft:sugar",
+      "count": 2
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:chocolate_pie",
+  "min-building-level": 3,
+  "additional-output": [
+    { "item": "minecraft:glass_bottle", "count": 3 }
+  ]
+}

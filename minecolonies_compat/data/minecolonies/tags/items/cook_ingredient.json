@@ -1,0 +1,10 @@
+{
+  "values": [
+    { "id": "forge:crops", "required": false },
+    { "id": "forge:eggs", "required": false },
+    { "id": "forge:milk", "required": false },
+    { "id": "forge:salad_ingredients", "required": false },
+    { "id": "forge:vegetables", "required": false },
+    { "id": "farmersdelight:rice_panicle", "required": false }
+  ]
+}

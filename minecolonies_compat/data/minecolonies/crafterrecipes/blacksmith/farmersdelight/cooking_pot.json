@@ -1,0 +1,29 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:brick",
+	  "count": 2
+    },
+    {
+      "item": "minecraft:iron_ingot",
+	  "count": 5
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:wooden_shovel"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:cooking_pot",
+  "additional-output": [
+    { "item": "minecraft:bucket" }
+  ]
+}

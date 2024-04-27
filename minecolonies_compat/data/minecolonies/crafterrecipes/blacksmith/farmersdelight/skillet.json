@@ -1,0 +1,19 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:brick"
+    },
+    {
+      "item": "minecraft:iron_ingot",
+	  "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:skillet"
+}

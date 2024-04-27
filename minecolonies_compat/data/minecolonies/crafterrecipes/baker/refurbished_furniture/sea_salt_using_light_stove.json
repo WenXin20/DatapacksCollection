@@ -1,0 +1,19 @@
+{
+  "type": "recipe",
+  "crafter": "baker_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "intermediate": "refurbished_furniture:light_stove",
+  "result": "refurbished_furniture:sea_salt",
+  "count": 4,
+  "additional-output": [
+    { "item": "minecraft:bucket" }
+  ]
+}

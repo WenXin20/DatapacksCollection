@@ -1,0 +1,28 @@
+{
+  "type": "recipe-template",
+  "tag": "refurbished_furniture:wooden_kitchen_sinks",
+  "filter": {
+    "include": [ "_kitchen_sink" ]
+  },
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "recipe": {
+    "crafter": "baker_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:milk_bucket"
+      },
+      {
+        "item": "refurbished_furniture:sea_salt"
+      }
+    ],
+    "result": "refurbished_furniture:cheese",
+    "count": 2,
+    "additional-output": [
+      { "item": "minecraft:bucket" }
+    ],
+    "intermediate": "[NS]:[PATH]"
+  }
+}

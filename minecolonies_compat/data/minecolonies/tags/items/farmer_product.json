@@ -1,0 +1,18 @@
+{
+  "values": [
+    { "id": "farmersdelight:cabbage_crate", "required": false },
+    { "id": "farmersdelight:cabage_seeds", "required": false },
+    { "id": "farmersdelight:carrot_crate", "required": false },
+    { "id": "farmersdelight:onion_crate", "required": false },
+    { "id": "farmersdelight:organic_compost", "required": false },
+    { "id": "farmersdelight:potato_crate", "required": false },
+    { "id": "farmersdelight:rice", "required": false },
+    { "id": "farmersdelight:rice_bag", "required": false },
+    { "id": "farmersdelight:rice_bale", "required": false },
+    { "id": "farmersdelight:straw_bale", "required": false },
+    { "id": "farmersdelight:tomato_crate", "required": false },
+    { "id": "farmersdelight:tomato_seeds", "required": false },
+    { "id": "overweight_farming:vegetable_compost", "required": false },
+    { "id": "overweight_farming:vegetable_peels", "required": false }
+  ]
+}

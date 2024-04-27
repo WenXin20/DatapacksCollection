@@ -1,0 +1,20 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:cooked_chicken"
+    }
+  ],
+  "tool": "sword",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "farmersdelight:cooked_chicken_cuts",
+  "count": 2,
+  "additional-output": [
+    { "item": "minecraft:bone_meal" }
+  ]
+}

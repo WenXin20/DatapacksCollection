@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:packed_ice",
+      "count": 1
+    }
+  ],
+  "intermediate": "refurbished_furniture:light_freezer",
+  "result": "minecraft:blue_ice"
+}
