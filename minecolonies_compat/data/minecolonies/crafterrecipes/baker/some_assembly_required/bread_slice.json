@@ -1,0 +1,18 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"some_assembly_required" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "tool": "weapon",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "some_assembly_required:bread_slice",
+  "count": 4
+}

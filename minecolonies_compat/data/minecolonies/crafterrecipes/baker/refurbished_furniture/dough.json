@@ -1,28 +1,23 @@
 {
-  "type": "recipe-template",
-  "tag": "refurbished_furniture:wooden_kitchen_sinks",
-  "filter": {
-    "include": [ "_kitchen_sink" ]
-  },
+  "type": "recipe",
+  "crafter": "baker_crafting",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"minecolonies" },
     { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
   ],
-  "recipe": {
-    "crafter": "baker_crafting",
-    "inputs": [
-      {
-        "item": "minecraft:water_bucket"
-      },
-      {
-        "item": "refurbished_furniture:wheat_flour"
-      }
-    ],
-    "result": "refurbished_furniture:dough",
-    "additional-output": [
-      { "item": "minecraft:bucket" },
-      { "item": "minecraft:bowl" }
-    ],
-    "intermediate": "[NS]:[PATH]"
-  }
+  "inputs": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "refurbished_furniture:wheat_flour"
+    }
+  ],
+  "intermediate": "#refurbished_furniture:wooden_kitchen_sinks",
+  "result": "refurbished_furniture:dough",
+  "count": 1,
+  "additional-output": [
+    { "item": "minecraft:bucket" },
+    { "item": "minecraft:bowl" }
+  ]
 }

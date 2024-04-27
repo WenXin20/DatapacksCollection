@@ -1,0 +1,19 @@
+{
+  "type": "recipe",
+  "crafter": "beekeeper_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"create" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "minecraft:honey_block"
+    }
+  ],
+  "intermediate": "create:mechanical_mixer",
+  "result": "create:honey_bucket",
+  "count": 1
+}

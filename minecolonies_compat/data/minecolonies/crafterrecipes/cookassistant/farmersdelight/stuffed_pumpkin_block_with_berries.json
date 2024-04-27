@@ -1,0 +1,34 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:berries",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "farmersdelight:rice"
+      },
+      {
+        "item": "farmersdelight:onion"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:stuffed_pumpkin_block",
+    "count": 1
+  }
+}

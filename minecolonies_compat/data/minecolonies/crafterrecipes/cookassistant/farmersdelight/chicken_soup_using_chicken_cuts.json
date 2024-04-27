@@ -1,0 +1,31 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:vegetables",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "farmersdelight:chicken_cuts"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:chicken_soup",
+    "count": 1
+  }
+}

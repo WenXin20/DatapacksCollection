@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "tool": "weapon",
+  "intermediate": "refurbished_furniture:spruce_cutting_board",
+  "result": "refurbished_furniture:bread_slice",
+  "count": 6
+}

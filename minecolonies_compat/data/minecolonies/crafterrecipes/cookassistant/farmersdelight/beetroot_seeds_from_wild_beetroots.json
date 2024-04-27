@@ -1,0 +1,20 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "farmersdelight:wild_beetroots"
+    }
+  ],
+  "tool": "weapon",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "minecraft:beetroot_seeds",
+  "count": 1,
+  "additional-output": [
+    { "item": "minecraft:red_dye", "count": 1 }
+  ]
+}

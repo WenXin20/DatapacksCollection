@@ -1,0 +1,31 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:salad_ingredients",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:beetroot"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:vegetable_soup",
+    "count": 1
+  }
+}

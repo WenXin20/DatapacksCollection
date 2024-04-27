@@ -1,19 +1,25 @@
 {
-  "type": "recipe",
-  "crafter": "cookassistant_smelting",
+  "type": "recipe-template",
+  "tag": "forge:crops/tomato",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"farmersdelight" },
     { "type":"forge:mod_loaded", "modid":"minecolonies" }
   ],
-  "inputs": [
-    {
-      "item": "minecraft:bowl"
-    },
-    {
-      "item": "farmersdelight:tomato",
-      "count": 2
-    }
-  ],
-  "intermediate": "farmersdelight:cooking_pot",
-  "result": "farmersdelight:tomato_sauce"
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:tomato_sauce",
+    "count": 1
+  }
 }

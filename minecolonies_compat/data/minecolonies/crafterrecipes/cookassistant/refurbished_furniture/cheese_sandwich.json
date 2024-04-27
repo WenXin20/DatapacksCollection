@@ -1,0 +1,22 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "refurbished_furniture:bread_slice"
+    },
+    {
+      "item": "refurbished_furniture:cheese"
+    },
+    {
+      "item": "refurbished_furniture:bread_slice"
+    }
+  ],
+  "intermediate": "refurbished_furniture:spruce_cutting_board",
+  "result": "refurbished_furniture:cheese_sandwich",
+  "count": 1
+}

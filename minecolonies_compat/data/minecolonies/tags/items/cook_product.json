@@ -1,7 +1,14 @@
 {
   "values": [
+    { "id": "#forge:cheeses", "required": false },
+    { "id": "#forge:crops", "required": false },
+    { "id": "#forge:eggs", "required": false },
+    { "id": "#forge:milk", "required": false },
+    { "id": "#forge:salad_ingredients", "required": false },
+    { "id": "#forge:vegetables", "required": false },
     { "id": "farmersdelight:cabbage_crate", "required": false },
     { "id": "farmersdelight:carrot_crate", "required": false },
+    { "id": "farmersdelight:honey_glazed_ham_block", "required": false },
     { "id": "farmersdelight:onion_crate", "required": false },
     { "id": "farmersdelight:organic_compost", "required": false },
     { "id": "farmersdelight:potato_crate", "required": false },
@@ -9,6 +16,7 @@
     { "id": "farmersdelight:rice_bag", "required": false },
     { "id": "farmersdelight:rice_bale", "required": false },
     { "id": "farmersdelight:rice_panicle", "required": false },
+    { "id": "farmersdelight:rice_roll_medley_block", "required": false },
     { "id": "farmersdelight:tomato_crate", "required": false },
     { "id": "overweight_farming:overweight_golden_apple_block", "required": false }
   ]

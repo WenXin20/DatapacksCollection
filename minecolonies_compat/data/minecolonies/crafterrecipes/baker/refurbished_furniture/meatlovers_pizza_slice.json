@@ -1,0 +1,17 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "refurbished_furniture:cooked_meatlovers_pizza"
+    }
+  ],
+  "tool": "weapon",
+  "intermediate": "refurbished_furniture:spruce_cutting_board",
+  "result": "refurbished_furniture:meatlovers_pizza_slice",
+  "count": 6
+}

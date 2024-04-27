@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "refurbished_furniture:cheese_sandwich"
+    }
+  ],
+  "intermediate": "refurbished_furniture:frying_pan",
+  "result": "refurbished_furniture:cheese_toastie",
+  "count": 1
+}

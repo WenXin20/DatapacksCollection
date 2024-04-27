@@ -1,0 +1,28 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:milk",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"create" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ],
+    "intermediate": "create:mechanical_mixer",
+    "result": "create:chocolate_bucket",
+    "count": 1
+  }
+}

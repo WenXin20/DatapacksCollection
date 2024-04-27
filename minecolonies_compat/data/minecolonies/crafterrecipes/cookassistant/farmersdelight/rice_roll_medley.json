@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:rice_roll_medley_block"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:kelp_roll_slice",
+  "count": 3,
+  "additional-output": [
+    { "item": "farmersdelight:salmon_roll", "count": 3 },
+    { "item": "farmersdelight:cod_roll", "count": 2 },
+    { "item": "minecraft:bowl" }
+  ]
+}

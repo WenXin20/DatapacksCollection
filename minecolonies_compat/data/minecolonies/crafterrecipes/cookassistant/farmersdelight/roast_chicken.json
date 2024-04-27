@@ -1,0 +1,24 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:roast_chicken_block"
+    },
+    {
+      "item": "minecraft:bowl",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:roast_chicken",
+  "count": 4,
+  "additional-output": [
+    { "item": "minecraft:bone_meal" },
+    { "item": "minecraft:bowl" }
+  ]
+}

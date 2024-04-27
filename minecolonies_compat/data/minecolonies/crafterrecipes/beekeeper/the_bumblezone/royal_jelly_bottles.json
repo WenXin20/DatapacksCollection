@@ -1,0 +1,20 @@
+{
+  "type": "recipe",
+  "crafter": "beekeeper_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
+  ],
+  "inputs": [
+    {
+      "item": "the_bumblezone:royal_jelly_block"
+    },
+    {
+      "item": "minecraft:glass_bottle",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "the_bumblezone:royal_jelly_bottle",
+  "count": 4
+}

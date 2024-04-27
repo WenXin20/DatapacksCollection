@@ -1,34 +1,28 @@
 {
-  "type": "recipe-template",
-  "tag": "refurbished_furniture:kitchen",
-  "filter": {
-    "include": [ "_cutting_board" ]
-  },
+  "type": "recipe",
+  "crafter": "baker_crafting",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"minecolonies" },
     { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
   ],
-  "recipe": {
-    "crafter": "baker_crafting",
-    "inputs": [
-      {
-        "item": "refurbished_furniture:cheese"
-      },
-      {
-        "item": "minecraft:potato"
-      },
-      {
-        "item": "minecraft:beetroot"
-      },
-      {
-        "item": "minecraft:carrot"
-      },
-      {
-        "item": "refurbished_furniture:dough"
-      }
-    ],
-    "result": "refurbished_furniture:raw_vegetable_pizza",
-    "count": 1,
-    "intermediate": "[NS]:[PATH]"
-  }
+  "inputs": [
+    {
+      "item": "refurbished_furniture:cheese"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "refurbished_furniture:dough"
+    }
+  ],
+  "intermediate": "refurbished_furniture:spruce_cutting_board",
+  "result": "refurbished_furniture:raw_vegetable_pizza",
+  "count": 1
 }

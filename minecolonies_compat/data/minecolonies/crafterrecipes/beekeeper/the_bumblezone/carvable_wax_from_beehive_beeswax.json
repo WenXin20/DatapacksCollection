@@ -1,0 +1,20 @@
+{
+  "type": "recipe-template",
+  "tag": "the_bumblezone:carvable_wax",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
+  ],
+  "recipe": {
+    "crafter": "beekeeper_smelting",
+    "inputs": [
+      {
+        "item": "the_bumblezone:beehive_beeswax"
+      }
+    ],
+    "tool": "shears",
+    "intermediate": "minecraft:furnace",
+    "result": "[NS]:[PATH]",
+    "count": 1
+  }
+}

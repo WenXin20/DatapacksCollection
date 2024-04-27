@@ -1,0 +1,25 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:buckets/honey",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"create" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "intermediate": "create:spout",
+    "result": "create:honeyed_apple",
+    "count": 1,
+    "additional-output": [
+      { "item": "minecraft:bucket" }
+    ]
+  }
+}

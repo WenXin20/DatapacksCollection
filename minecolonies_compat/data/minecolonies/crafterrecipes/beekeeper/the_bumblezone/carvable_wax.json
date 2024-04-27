@@ -1,0 +1,21 @@
+{
+  "type": "recipe-template",
+  "tag": "the_bumblezone:carvable_wax",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
+  ],
+  "recipe": {
+    "crafter": "beekeeper_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:honeycomb",
+        "count": 9
+      }
+    ],
+    "tool": "shears",
+    "intermediate": "minecraft:air",
+    "result": "[NS]:[PATH]",
+    "count": 1
+  }
+}

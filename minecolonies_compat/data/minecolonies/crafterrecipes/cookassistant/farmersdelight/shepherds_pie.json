@@ -1,0 +1,23 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:shepherds_pie_block"
+    },
+    {
+      "item": "minecraft:bowl",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "farmersdelight:shepherds_pie",
+  "count": 4,
+  "additional-output": [
+    { "item": "minecraft:bowl" }
+  ]
+}

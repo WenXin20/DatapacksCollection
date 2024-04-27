@@ -1,0 +1,31 @@
+{
+  "type": "recipe-template",
+  "tag": "minecraft:leaves",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"create" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      },
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "intermediate": "create:mechanical_mixer",
+    "result": "create:builders_tea",
+    "count": 1,
+    "additional-output": [
+      { "item": "minecraft:bucket", "count": 2 }
+    ]
+  }
+}

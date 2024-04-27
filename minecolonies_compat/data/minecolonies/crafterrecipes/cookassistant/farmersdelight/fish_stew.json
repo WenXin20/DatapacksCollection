@@ -1,0 +1,28 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:raw_fishes",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "farmersdelight:tomato_soup"
+      },
+      {
+        "item": "farmersdelight:onion"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:fish_stew",
+    "count": 1
+  }
+}

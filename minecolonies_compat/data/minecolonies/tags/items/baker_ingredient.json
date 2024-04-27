@@ -1,5 +1,6 @@
 {
   "values": [
+    { "id": "#forge:bread_slices", "required": false },
     { "id": "#forge:crops/wheat", "required": false },
     { "id": "#forge:dough/wheat", "required": false },
     { "id": "#forge:flour/wheat", "required": false },

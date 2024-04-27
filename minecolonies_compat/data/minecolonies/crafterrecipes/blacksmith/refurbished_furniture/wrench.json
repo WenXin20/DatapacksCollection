@@ -1,0 +1,23 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:string",
+	  "count": 2
+    },
+    {
+      "item": "minecraft:iron_ingot",
+	  "count": 3
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "refurbished_furniture:wrench"
+}

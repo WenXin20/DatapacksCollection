@@ -1,0 +1,30 @@
+{
+  "type": "recipe-template",
+  "tag": "pokecube:berry_logs",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"pokecube" }
+  ],
+  "filter": {
+    "include": [ "log_" ],
+    "exclude": [ "stripped_", "_stripped" ]
+  },
+  "recipe": {
+    "crafter": "lumberjack_custom",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "alternate-output": [
+      {
+        "item": "[NS]:[PATH:log_=]_wood"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "tool": "axe",
+    "intermediate": "minecraft:air"
+  }
+}

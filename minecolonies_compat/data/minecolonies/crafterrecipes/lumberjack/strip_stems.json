@@ -5,6 +5,10 @@
     "include": [ "_stem", "stem_" ],
     "exclude": [ "stripped_", "_stripped" ]
   },
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
   "recipe": {
     "crafter": "lumberjack_custom",
     "inputs": [
@@ -17,17 +21,14 @@
         "item": "[NS]:stripped_[PATH]"
       },
       {
-        "item": "[NS]:[PATH:_stem=_hyphae]"
-      },
-      {
         "item": "[NS]:stripped_[PATH:_stem=_hyphae]"
-      },
-      {
-        "item": "[NS]:[PATH:_stem=_wood]"
       },
       {
         "item": "[NS]:stripped_[PATH:_stem=_wood]"
       }
+    ],
+    "additional-output": [
+      { "item": "farmersdelight:tree_bark" }
     ],
     "intermediate": "minecraft:air",
     "tool": "axe"

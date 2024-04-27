@@ -1,10 +1,13 @@
 {
   "values": [
-    { "id": "forge:crops", "required": false },
-    { "id": "forge:eggs", "required": false },
-    { "id": "forge:milk", "required": false },
-    { "id": "forge:salad_ingredients", "required": false },
-    { "id": "forge:vegetables", "required": false },
-    { "id": "farmersdelight:rice_panicle", "required": false }
+    { "id": "#forge:cheeses", "required": false },
+    { "id": "#forge:crops", "required": false },
+    { "id": "#forge:eggs", "required": false },
+    { "id": "#forge:milk", "required": false },
+    { "id": "#forge:salad_ingredients", "required": false },
+    { "id": "#forge:vegetables", "required": false },
+    { "id": "#refurbished_furniture:food", "required": false },
+    { "id": "farmersdelight:rice_panicle", "required": false },
+    { "id": "refurbished_furniture:cheese", "required": false }
   ]
 }

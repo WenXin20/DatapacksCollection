@@ -1,0 +1,31 @@
+{
+  "type": "recipe-template",
+  "tag": "farmersdelight:wolf_prey",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "farmersdelight:rice"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:dog_food",
+    "count": 1
+  }
+}

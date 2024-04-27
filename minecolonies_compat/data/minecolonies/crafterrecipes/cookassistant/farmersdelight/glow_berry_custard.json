@@ -1,31 +1,34 @@
 {
-  "type": "recipe",
-  "crafter": "cookassistant_smelting",
+  "type": "recipe-template",
+  "tag": "forge:eggs",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"farmersdelight" },
     { "type":"forge:mod_loaded", "modid":"minecolonies" }
   ],
-  "inputs": [
-    {
-      "item": "minecraft:milk_bucket"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "minecraft:glass_bottle"
-    },
-    {
-      "item": "minecraft:glow_berries"
-    },
-    {
-      "item": "minecraft:sugar"
-    }
-  ],
-  "intermediate": "farmersdelight:cooking_pot",
-  "result": "farmersdelight:glow_berry_custard",
-  "count": 1,
-  "additional-output": [
-    { "item": "minecraft:bucket" }
-  ]
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:glow_berry_custard",
+    "count": 1,
+    "additional-output": [
+      { "item": "minecraft:bucket" }
+    ]
+  }
 }

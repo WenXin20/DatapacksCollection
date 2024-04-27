@@ -1,0 +1,25 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:buckets/honey",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 4
+      }
+    ],
+    "intermediate": "minecraft:air",
+    "result": "minecraft:honey_bottle",
+    "count": 4,
+    "additional-output": [
+      { "item": "minecraft:bucket" }
+    ]
+  }
+}

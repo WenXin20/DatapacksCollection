@@ -1,0 +1,29 @@
+{
+  "type": "recipe-template",
+  "tag": "minecraft:logs",
+  "filter": {
+    "include": [ "_log", "log_" ],
+    "exclude": [ "stripped_", "_stripped" ]
+  },
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "lumberjack_custom",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "alternate-output": [
+      {
+        "item": "[NS]:[PATH:_log=_wood]"
+      },
+      {
+        "item": "[NS]:[PATH:log_=wood_]"
+      }
+    ],
+    "intermediate": "minecraft:air",
+    "tool": "axe"
+  }
+}

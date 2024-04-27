@@ -1,0 +1,22 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:milk",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"create" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "baker_crafting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:bread"
+      }
+    ],
+    "intermediate": "create:spout",
+    "result": "create:sweet_roll",
+    "count": 1
+  }
+}

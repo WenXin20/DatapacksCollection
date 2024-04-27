@@ -1,3 +1,6 @@
 {
-  "values": []
+  "values": [
+    { "id": "refurbished_furniture:glow_berry_jam_toast", "required": false },
+    { "id": "refurbished_furniture:sweet_berry_jam_toast", "required": false }
+  ]
 }

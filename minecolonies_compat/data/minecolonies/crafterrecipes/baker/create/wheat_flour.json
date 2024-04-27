@@ -7,7 +7,7 @@
   ],
   "inputs": [
     {
-      "item": "create:wheat_flour"
+      "item": "minecraft:wheat"
     }
   ],
   "intermediate": "create:millstone",

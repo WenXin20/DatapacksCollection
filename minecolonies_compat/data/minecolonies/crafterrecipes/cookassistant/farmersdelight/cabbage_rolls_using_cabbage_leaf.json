@@ -1,0 +1,22 @@
+{
+  "type": "recipe-template",
+  "tag": "farmersdelight:cabbage_roll_ingredients",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_smelting",
+    "inputs": [
+      {
+        "item": "farmersdelight:cabbage_leaf"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "intermediate": "farmersdelight:cooking_pot",
+    "result": "farmersdelight:cabbage_rolls",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_smelting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "intermediate": "refurbished_furniture:frying_pan",
+  "result": "refurbished_furniture:glow_berry_jam",
+  "count": 1
+}

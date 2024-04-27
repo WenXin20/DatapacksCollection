@@ -1,0 +1,23 @@
+{
+  "type": "recipe",
+  "crafter": "beekeeper_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "minecraft:honey_bottle",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "the_bumblezone:honey_bucket",
+  "count": 1,
+  "additional-output": [
+    { "item": "minecraft:glass_bottle", "count": 4 }
+  ]
+}
