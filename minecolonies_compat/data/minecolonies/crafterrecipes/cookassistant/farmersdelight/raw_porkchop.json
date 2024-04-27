@@ -10,7 +10,7 @@
       "item": "farmersdelight:ham"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "minecraft:porkchop",
   "count": 2,

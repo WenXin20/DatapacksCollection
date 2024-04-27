@@ -10,7 +10,7 @@
       "item": "minecraft:cake"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:cake_slice",
   "count": 7

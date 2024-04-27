@@ -13,7 +13,7 @@
   "intermediate": "farmersdelight:cutting_board",
   "result": "minecraft:cooked_porkchop",
   "count": 2,
-  "tool": "sword",
+  "tool": "weapon",
   "additional-output": [
     { "item": "minecraft:bone" }
   ]

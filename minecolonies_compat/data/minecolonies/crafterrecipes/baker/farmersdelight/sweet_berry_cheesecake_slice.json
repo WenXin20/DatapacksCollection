@@ -10,7 +10,7 @@
       "item": "farmersdelight:sweet_berry_cheesecake"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:sweet_berry_cheesecake_slice",
   "count": 4

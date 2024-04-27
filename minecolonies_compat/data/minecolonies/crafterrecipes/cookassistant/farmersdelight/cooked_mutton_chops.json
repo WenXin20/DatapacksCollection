@@ -10,7 +10,7 @@
       "item": "minecraft:cooked_mutton"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:cooked_mutton_cuts",
   "count": 2

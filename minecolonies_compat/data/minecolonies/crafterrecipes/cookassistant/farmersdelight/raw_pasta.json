@@ -10,7 +10,7 @@
       "item": "farmersdelight:wheat_dough"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:raw_pasta"
 }

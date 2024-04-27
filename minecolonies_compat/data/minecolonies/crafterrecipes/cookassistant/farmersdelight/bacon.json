@@ -10,7 +10,7 @@
       "tag": "forge:raw_pork"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:bacon",
   "count": 2

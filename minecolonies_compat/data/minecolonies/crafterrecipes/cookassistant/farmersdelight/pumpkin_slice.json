@@ -10,7 +10,7 @@
       "item": "minecraft:pumpkin"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:pumpkin_slice",
   "count": 4

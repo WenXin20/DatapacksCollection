@@ -18,7 +18,7 @@
     ],
     "alternate-output": [
       { "item": "[NS]:stripped_[PATH]" },
-      { "item": "[NS]:stripped_[PATH:log_=_log=_wood]" }
+      { "item": "[NS]:stripped_[PATH:_log=_wood]" }
     ],
     "additional-output": [
       { "item": "farmersdelight:tree_bark" }

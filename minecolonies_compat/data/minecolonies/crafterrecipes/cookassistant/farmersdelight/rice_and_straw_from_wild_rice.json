@@ -10,7 +10,7 @@
       "item": "farmersdelight:wild_rice"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:rice",
   "count": 1,

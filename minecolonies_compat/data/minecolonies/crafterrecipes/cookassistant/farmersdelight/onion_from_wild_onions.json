@@ -10,7 +10,7 @@
       "item": "farmersdelight:wild_onions"
     }
   ],
-  "tool": "sword",
+  "tool": "weapon",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:onion",
   "count": 1,
