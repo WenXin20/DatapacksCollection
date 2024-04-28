@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "aether:skyroot_milk_bucket", "required": false },
+    { "id": "blue_skies:ventium_milk_bucket", "required": false },
+    { "id": "forbidden_arcanus:edelwood_milk_bucket", "required": false },
+    { "id": "ravageandcabbage:ravager_milk", "required": false }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "forbidden_arcanus:edelwood_milk_bucket",
-    "frozenup:mug_of_milk",
-    "lotr:milk_drink",
-    "ravageandcabbage:ravager_milk",
-    "simplytea:teapot_frothed",
-    "simplytea:teapot_milk"
+  "values": [
+    { "id": "aether:skyroot_milk_bucket", "required": false },
+    { "id": "blue_skies:ventium_milk_bucket", "required": false },
+    { "id": "forbidden_arcanus:edelwood_milk_bucket", "required": false },
+    { "id": "frozenup:mug_of_milk", "required": false },
+    { "id": "lotr:milk_drink", "required": false },
+    { "id": "ravageandcabbage:ravager_milk", "required": false },
+    { "id": "simplytea:teapot_frothed", "required": false },
+    { "id": "simplytea:teapot_milk", "required": false }
   ]
 }

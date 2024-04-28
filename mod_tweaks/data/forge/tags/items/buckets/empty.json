@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "aether:skyroot_bucket", "required": false },
+    { "id": "blue_skies:ventium_bucket", "required": false },
+    { "id": "forbidden_arcanus:edelwood_bucket", "required": false }
+  ]
+}

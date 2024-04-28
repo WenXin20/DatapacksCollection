@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "blue_skies:ventium_lava_bucket", "required": false },
+    { "id": "forbidden_arcanus:edelwood_lava_bucket", "required": false }
+  ]
+}
