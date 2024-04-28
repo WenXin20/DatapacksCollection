@@ -6,7 +6,7 @@
     { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
   ],
   "recipe": {
-    "crafter": "beekeeper_smelting",
+    "crafter": "mechanic_crafting",
     "inputs": [
       {
         "item": "the_bumblezone:beehive_beeswax"

@@ -6,7 +6,7 @@
     { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
   ],
   "recipe": {
-    "crafter": "beekeeper_crafting",
+    "crafter": "mechanic_crafting",
     "inputs": [
       {
         "item": "minecraft:honeycomb",

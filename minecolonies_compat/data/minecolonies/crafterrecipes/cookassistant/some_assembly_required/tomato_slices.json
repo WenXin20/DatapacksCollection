@@ -1,0 +1,21 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:crops/tomato",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"some_assembly_required" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "tool": "weapon",
+    "intermediate": "farmersdelight:cutting_board",
+    "result": "some_assembly_required:tomato_slices",
+    "count": 2
+  }
+}
