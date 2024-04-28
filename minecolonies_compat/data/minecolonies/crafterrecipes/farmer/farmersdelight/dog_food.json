@@ -6,7 +6,7 @@
     { "type":"forge:mod_loaded", "modid":"minecolonies" }
   ],
   "recipe": {
-    "crafter": "farmer_smelting",
+    "crafter": "farmer_crafting",
     "inputs": [
       {
         "item": "minecraft:rotten_flesh"

@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" }
+  ],
+  "inputs": [
+    {
+      "item": "overweight_farming:overweight_carrot_block"
+    }
+  ],
+  "tool": "axe",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "overweight_farming:peeled_overweight_carrot_block",
+  "count": 1,
+  "additional-output": [
+    { "item": "overweight_farming:vegetable_peels" }
+  ]
+}

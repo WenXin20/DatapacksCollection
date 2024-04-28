@@ -7,7 +7,7 @@
   ],
   "inputs": [
     {
-      "item": "minecraft:shepherds_pie_block"
+      "item": "farmersdelight:shepherds_pie_block"
     },
     {
       "item": "minecraft:bowl",

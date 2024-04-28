@@ -1,22 +1,19 @@
 {
   "type": "recipe",
-  "crafter": "beekeeper_crafting",
+  "crafter": "mechanic_crafting",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"forbidden_arcanus" },
     { "type":"forge:mod_loaded", "modid":"minecolonies" }
   ],
   "inputs": [
     {
-      "item": "minecraft:honey_bottle"
+      "item": "minecraft:string"
     },
     {
-      "item": "minecraft:slime_ball"
+      "item": "forbidden_arcanus:wax"
     }
   ],
   "intermediate": "minecraft:air",
-  "result": "forbidden_arcanus:wax",
-  "count": 2,
-  "additional-output": [
-    { "item": "minecraft:glass_bottle" }
-  ]
+  "result": "minecraft:candle",
+  "count": 1
 }

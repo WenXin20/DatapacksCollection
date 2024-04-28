@@ -1,15 +1,15 @@
 {
   "type": "recipe-template",
   "tag": "pokecube:berry_logs",
+  "filter": {
+    "include": [ "log_" ],
+    "exclude": [ "stripped_" ]
+  },
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"farmersdelight" },
     { "type":"forge:mod_loaded", "modid":"minecolonies" },
     { "type":"forge:mod_loaded", "modid":"pokecube" }
   ],
-  "filter": {
-    "include": [ "log_" ],
-    "exclude": [ "stripped_", "_stripped" ]
-  },
   "recipe": {
     "crafter": "lumberjack_custom",
     "inputs": [
@@ -24,6 +24,9 @@
       {
         "item": "[NS]:stripped_[PATH:log_=]_wood"
       }
+    ],
+    "additional-output": [
+      { "item": "farmersdelight:tree_bark" }
     ],
     "tool": "axe",
     "intermediate": "minecraft:air"

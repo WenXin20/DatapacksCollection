@@ -1,0 +1,23 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:buckets/water",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" }
+  ],
+  "recipe": {
+    "crafter": "baker_smelting",
+    "inputs": [
+      {
+        "item": "minecraft:wheat",
+        "count": 3
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "intermediate": "minecraft:air",
+    "result": "farmersdelight:wheat_dough",
+    "count": 3
+  }
+}

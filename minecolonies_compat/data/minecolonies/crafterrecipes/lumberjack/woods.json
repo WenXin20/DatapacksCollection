@@ -21,6 +21,9 @@
       },
       {
         "item": "[NS]:[PATH:log_=wood_]"
+      },
+      {
+        "item": "[NS]:[PATH:_log=]"
       }
     ],
     "intermediate": "minecraft:air",

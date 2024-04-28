@@ -7,7 +7,7 @@
   ],
   "inputs": [
     {
-      "item": "minecraft:roast_chicken_block"
+      "item": "farmersdelight:roast_chicken_block"
     },
     {
       "item": "minecraft:bowl",

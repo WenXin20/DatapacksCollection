@@ -13,7 +13,7 @@
       "item": "refurbished_furniture:wheat_flour"
     }
   ],
-  "intermediate": "#refurbished_furniture:wooden_kitchen_sinks",
+  "intermediate": "refurbished_furniture:spruce_kitchen_sink",
   "result": "refurbished_furniture:dough",
   "count": 1,
   "additional-output": [

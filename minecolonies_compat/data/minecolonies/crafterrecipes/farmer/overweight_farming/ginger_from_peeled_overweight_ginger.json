@@ -1,0 +1,19 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" },
+    { "type":"forge:mod_loaded", "modid":"snowyspirit" }
+  ],
+  "inputs": [
+    {
+      "item": "overweight_farming:peeled_overweight_ginger_block"
+    }
+  ],
+  "tool": "hoe",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "snowyspirit:ginger",
+  "count": 10
+}

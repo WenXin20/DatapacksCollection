@@ -5,7 +5,7 @@
     { "type":"forge:mod_loaded", "modid":"minecolonies" }
   ],
   "recipe": {
-    "crafter": "cookassistant_smelting",
+    "crafter": "cookassistant_crafting",
     "inputs": [
       {
         "item": "[NS]:[PATH]"

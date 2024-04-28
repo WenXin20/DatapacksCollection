@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"overweight_farming" }
+  ],
+  "inputs": [
+    {
+      "item": "overweight_farming:seeded_peeled_melon"
+    }
+  ],
+  "tool": "axe",
+  "intermediate": "farmersdelight:cutting_board",
+  "result": "overweight_farming:half_seeded_peeled_melon",
+  "count": 1,
+  "additional-output": [
+    { "item": "minecraft:melon_seeds" }
+  ]
+}

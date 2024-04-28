@@ -1,5 +1,8 @@
 {
   "values": [
+    { "id": "farmersdelight:apple_pie", "required": false },
+    { "id": "farmersdelight:chocolate_pie", "required": false },
+    { "id": "farmersdelight:sweet_berry_cheesecake", "required": false },
     { "id": "refurbished_furniture:glow_berry_jam_toast", "required": false },
     { "id": "refurbished_furniture:sweet_berry_jam_toast", "required": false }
   ]

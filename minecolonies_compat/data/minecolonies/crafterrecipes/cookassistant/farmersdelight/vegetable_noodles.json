@@ -1,6 +1,6 @@
 {
   "type": "recipe-template",
-  "tag": "forge:salad_ingredients",
+  "tag": "forge:vegetables",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"farmersdelight" },
     { "type":"forge:mod_loaded", "modid":"minecolonies" }
@@ -9,26 +9,26 @@
     "crafter": "cookassistant_smelting",
     "inputs": [
       {
-        "item": "farmersdelight:pumpkin_slice"
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "farmersdelight:raw_pasta"
       },
       {
         "item": "[NS]:[PATH]"
       },
       {
-        "item": "minecraft:porkchop"
-      },
-      {
-        "item": "minecraft:milk_bucket"
+        "item": "[NS]:[PATH]"
       },
       {
         "item": "minecraft:bowl"
       }
     ],
     "intermediate": "farmersdelight:cooking_pot",
-    "result": "farmersdelight:pumpkin_soup",
-    "count": 1,
-    "additional-output": [
-      { "item": "minecraft:bucket" }
-    ]
+    "result": "farmersdelight:vegetable_noodles",
+    "count": 1
   }
 }
