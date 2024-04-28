@@ -11,7 +11,7 @@
       "item": "minecraft:water_bucket"
     }
   ],
-  "tool": "pickaxe"
+  "tool": "pickaxe",
   "intermediate": "refurbished_furniture:dark_freezer",
   "result": "neapolitan:ice_cubes",
   "count": 4,

@@ -11,7 +11,7 @@
       "item": "minecraft:ice"
     }
   ],
-  "tool": "pickaxe"
+  "tool": "pickaxe",
   "intermediate": "farmersdelight:cutting_board",
   "result": "neapolitan:ice_cubes",
   "count": 4

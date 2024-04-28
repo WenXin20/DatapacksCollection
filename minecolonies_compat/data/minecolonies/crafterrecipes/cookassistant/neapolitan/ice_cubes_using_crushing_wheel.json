@@ -2,7 +2,7 @@
   "type": "recipe",
   "crafter": "cookassistant_crafting",
   "conditions": [
-    { "type":"forge:mod_loaded", "modid":"farmersdelight" },
+    { "type":"forge:mod_loaded", "modid":"create" },
     { "type":"forge:mod_loaded", "modid":"minecolonies" },
     { "type":"forge:mod_loaded", "modid":"neapolitan" }
   ],
@@ -11,8 +11,8 @@
       "item": "minecraft:ice"
     }
   ],
-  "tool": "pickaxe"
-  "intermediate": "farmersdelight:crushing_wheel",
+  "tool": "pickaxe",
+  "intermediate": "create:crushing_wheel",
   "result": "neapolitan:ice_cubes",
   "count": 6
 }
