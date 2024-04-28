@@ -1,6 +1,6 @@
 {
   "type": "recipe",
-  "crafter": "beekeeper_crafting",
+  "crafter": "cookassistant_crafting",
   "conditions": [
     { "type":"forge:mod_loaded", "modid":"minecolonies" },
     { "type":"forge:mod_loaded", "modid":"the_bumblezone" }
