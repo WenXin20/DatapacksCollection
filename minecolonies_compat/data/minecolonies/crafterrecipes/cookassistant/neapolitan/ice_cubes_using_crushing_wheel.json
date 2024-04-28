@@ -11,7 +11,6 @@
       "item": "minecraft:ice"
     }
   ],
-  "tool": "pickaxe",
   "intermediate": "create:crushing_wheel",
   "result": "neapolitan:ice_cubes",
   "count": 6
