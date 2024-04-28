@@ -6,8 +6,11 @@
     { "id": "#forge:milk", "required": false },
     { "id": "#forge:salad_ingredients", "required": false },
     { "id": "#forge:vegetables", "required": false },
+    { "id": "#neapolitan:ice_cream", "required": false },
     { "id": "#refurbished_furniture:food", "required": false },
     { "id": "farmersdelight:rice_panicle", "required": false },
+    { "id": "neapolitan:adzuki_beans", "required": false },
+    { "id": "neapolitan:roasted_adzuki_beans", "required": false },
     { "id": "refurbished_furniture:cheese", "required": false }
   ]
 }

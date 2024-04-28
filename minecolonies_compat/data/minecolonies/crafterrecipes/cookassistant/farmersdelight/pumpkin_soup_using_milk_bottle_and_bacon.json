@@ -28,7 +28,7 @@
     "result": "farmersdelight:fried_rice",
     "count": 1,
     "additional-output": [
-      { "item": "minecraft:empty_bottle" }
+      { "item": "minecraft:glass_bottle" }
     ]
   }
 }
