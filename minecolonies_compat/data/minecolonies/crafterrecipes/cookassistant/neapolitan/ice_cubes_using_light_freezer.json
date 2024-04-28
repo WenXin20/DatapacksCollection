@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+  "crafter": "cookassistant_crafting",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"neapolitan" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "inputs": [
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "tool": "pickaxe"
+  "intermediate": "refurbished_furniture:light_freezer",
+  "result": "neapolitan:ice_cubes",
+  "count": 4,
+  "additional-output": [
+    { "item": "minecraft:bucket" }
+  ]
+}

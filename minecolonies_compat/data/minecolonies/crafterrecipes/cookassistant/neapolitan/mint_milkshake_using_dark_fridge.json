@@ -1,0 +1,27 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:milk",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"neapolitan" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 3
+      },
+      {
+        "item": "neapolitan:mint_ice_cream"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "intermediate": "refurbished_furniture:dark_fridge",
+    "result": "neapolitan:mint_milkshake",
+    "count": 1
+  }
+}

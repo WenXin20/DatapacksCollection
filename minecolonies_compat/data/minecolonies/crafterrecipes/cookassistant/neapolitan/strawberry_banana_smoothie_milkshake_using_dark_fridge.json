@@ -1,0 +1,27 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:crops/banana",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"neapolitan" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "neapolitan:strawberries",
+        "count": 2
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "intermediate": "refurbished_furniture:dark_fridge",
+    "result": "neapolitan:strawberry_banana_smoothie",
+    "count": 1
+  }
+}

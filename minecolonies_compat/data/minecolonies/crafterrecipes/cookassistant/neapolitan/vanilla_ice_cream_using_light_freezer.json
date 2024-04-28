@@ -1,0 +1,32 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:milk",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"neapolitan" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:bowl"
+      },
+      {
+        "item": "neapolitan:dried_vanilla_pods"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      },
+      {
+        "item": "neapolitan:ice_cubes"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "intermediate": "refurbished_furniture:light_freezer",
+    "result": "neapolitan:vanilla_ice_cream",
+    "count": 1
+  }
+}

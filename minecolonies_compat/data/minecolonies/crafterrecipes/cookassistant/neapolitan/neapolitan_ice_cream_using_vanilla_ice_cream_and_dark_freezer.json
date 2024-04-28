@@ -1,0 +1,26 @@
+{
+  "type": "recipe-template",
+  "tag": "forge:crops/strawberries",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"minecolonies" },
+    { "type":"forge:mod_loaded", "modid":"neapolitan" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "recipe": {
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "neapolitan:vanilla_ice_cream"
+      },
+      {
+        "item": "neapolitan:chocolate_bar"
+      },
+      {
+        "item": "[NS]:[PATH]"
+      }
+    ],
+    "intermediate": "refurbished_furniture:dark_freezer",
+    "result": "neapolitan:neapolitan_ice_cream",
+    "count": 1
+  }
+}
