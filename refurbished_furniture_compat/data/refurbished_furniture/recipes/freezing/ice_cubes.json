@@ -1,0 +1,13 @@
+{
+  "type": "refurbished_furniture:freezer_solidifying",
+  "conditions": [
+    { "type":"forge:mod_loaded", "modid":"neapolitan" },
+    { "type":"forge:mod_loaded", "modid":"refurbished_furniture" }
+  ],
+  "ingredient": {
+    "item": "minecraft:potion"
+  },
+  "result": "neapolitan:ice_cubes",
+  "count": 2,
+  "time": 600
+}
