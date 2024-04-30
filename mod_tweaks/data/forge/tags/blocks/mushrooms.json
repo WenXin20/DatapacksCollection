@@ -122,8 +122,6 @@
     { "id": "omni:green_cave_mushroom", "required": false },
     { "id": "omni:purple_cave_mushroom", "required": false },
     { "id": "omni:yellow_cave_mushroom", "required": false },
-    { "id": "pokecube_legends:mush_plant1", "required": false },
-    { "id": "pokecube_legends:mush_plant2", "required": false },
     { "id": "sullys_mod:shrendi", "required": false },
     { "id": "sullys_mod:tall_red_mushroom", "required": false },
     { "id": "tofucraft:zundatofu_mushroom", "required": false },

@@ -11,6 +11,7 @@
     { "id": "byg:embur_pedu", "required": false },
     { "id": "forbidden_arcanus:carved_edelwood_log", "required": false },
     { "id": "forbidden_arcanus:edelwood_log", "required": false },
+    { "id": "forbidden_arcanus:fungyss_stem", "required": false },
     { "id": "habitat:fairy_ring_mushroom_stem", "required": false },
     { "id": "infernalexp:dullthorns_block", "required": false },
     { "id": "lotr:pine_log_slab", "required": false },
