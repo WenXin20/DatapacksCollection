@@ -1,7 +1,10 @@
 {
   "replace": false,
   "values": [
+    "minecraft:glowstone",
     { "id": "#fairylights:lights", "required": false },
+    { "id": "#forge:glass", "required": false },
+    { "id": "#forge:glass_panes", "required": false },
     { "id": "chancecubes:chance_cube", "required": false },
     { "id": "chancecubes:giant_chance_cube", "required": false }
   ]
