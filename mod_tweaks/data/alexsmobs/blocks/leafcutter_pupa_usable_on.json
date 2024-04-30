@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#alexsmobs:am_spawns", "required": false }
+  ]
+}

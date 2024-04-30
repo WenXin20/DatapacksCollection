@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:leaves",
+    { "id": "#immersive_weathering:leaf_piles", "required": false },
+    { "id": "#quark:leaf_carpets", "required": false },
+    { "id": "#woodworks:leaf_piles", "required": false },
+    { "id": "biomesoplenty:huge_clover_petal", "required": false },
+    { "id": "regions_unexplored:enchanted_birch_leaf_pile", "required": false },
+    { "id": "regions_unexplored:maple_leaf_pile", "required": false },
+    { "id": "regions_unexplored:orange_maple_leaf_pile", "required": false },
+    { "id": "regions_unexplored:red_maple_leaf_pile", "required": false },
+    { "id": "regions_unexplored:silver_birch_leaf_pile", "required": false }
+  ]
+}
