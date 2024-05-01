@@ -3,6 +3,7 @@
   "values": [
 	{ "id": "#forge:crops/apple", "required": false },
 	{ "id": "#forge:crops/banana", "required": false },
+	{ "id": "#forge:crops/berries", "required": false },
 	{ "id": "#forge:crops/blueberries", "required": false },
 	{ "id": "#forge:crops/bolloom", "required": false },
 	{ "id": "#forge:crops/brewberries", "required": false },
