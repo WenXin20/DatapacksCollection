@@ -17,7 +17,9 @@
   },
   "position_predicates": [
     {
-      "biomes": ["minecraft:lush_caves"],
+      "biomes": [
+        "minecraft:cherry_grove"
+      ],
      "type": "biome_match"
     }
   ],
@@ -29,26 +31,57 @@
         {
           "data": {
             "block": {
-              "Name": "minecraft:azalea"
+              "Name": "minecraft:pink_petals",
+              "Properties": {
+                "facing": "west"
+              }
             }
           },
-          "weight": 1
+          "weight": 5
         },
         {
           "data": {
             "block": {
-              "Name": "minecraft:flowering_azalea"
+              "Name": "minecraft:pink_petals",
+              "Properties": {
+                "facing": "east"
+              }
             }
           },
-          "weight": 1
+          "weight": 5
         },
         {
           "data": {
             "block": {
-              "Name": "minecraft:grass"
+              "Name": "minecraft:pink_petals",
+              "Properties": {
+                "facing": "north"
+              }
             }
           },
-          "weight": 10
+          "weight": 5
+        },
+        {
+          "data": {
+            "block": {
+              "Name": "minecraft:pink_petals",
+              "Properties": {
+                "facing": "south"
+              }
+            }
+          },
+          "weight": 5
+        },
+        {
+          "data": {
+            "block": {
+              "Name": "minecraft:grass",
+              "Properties": {
+                "facing": "west"
+              }
+            }
+          },
+          "weight": 50
         }
       ]
     }

@@ -1,16 +1,13 @@
 {
   "conditions":
   [
-	{
-	  "type":"forge:mod_loaded",
-	  "modid":"immersive_weathering"
-	},
-	{
-	  "type":"forge:mod_loaded",
-	  "modid":"sprout"
-	}
+	{ "type": "forge:mod_loaded", "modid": "immersive_weathering" }
   ],
   "area_condition": {
+    "must_have": {
+      "blocks": "#immersive_weathering:grass_spread_source",
+      "predicate_type": "immersive_weathering:block_set_match"
+    },
     "radiusX": 2,
     "radiusY": 2,
     "radiusZ": 2,
@@ -23,7 +20,7 @@
       "biomes": [
         "minecraft:sparse_jungle"
       ],
-      "predicate_type": "biome_match"
+     "type": "biome_match"
     }
   ],
   "growth_chance": 0.001,
@@ -31,14 +28,6 @@
     {
       "direction": "up",
       "growth": [
-        {
-          "data": {
-            "block": {
-              "Name": "minecraft:jungle_sapling"
-            }
-          },
-          "weight": 1
-        },
         {
           "data": {
             "block": {
@@ -70,21 +59,11 @@
             }
           },
           "weight": 1
-        },
-        {
-          "data": {
-            "block": {
-              "Name": "sprout:sprouts"
-            }
-          },
-          "weight": 3
         }
       ]
     }
   ],
-  "owners": [
-    "minecraft:grass_block"
-  ],
+  "owners": "#immersive_weathering:grassy_blocks",
   "replacing_target": {
     "block": "minecraft:air",
     "predicate_type": "minecraft:random_block_match",

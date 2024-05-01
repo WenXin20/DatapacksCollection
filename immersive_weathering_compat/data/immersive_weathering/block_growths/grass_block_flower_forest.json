@@ -1,16 +1,13 @@
 {
   "conditions":
   [
-	{
-	  "type":"forge:mod_loaded",
-	  "modid":"immersive_weathering"
-	},
-	{
-	  "type":"forge:mod_loaded",
-	  "modid":"sprout"
-	}
+	{ "type": "forge:mod_loaded", "modid": "immersive_weathering" }
   ],
   "area_condition": {
+    "must_have": {
+      "blocks": "#immersive_weathering:grass_spread_source",
+      "predicate_type": "immersive_weathering:block_set_match"
+    },
     "radiusX": 2,
     "radiusY": 2,
     "radiusZ": 2,
@@ -21,7 +18,7 @@
   "position_predicates": [
     {
       "biomes": ["minecraft:flower_forest"],
-      "predicate_type": "biome_match"
+     "type": "biome_match"
     }
   ],
   "growth_chance": 0.001,
@@ -80,14 +77,6 @@
         {
           "data": {
             "block": {
-              "Name": "minecraft:oak_sapling"
-            }
-          },
-          "weight": 1
-        },
-        {
-          "data": {
-            "block": {
               "Name": "minecraft:peony",
               "Properties": {
                 "half": "lower"
@@ -142,22 +131,12 @@
               "Name": "minecraft:grass"
             }
           },
-          "weight": 80
-        },
-        {
-          "data": {
-            "block": {
-              "Name": "sprout:sprouts"
-            }
-          },
           "weight": 100
         }
       ]
     }
   ],
-  "owners": [
-    "minecraft:grass_block"
-  ],
+  "owners": "#immersive_weathering:grassy_blocks",
   "replacing_target": {
     "block": "minecraft:air",
     "predicate_type": "minecraft:random_block_match",

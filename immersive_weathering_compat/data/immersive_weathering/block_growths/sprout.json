@@ -1,14 +1,8 @@
 {
   "conditions":
   [
-	{
-	  "type":"forge:mod_loaded",
-	  "modid":"immersive_weathering"
-	},
-	{
-	  "type":"forge:mod_loaded",
-	  "modid":"sprout"
-	}
+	{ "type": "forge:mod_loaded", "modid": "immersive_weathering" },
+	{ "type": "forge:mod_loaded", "modid": "sprout" }
   ],
   "growth_chance": 0.001,
   "area_condition": {
