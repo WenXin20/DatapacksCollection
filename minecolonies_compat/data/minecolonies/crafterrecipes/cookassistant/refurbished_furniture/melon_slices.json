@@ -7,16 +7,11 @@
   ],
   "inputs": [
     {
-      "item": "refurbished_furniture:bread_slice"
-    },
-    {
-      "item": "refurbished_furniture:cheese"
-    },
-    {
-      "item": "refurbished_furniture:bread_slice"
+      "item": "minecraft:melon"
     }
   ],
+  "tool": "weapon",
   "intermediate": "refurbished_furniture:spruce_cutting_board",
-  "result": "refurbished_furniture:cheese_sandwich",
-  "count": 1
+  "result": "minecraft:melon_slice",
+  "count": 9
 }
