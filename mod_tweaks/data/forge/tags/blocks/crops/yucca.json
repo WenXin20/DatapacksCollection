@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "atmospheric:roasted_yucca_fruit", "required":false },
+    { "id": "atmospheric:yucca_fruit", "required":false }
+  ]
+}

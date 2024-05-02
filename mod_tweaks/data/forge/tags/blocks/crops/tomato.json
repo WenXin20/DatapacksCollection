@@ -1,7 +1,6 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "xercamod:item_tomato"
+  "values": [
+    { "id": "xercamod:item_tomato", "required": false }
   ]
 }

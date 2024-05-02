@@ -1,8 +1,7 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "foragecraft:leek",
-    "tofucraft:leek"
+  "values": [
+    { "id": "foragecraft:leek", "required":false },
+    { "id": "tofucraft:leek", "required":false }
   ]
 }

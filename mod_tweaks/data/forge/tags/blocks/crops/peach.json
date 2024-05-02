@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "chaosawakens:peach", "required":false },
+    { "id": "forbidden_arcanus:cherry_peach", "required":false },
+    { "id": "horticulture:peach", "required":false }
+  ]
+}

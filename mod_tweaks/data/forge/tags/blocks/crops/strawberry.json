@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "chaosawakens:strawberry", "required":false },
+    { "id": "croptopia:strawberry", "required":false },
+    { "id": "horticulture:strawberry", "required":false },
+    { "id": "neapolitan:strawberries", "required":false },
+    { "id": "neapolitan:white_strawberries", "required":false }
+  ]
+}

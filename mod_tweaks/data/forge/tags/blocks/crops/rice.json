@@ -1,8 +1,7 @@
 {
   "replace": false,
-  "values": [],
-  "optional": [
-    "tofucraft:rice",
-    "xercamod:item_rice_seeds"
+  "values": [
+    { "id": "tofucraft:rice", "required":false },
+    { "id": "xercamod:item_rice_seeds", "required":false }
   ]
 }

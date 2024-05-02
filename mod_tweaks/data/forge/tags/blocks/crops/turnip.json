@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "super_block_world:turnip", "required": false }
+  ]
+}

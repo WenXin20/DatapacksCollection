@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:carved_pumpkin",
+    "minecraft:pumpkin",
+    { "id": "#chipped:carved_pumpkin", "required":false },
+    { "id": "#chipped:pumpkin", "required":false },
+    { "id": "autumnity:large_pumpkin_slice", "required":false },
+    { "id": "chipped:pumpkin_end", "required":false },
+    { "id": "chipped:pumpkin_nether", "required":false },
+    { "id": "seasonals:roasted_pumpkin", "required":false }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:chorus_fruit", "required":false }
+  ]
+}

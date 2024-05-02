@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "lotr:pear", "required":false }
+  ]
+}
