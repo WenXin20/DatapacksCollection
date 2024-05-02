@@ -1,4 +1,8 @@
 {
+  "conditions":
+  [
+	{ "type": "forge:mod_loaded", "modid": "immersive_weathering" }
+  ],
   "area_condition": {
     "must_have": {
       "blocks": "#immersive_weathering:grass_spread_source",
