@@ -10,7 +10,7 @@
       "item": "farmersdelight:wild_beetroots"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "minecraft:beetroot_seeds",
   "count": 1,

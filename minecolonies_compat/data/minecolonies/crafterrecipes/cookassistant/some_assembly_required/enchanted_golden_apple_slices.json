@@ -11,7 +11,7 @@
       "item": "minecraft:enchanted_golden_apple"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "some_assembly_required:enchanted_golden_apple_slices",
   "count": 2

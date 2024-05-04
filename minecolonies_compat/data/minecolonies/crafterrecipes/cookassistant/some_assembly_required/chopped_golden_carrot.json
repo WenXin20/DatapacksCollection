@@ -11,7 +11,7 @@
       "item": "minecraft:golden_carrot"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "some_assembly_required:chopped_golden_carrot",
   "count": 2

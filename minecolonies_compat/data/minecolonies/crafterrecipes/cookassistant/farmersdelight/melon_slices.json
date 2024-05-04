@@ -10,7 +10,7 @@
       "item": "minecraft:melon"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "minecraft:melon_slice",
   "count": 9

@@ -10,7 +10,7 @@
       "item": "farmersdelight:kelp_roll"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:kelp_roll_slice",
   "count": 3

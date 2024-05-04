@@ -11,7 +11,7 @@
       "item": "minecraft:apple"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "some_assembly_required:apple_slices",
   "count": 2

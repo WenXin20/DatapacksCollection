@@ -11,7 +11,7 @@
       "item": "minecraft:beetroot"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "some_assembly_required:chopped_beetroot",
   "count": 2

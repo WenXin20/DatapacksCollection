@@ -10,7 +10,7 @@
       "item": "farmersdelight:wild_cabbages"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:cabbage_seeds",
   "count": 1,

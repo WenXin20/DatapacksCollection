@@ -10,7 +10,7 @@
       "item": "minecraft:mutton"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:mutton_chops",
   "count": 2

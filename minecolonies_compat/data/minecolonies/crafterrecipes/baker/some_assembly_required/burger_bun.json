@@ -11,7 +11,7 @@
       "item": "some_assembly_required:burger_bun"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "some_assembly_required:burger_bun_bottom",
   "count": 1,

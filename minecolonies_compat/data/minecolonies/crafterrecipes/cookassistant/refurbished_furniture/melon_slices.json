@@ -10,7 +10,7 @@
       "item": "minecraft:melon"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "refurbished_furniture:spruce_cutting_board",
   "result": "minecraft:melon_slice",
   "count": 9

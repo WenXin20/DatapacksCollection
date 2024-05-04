@@ -10,7 +10,7 @@
       "item": "minecraft:cooked_cod"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:cooked_cod_slice",
   "count": 2,

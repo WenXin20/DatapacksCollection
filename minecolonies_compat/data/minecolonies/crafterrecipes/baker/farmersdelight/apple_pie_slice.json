@@ -10,7 +10,7 @@
       "item": "farmersdelight:apple_pie"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:apple_pie_slice",
   "count": 4

@@ -10,7 +10,7 @@
       "item": "minecraft:beef"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:minced_beef",
   "count": 2

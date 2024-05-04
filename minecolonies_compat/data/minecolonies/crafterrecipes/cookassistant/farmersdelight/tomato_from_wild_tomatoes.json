@@ -10,7 +10,7 @@
       "item": "farmersdelight:wild_tomatoes"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:tomato",
   "count": 1,

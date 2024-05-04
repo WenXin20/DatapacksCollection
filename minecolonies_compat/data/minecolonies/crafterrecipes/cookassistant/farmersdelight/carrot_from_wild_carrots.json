@@ -10,7 +10,7 @@
       "item": "farmersdelight:wild_carrots"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "minecraft:carrot",
   "count": 1,

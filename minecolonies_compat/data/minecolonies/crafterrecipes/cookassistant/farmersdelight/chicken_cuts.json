@@ -10,7 +10,7 @@
       "item": "minecraft:chicken"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:chicken_cuts",
   "count": 2,

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+   "values":[
+    { "id": "#forge:tools/knives", "required": false },
+    { "id": "aether:lightning_knife", "required": false },
+    { "id": "enlightened_end:adamantite_knife", "required": false }
+   ]
+}

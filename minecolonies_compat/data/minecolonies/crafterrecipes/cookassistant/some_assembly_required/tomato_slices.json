@@ -13,7 +13,7 @@
         "item": "[NS]:[PATH]"
       }
     ],
-    "tool": "weapon",
+    "tool": "knives",
     "intermediate": "farmersdelight:cutting_board",
     "result": "some_assembly_required:tomato_slices",
     "count": 2

@@ -10,7 +10,7 @@
       "item": "refurbished_furniture:cooked_vegetable_pizza"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "refurbished_furniture:spruce_cutting_board",
   "result": "refurbished_furniture:vegetable_pizza_slice",
   "count": 6

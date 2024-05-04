@@ -10,7 +10,7 @@
       "item": "minecraft:cooked_salmon"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:cooked_salmon_slice",
   "count": 2,

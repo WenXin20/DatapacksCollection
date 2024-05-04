@@ -10,7 +10,7 @@
       "item": "minecraft:bread"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "refurbished_furniture:spruce_cutting_board",
   "result": "refurbished_furniture:bread_slice",
   "count": 6

@@ -10,7 +10,7 @@
       "item": "minecraft:cod"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "farmersdelight:cod_slice",
   "count": 2,

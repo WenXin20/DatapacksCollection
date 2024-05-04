@@ -10,7 +10,7 @@
       "item": "farmersdelight:red_mushroom_colony"
     }
   ],
-  "tool": "weapon",
+  "tool": "knives",
   "intermediate": "farmersdelight:cutting_board",
   "result": "minecraft:red_mushroom",
   "count": 5
