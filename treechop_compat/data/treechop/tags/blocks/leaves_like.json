@@ -1,11 +1,11 @@
 {
   "replace": false,
   "values": [
-    "#forge:mushroom_caps",
     "#minecraft:leaves",
     "#minecraft:wart_blocks",
     "minecraft:mangrove_roots",
     "minecraft:shroomlight",
+    { "id": "#forge:mushroom_caps", "required": false },
     { "id": "#habitat:ball_cactus_blocks", "required": false },
     { "id": "alexscaves:pewen_branch", "required": false },
     { "id": "alexscaves:thornwood_branch", "required": false },
@@ -34,7 +34,6 @@
     { "id": "biomesoplenty:dead_branch", "required": false },
     { "id": "biomesoplenty:glowshroom_block", "required": false },
     { "id": "blue_skies:snowcap_mushroom_block", "required": false },
-    { "id": "blue_skies:snowcap_mushroom_block", "required": false },
     { "id": "byg:black_puff_mushroom_block", "required": false },
     { "id": "byg:blue_glowshroom_block", "required": false },
     { "id": "byg:bulbis_shell", "required": false },
@@ -42,7 +41,6 @@
     { "id": "byg:purple_bulbis_shell", "required": false },
     { "id": "byg:purple_shroomlight", "required": false },
     { "id": "byg:shulkren_wart_block", "required": false },
-    { "id": "byg:sythian_wart_block", "required": false },
     { "id": "byg:sythian_wart_block", "required": false },
     { "id": "chaosawakens:green_crystal_leaves", "required": false },
     { "id": "chaosawakens:red_crystal_leaves", "required": false },

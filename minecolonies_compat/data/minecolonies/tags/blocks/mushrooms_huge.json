@@ -1,0 +1,26 @@
+{
+  "values": [
+    "minecraft:brown_mushroom_block",
+    "minecraft:red_mushroom_block",
+    { "id": "#forge:mushroom_caps", "required": false },
+    { "id": "biomesoplenty:glowshroom_block", "required": false },
+    { "id": "blue_skies:snowcap_mushroom_block", "required": false },
+    { "id": "byg:black_puff_mushroom_block", "required": false },
+    { "id": "byg:blue_glowshroom_block", "required": false },
+    { "id": "byg:bulbis_shell", "required": false },
+    { "id": "byg:pollen_block", "required": false },
+    { "id": "byg:purple_bulbis_shell", "required": false },
+    { "id": "byg:shulkren_wart_block", "required": false },
+    { "id": "byg:sythian_wart_block", "required": false },
+    { "id": "forbidden_arcanus:fungyss_block", "required": false },
+    { "id": "habitat:fairy_ring_mushroom_block", "required": false },
+    { "id": "infernalexp:luminous_wart_block", "required": false },
+    { "id": "spelunkery:milly_bubcap_block", "required": false },
+    { "id": "tconstruct:ichor_congealed_slime", "required": false },
+    { "id": "tofucraft:blocktofuzunda", "required": false },
+    { "id": "tofucraft:leek_green_stem", "required": false },
+    { "id": "ulterlands:lumestone", "required": false },
+    { "id": "ulterlands:mushbee_warts", "required": false },
+    { "id": "ulterlands:vortrim_warts", "required": false }
+  ]
+}

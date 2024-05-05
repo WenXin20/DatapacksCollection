@@ -1,0 +1,27 @@
+{
+  "values": [
+    "#minecraft:logs",
+    "minecraft:mushroom_stem",
+    { "id": "#forge:mushroom_stems", "required": false },
+    { "id": "#minecolonies:mangrove_tree", "required": false },
+    { "id": "blue_skies:snowcap_mushroom_stem", "required": false },
+    { "id": "biomesoplenty:glowshroom_block", "required": false },
+    { "id": "byg:embur_pedu", "required": false },
+    { "id": "forbidden_arcanus:carved_edelwood_log", "required": false },
+    { "id": "forbidden_arcanus:edelwood_log", "required": false },
+    { "id": "forbidden_arcanus:fungyss_stem", "required": false },
+    { "id": "habitat:fairy_ring_mushroom_stem", "required": false },
+    { "id": "infernalexp:dullthorns_block", "required": false },
+    { "id": "lotr:pine_log_slab", "required": false },
+    { "id": "neapolitan:banana_stalk", "required": false },
+    { "id": "neapolitan:beanstalk", "required": false },
+    { "id": "regions_unexplored:saguaro_cactus", "required": false },
+    { "id": "simplytea:tea_trunk", "required": false },
+    { "id": "tofucraft:blocktofuishi", "required": false },
+    { "id": "tofucraft:leek_stem", "required": false },
+    { "id": "tofucraft:tofustem", "required": false },
+    { "id": "twilightforest:liveroot_block", "required": false },
+    { "id": "twilightforest:mangrove_root", "required": false },
+    { "id": "twilightforest:root", "required": false }
+  ]
+}
