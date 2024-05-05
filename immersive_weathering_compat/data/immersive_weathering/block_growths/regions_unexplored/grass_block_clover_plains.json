@@ -24,7 +24,7 @@
      "type": "biome_match"
     }
   ],
-  "growth_chance": 0.001,
+  "growth_chance": 0.003,
   "growth_for_face": [
     {
       "direction": "up",
@@ -39,7 +39,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -51,7 +51,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -63,7 +63,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -75,7 +75,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -87,7 +87,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -99,7 +99,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -111,7 +111,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -123,7 +123,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -135,7 +135,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -147,7 +147,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -159,7 +159,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -171,7 +171,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -183,7 +183,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -195,7 +195,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -207,7 +207,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
@@ -219,7 +219,7 @@
               }
             }
           },
-          "weight": 10
+          "weight": 50
         },
         {
           "data": {
