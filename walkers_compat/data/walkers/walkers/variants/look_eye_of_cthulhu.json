@@ -1,0 +1,19 @@
+{
+  "required_mod": "look",
+  "entity_type": "look:eye_of_cthulhu",
+  "type_provider": {
+    "fallback": 0,
+    "range": 1,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Texture",
+        "is_mutable": false,
+        "parameters": {
+          "0": "eye_of_cthulhu",
+          "1": "eye_of_cthulhu_2"
+        }
+      }
+    ]
+  }
+}

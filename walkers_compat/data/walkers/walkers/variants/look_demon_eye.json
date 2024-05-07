@@ -1,0 +1,23 @@
+{
+  "required_mod": "look",
+  "entity_type": "look:demon_eye",
+  "type_provider": {
+    "fallback": 0,
+    "range": 5,
+    "nbt": [
+      {
+        "nbt_type": "string",
+        "nbt_field": "Texture",
+        "is_mutable": false,
+        "parameters": {
+          "0": "demon_eye",
+          "1": "demon_eye_variant1",
+          "2": "demon_eye_variant2",
+          "3": "demon_eye_variant3",
+          "4": "demon_eye_variant4",
+          "5": "demon_eye_variant5"
+        }
+      }
+    ]
+  }
+}

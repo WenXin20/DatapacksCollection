@@ -11,6 +11,8 @@
     }
   ],
   "entity_types": [
+    "alexsmobs:straddler",
+    "alexsmobs:stradpole",
     "friendsandfoes:wildfire"
   ]
 }

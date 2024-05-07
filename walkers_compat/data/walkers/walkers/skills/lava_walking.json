@@ -6,6 +6,7 @@
     }
   ],
   "entity_types": [
+    "alexsmobs:straddler",
     "minecraft:strider"
   ]
 }
