@@ -61,9 +61,15 @@
     "minecraft:smooth_stone_slab",
     "minecraft:stone_brick_slab",
     "minecraft:stone_brick_stairs",
+    { "id": "#c:concrete", "required": false },
     { "id": "#domum_ornamentum:bricks", "required": false },
+    { "id": "#forge:concrete", "required": false },
     { "id": "#minecolonies:concrete", "required": false },
     { "id": "aether:aether_dirt_path", "required": false },
+    { "id": "automobility:dirt_off_road", "required": false },
+    { "id": "automobility:grass_off_road", "required": false },
+    { "id": "automobility:sand_off_road", "required": false },
+    { "id": "automobility:snow_off_road", "required": false },
     { "id": "deep_aether:golden_heights_dirt_path", "required": false },
     { "id": "domum_ornamentum:dark_brick", "required": false },
     { "id": "domum_ornamentum:dark_brick_stair", "required": false },
@@ -86,6 +92,9 @@
     { "id": "twigs:cobblestone_bricks", "required": false },
     { "id": "twigs:mossy_cobblestone_brick_slab", "required": false },
     { "id": "twigs:mossy_cobblestone_brick_stairs", "required": false },
-    { "id": "twigs:mossy_cobblestone_bricks", "required": false }
+    { "id": "twigs:mossy_cobblestone_bricks", "required": false },
+    { "id": "unusualprehistory:asphalt", "required": false },
+    { "id": "unusualprehistory:gold_engraved_asphalt", "required": false },
+    { "id": "unusualprehistory:quartz_engraved_asphalt", "required": false }
   ]
 }
