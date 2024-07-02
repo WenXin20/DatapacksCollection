@@ -1,7 +1,4 @@
 {
-  "itemGroup.dynamictrees": "Dynamic Trees",
-
-  "entity.dynamictrees.falling_tree": "Falling Tree",
 
   "block.dynamictrees.oak_branch": "Oak Tree",
   "block.dynamictrees.azalea_branch": "Azalea Tree",
@@ -39,7 +36,7 @@
   "species.dynamictrees.oak_undergrowth": "Oak Undergrowth",
   "species.dynamictrees.jungle_undergrowth": "Jungle Undergrowth",
   "species.dynamictrees.mangrove": "Mangrove",
-  "species.dynamictrees.dense_cherry": "Dense Cherry Blossom",
+  "species.dense_dynamictrees.dense_cherry": "Dense Cherry Blossom",
 
   "item.dynamictrees.oak_seed": "Oak Acorn",
   "item.dynamictrees.azalea_seed": "Azalea Seed",
