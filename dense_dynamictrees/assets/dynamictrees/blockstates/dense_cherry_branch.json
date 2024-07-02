@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dynamictrees:block/cherry_branch"
+      "model": "dynamictrees:block/dense_cherry_branch"
     }
   }
 }
