@@ -1,0 +1,10 @@
+{
+    "primitive_log": "densetrees:dense_cherry_log",
+    "common_leaves": "dense_dynamictrees:dense_cherry",
+    "common_species": "dense_dynamictrees:dense_cherry",
+    "generate_surface_root": true,
+    "generate_stripped_branch": false,
+    "max_branch_radius": 24,
+    "primary_thickness": 1,
+    "secondary_thickness": 2
+}

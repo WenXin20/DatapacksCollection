@@ -1,7 +1,6 @@
 {
 	"pack": {
-		"description":
-		"Dynamic Trees Inventory Pets Trees",
-		"pack_format":6
+		"description": "Dynamic Trees Inventory Pets Compat",
+		"pack_format": 15
 	}
 }
