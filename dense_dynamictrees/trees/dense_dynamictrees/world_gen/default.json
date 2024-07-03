@@ -100,8 +100,8 @@
       "species": {
         "method": "splice_before",
         "random": {
-          "dense_dynamictrees:dense_cherry": 2,
-          "...": 10
+          "dense_dynamictrees:dense_cherry": 1,
+          "...": 20
         }
       }
     }
