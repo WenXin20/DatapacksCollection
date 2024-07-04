@@ -2,6 +2,6 @@
   "family": "dense_dynamictrees:dense_cherry",
   "type": "dynamictrees:cherry",
   "primitive_leaves": "minecraft:cherry_leaves",
-  "smother": 5,
+  "smother": 6,
   "light_requirement": 14
 }

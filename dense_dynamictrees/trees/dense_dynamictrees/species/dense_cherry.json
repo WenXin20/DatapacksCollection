@@ -2,7 +2,7 @@
     "family": "dense_dynamictrees:dense_cherry",
     "leaves_properties": "dense_dynamictrees:dense_cherry",
     "growth_rate": 0.8,
-    "lowest_branch_height": 3,
+    "lowest_branch_height": 4,
     "max_branch_radius": 24,
     "signal_energy": 15.0,
     "tapering": 0.3,
@@ -15,14 +15,15 @@
     },
     "perfect_biomes": { "types": [ "cherry_grove", "overworld" ] },
     "features" : [ 
-		"bee_nest",
+        "bee_nest",
+        "bottom_flare",
         {
             "name": "roots",
             "properties": {
                 "min_trunk_radius": 9,
                 "scale_factor": 20,
-                "level_limit": 4
+                "level_limit": 8
             }
         }
-	]
+    ]
 }
