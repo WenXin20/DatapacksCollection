@@ -1,0 +1,5 @@
+{
+  "family": "dense_dynamictrees:dense_oak",
+  "type": "dynamictrees:oak",
+  "primitive_leaves": "minecraft:oak_leaves"
+}

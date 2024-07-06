@@ -37,7 +37,7 @@
                   ]
                 }
               ],
-              "name": "minecraft:cherry_leaves"
+              "name": "minecraft:oak_leaves"
             },
             {
               "type": "minecraft:item",
@@ -59,7 +59,7 @@
                   "condition": "dynamictrees:seasonal_seed_drop_chance"
                 }
               ],
-              "name": "dynamictrees:cherry_seed"
+              "name": "dynamictrees:oak_seed"
             },
             {
               "type": "dynamictrees:seed_item",
@@ -153,5 +153,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "dynamictrees:blocks/dense_cherry_leaves"
+  "random_sequence": "dynamictrees:blocks/dense_oak_leaves"
 }

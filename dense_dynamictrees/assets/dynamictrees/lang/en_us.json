@@ -1,6 +1,6 @@
 {
 
-  "block.dynamictrees.oak_branch": "Oak Tree",
+  "block.dynamictrees.dense_oak_branch": "Dense Oak Tree",
   "block.dynamictrees.azalea_branch": "Azalea Tree",
   "block.dynamictrees.spruce_branch": "Spruce Tree",
   "block.dynamictrees.birch_branch": "Birch Tree",
@@ -14,7 +14,8 @@
   "block.dynamictrees.dense_cherry_branch": "Dense Cherry Tree",
   "block.dynamictrees.rooty_water": "Water Roots",
 
-  "species.dynamictrees.oak": "Oak",
+  "species.dense_dynamictrees.dense_oak": "Dense Oak",
+  "species.dense_dynamictrees.dense_swamp_oak": "Dense Oak",
   "species.dynamictrees.azalea": "Azalea",
   "species.dynamictrees.swamp_oak": "Swamp Oak",
   "species.dynamictrees.spruce": "Spruce",
@@ -38,7 +39,7 @@
   "species.dynamictrees.mangrove": "Mangrove",
   "species.dense_dynamictrees.dense_cherry": "Dense Cherry Blossom",
 
-  "item.dynamictrees.oak_seed": "Oak Acorn",
+  "item.dynamictrees.dense_oak_seed": "Dense Oak Acorn",
   "item.dynamictrees.azalea_seed": "Azalea Seed",
   "item.dynamictrees.spruce_seed": "Spruce Cone",
   "item.dynamictrees.birch_seed": "Birch Catkin",
