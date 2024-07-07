@@ -1,6 +1,7 @@
 {
   "values": [
     { "id": "dynamictrees:dense_cherry_sapling", "required": false },
-    { "id": "dynamictrees:dense_oak_sapling", "required": false }
+    { "id": "dynamictrees:dense_oak_sapling", "required": false },
+    { "id": "dynamictrees:dense_spruce_sapling", "required": false }
   ]
 }

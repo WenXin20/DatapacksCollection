@@ -72,7 +72,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_oak": 1,
-          "spruce": 1,
+          "dense_dynamictrees:dense_spruce": 1,
           "...": 20
         }
       }
@@ -136,12 +136,13 @@
       "tag": "#forge:is_coniferous"
     },
     "apply": {
-      "species": "spruce",
-      "density": [
-        1
-      ],
-      "chance": 1,
-      "forestness": 1
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_spruce": 1,
+          "...": 20
+        }
+      }
     }
   },
   {
@@ -202,8 +203,13 @@
       "name": "minecraft:snowy_plains"
     },
     "apply": {
-      "species": "spruce",
-      "chance": 0.06
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_spruce": 1,
+          "...": 20
+        }
+      }
     }
   },
   {
@@ -252,16 +258,13 @@
     },
     "apply": {
       "species": {
+        "method": "splice_before",
         "random": {
-          "spruce": 2,
-          "mega_spruce": 1
+          "dense_dynamictrees:dense_spruce": 1,
+          "dense_dynamictrees:dense_mega_spruce": 1,
+          "...": 20
         }
-      },
-      "density": [
-        1
-      ],
-      "chance": 1,
-      "forestness": 1
+      }
     }
   },
   {

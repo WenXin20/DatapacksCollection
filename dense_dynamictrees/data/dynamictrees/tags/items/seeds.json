@@ -1,16 +1,7 @@
 {
   "values": [
-    "#dynamictrees:fungus_caps",
-    "dynamictrees:acacia_seed",
-    "dynamictrees:apple_oak_seed",
-    "dynamictrees:azalea_seed",
-    "dynamictrees:birch_seed",
-    "dynamictrees:dense_cherry_seed",
-    "dynamictrees:cocoa_seed",
-    "dynamictrees:dark_oak_seed",
-    "dynamictrees:jungle_seed",
-    "dynamictrees:mangrove_seed",
-    "dynamictrees:dense_oak_seed",
-    "dynamictrees:spruce_seed"
+    { "id": "dynamictrees:dense_cherry_seed", "required": false },
+    { "id": "dynamictrees:dense_oak_seed", "required": false },
+    { "id": "dynamictrees:dense_spruce_seed", "required": false }
   ]
 }

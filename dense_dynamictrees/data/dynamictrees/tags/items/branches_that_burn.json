@@ -1,12 +1,7 @@
 {
   "values": [
-    "dynamictrees:acacia_branch",
-    "dynamictrees:birch_branch",
-    "dynamictrees:dense_cherry_branch",
-    "dynamictrees:dark_oak_branch",
-    "dynamictrees:jungle_branch",
-    "dynamictrees:mangrove_branch",
-    "dynamictrees:dense_oak_branch",
-    "dynamictrees:spruce_branch"
+    { "id": "dynamictrees:dense_cherry_branch", "required": false },
+    { "id": "dynamictrees:dense_oak_branch", "required": false },
+    { "id": "dynamictrees:dense_spruce_branch", "required": false }
   ]
 }
