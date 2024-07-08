@@ -1,0 +1,11 @@
+{
+    "primitive_log": "densetrees:dense_birch_log",
+    "common_leaves": "dense_dynamictrees:dense_birch",
+    "common_species": "dense_dynamictrees:dense_birch",
+    "conifer_variants": true,
+    "generate_stripped_branch": false,
+    "generate_surface_root": true,
+    "max_branch_radius": 24,
+    "primary_thickness": 1,
+    "secondary_thickness": 2
+}

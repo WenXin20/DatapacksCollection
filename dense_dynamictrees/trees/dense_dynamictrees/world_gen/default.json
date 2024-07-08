@@ -10,7 +10,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_oak": 1,
-          "birch": 1,
+          "dense_dynamictrees:dense_birch": 1,
           "...": 20
         }
       }
@@ -169,7 +169,13 @@
       "name": "minecraft:birch_forest"
     },
     "apply": {
-      "species": "birch"
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_birch": 1,
+          "...": 20
+        }
+      }
     }
   },
   {
@@ -178,7 +184,13 @@
       "name": "minecraft:old_growth_birch_forest"
     },
     "apply": {
-      "species": "tall_birch"
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_tall_birch": 1,
+          "...": 20
+        }
+      }
     }
   },
   {
@@ -222,7 +234,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_oak": 1,
-          "tall_birch": 1,
+          "dense_dynamictrees:dense_tall_birch": 1,
           "...": 20
         }
       }

@@ -1,5 +1,6 @@
 {
   "values": [
+    { "id": "dynamictrees:dense_birch_seed", "required": false },
     { "id": "dynamictrees:dense_cherry_seed", "required": false },
     { "id": "dynamictrees:dense_oak_seed", "required": false },
     { "id": "dynamictrees:dense_spruce_seed", "required": false }

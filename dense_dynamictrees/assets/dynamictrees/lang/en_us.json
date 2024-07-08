@@ -2,7 +2,7 @@
 
   "block.dynamictrees.acacia_branch": "Acacia Tree",
   "block.dynamictrees.azalea_branch": "Azalea Tree",
-  "block.dynamictrees.birch_branch": "Birch Tree",
+  "block.dynamictrees.dense_birch_branch": "Birch Tree",
   "block.dynamictrees.crimson_branch": "Crimson Fungus",
   "block.dynamictrees.dark_oak_branch": "Dark Oak Tree",
   "block.dynamictrees.dense_cherry_branch": "Cherry Tree",
@@ -17,7 +17,7 @@
 
   "species.dynamictrees.acacia": "Acacia",
   "species.dynamictrees.azalea": "Azalea",
-  "species.dynamictrees.birch": "Birch",
+  "species.dense_dynamictrees.dense_birch": "Dense Birch",
   "species.dense_dynamictrees.dense_cherry": "Dense Cherry Blossom",
   "species.dynamictrees.crimson": "Crimson",
   "species.dynamictrees.dark_oak": "Dark Oak",
@@ -30,13 +30,13 @@
   "species.dense_dynamictrees.dense_oak": "Dense Oak",
   "species.dense_dynamictrees.dense_spruce": "Dense Spruce",
   "species.dense_dynamictrees.dense_swamp_oak": "Dense Swamp Oak",
-  "species.dynamictrees.tall_birch": "Tall Birch",
+  "species.dense_dynamictrees.dense_tall_birch": "Dense Tall Birch",
   "species.dynamictrees.warped": "Warped",
 
   "item.dynamictrees.acacia_seed": "Acacia Seed",
   "item.dynamictrees.apple_oak_seed": "Apple Pip",
   "item.dynamictrees.azalea_seed": "Azalea Seed",
-  "item.dynamictrees.birch_seed": "Birch Catkin",
+  "item.dynamictrees.dense_birch_seed": "Large Birch Catkin",
   "item.dynamictrees.cocoa_seed": "Cocoa Pod",
   "item.dynamictrees.crimson_seed": "Crimson Cap",
   "item.dynamictrees.dark_oak_seed": "Dark Oak Acorn",
