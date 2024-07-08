@@ -1,7 +1,9 @@
 {
   "values": [
+    { "id": "dynamictrees:dense_azalea_leaves", "required": false },
     { "id": "dynamictrees:dense_birch_leaves", "required": false },
     { "id": "dynamictrees:dense_cherry_leaves", "required": false },
+    { "id": "dynamictrees:dense_flowering_azalea_leaves", "required": false },
     { "id": "dynamictrees:dense_oak_leaves", "required": false },
     { "id": "dynamictrees:dense_spruce_leaves", "required": false }
   ]

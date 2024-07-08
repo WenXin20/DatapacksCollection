@@ -4,6 +4,7 @@
     "always_show_on_waila": true,
     "growth_rate": 1.25,
     "lowest_branch_height": 5,
+    "max_branch_radius": 24,
     "signal_energy": 15,
     "tapering": 0.25,
     "up_probability": 5,
