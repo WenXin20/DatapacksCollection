@@ -99,17 +99,15 @@
     },
     "apply": {
       "species": {
+        "method": "splice_before",
         "random": {
-          "jungle": 15,
-          "mega_jungle": 3,
-          "cocoa": 1
+          "dense_dynamictrees:dense_cocoa": 1,
+          "dense_dynamictrees:dense_jungle": 4,
+          "dense_dynamictrees:dense_mega_cocoa": 1,
+          "dense_dynamictrees:dense_mega_jungle": 2,
+          "...": 80
         }
-      },
-      "density": [
-        2
-      ],
-      "forestness": 1.0,
-      "chance": "standard"
+      }
     }
   },
   {
@@ -118,16 +116,13 @@
     },
     "apply": {
       "species": {
+        "method": "splice_before",
         "random": {
-          "jungle": 6,
-          "jungle_undergrowth": 4,
-          "cocoa": 1
+          "dense_dynamictrees:dense_cocoa": 1,
+          "dense_dynamictrees:dense_jungle": 2,
+          "...": 40
         }
-      },
-      "density": [
-        0.2
-      ],
-      "chance": 0.5
+      }
     }
   },
   {

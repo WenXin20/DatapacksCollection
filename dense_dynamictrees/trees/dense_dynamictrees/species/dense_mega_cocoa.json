@@ -1,0 +1,69 @@
+{
+    "family": "dense_dynamictrees:dense_jungle",
+    "leaves_properties": "dense_dynamictrees:dense_jungle",
+    "growth_logic_kit": {
+        "name": "jungle",
+        "properties": {
+            "canopy_height": 25,
+            "branch_out_chance": 3
+        }
+    },
+    "pods": [ "dense_dynamictrees:dense_cocoa" ],
+    "always_show_on_waila": true,
+    "drop_seeds": false,
+    "generate_sapling": true,
+    "generate_seed": false,
+    "growth_rate": 1.2,
+    "lowest_branch_height": 9,
+    "max_branch_radius": 24,
+    "signal_energy": 32,
+    "soil_longevity": 12,
+    "tapering": 0.17,
+    "up_probability": 10,
+    "world_gen_leaf_map_height": 40,
+    "environment_factors" : {
+        "#forge:is_cold": 0.3,
+        "#forge:is_dry": 0.4,
+        "#forge:is_hot": 1.1,
+        "#forge:is_wet": 1.1
+    },
+    "perfect_biomes": { "tag": "#minecraft:is_jungle" },
+    "features" : [
+        "bottom_flare",
+        {
+            "name": "clear_volume",
+            "properties": {
+                "height": 20
+            }
+        },
+        {
+            "name": "mound",
+            "properties": {
+                "mound_cutoff_radius": 999
+            }
+        },
+        {
+            "name": "pod",
+            "properties": {
+                "pod": "dense_dynamictrees:dense_cocoa",
+                "fruiting_radius": 4,
+                "blocks_per_pod": 8
+            }
+        },
+        {
+            "name": "roots",
+            "properties": {
+                "min_trunk_radius": 9,
+                "scale_factor": 15,
+                "level_limit": 8
+            }
+        },
+        {
+            "name": "vines",
+            "properties": {
+                "quantity": 16,
+                "max_length": 16
+            }
+        }
+    ]
+}

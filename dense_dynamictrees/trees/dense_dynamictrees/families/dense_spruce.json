@@ -4,7 +4,5 @@
     "common_species": "dense_dynamictrees:dense_spruce",
     "generate_stripped_branch": false,
     "generate_surface_root": true,
-    "max_branch_radius": 24,
-    "primary_thickness": 1,
-    "secondary_thickness": 2
+    "max_branch_radius": 24
 }
