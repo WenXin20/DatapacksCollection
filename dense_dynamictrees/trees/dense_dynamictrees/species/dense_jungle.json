@@ -7,8 +7,8 @@
     "growth_rate": 1.0,
     "lowest_branch_height": 4,
     "max_branch_radius": 24,
-    "signal_energy": 32,
-    "tapering": 0.2,
+    "signal_energy": 34,
+    "tapering": 0.25,
     "up_probability": 3,
     "environment_factors" : {
         "#forge:is_cold": 0.15,
@@ -19,6 +19,12 @@
     "perfect_biomes": { "tag": "#minecraft:is_jungle" },
     "features" : [
         "bottom_flare",
+        {
+            "name": "mound",
+            "properties": {
+                "mound_cutoff_radius": 999
+            }
+        },
         {
             "name": "roots",
             "properties": {

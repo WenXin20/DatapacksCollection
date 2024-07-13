@@ -1,7 +1,7 @@
 {
     "family": "dense_dynamictrees:dense_jungle",
     "mega_species": "dense_dynamictrees:dense_mega_cocoa",
-    "leaves_properties": "dense_dynamictrees:dense_jungle",
+    "leaves_properties": "dense_dynamictrees:dense_cocoa",
     "growth_logic_kit": "jungle",
     "pods": [ "dense_dynamictrees:dense_cocoa" ],
     "always_show_on_waila": true,
@@ -9,11 +9,11 @@
     "generate_sapling": true,
     "generate_seed": true,
     "growth_rate": 1.5,
-    "lowest_branch_height": 6,
+    "lowest_branch_height": 2,
     "max_branch_radius": 24,
-    "signal_energy": 14,
-    "soil_longevity": 8,
-    "tapering": 0.2,
+    "signal_energy": 10,
+    "soil_longevity": 18,
+    "tapering": 0.7,
     "up_probability": 1,
     "environment_factors" : {
         "#forge:is_cold": 0.3,
@@ -24,6 +24,12 @@
     "perfect_biomes": { "tag": "#minecraft:is_jungle" },
     "features" : [
         "bottom_flare",
+        {
+            "name": "mound",
+            "properties": {
+                "mound_cutoff_radius": 999
+            }
+        },
         {
             "name": "pod",
             "properties": {

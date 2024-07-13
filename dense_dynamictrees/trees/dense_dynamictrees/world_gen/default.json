@@ -105,7 +105,7 @@
           "dense_dynamictrees:dense_jungle": 4,
           "dense_dynamictrees:dense_mega_cocoa": 1,
           "dense_dynamictrees:dense_mega_jungle": 2,
-          "...": 80
+          "...": 100
         }
       }
     }
@@ -119,8 +119,8 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_cocoa": 1,
-          "dense_dynamictrees:dense_jungle": 2,
-          "...": 40
+          "dense_dynamictrees:dense_jungle": 5,
+          "...": 100
         }
       }
     }

@@ -12,7 +12,7 @@
     "growth_rate": 1.2,
     "lowest_branch_height": 9,
     "max_branch_radius": 24,
-    "signal_energy": 42,
+    "signal_energy": 45,
     "soil_longevity": 12,
     "tapering": 0.17,
     "up_probability": 10,
