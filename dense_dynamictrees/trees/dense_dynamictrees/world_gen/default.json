@@ -198,8 +198,9 @@
       "species": {
         "method": "splice_before",
         "random": {
-          "dense_dynamictrees:dense_oak": 1,
-          "...": 20
+          "dense_dynamictrees:dense_oak": 5,
+          "dense_dynamictrees:dense_apple_oak": 1,
+          "...": 100
         }
       }
     }

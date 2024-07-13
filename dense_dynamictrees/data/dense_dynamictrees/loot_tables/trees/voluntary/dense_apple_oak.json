@@ -13,10 +13,20 @@
             }
           ],
           "name": "dynamictrees:apple_oak_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "dynamictrees:voluntary_seed_drop_chance",
+              "rarity": 0.1
+            }
+          ],
+          "name": "dynamictrees:dense_apple_oak_seed"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "dynamictrees:trees/voluntary/apple_oak"
+  "random_sequence": "dynamictrees:trees/voluntary/dense_apple_oak"
 }

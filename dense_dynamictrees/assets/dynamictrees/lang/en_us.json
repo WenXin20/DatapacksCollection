@@ -16,6 +16,7 @@
   "block.dynamictrees.rooty_water": "Water Roots",
 
   "species.dynamictrees.acacia": "Acacia",
+  "species.dense_dynamictrees.dense_apple_oak": "Dense Apple Oak",
   "species.dense_dynamictrees.dense_azalea": "Dense Azalea",
   "species.dense_dynamictrees.dense_birch": "Dense Birch",
   "species.dense_dynamictrees.dense_cherry": "Dense Cherry Blossom",
@@ -36,7 +37,7 @@
   "species.dynamictrees.warped": "Warped",
 
   "item.dynamictrees.acacia_seed": "Acacia Seed",
-  "item.dynamictrees.apple_oak_seed": "Apple Pip",
+  "item.dynamictrees.dense_apple_oak_seed": "Large Apple Pip",
   "item.dynamictrees.dense_azalea_seed": "Large Azalea Seed",
   "item.dynamictrees.dense_birch_seed": "Large Birch Catkin",
   "item.dynamictrees.dense_cocoa_seed": "Large Cocoa Pod",
