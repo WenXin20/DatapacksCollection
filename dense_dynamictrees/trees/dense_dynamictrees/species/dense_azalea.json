@@ -34,6 +34,18 @@
             }
         },
         {
+            "name": "clear_volume",
+            "properties": {
+                "height": 5
+            }
+        },
+        {
+            "name": "mound",
+            "properties": {
+                "mound_cutoff_radius": 999
+            }
+        },
+        {
             "name": "roots",
             "properties": {
                 "min_trunk_radius": 9,

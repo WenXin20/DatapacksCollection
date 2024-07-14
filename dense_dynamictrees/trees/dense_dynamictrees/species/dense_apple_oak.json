@@ -21,10 +21,22 @@
         "bee_nest",
         "bottom_flare",
         {
+            "name": "clear_volume",
+            "properties": {
+                "height": 5
+            }
+        },
+        {
             "name": "fruit",
             "properties": {
                 "fruit": "dense_dynamictrees:dense_apple",
 				"quantity": 8
+            }
+        },
+        {
+            "name": "mound",
+            "properties": {
+                "mound_cutoff_radius": 999
             }
         },
         {

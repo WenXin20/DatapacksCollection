@@ -25,6 +25,12 @@
     "features" : [
         "bottom_flare",
         {
+            "name": "clear_volume",
+            "properties": {
+                "height": 10
+            }
+        },
+        {
             "name": "mound",
             "properties": {
                 "mound_cutoff_radius": 999

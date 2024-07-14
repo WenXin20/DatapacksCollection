@@ -20,6 +20,18 @@
         "bottom_flare",
         "rot_soil",
         {
+            "name": "clear_volume",
+            "properties": {
+                "height": 5
+            }
+        },
+        {
+            "name": "mound",
+            "properties": {
+                "mound_cutoff_radius": 999
+            }
+        },
+        {
             "name": "mushroom_rot",
             "properties": {
                 "_comment": "An alternate mushroom chance of 2 means that a brown mushroom will always be generated.",

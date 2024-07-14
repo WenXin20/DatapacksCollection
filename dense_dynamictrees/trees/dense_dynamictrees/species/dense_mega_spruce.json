@@ -30,6 +30,12 @@
         "conifer_topper",
         "podzol",
         {
+            "name": "clear_volume",
+            "properties": {
+                "height": 20
+            }
+        },
+        {
             "name": "mound",
             "properties": {
                 "mound_cutoff_radius": 999
