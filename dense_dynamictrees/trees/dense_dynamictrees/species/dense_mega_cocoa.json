@@ -46,8 +46,9 @@
             "name": "pod",
             "properties": {
                 "pod": "dense_dynamictrees:dense_cocoa",
-                "fruiting_radius": 4,
                 "blocks_per_pod": 8,
+                "fruiting_radius": 4,
+                "lowest_trunk_height": 2,
 				"place_chance": 0.25
             }
         },
