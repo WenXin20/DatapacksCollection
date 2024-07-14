@@ -1,6 +1,8 @@
 {
+  "tooltip.waila.crop_growth": "Growth: %s",
+  "tooltip.waila.crop_mature": "Mature",
 
-  "block.dynamictrees.acacia_branch": "Acacia Tree",
+  "block.dynamictrees.dense_acacia_branch": "Acacia Tree",
   "block.dynamictrees.dense_azalea_branch": "Azalea Tree",
   "block.dynamictrees.dense_birch_branch": "Birch Tree",
   "block.dynamictrees.crimson_branch": "Crimson Fungus",
@@ -15,7 +17,7 @@
   "block.dynamictrees.mangrove_roots": "Mangrove Tree",
   "block.dynamictrees.rooty_water": "Water Roots",
 
-  "species.dynamictrees.acacia": "Acacia",
+  "species.dense_dynamictrees.dense_acacia": "Dense Acacia",
   "species.dense_dynamictrees.dense_apple_oak": "Dense Apple Oak",
   "species.dense_dynamictrees.dense_azalea": "Dense Azalea",
   "species.dense_dynamictrees.dense_birch": "Dense Birch",
@@ -36,7 +38,7 @@
   "species.dense_dynamictrees.dense_tall_birch": "Dense Tall Birch",
   "species.dynamictrees.warped": "Warped",
 
-  "item.dynamictrees.acacia_seed": "Acacia Seed",
+  "item.dynamictrees.dense_acacia_seed": "Large Acacia Seed",
   "item.dynamictrees.dense_apple_oak_seed": "Large Apple Pip",
   "item.dynamictrees.dense_azalea_seed": "Large Azalea Seed",
   "item.dynamictrees.dense_birch_seed": "Large Birch Catkin",

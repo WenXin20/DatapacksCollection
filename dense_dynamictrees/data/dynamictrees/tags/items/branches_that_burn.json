@@ -1,5 +1,6 @@
 {
   "values": [
+    { "id": "dynamictrees:dense_acacia_branch", "required": false },
     { "id": "dynamictrees:dense_birch_branch", "required": false },
     { "id": "dynamictrees:dense_cherry_branch", "required": false },
     { "id": "dynamictrees:dense_jungle_branch", "required": false },

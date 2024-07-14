@@ -57,11 +57,13 @@
       "tag": "#minecraft:is_savanna"
     },
     "apply": {
-      "species": "acacia",
-      "density": [
-        0.1
-      ],
-      "chance": "standard"
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_acacia": 1,
+          "...": 20
+        }
+      }
     }
   },
   {
