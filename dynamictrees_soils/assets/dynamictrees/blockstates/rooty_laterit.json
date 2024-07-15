@@ -1,0 +1,6 @@
+{
+  "multipart": [
+    { "apply": { "model": "bloomingnature:block/laterit" } },
+    { "apply": { "model": "dynamictrees:block/roots" } }
+  ]
+}

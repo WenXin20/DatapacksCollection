@@ -1,0 +1,4 @@
+{
+  "primitive_soil": "immersive_weathering:grassy_earthen_clay",
+  "acceptable_soils": [ "dirt_like" ]
+}

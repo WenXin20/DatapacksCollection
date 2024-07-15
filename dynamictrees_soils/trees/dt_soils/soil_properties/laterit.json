@@ -1,0 +1,4 @@
+{
+  "primitive_soil": "bloomingnature:laterit",
+  "acceptable_soils": [ "stone_like" ]
+}

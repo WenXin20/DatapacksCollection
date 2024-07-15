@@ -1,14 +1,5 @@
 {
   "multipart": [
-    {
-      "apply": {
-        "model": "supplementaries:block/planter_extended"
-      }
-    },
-    {
-      "apply": {
-        "model": "dynamictrees:block/roots"
-      }
-    }
+    { "apply": { "model": "supplementaries:block/planter_extended" } }
   ]
 }
