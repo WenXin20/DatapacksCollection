@@ -1,6 +1,6 @@
 {
   "multipart": [
-    { "apply": { "model": "vinery:block/grass_slab_top" } },
+    { "apply": { "model": "minecolonies:block/composteddirt" } },
     { "apply": { "model": "dynamictrees:block/roots" } }
   ]
 }

@@ -5,8 +5,8 @@
     { "id": "dynamictrees:rooty_iw_grassy_sandy_dirt", "required": false },
     { "id": "dynamictrees:rooty_iw_sandy_dirt", "required": false },
     { "id": "dynamictrees:rooty_laterit", "required": false },
+    { "id": "dynamictrees:rooty_minecolonies_composted_dirt", "required": false },
     { "id": "dynamictrees:rooty_mossy_laterit", "required": false },
-    { "id": "dynamictrees:rooty_supplementaries_planter", "required": false },
-    { "id": "dynamictrees:rooty_vinery_grass_slab", "required": false }
+    { "id": "dynamictrees:rooty_supplementaries_planter", "required": false }
   ]
 }
