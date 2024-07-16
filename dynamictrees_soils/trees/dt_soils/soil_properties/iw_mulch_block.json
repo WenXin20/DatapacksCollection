@@ -1,5 +1,5 @@
 {
   "only_if_loaded": "immersive_weathering",
-  "primitive_soil": "immersive_weathering:grassy_earthen_clay",
+  "primitive_soil": "immersive_weathering:mulch_block",
   "acceptable_soils": [ "dirt_like" ]
 }
