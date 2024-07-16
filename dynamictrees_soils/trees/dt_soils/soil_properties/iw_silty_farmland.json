@@ -1,0 +1,6 @@
+{
+  "only_if_loaded": "immersive_weathering",
+  "primitive_soil": "immersive_weathering:silty_farmland",
+  "substitute_soil" : "dt_soils:iw_silt",
+  "acceptable_soils": [ "dirt_like" ]
+}

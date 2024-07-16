@@ -1,0 +1,10 @@
+{
+  "only_if_loaded": "immersive_weathering",
+  
+  "type": "spreadable",
+  "primitive_soil": "immersive_weathering:silt",
+  "acceptable_soils": [ "dirt_like" ],
+
+  "required_light": 9,
+  "spreadable_soils": [ "dt_soils:iw_grassy_silt" ]
+}
