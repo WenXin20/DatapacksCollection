@@ -1,0 +1,10 @@
+{
+  "only_if_loaded": "mario",
+  
+  "type": "spreadable",
+  "primitive_soil": "mario:mushroom_dirt",
+  "acceptable_soils": [ "dirt_like", "fungus_like" ],
+
+  "required_light": 9,
+  "spreadable_soils": [ "dt_soils:mario_mushroom_grass" ]
+}

@@ -14,8 +14,19 @@
     { "id": "dynamictrees:rooty_iw_sandy_dirt", "required": false },
     { "id": "dynamictrees:rooty_iw_silt", "required": false },
     { "id": "dynamictrees:rooty_laterit", "required": false },
+    { "id": "dynamictrees:rooty_mario_dry_dry_sand", "required": false },
+    { "id": "dynamictrees:rooty_mario_jungle_grass", "required": false },
+    { "id": "dynamictrees:rooty_mario_mushroom_dirt", "required": false },
+    { "id": "dynamictrees:rooty_mario_mushroom_grass", "required": false },
+    { "id": "dynamictrees:rooty_mario_world_3_grass", "required": false },
     { "id": "dynamictrees:rooty_minecolonies_composted_dirt", "required": false },
     { "id": "dynamictrees:rooty_mossy_laterit", "required": false },
-    { "id": "dynamictrees:rooty_supplementaries_planter", "required": false }
+    { "id": "dynamictrees:rooty_sbw_coarse_toadstool_soil", "required": false },
+    { "id": "dynamictrees:rooty_sbw_gritzy_sand", "required": false },
+    { "id": "dynamictrees:rooty_sbw_toadstool_grass", "required": false },
+    { "id": "dynamictrees:rooty_sbw_toadstool_soil", "required": false },
+    { "id": "dynamictrees:rooty_sbw_toadstool_turf", "required": false },
+    { "id": "dynamictrees:rooty_supplementaries_planter", "required": false },
+    { "id": "dynamictrees:rooty_teletubbies_full_grass", "required": false }
   ]
 }
