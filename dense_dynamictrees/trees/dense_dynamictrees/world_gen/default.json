@@ -148,16 +148,13 @@
       "name": "minecraft:dark_forest"
     },
     "apply": {
-      "species": "dark_oak",
-      "density": {
-        "math": {
-          "div": [
-            "noise",
-            3.0
-          ]
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_dark_oak": 1,
+          "...": 19
         }
-      },
-      "multipass": true
+      }
     }
   },
   {
