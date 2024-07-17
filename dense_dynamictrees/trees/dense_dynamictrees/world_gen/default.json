@@ -46,9 +46,13 @@
       "name": "minecraft:mangrove_swamp"
     },
     "apply": {
-      "species": "mangrove",
-      "density": 1.0,
-      "chance": 1.0
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dense_dynamictrees:dense_mangrove": 1,
+          "...": 19
+        }
+      }
     }
   },
   {

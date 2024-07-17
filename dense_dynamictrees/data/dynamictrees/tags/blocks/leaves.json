@@ -8,6 +8,7 @@
     { "id": "dynamictrees:dense_dark_oak_leaves", "required": false },
     { "id": "dynamictrees:dense_flowering_azalea_leaves", "required": false },
     { "id": "dynamictrees:dense_jungle_leaves", "required": false },
+    { "id": "dynamictrees:dense_mangrove_leaves", "required": false },
     { "id": "dynamictrees:dense_oak_leaves", "required": false },
     { "id": "dynamictrees:dense_spruce_leaves", "required": false }
   ]

@@ -5,6 +5,7 @@
     { "id": "dynamictrees:dense_cherry_branch", "required": false },
     { "id": "dynamictrees:dense_dark_oak_branch", "required": false },
     { "id": "dynamictrees:dense_jungle_branch", "required": false },
+    { "id": "dynamictrees:dense_mangrove_branch", "required": false },
     { "id": "dynamictrees:dense_oak_branch", "required": false },
     { "id": "dynamictrees:dense_spruce_branch", "required": false }
   ]

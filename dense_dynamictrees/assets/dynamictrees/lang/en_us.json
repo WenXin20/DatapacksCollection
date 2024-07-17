@@ -10,7 +10,7 @@
   "block.dynamictrees.dense_cherry_branch": "Cherry Tree",
   "block.dynamictrees.dense_oak_branch": "Oak Tree",
   "block.dynamictrees.dense_jungle_branch": "Jungle Tree",
-  "block.dynamictrees.mangrove_branch": "Mangrove Tree",
+  "block.dynamictrees.dense_mangrove_branch": "Mangrove Tree",
   "block.dynamictrees.dense_spruce_branch": "Spruce Tree",
   "block.dynamictrees.warped_branch": "Warped Fungus",
   
@@ -26,7 +26,7 @@
   "species.dynamictrees.crimson": "Crimson",
   "species.dense_dynamictrees.dense_dark_oak": "Dense Dark Oak",
   "species.dense_dynamictrees.dense_jungle": "Dense Jungle",
-  "species.dynamictrees.mangrove": "Mangrove",
+  "species.dense_dynamictrees.dense_mangrove": "Dense Mangrove",
   "species.dynamictrees.mega_crimson": "Mega Crimson",
   "species.dense_dynamictrees.dense_mega_cocoa": "Dense Mega Cocoa",
   "species.dense_dynamictrees.dense_mega_jungle": "Dense Mega Jungle",
@@ -48,7 +48,7 @@
   "item.dynamictrees.dense_cherry_seed": "Large Cherry Blossom Pit",
   "item.dynamictrees.dense_oak_seed": "Large Oak Acorn",
   "item.dynamictrees.dense_jungle_seed": "Large Jungle Pod",
-  "item.dynamictrees.mangrove_seed": "Mangrove Propagule",
+  "item.dynamictrees.dense_mangrove_seed": "Large Mangrove Propagule",
   "item.dynamictrees.dense_spruce_seed": "Large Spruce Cone",
   "item.dynamictrees.warped_seed": "Warped Cap"
 }
