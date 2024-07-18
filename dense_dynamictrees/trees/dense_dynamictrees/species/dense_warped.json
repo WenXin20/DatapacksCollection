@@ -1,26 +1,25 @@
 {
     "type": "nether_fungus",
-    "family": "dense_dynamictrees:dense_crimson",
-    "leaves_properties": "dense_dynamictrees:dense_crimson",
-    "acceptable_growth_blocks": ["crimson_nylium"],
+    "family": "dense_dynamictrees:dense_warped",
+    "mega_species": "dense_dynamictrees:dense_mega_warped",
+    "leaves_properties": "dense_dynamictrees:dense_warped",
+    "acceptable_growth_blocks": ["warped_nylium", "dynamictrees:rooty_warped_nylium"],
     "acceptable_soils": ["nether_soil_like", "fungus_like", "dirt_like"],
-    "growth_logic_kit": {
-        "name": "nether_fungus",
-        "properties": { "min_cap_height": 6 }
-    },
+    "growth_logic_kit": "nether_fungus",
+    "sapling_shape": "flat_mushroom",
     "always_show_on_waila": true,
-    "growth_rate": 0.9,
-    "lowest_branch_height": 10,
+    "growth_rate": 1,
+    "lowest_branch_height": 4,
     "max_branch_radius": 23,
-    "signal_energy": 42,
-    "soil_longevity": 12,
-    "tapering": 0.5,
-    "up_probability": 7,
+    "signal_energy": 26,
+    "soil_longevity": 8,
+    "tapering": 0.25,
+    "up_probability": 5,
     "environment_factors" : {
         "#forge:is_cold": 0.25,
         "#forge:is_wet": 0.75
     },
-    "perfect_biomes": { "name": "minecraft:crimson_forest" },
+    "perfect_biomes": { "name": "minecraft:warped_forest" },
     "features" : [
         "bee_nest",
         "shroomlight",
@@ -60,5 +59,8 @@
                 "quantity": 10
             }
         }
-    ]
+    ],
+    "model_overrides": {
+        "sapling": "dynamictrees:block/smartmodel/mushroom_flat"
+    }
 }

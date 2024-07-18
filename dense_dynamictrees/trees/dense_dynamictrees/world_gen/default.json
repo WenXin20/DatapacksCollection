@@ -319,16 +319,13 @@
     },
     "apply": {
       "species": {
+        "method": "splice_before",
         "random": {
-          "warped": 4,
-          "mega_warped": 1
+          "dense_dynamictrees:dense_warped": 4,
+          "dense_dynamictrees:dense_mega_warped": 1,
+          "...": 95
         }
-      },
-      "chance": "standard",
-      "density": [
-        2.0,
-        0.3
-      ]
+      }
     }
   }
 ]

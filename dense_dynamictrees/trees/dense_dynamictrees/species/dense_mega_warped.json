@@ -1,8 +1,8 @@
 {
     "type": "nether_fungus",
-    "family": "dense_dynamictrees:dense_crimson",
-    "leaves_properties": "dense_dynamictrees:dense_crimson",
-    "acceptable_growth_blocks": ["crimson_nylium"],
+    "family": "dense_dynamictrees:dense_warped",
+    "leaves_properties": "dense_dynamictrees:dense_warped",
+    "acceptable_growth_blocks": ["warped_nylium"],
     "acceptable_soils": ["nether_soil_like", "fungus_like", "dirt_like"],
     "growth_logic_kit": {
         "name": "nether_fungus",
@@ -20,7 +20,7 @@
         "#forge:is_cold": 0.25,
         "#forge:is_wet": 0.75
     },
-    "perfect_biomes": { "name": "minecraft:crimson_forest" },
+    "perfect_biomes": { "name": "minecraft:warped_forest" },
     "features" : [
         "bee_nest",
         "shroomlight",
