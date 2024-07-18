@@ -304,16 +304,13 @@
     },
     "apply": {
       "species": {
+        "method": "splice_before",
         "random": {
-          "crimson": 4,
-          "mega_crimson": 1
+          "dense_dynamictrees:dense_crimson": 4,
+          "dense_dynamictrees:dense_mega_crimson": 1,
+          "...": 95
         }
-      },
-      "chance": "standard",
-      "density": [
-        2.0,
-        0.3
-      ]
+      }
     }
   },
   {
