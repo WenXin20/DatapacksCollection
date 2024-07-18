@@ -12,10 +12,10 @@
     "always_show_on_waila": true,
     "growth_rate": 0.9,
     "lowest_branch_height": 10,
-    "max_branch_radius": 24,
-    "signal_energy": 36,
+    "max_branch_radius": 23,
+    "signal_energy": 42,
     "soil_longevity": 12,
-    "tapering": 0.6,
+    "tapering": 0.5,
     "up_probability": 7,
     "environment_factors" : {
         "#forge:is_cold": 0.25,
