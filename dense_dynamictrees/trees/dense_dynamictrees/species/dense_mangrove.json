@@ -10,10 +10,11 @@
     "growth_rate": 0.6,
     "lowest_branch_height": 4,
     "max_branch_radius": 24,
-    "root_signal_energy": 24.0,
+    "root_signal_energy": 24,
     "root_tapering": 0.4,
-    "signal_energy": 24.0,
-    "tapering": 0.3,
+    "signal_energy": 24,
+    "soil_longevity": 16,
+    "tapering": 0.45,
     "up_probability": 8,
     "environment_factors" : {
         "#forge:is_cold": 0.75,
@@ -27,14 +28,6 @@
             "name": "clear_volume",
             "properties": {
                 "height": 5
-            }
-        },
-        {
-            "name": "roots",
-            "properties": {
-                "min_trunk_radius": 9,
-                "scale_factor": 15,
-                "level_limit": 8
             }
         },
         {

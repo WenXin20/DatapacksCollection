@@ -9,6 +9,5 @@
     "default_soil": "dynamictrees:mangrove_aerial_roots",
     "root_system_acceptable_soils": ["dirt_like", "mud_like", "sand_like"],
     "generate_stripped_branch": false,
-    "generate_surface_root": true,
     "max_branch_radius": 24
 }
