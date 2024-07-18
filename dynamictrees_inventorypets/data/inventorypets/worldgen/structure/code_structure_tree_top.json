@@ -1,7 +1,7 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": "#inventorypets:has_structure/code_structure_tree_top_biomes",
-  "step": "surface_structures",
+  "step": "vegetal_decoration",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_box",
   "start_pool": "inventorypets:tree_top",
