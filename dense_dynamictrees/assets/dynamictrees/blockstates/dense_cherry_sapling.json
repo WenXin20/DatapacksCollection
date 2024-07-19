@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dynamictrees:block/saplings/cherry"
+      "model": "dynamictrees:block/saplings/dense_cherry"
     }
   }
 }

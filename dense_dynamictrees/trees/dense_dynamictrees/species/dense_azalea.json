@@ -59,5 +59,8 @@
                 "rotten_soil": "podzol"
             }
         }
-    ]
+    ],
+    "model_overrides": {
+        "sapling": "dynamictrees:block/smartmodel/dense_sapling"
+    }
 }

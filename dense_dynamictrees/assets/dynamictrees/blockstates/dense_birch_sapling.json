@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dynamictrees:block/saplings/birch"
+      "model": "dynamictrees:block/saplings/dense_birch"
     }
   }
 }

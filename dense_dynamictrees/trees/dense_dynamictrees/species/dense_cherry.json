@@ -38,5 +38,8 @@
                 "level_limit": 8
             }
         }
-    ]
+    ],
+    "model_overrides": {
+        "sapling": "dynamictrees:block/smartmodel/dense_sapling"
+    }
 }

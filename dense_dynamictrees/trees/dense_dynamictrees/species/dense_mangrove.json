@@ -40,6 +40,6 @@
         }
     ],
     "model_overrides": {
-      "sapling": "dynamictrees:block/smartmodel/water_sapling_thin"
+      "sapling": "dynamictrees:block/smartmodel/dense_water_sapling_thin"
     }
 }

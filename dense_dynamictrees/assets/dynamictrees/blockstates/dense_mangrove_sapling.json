@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dynamictrees:block/saplings/mangrove"
+      "model": "dynamictrees:block/saplings/dense_mangrove"
     }
   }
 }

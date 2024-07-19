@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dynamictrees:block/saplings/swamp_oak"
+      "model": "dynamictrees:block/saplings/dense_swamp_oak"
     }
   }
 }

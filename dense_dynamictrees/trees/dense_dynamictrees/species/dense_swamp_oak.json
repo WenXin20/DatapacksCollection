@@ -16,9 +16,6 @@
     },
     "perfect_biomes": { "tag": "#forge:is_swamp" },
     "common_override": { "name": "minecraft:swamp" },
-    "model_overrides": {
-        "sapling": "dynamictrees:block/smartmodel/water_sapling"
-    },
     "features" : [
         "bottom_flare",
         "mushroom_rot",
@@ -57,5 +54,8 @@
                 "quantity": 32
             }
         }
-    ]
+    ],
+    "model_overrides": {
+        "sapling": "dynamictrees:block/smartmodel/dense_water_sapling"
+    }
 }
