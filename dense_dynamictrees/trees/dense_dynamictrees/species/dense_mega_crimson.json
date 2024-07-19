@@ -14,7 +14,7 @@
     "max_branch_radius": 23,
     "signal_energy": 42,
     "soil_longevity": 12,
-    "tapering": 0.5,
+    "tapering": 0.4,
     "up_probability": 7,
     "environment_factors" : {
         "#forge:is_cold": 0.25,

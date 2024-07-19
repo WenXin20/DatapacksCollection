@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "dynamictrees:block/saplings/warped"
+      "model": "dynamictrees:block/saplings/dense_warped"
     }
   }
 }

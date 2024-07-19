@@ -11,7 +11,7 @@
     "growth_rate": 1,
     "lowest_branch_height": 4,
     "max_branch_radius": 23,
-    "signal_energy": 26,
+    "signal_energy": 20,
     "soil_longevity": 8,
     "tapering": 0.25,
     "up_probability": 5,
@@ -61,6 +61,6 @@
         }
     ],
     "model_overrides": {
-        "sapling": "dynamictrees:block/smartmodel/mushroom_round"
+        "sapling": "dynamictrees:block/smartmodel/dense_mushroom_round"
     }
 }
