@@ -11,17 +11,9 @@
         "random": {
           "dense_dynamictrees:dense_oak": 1,
           "dense_dynamictrees:dense_birch": 1,
-          "...": 18
+          "...": 98
         }
       }
-    }
-  },
-  {
-    "select": "minecraft:flower_forest",
-    "apply": {
-      "density": [
-        0.6
-      ]
     }
   },
   {
@@ -35,7 +27,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_swamp_oak": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -50,7 +42,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_mangrove": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -65,7 +57,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_acacia": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -79,7 +71,7 @@
         "random": {
           "dense_dynamictrees:dense_oak": 1,
           "dense_dynamictrees:dense_spruce": 1,
-          "...": 18
+          "...": 98
         }
       }
     }
@@ -93,7 +85,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_cherry": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -141,7 +133,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_spruce": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -156,7 +148,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_dark_oak": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -171,7 +163,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_birch": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -186,7 +178,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_tall_birch": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -218,7 +210,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_spruce": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
@@ -234,7 +226,7 @@
         "random": {
           "dense_dynamictrees:dense_oak": 1,
           "dense_dynamictrees:dense_tall_birch": 1,
-          "...": 18
+          "...": 98
         }
       }
     }
@@ -251,20 +243,10 @@
           "method": "splice_before",
           "random": {
             "dense_dynamictrees:dense_azalea": 1,
-            "...": 19
+            "...": 99
           }
         }
       }
-    }
-  },
-  {
-    "_comment": "Windswept forests are denser and spawn more trees.",
-    "select": "minecraft:windswept_forest",
-    "apply": {
-      "density": [
-        0.7
-      ],
-      "chance": 0.6
     }
   },
   {
@@ -278,7 +260,7 @@
         "random": {
           "dense_dynamictrees:dense_spruce": 1,
           "dense_dynamictrees:dense_mega_spruce": 1,
-          "...": 18
+          "...": 98
         }
       }
     }
@@ -293,7 +275,7 @@
         "method": "splice_before",
         "random": {
           "dense_dynamictrees:dense_oak": 1,
-          "...": 19
+          "...": 99
         }
       }
     }
