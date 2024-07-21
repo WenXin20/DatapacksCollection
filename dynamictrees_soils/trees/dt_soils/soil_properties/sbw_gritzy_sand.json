@@ -1,5 +1,0 @@
-{
-  "only_if_loaded": "super_block_world",
-  "primitive_soil": "super_block_world:gritzy_sand",
-  "acceptable_soils": [ "sand_like" ]
-}
