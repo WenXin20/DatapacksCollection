@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "entries": [
+    { "id": "dense_dynamictrees:bastion_hoglin_stable", "required": false },
+  ]
+}
