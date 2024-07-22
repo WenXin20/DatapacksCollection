@@ -1,25 +1,26 @@
 [
   {
-    "__comment": "Cancel standard tree features from the overworld.",
-    "select": { "name": "minecraft:.*", "tag": "#minecraft:is_overworld" },
+    "__comment": "Cancel standard tree features from the Mushroom Kingdom.",
+    "select": { "name": "super_block_world:.*", "tag": "#super_block_world:is_mushroom_kingdom" },
     "cancellers": {
       "type": "tree",
-      "namespace": "densetrees"
+      "namespace": "super_block_world"
     }
   },
   {
-    "select": { "name": "minecraft:.*", "tag": "#forge:is_lush" },
+    "_comment": "Cancel regular mushroom generation from the Mushroom Kingdom.",
+    "select": { "name": "super_block_world:.*", "tag": "#super_block_world:is_mushroom_kingdom" },
     "cancellers": {
-      "type": "rooted_tree",
-      "namespace": "densetrees"
+      "type": "mushroom",
+      "namespace": "minecraft"
     }
   },
   {
-    "__comment": "Cancel huge fungus features from namespace 'minecraft' in the nether forests.",
-    "select": { "name": "minecraft:.*forest", "tag": "#minecraft:is_nether" },
+    "__comment": "Cancel standard cactus features from the Gritzy Desert.",
+    "select": { "name": "super_block_world:gritzy_desert" },
     "cancellers": {
-      "type": "fungus",
-      "namespace": "densetrees"
+      "type": "dynamictreesplus:cactus",
+      "namespace": "super_block_world"
     }
   }
 ]
