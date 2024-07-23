@@ -10,8 +10,8 @@
           "dt_super_block_world:subcon_palm": 1
         }
       },
-      "density": 0.5,
-      "chance": 0.5
+      "density": 0.25,
+      "chance": 0.25
     }
   }
 ]
