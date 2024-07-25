@@ -1,5 +1,6 @@
 {
   "values": [
+    { "id": "dynamictrees:amanita_seed", "required": false },
     { "id": "dynamictrees:subcon_palm_seed", "required": false }
   ]
 }

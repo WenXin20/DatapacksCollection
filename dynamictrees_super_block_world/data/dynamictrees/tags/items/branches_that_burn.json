@@ -1,6 +1,7 @@
 
 {
   "values": [
+    { "id": "dynamictrees:amanita_branch", "required": false },
     { "id": "dynamictrees:subcon_palm_branch", "required": false }
   ]
 }

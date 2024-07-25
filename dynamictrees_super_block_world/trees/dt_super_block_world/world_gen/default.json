@@ -13,5 +13,70 @@
       "density": 0.25,
       "chance": 0.25
     }
+  },
+  {
+    "_comment": "Generates Amanita trees in the Mushroom Grasslands.",
+    "select": {
+      "name": "super_block_world:mushroom_grasslands"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_super_block_world:amanita": 100,
+          "dt_super_block_world:fruiting_amanita": 1,
+          "dt_super_block_world:mega_amanita": 1
+        }
+      },
+      "density": 0.3,
+      "chance": 0.1
+    }
+  },
+  {
+    "only_if_loaded": [ "dynamictreesplus" ],
+    "_comment": "Generates Giant Red Mushrooms in the Mushroom Grasslands.",
+    "select": {
+      "name": "super_block_world:mushroom_grasslands"
+    },
+    "apply": {
+      "species" : {
+        "method" : "splice_before",
+        "random" : {
+          "dynamictreesplus:red_mushroom": 5,
+          "..." : 100
+        }
+      }
+    }
+  },
+  {
+    "only_if_loaded": [ "dynamictreesplus" ],
+    "select": {
+      "name": "super_block_world:gritzy_desert"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictreesplus:pillar_cactus": 6,
+          "dynamictreesplus:pipe_cactus": 1,
+          "dynamictreesplus:saguaro_cactus": 1
+        }
+      },
+      "density": { "math": { "add": [ { "mul": [ "noise", 0.6 ] },  0.4 ] } },
+      "chance": 0.1
+    }
+  },
+  {
+    "only_if_loaded": [ "dynamictreesplus", "dtecologics" ],
+    "select": {
+      "name": "super_block_world:gritzy_desert"
+    },
+    "apply": {
+      "species" : {
+        "method" : "splice_before",
+        "random" : {
+          "dtecologics:prickly_pear_cactus" : 1,
+          "..." : 10
+        }
+      }
+    }
   }
 ]

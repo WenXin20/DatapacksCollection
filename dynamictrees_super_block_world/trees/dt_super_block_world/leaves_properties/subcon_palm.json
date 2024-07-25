@@ -4,5 +4,6 @@
   "cell_kit": "dynamictrees:palm",
 
   "_comment": "Data gen properties",
+  "requires_shears": false,
   "seed_drop_chances": [ 0.09375, 0.1875, 0.28125, 0.375 ]
 }
