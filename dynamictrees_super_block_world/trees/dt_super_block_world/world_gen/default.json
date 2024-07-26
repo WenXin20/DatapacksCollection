@@ -22,13 +22,13 @@
     "apply": {
       "species": {
         "random": {
-          "dt_super_block_world:amanita": 100,
-          "dt_super_block_world:fruiting_amanita": 1,
+          "dt_super_block_world:amanita": 97,
+          "dt_super_block_world:fruiting_amanita": 2,
           "dt_super_block_world:mega_amanita": 1
         }
       },
       "density": 0.3,
-      "chance": 0.1
+      "chance": 0.2
     }
   },
   {
@@ -41,7 +41,7 @@
       "species" : {
         "method" : "splice_before",
         "random" : {
-          "dynamictreesplus:red_mushroom": 5,
+          "dynamictreesplus:red_mushroom": 25,
           "..." : 100
         }
       }
