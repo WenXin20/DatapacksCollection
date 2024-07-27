@@ -1,6 +1,9 @@
 {
   "values": [
     { "id": "dynamictrees:amanita_seed", "required": false },
+    { "id": "dynamictrees:fruiting_amanita_seed", "required": false },
+    { "id": "dynamictrees:fruiting_mayoi_seed", "required": false },
+    { "id": "dynamictrees:mayoi_seed", "required": false },
     { "id": "dynamictrees:subcon_palm_seed", "required": false }
   ]
 }

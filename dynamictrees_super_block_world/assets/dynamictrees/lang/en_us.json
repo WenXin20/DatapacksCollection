@@ -3,14 +3,20 @@
   "tooltip.waila.crop_mature": "Mature",
 
   "block.dynamictrees.amanita_branch": "Amanita Tree",
+  "block.dynamictrees.mayoi_branch": "Mayoi Tree",
   "block.dynamictrees.subcon_palm_branch": "Palm Tree",
 
   "species.dt_super_block_world.amanita": "Amanita",
   "species.dt_super_block_world.fruiting_amanita": "Fruiting Amanita",
   "species.dt_super_block_world.mega_amanita": "Mega Amanita",
+  "species.dt_super_block_world.mayoi": "Mayoi",
+  "species.dt_super_block_world.fruiting_mayoi": "Fruiting Mayoi",
+  "species.dt_super_block_world.mega_mayoi": "Mega Mayoi",
   "species.dt_super_block_world.subcon_palm": "Subcon Palm",
 
   "item.dynamictrees.amanita_seed": "Amanita Acorn",
   "item.dynamictrees.fruiting_amanita_seed": "Fruiting Amanita Acorn",
+  "item.dynamictrees.fruiting_mayoi_seed": "Fruiting Mayoi Acorn",
+  "item.dynamictrees.mayoi_seed": "Mayoi Acorn",
   "item.dynamictrees.subcon_palm_seed": "Subcon Palm Seed"
 }
