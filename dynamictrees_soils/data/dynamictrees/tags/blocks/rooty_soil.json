@@ -14,6 +14,7 @@
     { "id": "dynamictrees:rooty_iw_sandy_dirt", "required": false },
     { "id": "dynamictrees:rooty_iw_silt", "required": false },
     { "id": "dynamictrees:rooty_laterit", "required": false },
+    { "id": "dynamictrees:rooty_ln_lunar_dust", "required": false },
     { "id": "dynamictrees:rooty_mario_dry_dry_sand", "required": false },
     { "id": "dynamictrees:rooty_mario_jungle_grass", "required": false },
     { "id": "dynamictrees:rooty_mario_mushroom_dirt", "required": false },
