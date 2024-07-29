@@ -7,7 +7,7 @@
   "max_branch_radius": 24,
   "signal_energy": 15.0,
   "soil_longevity": 14,
-  "tapering": 0.3,
+  "tapering": 0.17,
   "up_probability": 4,
   "world_gen_leaf_map_height": 40,
   "environment_factors" : {

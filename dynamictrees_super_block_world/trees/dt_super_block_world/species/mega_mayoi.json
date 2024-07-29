@@ -3,9 +3,9 @@
   "leaves_properties": "dt_super_block_world:mayoi",
   "primitive_sapling": "super_block_world:mayoi_sapling",
   "growth_rate": 1.2,
-  "lowest_branch_height": 15,
-  "max_branch_radius": 24,
-  "signal_energy": 24.0,
+  "lowest_branch_height": 10,
+  "max_branch_radius": 23,
+  "signal_energy": 20.0,
   "soil_longevity": 16,
   "tapering": 0.4,
   "up_probability": 10,
@@ -22,7 +22,7 @@
   "growth_logic_kit": {
     "name": "jungle",
     "properties": {
-      "canopy_height": 25,
+      "canopy_height": 15,
       "branch_out_chance": 3
     }
   },
