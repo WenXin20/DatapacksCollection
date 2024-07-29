@@ -16,7 +16,7 @@
     "dry": 1.1,
     "hot": 1.1
   },
-  "perfect_biomes": { "name": "super_block_world:subcon_hills" },
+  "perfect_biomes": { "tag": "#forge:is_beach", "name": "super_block_world:subcon_hills" },
   "acceptable_soils": [ "dirt_like", "sand_like" ],
   "features" : []
 }
