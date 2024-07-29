@@ -3,7 +3,7 @@
   "leaves_properties": "dt_super_block_world:mayoi",
   "primitive_sapling": "super_block_world:mayoi_sapling",
   "growth_rate": 1.2,
-  "lowest_branch_height": 10,
+  "lowest_branch_height": 15,
   "max_branch_radius": 23,
   "signal_energy": 20.0,
   "soil_longevity": 16,
