@@ -16,7 +16,7 @@
 	"#forge:is_hot": 0.5,
 	"mushroom": 1.25
   },
-  "perfect_biomes": { "tags": [ "#forge:is_plains", "#minecraft:is_forest" ], "name": "super_block_world:mushroom_grasslands" },
+  "perfect_biomes": { "name": "super_block_world:mushroom_grasslands" },
   "acceptable_soils": [ "dirt_like" ],
   "features" : []
 }

@@ -3,9 +3,9 @@
   "leaves_properties": "dt_super_block_world:mayoi",
   "primitive_sapling": "super_block_world:mayoi_sapling",
   "growth_rate": 1.2,
-  "lowest_branch_height": 15,
+  "lowest_branch_height": 12,
   "max_branch_radius": 23,
-  "signal_energy": 20.0,
+  "signal_energy": 25.0,
   "soil_longevity": 16,
   "tapering": 0.4,
   "up_probability": 10,
@@ -16,14 +16,13 @@
 	"#forge:is_hot": 0.5,
 	"mushroom": 1.25
   },
-  "perfect_biomes": { "tags": [ "#forge:is_plains", "#minecraft:is_forest" ], "name": "super_block_world:mushroom_grasslands" },
+  "perfect_biomes": { "name": "super_block_world:mushroom_grasslands" },
   "acceptable_soils": [ "dirt_like" ],
   "fruits": [ "dt_super_block_world:yoshi_fruit" ],
   "growth_logic_kit": {
     "name": "jungle",
     "properties": {
-      "canopy_height": 15,
-      "branch_out_chance": 3
+      "canopy_height": 15
     }
   },
   "features" : [
