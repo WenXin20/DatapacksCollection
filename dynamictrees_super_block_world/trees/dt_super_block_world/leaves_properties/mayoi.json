@@ -1,4 +1,5 @@
 {
+  "only_if_loaded": "super_block_world",
   "primitive_leaves": "super_block_world:mayoi_leaves",
   "smother": 5
 }

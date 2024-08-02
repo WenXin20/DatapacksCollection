@@ -1,4 +1,5 @@
 {
+  "only_if_loaded": "super_block_world",
   "family": "dt_super_block_world:amanita",
   "leaves_properties": "dt_super_block_world:amanita",
   "primitive_sapling": "super_block_world:amanita_sapling",

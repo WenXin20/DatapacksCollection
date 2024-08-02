@@ -1,4 +1,5 @@
 {
+  "only_if_loaded": "super_block_world",
   "type": "palm",
   "family": "dt_super_block_world:subcon_palm",
   "leaves_properties": "dt_super_block_world:subcon_palm",

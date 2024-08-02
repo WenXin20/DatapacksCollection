@@ -1,6 +1,7 @@
 [
   {
     "_comment": "Generates Subcon Palms in the Subcon Hills.",
+    "only_if_loaded": [ "super_block_world" ],
     "select": {
       "name": "super_block_world:subcon_hills"
     },
@@ -16,6 +17,7 @@
   },
   {
     "_comment": "Generates Amanita trees in the Mushroom Grasslands.",
+    "only_if_loaded": [ "super_block_world" ],
     "select": {
       "name": "super_block_world:mushroom_grasslands"
     },
@@ -36,8 +38,8 @@
     }
   },
   {
-    "only_if_loaded": [ "dynamictreesplus" ],
     "_comment": "Generates Giant Red Mushrooms in the Mushroom Grasslands.",
+    "only_if_loaded": [ "dynamictreesplus", "super_block_world" ],
     "select": {
       "name": "super_block_world:mushroom_grasslands"
     },
@@ -52,7 +54,8 @@
     }
   },
   {
-    "only_if_loaded": [ "dynamictreesplus" ],
+    "_comment": "Generates cactus in the Gritzy Desert.",
+    "only_if_loaded": [ "dynamictreesplus", "super_block_world" ],
     "select": {
       "name": "super_block_world:gritzy_desert"
     },
@@ -69,7 +72,8 @@
     }
   },
   {
-    "only_if_loaded": [ "dynamictreesplus", "dtecologics" ],
+    "_comment": "Generates Ecologic's cactus in the Gritzy Desert.",
+    "only_if_loaded": [ "dynamictreesplus", "dtecologics", "super_block_world" ],
     "select": {
       "name": "super_block_world:gritzy_desert"
     },

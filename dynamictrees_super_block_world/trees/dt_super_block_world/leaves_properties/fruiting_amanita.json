@@ -1,3 +1,4 @@
 {
+  "only_if_loaded": "super_block_world",
   "primitive_leaves": "super_block_world:fruiting_amanita_leaves"
 }

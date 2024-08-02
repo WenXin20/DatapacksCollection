@@ -1,4 +1,5 @@
 {
+  "only_if_loaded": "super_block_world",
   "primitive_log": "super_block_world:amanita_log",
   "primitive_stripped_log": "super_block_world:stripped_amanita_log",
   "common_leaves": "dt_super_block_world:amanita",

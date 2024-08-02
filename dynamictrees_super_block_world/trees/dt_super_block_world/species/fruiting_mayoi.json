@@ -1,4 +1,5 @@
 {
+  "only_if_loaded": "super_block_world",
   "family": "dt_super_block_world:mayoi",
   "leaves_properties": "dt_super_block_world:mayoi",
   "mega_species": "dt_super_block_world:mega_mayoi",
