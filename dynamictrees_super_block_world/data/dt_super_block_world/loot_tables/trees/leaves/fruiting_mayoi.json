@@ -5,7 +5,7 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "type": "dynamictrees:seed_item",
+          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
@@ -23,7 +23,8 @@
             {
               "condition": "dynamictrees:seasonal_seed_drop_chance"
             }
-          ]
+          ],
+          "name": "dynamictrees:fruiting_mayoi_seed"
         }
       ],
       "rolls": 1.0

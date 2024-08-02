@@ -3,6 +3,7 @@
   "family": "dt_super_block_world:amanita",
   "leaves_properties": "dt_super_block_world:amanita",
   "primitive_sapling": "super_block_world:amanita_sapling",
+  "drop_seeds": true,
   "growth_rate": 1.2,
   "lowest_branch_height": 4,
   "max_branch_radius": 24,
