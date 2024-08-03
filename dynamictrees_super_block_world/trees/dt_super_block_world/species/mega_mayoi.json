@@ -24,7 +24,7 @@
   "growth_logic_kit": {
     "name": "jungle",
     "properties": {
-      "canopy_height": 15
+      "canopy_height": 10
     }
   },
   "features" : [
