@@ -8,10 +8,15 @@
 
   "species.dt_super_block_world.amanita": "Amanita",
   "species.dt_super_block_world.fruiting_amanita": "Fruiting Amanita",
-  "species.dt_super_block_world.mega_amanita": "Mega Amanita",
-  "species.dt_super_block_world.mayoi": "Mayoi",
   "species.dt_super_block_world.fruiting_mayoi": "Fruiting Mayoi",
+  "species.dt_super_block_world.mayoi": "Mayoi",
+  "species.dt_super_block_world.mega_amanita": "Mega Amanita",
   "species.dt_super_block_world.mega_mayoi": "Mega Mayoi",
+  "species.dt_super_block_world.mega_snowmans_land_spruce": "Mega Snowman's Land Spruce",
+  "species.dt_super_block_world.mega_soda_jungle": "Mega Soda Jungle",
+  "species.dt_super_block_world.soda_cocoa": "Soda Cocoa",
+  "species.dt_super_block_world.soda_jungle": "Soda Jungle",
+  "species.dt_super_block_world.soda_jungle_undergrowth": "Soda Jungle Undergrowth",
   "species.dt_super_block_world.subcon_palm": "Subcon Palm",
 
   "item.dynamictrees.amanita_seed": "Amanita Acorn",
