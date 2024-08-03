@@ -34,7 +34,7 @@
       "name": "alt_leaves",
       "properties": {
         "alternative_leaves": "dt_super_block_world:fruiting_mayoi",
-        "place_chance": 0.25
+        "place_chance": 0.2
       }
     },
     {
@@ -48,7 +48,7 @@
       "properties": {
         "fruit": "dt_super_block_world:yoshi_fruit",
         "fruiting_radius": 4,
-        "quantity": 6
+        "quantity": 4
       }
     },
     {
