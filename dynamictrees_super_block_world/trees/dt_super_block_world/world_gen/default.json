@@ -86,5 +86,27 @@
         }
       }
     }
+  },
+  {
+    "_comment": "Generates Soda Jungle Trees in the Soda Jungle.",
+    "only_if_loaded": [ "mario" ],
+    "select": {
+      "name": "mario:soda_jungle"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_super_block_world:soda_jungle": 15,
+          "dt_super_block_world:mega_soda_jungle": 3,
+          "dt_super_block_world:soda_cocoa": 1
+        }
+      },
+      "density": [
+        1
+      ],
+      "forestness": 1.0,
+      "chance": "standard"
+    }
+  },
   }
 ]
