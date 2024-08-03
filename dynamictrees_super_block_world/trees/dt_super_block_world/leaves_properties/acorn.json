@@ -1,0 +1,4 @@
+{
+  "only_if_loaded": "mario",
+  "primitive_leaves": "mario:acorn_leaves"
+}
