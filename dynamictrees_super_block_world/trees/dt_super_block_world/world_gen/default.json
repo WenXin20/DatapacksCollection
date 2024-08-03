@@ -142,5 +142,23 @@
       "chance": "standard"
     }
   },
+  {
+    "_comment": "Generates Snowman's Land Spruce Trees in Snowman's Land.",
+    "only_if_loaded": [ "mario" ],
+    "select": {
+      "name": "mario:snowmans_land"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_super_block_world:mega_snowmans_land_spruce": 1
+        }
+      },
+      "density": [
+        0.5
+      ],
+      "chance": 1,
+      "forestness": 1
+    }
   }
 ]
