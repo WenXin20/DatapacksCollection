@@ -160,5 +160,24 @@
       "chance": 0.5,
       "forestness": 1
     }
+  },
+  {
+    "_comment": "Generates Acorn Trees in Acorn Plains.",
+    "only_if_loaded": [ "mario" ],
+    "select": {
+      "name": "mario:acorn_plains"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_super_block_world:acorn": 1
+        }
+      },
+      "density": [
+        0.3
+      ],
+      "chance": 0.5,
+      "forestness": 1.0
+    }
   }
 ]
