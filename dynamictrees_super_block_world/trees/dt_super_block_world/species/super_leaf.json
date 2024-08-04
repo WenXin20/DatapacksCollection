@@ -2,6 +2,7 @@
   "only_if_loaded": "mario",
   "family": "dt_super_block_world:acorn",
   "leaves_properties": "dt_super_block_world:acorn",
+  "mega_species": "dt_super_block_world:mega_acorn",
   "primitive_sapling": {
     "sapling_item": "mario:super_leaf",
     "can_craft_seed_to_sapling": false
@@ -26,6 +27,7 @@
   "features" : [
     "bottom_flare",
     "mound",
+    "roots",
     {
       "name": "fruit",
       "properties": {
@@ -44,9 +46,7 @@
     {
       "name": "roots",
       "properties": {
-        "level_limit": 8,
-        "min_trunk_radius": 9,
-        "scale_factor": 15
+        "min_trunk_radius": 9
       }
     }
   ]

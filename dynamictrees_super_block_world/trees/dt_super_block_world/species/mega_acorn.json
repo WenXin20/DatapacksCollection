@@ -2,19 +2,19 @@
   "only_if_loaded": "mario",
   "family": "dt_super_block_world:acorn",
   "leaves_properties": "dt_super_block_world:acorn",
-  "mega_species": "dt_super_block_world:mega_acorn",
   "primitive_sapling": {
     "sapling_item": "mario:super_acorn",
     "can_craft_seed_to_sapling": false
   },
-  "generate_sapling": true,
-  "generate_seed": true,
+  "generate_sapling": false,
+  "generate_seed": false,
   "growth_rate": 0.8,
-  "lowest_branch_height": 3,
+  "lowest_branch_height": 5,
   "max_branch_radius": 24,
-  "signal_energy": 14.0,
+  "signal_energy": 35.0,
   "soil_longevity": 12,
-  "tapering": 0.3,
+  "tapering": 0.9,
+  "up_probability": 1,
   "environment_factors" : {
 	"#forge:is_cold": 0.75,
 	"#forge:is_dry": 0.25,
@@ -23,23 +23,24 @@
   },
   "perfect_biomes": { "name": "mario:acorn_plains" },
   "acceptable_soils": [ "dirt_like" ],
-  "fruits": [ "dt_super_block_world:super_acorn" ],
+  "fruits": [ "dt_super_block_world:super_acorn",  "dt_super_block_world:super_leaf"],
   "features" : [
     "bottom_flare",
     "mound",
-    "roots",
-    {
-      "name": "clear_volume",
-      "properties": {
-        "height": 5
-      }
-    },
     {
       "name": "fruit",
       "properties": {
         "fruit": "dt_super_block_world:super_acorn",
         "fruiting_radius": 6,
         "quantity": 3
+      }
+    },
+    {
+      "name": "fruit",
+      "properties": {
+        "fruit": "dt_super_block_world:super_leaf",
+        "fruiting_radius": 6,
+        "quantity": 1
       }
     },
     {
@@ -52,7 +53,9 @@
     {
       "name": "roots",
       "properties": {
-        "min_trunk_radius": 9
+        "min_trunk_radius": 9,
+        "scale_factor": 15,
+        "level_limit": 8
       }
     }
   ]
