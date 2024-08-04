@@ -155,9 +155,9 @@
         }
       },
       "density": [
-        0.3
+        0.25
       ],
-      "chance": 0.5,
+      "chance": 0.4,
       "forestness": 1
     }
   },
