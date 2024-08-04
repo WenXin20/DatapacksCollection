@@ -14,8 +14,8 @@
   "max_branch_radius": 24,
   "signal_energy": 12,
   "soil_longevity": 3,
-  "tapering": 0,
-  "up_probability": 4,
+  "tapering": 0.9,
+  "up_probability": 0,
   "acceptable_soils": [ "dirt_like", "fungus_like" ],
   "perfect_biomes": { "name": "super_block_world:level_one" },
   "features" : [

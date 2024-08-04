@@ -4,16 +4,22 @@
   "family": "dt_super_block_world:kingdom_mushroom",
   "cap_properties": "dt_super_block_world:kingdom_mushroom",
   "mega_species": "dt_super_block_world:mega_kingdom_mushroom",
-  "mushroom_shape_kit": "dynamictreesplus:bell",
+  "mushroom_shape_kit": {
+    "name": "dynamictreesplus:bell",
+    "properties": {
+      "max_cap_age": 8,
+      "max_age_curve_factor": 0.4
+    }
+  },
   "primitive_sapling": "mario:red_mushroom",
-  "always_show_on_waila": true,
   "generate_sapling": true,
   "generate_seed": true,
   "growth_rate": 1.2,
+  "max_branch_radius": 24,
   "signal_energy": 6,
-  "soil_longevity": 3,
-  "tapering": 0.8,
-  "up_probability": 2,
+  "soil_longevity": 12,
+  "tapering": 0,
+  "up_probability": 0,
   "acceptable_soils": [ "dirt_like", "fungus_like" ],
   "perfect_biomes": { "name": "super_block_world:level_one" },
   "features" : [

@@ -19,7 +19,7 @@
         {
           "type": "minecraft:item",
           "name": "mario:kingdom_mushroom_block",
-          "weight": 1
+          "weight": 3
         },
         {
           "type": "minecraft:item",
@@ -29,6 +29,11 @@
         {
           "type": "minecraft:item",
           "name": "mario:red_mushroom",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dynamictrees:kingdom_mushroom_seed",
           "weight": 1
         }
       ],
