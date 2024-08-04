@@ -17,6 +17,7 @@
   "tapering": 0,
   "up_probability": 4,
   "acceptable_soils": [ "dirt_like", "fungus_like" ],
+  "perfect_biomes": { "name": "super_block_world:level_one" },
   "features" : [
     "bottom_flare",
     {
