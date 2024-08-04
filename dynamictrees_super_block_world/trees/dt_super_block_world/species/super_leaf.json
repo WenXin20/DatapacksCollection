@@ -3,16 +3,17 @@
   "family": "dt_super_block_world:acorn",
   "leaves_properties": "dt_super_block_world:acorn",
   "primitive_sapling": {
-    "sapling_item": "mario:super_acorn",
+    "sapling_item": "mario:super_leaf",
     "can_craft_seed_to_sapling": false
   },
+  "generate_sapling": true,
+  "generate_seed": true,
   "growth_rate": 0.8,
-  "lowest_branch_height": 1,
+  "lowest_branch_height": 3,
   "max_branch_radius": 24,
-  "signal_energy": 6.0,
+  "signal_energy": 14.0,
   "soil_longevity": 12,
   "tapering": 0.3,
-  "up_probability": 3,
   "environment_factors" : {
 	"#forge:is_cold": 0.75,
 	"#forge:is_dry": 0.25,
@@ -21,20 +22,31 @@
   },
   "perfect_biomes": { "name": "mario:acorn_plains" },
   "acceptable_soils": [ "dirt_like" ],
-  "fruits": [ "dt_super_block_world:super_acorn", "dt_super_block_world:super_leaf" ],
+  "fruits": [ "dt_super_block_world:super_leaf" ],
   "features" : [
-    {
-      "name": "fruit",
-      "properties": {
-        "fruit": "dt_super_block_world:super_acorn",
-        "fruiting_radius": 3
-      }
-    },
+    "bottom_flare",
+    "mound",
     {
       "name": "fruit",
       "properties": {
         "fruit": "dt_super_block_world:super_leaf",
-        "fruiting_radius": 1
+        "fruiting_radius": 6,
+        "quantity": 1
+      }
+    },
+    {
+      "name": "mushroom_rot",
+      "properties": {
+		"mushroom": "mario:red_mushroom",
+		"alternate_mushroom": "mario:orange_mushroom"
+      }
+    },
+    {
+      "name": "roots",
+      "properties": {
+        "level_limit": 8,
+        "min_trunk_radius": 9,
+        "scale_factor": 15
       }
     }
   ]

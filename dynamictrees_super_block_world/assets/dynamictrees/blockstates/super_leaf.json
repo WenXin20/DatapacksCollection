@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": [
+			{ "model": "dynamictrees:block/fruit/super_leaf_age0" },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age0", "y": 90 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age0", "y": 180 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age0", "y": 270 }
+		],
+        "age=1": [
+			{ "model": "dynamictrees:block/fruit/super_leaf_age1" },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age1", "y": 90 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age1", "y": 180 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age1", "y": 270 }
+		],
+        "age=2": [
+			{ "model": "dynamictrees:block/fruit/super_leaf_age2" },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age2", "y": 90 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age2", "y": 180 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age2", "y": 270 }
+		],
+        "age=3": [
+			{ "model": "dynamictrees:block/fruit/super_leaf_age3" },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age3", "y": 90 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age3", "y": 180 },
+			{ "model": "dynamictrees:block/fruit/super_leaf_age3", "y": 270 }
+		]
+    }
+}

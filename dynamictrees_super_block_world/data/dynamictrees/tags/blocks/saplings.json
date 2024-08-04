@@ -4,6 +4,8 @@
     { "id": "dynamictrees:fruiting_amanita_sapling", "required": false },
     { "id": "dynamictrees:fruiting_mayoi_sapling", "required": false },
     { "id": "dynamictrees:mayoi_sapling", "required": false },
-    { "id": "dynamictrees:subcon_palm_sapling", "required": false }
+    { "id": "dynamictrees:subcon_palm_sapling", "required": false },
+    { "id": "dynamictrees:super_acorn_sapling", "required": false },
+    { "id": "dynamictrees:super_leaf_sapling", "required": false }
   ]
 }

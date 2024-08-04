@@ -170,7 +170,8 @@
     "apply": {
       "species": {
         "random": {
-          "dt_super_block_world:acorn": 1
+          "dt_super_block_world:super_acorn": 3,
+          "dt_super_block_world:super_leaf": 1
         }
       },
       "density": [

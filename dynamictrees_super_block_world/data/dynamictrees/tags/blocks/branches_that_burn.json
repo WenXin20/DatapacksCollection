@@ -2,6 +2,7 @@
   "values": [
     { "id": "dynamictrees:amanita_branch", "required": false },
     { "id": "dynamictrees:mayoi_branch", "required": false },
-    { "id": "dynamictrees:subcon_palm_branch", "required": false }
+    { "id": "dynamictrees:subcon_palm_branch", "required": false },
+    { "id": "dynamictrees:acorn_branch", "required": false }
   ]
 }
