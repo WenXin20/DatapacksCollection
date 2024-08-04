@@ -6,5 +6,5 @@
   "acceptable_soils": [ "dirt_like", "fungus_like" ],
 
   "required_light": 9,
-  "spreadable_soils": [ "dt_soils:mario_mushroom_grass" ]
+  "spreadable_soils": [ "dt_super_block_world:mario_mushroom_grass" ]
 }

@@ -181,5 +181,21 @@
       "chance": 0.5,
       "forestness": 1.0
     }
+  },
+  {
+    "_comment": "Generates Giant Red Mushrooms in the Mushroom Grasslands.",
+    "only_if_loaded": [ "dynamictreesplus", "mario" ],
+    "select": {
+      "name": "mario:level_one"
+    },
+    "apply": {
+      "species" : {
+        "random" : {
+          "dt_super_block_world:kingdom_mushroom": 15,
+          "dt_super_block_world:mega_kingdom_mushroom": 5
+        }
+      },
+      "chance": 0.25
+    }
   }
 ]

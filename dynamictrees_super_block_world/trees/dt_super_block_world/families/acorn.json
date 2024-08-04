@@ -2,7 +2,7 @@
   "only_if_loaded": "mario",
   "primitive_log": "mario:acorn_log",
   "common_leaves": "dt_super_block_world:acorn",
-  "common_species": "dt_super_block_world:acorn",
+  "common_species": "dt_super_block_world:super_acorn",
   "conifer_variants": true,
   "generate_stripped_branch": false,
   "generate_surface_root": true,

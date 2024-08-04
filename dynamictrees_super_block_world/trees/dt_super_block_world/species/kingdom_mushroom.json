@@ -1,0 +1,34 @@
+{
+  "only_if_loaded": [ "dynamictreesplus", "mario" ],
+  "type": "dynamictreesplus:mushroom",
+  "family": "dt_super_block_world:kingdom_mushroom",
+  "cap_properties": "dt_super_block_world:kingdom_mushroom",
+  "mega_species": "dt_super_block_world:mega_kingdom_mushroom",
+  "mushroom_shape_kit": "dynamictreesplus:bell",
+  "primitive_sapling": "mario:red_mushroom",
+  "always_show_on_waila": true,
+  "generate_sapling": true,
+  "generate_seed": true,
+  "growth_rate": 1.2,
+  "signal_energy": 6,
+  "soil_longevity": 3,
+  "tapering": 0.8,
+  "up_probability": 2,
+  "acceptable_soils": [ "dirt_like", "fungus_like" ],
+  "features" : [
+    "bottom_flare",
+    {
+      "name": "mushroom_rot",
+      "properties": {
+		"mushroom": "mario:red_mushroom",
+        "alternate_mushroom_chance": 1
+      }
+    },
+    {
+      "name": "mound",
+      "properties": {
+        "mound_cutoff_radius": 999
+      }
+    }
+  ]
+}

@@ -28,6 +28,12 @@
     "bottom_flare",
     "mound",
     {
+      "name": "clear_volume",
+      "properties": {
+        "height": 6
+      }
+    },
+    {
       "name": "fruit",
       "properties": {
         "fruit": "dt_super_block_world:super_acorn",
