@@ -33,6 +33,7 @@
       "properties": {
         "fruit": "dt_super_block_world:super_leaf",
         "fruiting_radius": 6,
+        "place_chance": 0.25,
         "quantity": 1
       }
     },

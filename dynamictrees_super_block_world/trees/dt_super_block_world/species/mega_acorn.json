@@ -32,6 +32,7 @@
       "properties": {
         "fruit": "dt_super_block_world:super_acorn",
         "fruiting_radius": 6,
+        "place_chance": 0.35,
         "quantity": 3
       }
     },
@@ -40,6 +41,7 @@
       "properties": {
         "fruit": "dt_super_block_world:super_leaf",
         "fruiting_radius": 6,
+        "place_chance": 0.35,
         "quantity": 1
       }
     },
