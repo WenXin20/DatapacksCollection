@@ -13,8 +13,8 @@
     }
   },
   "primitive_sapling": "mario:red_mushroom",
-  "generate_sapling": true,
-  "generate_seed": true,
+  "generate_sapling": false,
+  "generate_seed": false,
   "growth_rate": 1.2,
   "max_branch_radius": 24,
   "signal_energy": 8,
