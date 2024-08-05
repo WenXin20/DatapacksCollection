@@ -1,5 +1,6 @@
 {
   "values": [
-    { "id": "dynamictrees:kingdom_mushroom_sapling", "required": false }
+    { "id": "dynamictrees:kingdom_mushroom_sapling", "required": false },
+    { "id": "dynamictrees:turnip_kingdom_mushroom_sapling", "required": false }
   ]
 }

@@ -183,7 +183,7 @@
     }
   },
   {
-    "_comment": "Generates Acorn Trees in Acorn Plains.",
+    "_comment": "Generates Palm Trees in Isle Delfino.",
     "only_if_loaded": [ "mario" ],
     "select": {
       "name": "mario:isle_delfino"
@@ -215,6 +215,25 @@
         }
       },
       "chance": 0.25
+    }
+  },
+  {
+    "_comment": "Generates Turnip Red Mushrooms in the Mushroom Grasslands.",
+    "only_if_loaded": [ "dynamictreesplus", "mario" ],
+    "select": {
+      "name": "mario:turnip_valley"
+    },
+    "apply": {
+      "species" : {
+        "random" : {
+          "dt_super_block_world:turnip_kingdom_mushroom": 1
+        }
+      },
+      "density": [
+        0.8
+      ],
+      "chance": "standard",
+      "forestness": 1.0
     }
   }
 ]
