@@ -1,6 +1,4 @@
 {
-  "only_if_loaded": "immersive_weathering",
-  
   "type": "spreadable",
   "primitive_soil": "rooted_dirt",
   "acceptable_soils": [ "dirt_like" ],
