@@ -1,6 +1,7 @@
 {
   "values": [
     { "id": "dynamictrees:rooty_mario_dry_dry_sand", "required": false },
+    { "id": "dynamictrees:rooty_mario_fun_grass", "required": false },
     { "id": "dynamictrees:rooty_mario_jungle_grass", "required": false },
     { "id": "dynamictrees:rooty_mario_mushroom_dirt", "required": false },
     { "id": "dynamictrees:rooty_mario_mushroom_grass", "required": false },
