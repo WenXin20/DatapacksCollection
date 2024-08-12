@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "dynamictrees:acorn_branch", "required": false },
+    { "id": "dynamictrees:mario_palm_branch", "required": false }
+  ]
+}

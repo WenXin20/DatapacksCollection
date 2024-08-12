@@ -1,9 +1,9 @@
 {
   "only_if_loaded": [ "dynamictreesplus", "mario" ],
   "type": "dynamictreesplus:mushroom",
-  "family": "dt_super_block_world:kingdom_mushroom",
-  "cap_properties": "dt_super_block_world:kingdom_mushroom",
-  "mega_species": "dt_super_block_world:mega_kingdom_mushroom",
+  "family": "dt_mario_mixup:kingdom_mushroom",
+  "cap_properties": "dt_mario_mixup:kingdom_mushroom",
+  "mega_species": "dt_mario_mixup:mega_kingdom_mushroom",
   "mushroom_shape_kit": {
     "name": "dynamictreesplus:bell",
     "properties": {
@@ -21,7 +21,7 @@
   "tapering": 0,
   "up_probability": 0,
   "acceptable_soils": [ "dirt_like", "fungus_like" ],
-  "perfect_biomes": { "name": "super_block_world:level_one" },
+  "perfect_biomes": { "name": "mario:level_one" },
   "features" : [
     "bottom_flare",
     {

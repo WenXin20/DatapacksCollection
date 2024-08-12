@@ -2,7 +2,7 @@
     "only_if_loaded": "mario",
     "family": "jungle",
     "leaves_properties": "jungle",
-    "mega_species": "dt_super_block_world:mega_soda_jungle",
+    "mega_species": "dt_mario_mixup:mega_soda_jungle",
     "generate_sapling": false,
     "generate_seed": false,
     "growth_rate": 1.0,
@@ -34,7 +34,7 @@
         {
             "name": "undergrowth",
             "properties": {
-                "undergrowth_species": "dt_super_block_world:soda_jungle_undergrowth"
+                "undergrowth_species": "dt_mario_mixup:soda_jungle_undergrowth"
             }
         }
     ]

@@ -1,13 +1,12 @@
 {
   "only_if_loaded": "mario",
-  "family": "dt_super_block_world:acorn",
-  "leaves_properties": "dt_super_block_world:acorn",
-  "mega_species": "dt_super_block_world:mega_acorn",
+  "family": "dt_mario_mixup:acorn",
+  "leaves_properties": "dt_mario_mixup:acorn",
+  "mega_species": "dt_mario_mixup:mega_acorn",
   "primitive_sapling": {
-    "sapling_item": "mario:super_acorn",
+    "sapling_item": "mario:super_leaf",
     "can_craft_seed_to_sapling": false
   },
-  "always_show_on_waila": true,
   "generate_sapling": true,
   "generate_seed": true,
   "growth_rate": 0.8,
@@ -24,7 +23,7 @@
   },
   "perfect_biomes": { "name": "mario:acorn_plains" },
   "acceptable_soils": [ "dirt_like" ],
-  "fruits": [ "dt_super_block_world:super_acorn" ],
+  "fruits": [ "dt_mario_mixup:super_leaf" ],
   "features" : [
     "bottom_flare",
     "mound",
@@ -32,10 +31,10 @@
     {
       "name": "fruit",
       "properties": {
-        "fruit": "dt_super_block_world:super_acorn",
+        "fruit": "dt_mario_mixup:super_leaf",
         "fruiting_radius": 6,
         "place_chance": 0.25,
-        "quantity": 3
+        "quantity": 1
       }
     },
     {

@@ -1,0 +1,7 @@
+{
+  "values": [
+    { "id": "dynamictrees:mario_palm_seed", "required": false },
+    { "id": "dynamictrees:super_acorn_seed", "required": false },
+    { "id": "dynamictrees:super_leaf_seed", "required": false }
+  ]
+}
