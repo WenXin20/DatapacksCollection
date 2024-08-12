@@ -2,6 +2,6 @@
   "parent": "dynamictrees:item/branch",
   "textures": {
     "bark": "mario:block/acorn_log_side",
-    "rings": "mario:block/acorn_log"
+    "rings": "mario:block/acorn_log_top"
   }
 }
