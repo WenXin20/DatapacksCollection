@@ -1,0 +1,5 @@
+{
+  "only_if_loaded": "sonicraft",
+  "primitive_soil": "sonicraft:angel_island_grass",
+  "acceptable_soils": [ "dirt_like" ]
+}

@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "dynamictrees:chilly_blossom_seed", "required": false },
+    { "id": "dynamictrees:neo_palm_seed", "required": false }
+  ]
+}

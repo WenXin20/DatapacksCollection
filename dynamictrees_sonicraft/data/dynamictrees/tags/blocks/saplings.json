@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "dynamictrees:chilly_blossom_sapling", "required": false },
+    { "id": "dynamictrees:neo_palm_sapling", "required": false }
+  ]
+}

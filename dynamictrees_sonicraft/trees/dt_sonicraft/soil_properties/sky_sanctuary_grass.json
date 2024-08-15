@@ -1,0 +1,5 @@
+{
+  "only_if_loaded": "sonicraft",
+  "primitive_soil": "sonicraft:sky_sanctuary_grass",
+  "acceptable_soils": [ "dirt_like" ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "__comment": "Cancel standard tree features from the Mushroom Kingdom.",
+    "only_if_loaded": [ "sonicraft" ],
+    "select": { "name": "sonicraft:.*" },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "sonicraft"
+    }
+  },
+  {
+    "_comment": "Cancel regular mushroom generation from the Mushroom Kingdom.",
+    "only_if_loaded": [ "dynamictreesplus", "sonicraft" ],
+    "select": { "name": "sonicraft:.*" },
+    "cancellers": {
+      "type": "mushroom",
+      "namespace": "minecraft"
+    }
+  }
+]
