@@ -9,7 +9,7 @@
   "sapling_shape": "slim_sapling",
   "growth_rate": 0.9,
   "max_branch_radius": 8,
-  "signal_energy": 4.0,
+  "signal_energy": 3.0,
   "tapering": 0.8,
   "environment_factors" : {
     "cold": 0.75,
@@ -18,6 +18,7 @@
   },
   "perfect_biomes": { "name": "sonicraft:green_hill_zone" },
   "acceptable_soils": [ "dirt_like", "sand_like" ],
+  "pods": [ "dt_sonicraft:orange_fruit" ],
   "growth_logic_kit": {
     "name": "palm",
     "properties": {
@@ -25,6 +26,20 @@
     }
   },
   "features" : [
-    "bottom_flare"
+    {
+      "name": "bottom_flare",
+      "properties": {
+        "min_radius": 3
+      }
+    },
+    {
+      "name": "pod",
+      "properties": {
+        "pod": "dt_sonicraft:orange_fruit",
+        "blocks_per_pod": 1,
+        "fruiting_radius": 3,
+        "place_chance": 1.0
+      }
+    }
   ]
 }

@@ -27,7 +27,7 @@
           "dt_sonicraft:chilly_blossom": 1
         }
       },
-      "density": 2,
+      "density": [ 3.0 ],
       "forestness": 1.0,
       "chance": "standard"
     }
