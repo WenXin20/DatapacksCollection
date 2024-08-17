@@ -29,5 +29,6 @@
   },
   "flower_hold_period_length": 0,
   "max_age": 3,
-  "minimum_radius": 3
+  "minimum_radius": 3,
+  "maximum_radius": 6
 }
