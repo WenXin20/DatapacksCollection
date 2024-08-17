@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "dynamictrees:block/orange_flower",
-		"orange_fruit": "dynamictrees:block/orange_flower"
+		"particle": "dynamictrees:block/orange_fruit_flower",
+		"orange_fruit": "dynamictrees:block/orange_fruit_flower"
 	},
 	"elements": [
 		{
