@@ -8,9 +8,9 @@
 	"elements": [
 		{
 			"name": "fruit",
-			"from": [6, 5.5, 16],
-			"to": [10, 10.5, 20],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 18]},
+			"from": [6, 5.5, 15],
+			"to": [10, 10.5, 19],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 17]},
 			"faces": {
 				"north": {"uv": [12, 0, 16, 5], "texture": "#orange_fruit"},
 				"east": {"uv": [12, 0, 16, 5], "texture": "#orange_fruit"},
@@ -22,9 +22,9 @@
 		},
 		{
 			"name": "stem",
-			"from": [8, 10.5, 18],
-			"to": [8, 12.5, 21],
-			"rotation": {"angle": 0, "axis": "y", "origin": [1, -1.5, 2]},
+			"from": [8, 10.5, 17],
+			"to": [8, 12.5, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, -1.5, 1]},
 			"faces": {
 				"east": {"uv": [16, 13, 13, 15], "texture": "#orange_fruit"},
 				"west": {"uv": [13, 13, 16, 15], "texture": "#orange_fruit"}
@@ -32,9 +32,9 @@
 		},
 		{
 			"name": "stem",
-			"from": [7, 11, 20.98],
-			"to": [9, 13, 20.98],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 4.9]},
+			"from": [7, 11, 19.98],
+			"to": [9, 13, 19.98],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 3.9]},
 			"faces": {
 				"north": {"uv": [13, 6, 15, 8], "texture": "#orange_fruit"},
 				"south": {"uv": [13, 6, 15, 8], "texture": "#orange_fruit"}
@@ -42,9 +42,9 @@
 		},
 		{
 			"name": "leaves",
-			"from": [4, 10.5, 16.9],
-			"to": [8, 10.5, 19.9],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 10.5, 18.5]},
+			"from": [4, 10.5, 15.9],
+			"to": [8, 10.5, 18.9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 10.5, 17.5]},
 			"faces": {
 				"up": {"uv": [13, 13, 9, 16], "texture": "#orange_fruit"},
 				"down": {"uv": [13, 13, 9, 16], "texture": "#orange_fruit"}
@@ -52,9 +52,9 @@
 		},
 		{
 			"name": "leaves",
-			"from": [8, 10.5, 16.9],
-			"to": [12, 10.5, 19.9],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 10.5, 18.5]},
+			"from": [8, 10.5, 15.9],
+			"to": [12, 10.5, 18.9],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 10.5, 17.5]},
 			"faces": {
 				"up": {"uv": [9, 13, 13, 16], "texture": "#orange_fruit"},
 				"down": {"uv": [9, 13, 13, 16], "texture": "#orange_fruit"}

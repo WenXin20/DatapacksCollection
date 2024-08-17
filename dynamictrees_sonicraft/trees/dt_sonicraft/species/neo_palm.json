@@ -36,9 +36,9 @@
       "name": "pod",
       "properties": {
         "pod": "dt_sonicraft:orange_fruit",
-        "blocks_per_pod": 1,
+        "blocks_per_pod": 2,
         "fruiting_radius": 3,
-        "place_chance": 1.0
+        "place_chance": 0.5
       }
     }
   ]
