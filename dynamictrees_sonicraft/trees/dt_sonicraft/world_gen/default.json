@@ -2,25 +2,11 @@
   {
     "_comment": "Generates Neo Palms in the Emerald Hill Zone.",
     "only_if_loaded": [ "sonicraft" ],
-    "select": {
-      "name": "sonicraft:emerald_hill_zone"
-    },
-    "apply": {
-      "species": {
-        "random": {
-          "dt_sonicraft:neo_palm": 1
-        }
-      },
-      "density": 0.1,
-      "chance": 0.25
-    }
-  },
-  {
-    "_comment": "Generates Neo Palms in the Green Hill Zone.",
-    "only_if_loaded": [ "sonicraft" ],
-    "select": {
-      "name": "sonicraft:green_hill_zone"
-    },
+    "select": { "OR": [
+	    {"name":"sonicraft:emerald_hill_zone"}, 
+		{"name":"sonicraft:green_hill_zone"}
+      ]
+	},
     "apply": {
       "species": {
         "random": {
@@ -60,9 +46,43 @@
           "dt_sonicraft:spring_yard_oak": 1
         }
       },
-      "density": [ 1.0 ],
+      "density": [ 0.9 ],
       "chance": 0.75,
       "forestness": 1.0
+    }
+  },
+  {
+    "_comment": "Generates cactus in the Sandopolis Zone.",
+    "only_if_loaded": [ "dynamictreesplus", "sonicraft" ],
+    "select": {
+      "name": "sonicraft:sandopolis_zone"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictreesplus:pillar_cactus": 6,
+          "dynamictreesplus:pipe_cactus": 1,
+          "dynamictreesplus:saguaro_cactus": 1
+        }
+      },
+      "density": { "math": { "add": [ { "mul": [ "noise", 0.6 ] },  0.2 ] } },
+      "chance": 0.1
+    }
+  },
+  {
+    "_comment": "Generates Ecologic's cactus in the Sandopolis Zone.",
+    "only_if_loaded": [ "dynamictreesplus", "dtecologics", "sonicraft" ],
+    "select": {
+      "name": "sonicraft:sandopolis_zone"
+    },
+    "apply": {
+      "species" : {
+        "method" : "splice_before",
+        "random" : {
+          "dtecologics:prickly_pear_cactus" : 1,
+          "..." : 10
+        }
+      }
     }
   }
 ]

@@ -1,0 +1,5 @@
+{
+  "only_if_loaded": "sonicraft",
+  "primitive_soil": "sonicraft:sandopolis_quicksand",
+  "acceptable_soils": [ "sand_like" ]
+}

@@ -3,12 +3,15 @@
   "tooltip.waila.crop_mature": "Mature",
 
   "block.dynamictrees.chilly_blossom_branch": "Chilly Blossom Tree",
+  "block.dynamictrees.deciduous_neo_palm_branch": "Deciduous Neo Palm Tree",
   "block.dynamictrees.neo_palm_branch": "Neo Palm Tree",
 
   "species.dt_sonicraft.chilly_blossom": "Chilly Blossom",
+  "species.dt_sonicraft.deciduous_neo_palm": "Deciduous Neo Palm",
   "species.dt_sonicraft.neo_palm": "Neo Palm",
   "species.dt_sonicraft.spring_yard_oak": "Spring Yard Oak",
 
   "item.dynamictrees.chilly_blossom_seed": "Chilly Blossom Pit",
+  "item.dynamictrees.deciduous_neo_palm_seed": "Deciduous Neo Palm Seed",
   "item.dynamictrees.neo_palm_seed": "Neo Palm Seed"
 }

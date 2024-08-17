@@ -1,0 +1,7 @@
+{
+  "only_if_loaded": "sonicraft",
+  "primitive_leaves": "sonicraft:deciduous_neo_palm_leaves",
+  "cell_kit": "dynamictrees:dark_oak",
+  "requires_shears": false,
+  "smother": 3
+}

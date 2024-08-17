@@ -1,11 +1,12 @@
 {
   "only_if_loaded": "sonicraft",
-  "family": "dt_sonicraft:chilly_blossom",
-  "leaves_properties": "dt_sonicraft:chilly_blossom",
+  "family": "dt_sonicraft:deciduous_neo_palm",
+  "leaves_properties": "dt_sonicraft:deciduous_neo_palm",
+  "growth_logic_kit": "dark_oak",
   "growth_rate": 1.2,
   "lowest_branch_height": 8,
   "max_branch_radius": 23,
-  "signal_energy": 22.0,
+  "signal_energy": 18.0,
   "soil_longevity": 16,
   "tapering": 0.5,
   "up_probability": 8,
@@ -16,15 +17,8 @@
 	"#forge:is_hot": 0.5,
 	"mushroom": 1.25
   },
-  "perfect_biomes": { "name": "sonicraft:press_garden_zone" },
+  "perfect_biomes": { "name": "sonicraft:mushroom_hill_zone" },
   "acceptable_soils": [ "dirt_like" ],
-  "growth_logic_kit": {
-    "name": "jungle",
-    "properties": {
-      "branch_out_chance": 3,
-      "canopy_height": 10
-    }
-  },
   "features" : [
     "bottom_flare",
     "mound",
@@ -32,6 +26,14 @@
       "name": "clear_volume",
       "properties": {
         "height": 6
+      }
+    },
+    {
+      "name": "mushroom_rot",
+      "properties": {
+        "_comment": "An alternate mushroom chance of -1 means that a red mushroom will always be generated.",
+        "alternate_mushroom": "sonicraft:mushroom_hill_toadstool",
+        "alternate_mushroom_chance": -1
       }
     },
     {
