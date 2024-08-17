@@ -1,0 +1,5 @@
+{
+  "only_if_loaded": "sonicraft",
+  "primitive_soil": "sonicraft:spring_yard_road",
+  "acceptable_soils": [ "road_like" ]
+}
