@@ -3,7 +3,7 @@
     "_comment": "Generates Neo Palms in the Green Hill Zone.",
     "only_if_loaded": [ "sonicraft" ],
     "select": {
-      "name": "sonicraft:green_hill_zone"
+      "names": [ "sonicraft:emerald_hill_zone", "sonicraft:green_hill_zone" ]
     },
     "apply": {
       "species": {
@@ -11,12 +11,12 @@
           "dt_sonicraft:neo_palm": 1
         }
       },
-      "density": 0.05,
+      "density": 0.1,
       "chance": 0.15
     }
   },
   {
-    "_comment": "Generates Neo Palms in the Green Hill Zone.",
+    "_comment": "Generates Chilly Blossoms in the Press Garden Zone.",
     "only_if_loaded": [ "sonicraft" ],
     "select": {
       "name": "sonicraft:press_garden_zone"
@@ -27,9 +27,27 @@
           "dt_sonicraft:chilly_blossom": 1
         }
       },
-      "density": [ 3.0 ],
+      "density": [ 8.0 ],
       "forestness": 1.0,
-      "chance": "standard"
+      "chance": 2.0
+    }
+  },
+  {
+    "_comment": "Generates Spring Yard Oaks in the Spring Yard.",
+    "select": {
+      "name": "sonicraft:spring_yard"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_sonicraft:spring_yard_oak": 1
+        }
+      },
+      "density": [
+        1
+      ],
+      "chance": 1.0,
+      "forestness": 1.0
     }
   }
 ]
