@@ -13,17 +13,17 @@
     },
     "common_override": { "name": "sonicraft:spring_yard" },
     "perfect_biomes": { "name": "sonicraft:spring_yard" },
-    "acceptable_soils": ["dirt_like"],
-    "world_gen_acceptable_soils": ["road_like"],
+    "acceptable_soils": [ "dirt_like" ],
+    "world_gen_acceptable_soils": [ "dt_sonicraft:road_like" ],
     "features" : [
+        "bee_nest",
+        "mushroom_rot",
         {
             "name": "rot_soil",
             "properties": {
                 "rotten_soil": "podzol"
             }
-        },
-        "mushroom_rot",
-        "bee_nest"
+        }
     ],
     "lang_overrides": {
         "seed": "Oak Acorn"

@@ -1,15 +1,24 @@
 [
   {
-    "__comment": "Cancel standard tree features from the Mushroom Kingdom.",
+    "__comment": "Cancel standard tree features from Mobius.",
     "only_if_loaded": [ "sonicraft" ],
-    "select": { "names": [ "sonicraft:press_garden_zone", "sonicraft:spring_yard" ] },
+    "select": { "name": "sonicraft:press_garden_zone" },
     "cancellers": {
       "type": "tree",
       "namespace": "sonicraft"
     }
   },
   {
-    "_comment": "Cancel regular mushroom generation from the Mushroom Kingdom.",
+    "__comment": "Cancel standard tree features from Mobius.",
+    "only_if_loaded": [ "sonicraft" ],
+    "select": { "name": "sonicraft:spring_yard" },
+    "cancellers": {
+      "type": "tree",
+      "namespace": "sonicraft"
+    }
+  },
+  {
+    "_comment": "Cancel regular mushroom generation from Mobius.",
     "only_if_loaded": [ "dynamictreesplus", "sonicraft" ],
     "select": { "name": "sonicraft:press_garden_zone" },
     "cancellers": {
