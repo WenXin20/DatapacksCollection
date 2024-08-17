@@ -3,8 +3,8 @@
     "_comment": "Generates Neo Palms in the Emerald Hill Zone.",
     "only_if_loaded": [ "sonicraft" ],
     "select": { "OR": [
-	    {"name":"sonicraft:emerald_hill_zone"}, 
-		{"name":"sonicraft:green_hill_zone"}
+	    { "name":"sonicraft:emerald_hill_zone" }, 
+		{ "name":"sonicraft:green_hill_zone" }
       ]
 	},
     "apply": {
@@ -21,6 +21,31 @@
     "_comment": "Generates Chilly Blossoms in the Press Garden Zone.",
     "only_if_loaded": [ "sonicraft" ],
     "select": {
+      "name": "sonicraft:mushroom_hill_zone"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_sonicraft:deciduous_neo_palm": 1
+        }
+      },
+      "density": {
+        "math": {
+          "div": [
+            "noise",
+            3.0
+          ]
+        }
+      },
+      "forestness": 4.0,
+      "chance": 2.0,
+      "multipass": true
+    }
+  },
+  {
+    "_comment": "Generates Chilly Blossoms in the Press Garden Zone.",
+    "only_if_loaded": [ "sonicraft" ],
+    "select": {
       "name": "sonicraft:press_garden_zone"
     },
     "apply": {
@@ -29,9 +54,17 @@
           "dt_sonicraft:chilly_blossom": 1
         }
       },
-      "density": [ 0.1 ],
+      "density": {
+        "math": {
+          "div": [
+            "noise",
+            3.0
+          ]
+        }
+      },
       "forestness": 4.0,
-      "chance": 1.0
+      "chance": 2.0,
+      "multipass": true
     }
   },
   {

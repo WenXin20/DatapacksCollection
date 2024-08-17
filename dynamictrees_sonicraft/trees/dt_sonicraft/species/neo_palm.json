@@ -36,7 +36,7 @@
       "name": "pod",
       "properties": {
         "pod": "dt_sonicraft:orange_chao_pod",
-        "blocks_per_pod": 4,
+        "blocks_per_pod": 6,
         "fruiting_radius": 3,
         "place_chance": 0.4
       }
