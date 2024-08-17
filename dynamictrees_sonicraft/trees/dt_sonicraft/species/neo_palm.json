@@ -18,7 +18,7 @@
   },
   "perfect_biomes": { "name": "sonicraft:green_hill_zone" },
   "acceptable_soils": [ "dirt_like", "sand_like" ],
-  "pods": [ "dt_sonicraft:orange_fruit" ],
+  "pods": [ "dt_sonicraft:orange_chao_pod" ],
   "growth_logic_kit": {
     "name": "palm",
     "properties": {
@@ -35,7 +35,7 @@
     {
       "name": "pod",
       "properties": {
-        "pod": "dt_sonicraft:orange_fruit",
+        "pod": "dt_sonicraft:orange_chao_pod",
         "blocks_per_pod": 4,
         "fruiting_radius": 3,
         "place_chance": 0.4

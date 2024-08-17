@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "dynamictrees:block/orange_fruit_flower",
-		"orange_fruit": "dynamictrees:block/orange_fruit_flower"
+		"particle": "dynamictrees:block/orange_chao_fruit_flower",
+		"orange_chao_fruit": "dynamictrees:block/orange_chao_fruit_flower"
 	},
 	"elements": [
 		{
@@ -11,8 +11,8 @@
 			"to": [9, 13, 18.98],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, 19]},
 			"faces": {
-				"north": {"uv": [7, 7, 9, 9], "texture": "#orange_fruit"},
-				"south": {"uv": [7, 7, 9, 9], "texture": "#orange_fruit"}
+				"north": {"uv": [7, 7, 9, 9], "texture": "#orange_chao_fruit"},
+				"south": {"uv": [7, 7, 9, 9], "texture": "#orange_chao_fruit"}
 			}
 		},
 		{
@@ -20,8 +20,8 @@
 			"to": [12, 14, 18.98],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [9, 12, 19]},
 			"faces": {
-				"north": {"uv": [4, 6, 7, 10], "texture": "#orange_fruit"},
-				"south": {"uv": [7, 6, 4, 10], "texture": "#orange_fruit"}
+				"north": {"uv": [4, 6, 7, 10], "texture": "#orange_chao_fruit"},
+				"south": {"uv": [7, 6, 4, 10], "texture": "#orange_chao_fruit"}
 			}
 		},
 		{
@@ -29,8 +29,8 @@
 			"to": [7, 14, 18.98],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [7, 12, 19]},
 			"faces": {
-				"north": {"uv": [9, 6, 12, 10], "texture": "#orange_fruit"},
-				"south": {"uv": [12, 6, 9, 10], "texture": "#orange_fruit"}
+				"north": {"uv": [9, 6, 12, 10], "texture": "#orange_chao_fruit"},
+				"south": {"uv": [12, 6, 9, 10], "texture": "#orange_chao_fruit"}
 			}
 		},
 		{
@@ -38,8 +38,8 @@
 			"to": [10, 16, 18.98],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 13, 19]},
 			"faces": {
-				"north": {"uv": [6, 4, 10, 7], "texture": "#orange_fruit"},
-				"south": {"uv": [6, 4, 10, 7], "texture": "#orange_fruit"}
+				"north": {"uv": [6, 4, 10, 7], "texture": "#orange_chao_fruit"},
+				"south": {"uv": [6, 4, 10, 7], "texture": "#orange_chao_fruit"}
 			}
 		},
 		{
@@ -47,8 +47,8 @@
 			"to": [10, 11, 18.98],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 11, 19]},
 			"faces": {
-				"north": {"uv": [6, 9, 10, 12], "texture": "#orange_fruit"},
-				"south": {"uv": [6, 9, 10, 12], "texture": "#orange_fruit"}
+				"north": {"uv": [6, 9, 10, 12], "texture": "#orange_chao_fruit"},
+				"south": {"uv": [6, 9, 10, 12], "texture": "#orange_chao_fruit"}
 			}
 		}
 	]
