@@ -3,6 +3,8 @@
   "family": "dt_sonicraft:deciduous_neo_palm",
   "leaves_properties": "dt_sonicraft:deciduous_neo_palm",
   "growth_logic_kit": "dark_oak",
+  "generate_sapling": true,
+  "generate_seed": true,
   "growth_rate": 1.2,
   "lowest_branch_height": 8,
   "max_branch_radius": 23,
@@ -19,6 +21,7 @@
   },
   "perfect_biomes": { "name": "sonicraft:mushroom_hill_zone" },
   "acceptable_soils": [ "dirt_like" ],
+  "fruits": [ "dt_sonicraft:orange_chao_fruit" ],
   "features" : [
     "bottom_flare",
     "mound",
@@ -26,6 +29,15 @@
       "name": "clear_volume",
       "properties": {
         "height": 6
+      }
+    },
+    {
+      "name": "fruit",
+      "properties": {
+        "fruit": "dt_sonicraft:orange_chao_fruit",
+        "fruiting_radius": 3,
+        "place_chance": 0.4,
+        "quantity": 1
       }
     },
     {

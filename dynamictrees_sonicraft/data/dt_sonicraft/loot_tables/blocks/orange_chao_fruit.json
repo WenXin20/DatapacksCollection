@@ -8,7 +8,7 @@
           "type": "minecraft:item",
           "conditions": [
             {
-              "block": "dynamictrees:orange_chao_pod",
+              "block": "dynamictrees:orange_chao_fruit",
               "condition": "minecraft:block_state_property",
               "properties": {
                 "age": "3"
@@ -26,5 +26,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "dynamictrees:blocks/orange_chao_pod"
+  "random_sequence": "dynamictrees:blocks/orange_chao_fruit"
 }

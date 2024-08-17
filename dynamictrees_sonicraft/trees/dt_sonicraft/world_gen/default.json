@@ -10,7 +10,8 @@
     "apply": {
       "species": {
         "random": {
-          "dt_sonicraft:neo_palm": 1
+          "dt_sonicraft:neo_palm": 10,
+          "dt_sonicraft:fruiting_neo_palm": 1
         }
       },
       "density": 0.1,
@@ -26,7 +27,8 @@
     "apply": {
       "species": {
         "random": {
-          "dt_sonicraft:deciduous_neo_palm": 1
+          "dt_sonicraft:deciduous_neo_palm": 10,
+          "dt_sonicraft:fruiting_deciduous_neo_palm": 1
         }
       },
       "density": {
@@ -37,8 +39,6 @@
           ]
         }
       },
-      "forestness": 4.0,
-      "chance": 2.0,
       "multipass": true
     }
   },
@@ -62,8 +62,6 @@
           ]
         }
       },
-      "forestness": 4.0,
-      "chance": 2.0,
       "multipass": true
     }
   },

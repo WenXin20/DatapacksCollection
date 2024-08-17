@@ -8,10 +8,14 @@
 
   "species.dt_sonicraft.chilly_blossom": "Chilly Blossom",
   "species.dt_sonicraft.deciduous_neo_palm": "Deciduous Neo Palm",
+  "species.dt_sonicraft.fruiting_deciduous_neo_palm": "Fruiting Deciduous Neo Palm",
+  "species.dt_sonicraft.fruiting_neo_palm": "Fruiting Neo Palm",
   "species.dt_sonicraft.neo_palm": "Neo Palm",
   "species.dt_sonicraft.spring_yard_oak": "Spring Yard Oak",
 
   "item.dynamictrees.chilly_blossom_seed": "Chilly Blossom Pit",
   "item.dynamictrees.deciduous_neo_palm_seed": "Deciduous Neo Palm Seed",
+  "item.dynamictrees.fruiting_deciduous_neo_palm_seed": "Fruiting Deciduous Neo Palm Seed",
+  "item.dynamictrees.fruiting_neo_palm_seed": "Fruiting Neo Palm Seed",
   "item.dynamictrees.neo_palm_seed": "Neo Palm Seed"
 }
