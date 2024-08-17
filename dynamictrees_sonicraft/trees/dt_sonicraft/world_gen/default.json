@@ -43,9 +43,7 @@
           "dt_sonicraft:spring_yard_oak": 1
         }
       },
-      "density": [
-        1
-      ],
+      "density": [ 1.0 ],
       "chance": 1.0,
       "forestness": 1.0
     }

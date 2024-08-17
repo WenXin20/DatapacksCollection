@@ -2,7 +2,7 @@
   {
     "__comment": "Cancel standard tree features from the Mushroom Kingdom.",
     "only_if_loaded": [ "sonicraft" ],
-    "select": { "name": "sonicraft:press_garden_zone" },
+    "select": { "names": [ "sonicraft:press_garden_zone", "sonicraft:spring_yard" ] },
     "cancellers": {
       "type": "tree",
       "namespace": "sonicraft"
