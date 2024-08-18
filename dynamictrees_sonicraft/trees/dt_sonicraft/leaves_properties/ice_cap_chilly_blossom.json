@@ -1,0 +1,5 @@
+{
+  "only_if_loaded": "sonicraft",
+  "primitive_leaves": "sonicraft:ice_cap_chilly_blossom_leaves",
+  "requires_shears": false
+}

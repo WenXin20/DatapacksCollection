@@ -11,6 +11,7 @@
     { "id": "dynamictrees:rooty_ehz_grass", "required": false },
     { "id": "dynamictrees:rooty_ghz_dirt", "required": false },
     { "id": "dynamictrees:rooty_ghz_grass", "required": false },
+    { "id": "dynamictrees:rooty_ice_cap_road", "required": false },
     { "id": "dynamictrees:rooty_marble_garden_grass", "required": false },
     { "id": "dynamictrees:rooty_marble_zone_grass", "required": false },
     { "id": "dynamictrees:rooty_mushroom_hill_dirt", "required": false },

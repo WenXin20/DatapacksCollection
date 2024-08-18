@@ -3,6 +3,7 @@
     "__comment": "Cancel standard tree features from Mobius.",
     "only_if_loaded": [ "sonicraft" ],
     "select": { "OR": [
+	    { "name":"sonicraft:ice_cap_zone" }, 
 	    { "name":"sonicraft:mushroom_hill_zone" }, 
 	    { "name":"sonicraft:press_garden_zone" }, 
 		{ "name":"sonicraft:spring_yard" }

@@ -2,16 +2,15 @@
   "only_if_loaded": "sonicraft",
   "family": "dt_sonicraft:deciduous_neo_palm",
   "leaves_properties": "dt_sonicraft:deciduous_neo_palm",
-  "growth_logic_kit": "dark_oak",
   "generate_sapling": true,
   "generate_seed": true,
   "growth_rate": 1.2,
   "lowest_branch_height": 8,
   "max_branch_radius": 23,
-  "signal_energy": 35.0,
+  "signal_energy": 25.0,
   "soil_longevity": 20,
   "tapering": 0.4,
-  "up_probability": 12,
+  "up_probability": 30,
   "world_gen_leaf_map_height": 40,
   "environment_factors" : {
 	"#forge:is_cold": 0.75,
@@ -21,6 +20,12 @@
   },
   "perfect_biomes": { "name": "sonicraft:mushroom_hill_zone" },
   "acceptable_soils": [ "dirt_like" ],
+  "growth_logic_kit": {
+    "name": "dark_oak",
+    "properties": {
+      "height_variation": 10
+    }
+  },
   "fruits": [ "dt_sonicraft:orange_chao_fruit" ],
   "features" : [
     "bottom_flare",
