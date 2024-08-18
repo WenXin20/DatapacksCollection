@@ -19,7 +19,7 @@
     }
   },
   {
-    "_comment": "Generates Chilly Blossoms in the Press Garden Zone.",
+    "_comment": "Generates Deciduous Neo Palms in the Press Garden Zone.",
     "only_if_loaded": [ "sonicraft" ],
     "select": {
       "name": "sonicraft:mushroom_hill_zone"
@@ -39,6 +39,8 @@
           ]
         }
       },
+      "forestness": 4.0,
+      "chance": 4.0,
       "multipass": true
     }
   },
@@ -62,6 +64,8 @@
           ]
         }
       },
+      "forestness": 4.0,
+      "chance": 4.0,
       "multipass": true
     }
   },
