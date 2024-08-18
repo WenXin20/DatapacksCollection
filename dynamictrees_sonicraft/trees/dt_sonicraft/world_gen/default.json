@@ -48,9 +48,9 @@
           "dt_sonicraft:fruiting_deciduous_neo_palm": 1
         }
       },
-      "density": [ 4.0 ],
-      "forestness": 4.0,
-      "chance": 0.95,
+      "density": [ 4 ],
+      "forestness": 1.0,
+      "chance": 1.0,
       "multipass": true
     }
   },
@@ -66,8 +66,9 @@
           "dt_sonicraft:chilly_blossom": 1
         }
       },
-      "density": [ 4.0 ],
-      "chance": 0.95,
+      "density": [ 4 ],
+      "forestness": 0.1,
+      "chance": 1.0,
       "multipass": true
     }
   },
