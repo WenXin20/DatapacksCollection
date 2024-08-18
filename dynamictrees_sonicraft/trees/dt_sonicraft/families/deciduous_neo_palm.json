@@ -8,5 +8,5 @@
   "generate_stripped_branch": true,
   "generate_surface_root": true,
   "max_branch_radius": 24,
-  "max_signal_depth": 64
+  "max_signal_depth": 128
 }
