@@ -36,7 +36,7 @@
     }
   },
   {
-    "_comment": "Generates Deciduous Neo Palms in the Press Garden Zone.",
+    "_comment": "Generates Deciduous Neo Palms in the Mushroom Hill Zone.",
     "only_if_loaded": [ "sonicraft" ],
     "select": {
       "name": "sonicraft:mushroom_hill_zone"
@@ -48,9 +48,9 @@
           "dt_sonicraft:fruiting_deciduous_neo_palm": 1
         }
       },
-      "density": [ 4 ],
+      "density": [ 1 ],
       "forestness": 1.0,
-      "chance": 1.0,
+      "chance": 5.0,
       "multipass": true
     }
   },
@@ -66,9 +66,9 @@
           "dt_sonicraft:chilly_blossom": 1
         }
       },
-      "density": [ 4 ],
+      "density": [ 1 ],
       "forestness": 0.1,
-      "chance": 1.0,
+      "chance": 5.0,
       "multipass": true
     }
   },
@@ -86,7 +86,24 @@
       },
       "density": [ 0.9 ],
       "chance": 0.7,
-      "forestness": 1.0
+      "forestness": 0.8
+    }
+  },
+  {
+    "_comment": "Generates Giant Tadstools in the Mushroom Hill Zone.",
+    "only_if_loaded": [ "dynamictreesplus", "sonicraft" ],
+    "select": {
+      "name": "sonicraft:mushroom_hill_zone"
+    },
+    "apply": {
+      "species" : {
+        "method" : "splice_before",
+        "random" : {
+          "dt_sonicraft:mushroom_hill_toadstool": 4,
+          "dt_sonicraft:mega_mushroom_hill_toadstool": 1,
+          "..." : 95
+        }
+      }
     }
   },
   {

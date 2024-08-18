@@ -12,11 +12,11 @@
               "rarity": 1.0
             }
           ],
-          "name": "dynamictrees:kingdom_mushroom_seed"
+          "name": "dynamictrees:mushroom_hill_toadstool_seed"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "dynamictrees:trees/voluntary/kingdom_mushroom"
+  "random_sequence": "dynamictrees:trees/voluntary/mushroom_hill_toadstool"
 }

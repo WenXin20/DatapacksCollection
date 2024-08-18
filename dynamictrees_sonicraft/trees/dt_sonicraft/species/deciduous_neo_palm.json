@@ -37,8 +37,8 @@
       "name": "mushroom_rot",
       "properties": {
         "_comment": "An alternate mushroom chance of -1 means that a red mushroom will always be generated.",
-        "alternate_mushroom": "sonicraft:mushroom_hill_toadstool",
-        "alternate_mushroom_chance": -1
+        "mushroom": "sonicraft:mushroom_hill_toadstool",
+        "alternate_mushroom_chance": 1
       }
     },
     {
