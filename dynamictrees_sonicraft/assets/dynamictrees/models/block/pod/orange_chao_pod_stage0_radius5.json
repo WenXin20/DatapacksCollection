@@ -7,6 +7,7 @@
 	},
 	"elements": [
 		{
+			"name": "pollen",
 			"from": [7, 11, 18.98],
 			"to": [9, 13, 18.98],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, 19]},
@@ -16,6 +17,7 @@
 			}
 		},
 		{
+			"name": "petal",
 			"from": [9, 10, 18.98],
 			"to": [12, 14, 18.98],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [9, 12, 19]},
@@ -25,6 +27,7 @@
 			}
 		},
 		{
+			"name": "petal",
 			"from": [4, 10, 18.98],
 			"to": [7, 14, 18.98],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [7, 12, 19]},
@@ -34,6 +37,7 @@
 			}
 		},
 		{
+			"name": "petal",
 			"from": [6, 13, 18.98],
 			"to": [10, 16, 18.98],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 13, 19]},
@@ -43,6 +47,7 @@
 			}
 		},
 		{
+			"name": "petal",
 			"from": [6, 8, 18.98],
 			"to": [10, 11, 18.98],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 11, 19]},

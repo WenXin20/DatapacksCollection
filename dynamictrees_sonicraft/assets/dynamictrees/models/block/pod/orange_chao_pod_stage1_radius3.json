@@ -29,16 +29,6 @@
 				"east": {"uv": [11, 9, 9, 11], "texture": "#orange_chao_fruit"},
 				"west": {"uv": [9, 9, 11, 11], "texture": "#orange_chao_fruit"}
 			}
-		},
-		{
-			"name": "stem",
-			"from": [7.5, 11, 20.98],
-			"to": [8.5, 12, 20.98],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, -1, 4.9]},
-			"faces": {
-				"north": {"uv": [10, 7, 11, 8], "texture": "#orange_chao_fruit"},
-				"south": {"uv": [10, 7, 11, 8], "texture": "#orange_chao_fruit"}
-			}
 		}
 	]
 }

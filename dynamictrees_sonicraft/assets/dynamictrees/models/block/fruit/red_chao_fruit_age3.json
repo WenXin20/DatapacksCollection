@@ -47,9 +47,9 @@
 		},
 		{
 			"name": "leaves",
-			"from": [8, 13.25, 6.4],
-			"to": [13, 13.25, 9.4],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 13.25, 8]},
+			"from": [8, 13.25, 6.5],
+			"to": [13, 13.25, 9.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 13.25, 7.75]},
 			"faces": {
 				"up": {"uv": [4, 13, 9, 16], "texture": "#red_chao_fruit"},
 				"down": {"uv": [4, 13, 9, 16], "texture": "#red_chao_fruit"}

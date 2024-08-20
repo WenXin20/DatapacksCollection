@@ -47,8 +47,8 @@
 		},
 		{
 			"name": "leaves",
-			"from": [8, 9.75, 15.9],
-			"to": [13, 9.75, 18.9],
+			"from": [8, 9.75, 16],
+			"to": [13, 9.75, 19],
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 9.75, 17.5]},
 			"faces": {
 				"up": {"uv": [4, 13, 9, 16], "texture": "#red_chao_pod"},

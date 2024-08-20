@@ -46,16 +46,6 @@
 			}
 		},
 		{
-			"name": "stem",
-			"from": [7, 11, 17.98],
-			"to": [9, 13, 17.98],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 1.9]},
-			"faces": {
-				"north": {"uv": [8, 2, 10, 4], "texture": "#orange_chao_pod"},
-				"south": {"uv": [8, 2, 10, 4], "texture": "#orange_chao_pod"}
-			}
-		},
-		{
 			"name": "leaves",
 			"from": [8, 9.75, 12.9],
 			"to": [13, 9.75, 15.9],

@@ -47,7 +47,7 @@
       "name": "pod",
       "properties": {
         "pod": "dt_sonicraft:red_chao_pod",
-        "blocks_per_pod": 8,
+        "blocks_per_pod": 10,
         "fruiting_radius": 3,
         "place_chance": 0.1
       }

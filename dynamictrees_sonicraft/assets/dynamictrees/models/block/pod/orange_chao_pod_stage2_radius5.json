@@ -31,16 +31,6 @@
 			}
 		},
 		{
-			"name": "stem",
-			"from": [7, 11, 18.98],
-			"to": [9, 13, 18.98],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 2.9]},
-			"faces": {
-				"north": {"uv": [13, 6, 15, 8], "texture": "#orange_chao_fruit"},
-				"south": {"uv": [13, 6, 15, 8], "texture": "#orange_chao_fruit"}
-			}
-		},
-		{
 			"name": "leaves",
 			"from": [4, 10.5, 14.9],
 			"to": [8, 10.5, 17.9],
