@@ -48,9 +48,13 @@
           "dt_sonicraft:fruiting_deciduous_neo_palm": 1
         }
       },
-      "density": [ 1 ],
-      "forestness": 1.0,
+      "density": {
+        "math": {
+          "div": [ "noise", 2.0 ]
+        }
+      },
       "chance": 1.0,
+      "forestness": 1.0,
       "multipass": true
     }
   },
@@ -66,9 +70,13 @@
           "dt_sonicraft:chilly_blossom": 1
         }
       },
-      "density": [ 1 ],
-      "forestness": 1.0,
+      "density": {
+        "math": {
+          "div": [ "noise", 2.0 ]
+        }
+      },
       "chance": 1.0,
+      "forestness": 1.0,
       "multipass": true
     }
   },
