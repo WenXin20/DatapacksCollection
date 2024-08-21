@@ -10,6 +10,7 @@
 			"name": "pollen",
 			"from": [7, 15.98, 7],
 			"to": [9, 15.98, 9],
+			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 16, 8]},
 			"faces": {
 				"up": {"uv": [7, 7, 9, 9], "texture": "#orange_chao_fruit"},
@@ -20,6 +21,7 @@
 			"name": "petal",
 			"from": [9, 15.98, 6],
 			"to": [12, 15.98, 10],
+			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 16, 8]},
 			"faces": {
 				"up": {"uv": [7, 6, 4, 10], "texture": "#orange_chao_fruit"},
@@ -30,6 +32,7 @@
 			"name": "petal",
 			"from": [4, 15.98, 6],
 			"to": [7, 15.98, 10],
+			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [7, 16, 8]},
 			"faces": {
 				"up": {"uv": [12, 6, 9, 10], "texture": "#orange_chao_fruit"},
@@ -40,6 +43,7 @@
 			"name": "petal",
 			"from": [6, 15.98, 4],
 			"to": [10, 15.98, 7],
+			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 16, 7]},
 			"faces": {
 				"up": {"uv": [6, 4, 10, 7], "texture": "#orange_chao_fruit"},
@@ -50,6 +54,7 @@
 			"name": "petal",
 			"from": [6, 15.98, 9],
 			"to": [10, 15.98, 12],
+			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 16, 9]},
 			"faces": {
 				"up": {"uv": [6, 9, 10, 12], "texture": "#orange_chao_fruit"},
