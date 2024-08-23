@@ -1,5 +1,5 @@
 {
-	"cblueit": "Made with Blockbench",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "dynamictrees:block/blue_chao_fruit_flower",
@@ -46,8 +46,8 @@
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 13, 18]},
 			"faces": {
-				"north": {"uv": [5, 3, 11, 7], "texture": "#blue_chao_fruit"},
-				"south": {"uv": [5, 3, 11, 7], "texture": "#blue_chao_fruit"}
+				"north": {"uv": [11, 3, 5, 7], "texture": "#blue_chao_fruit"},
+				"south": {"uv": [11, 3, 5, 7], "texture": "#blue_chao_fruit"}
 			}
 		},
 		{
@@ -61,5 +61,6 @@
 				"south": {"uv": [5, 7, 11, 3], "texture": "#blue_chao_fruit"}
 			}
 		}
-	]
+	],
+	"cblueit": "Made with Blockbench"
 }

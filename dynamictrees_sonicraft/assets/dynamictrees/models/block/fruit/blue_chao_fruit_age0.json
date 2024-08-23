@@ -1,5 +1,5 @@
 {
-	"cblueit": "Made with Blockbench",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "dynamictrees:block/blue_chao_fruit_flower",
@@ -24,7 +24,7 @@
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 16, 8]},
 			"faces": {
-				"up": {"uv": [5, 7, 11, 3], "rotation": 270, "texture": "#blue_chao_fruit"},
+				"up": {"uv": [11, 7, 5, 3], "rotation": 270, "texture": "#blue_chao_fruit"},
 				"down": {"uv": [5, 7, 11, 3], "rotation": 270, "texture": "#blue_chao_fruit"}
 			}
 		},
@@ -47,7 +47,7 @@
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 16, 7]},
 			"faces": {
 				"up": {"uv": [5, 3, 11, 7], "texture": "#blue_chao_fruit"},
-				"down": {"uv": [5, 3, 11, 7], "rotation": 180, "texture": "#blue_chao_fruit"}
+				"down": {"uv": [11, 3, 5, 7], "rotation": 180, "texture": "#blue_chao_fruit"}
 			}
 		},
 		{
@@ -57,9 +57,10 @@
 			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 16, 9]},
 			"faces": {
-				"up": {"uv": [5, 7, 11, 3], "texture": "#blue_chao_fruit"},
+				"up": {"uv": [11, 7, 5, 3], "texture": "#blue_chao_fruit"},
 				"down": {"uv": [5, 7, 11, 3], "rotation": 180, "texture": "#blue_chao_fruit"}
 			}
 		}
-	]
+	],
+	"cblueit": "Made with Blockbench"
 }
