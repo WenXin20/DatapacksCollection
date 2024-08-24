@@ -20,7 +20,7 @@
   },
   "perfect_biomes": { "names": [ "sonicraft:emerald_hill_zone", "sonicraft:green_hill_zone" ] },
   "acceptable_soils": [ "dirt_like", "sand_like" ],
-  "pods": [ "dt_sonicraft:blue_chao_pod", "dt_sonicraft:green_chao_pod", "dt_sonicraft:orange_chao_pod", "dt_sonicraft:purple_chao_pod", "dt_sonicraft:red_chao_pod", "dt_sonicraft:yellow_chao_pod" ],
+  "pods": [ "dt_sonicraft:blue_chao_pod", "dt_sonicraft:green_chao_pod", "dt_sonicraft:orange_chao_pod", "dt_sonicraft:pink_chao_pod", "dt_sonicraft:purple_chao_pod", "dt_sonicraft:red_chao_pod", "dt_sonicraft:yellow_chao_pod" ],
   "growth_logic_kit": {
     "name": "palm",
     "properties": {
@@ -56,6 +56,15 @@
       "name": "pod",
       "properties": {
         "pod": "dt_sonicraft:green_chao_pod",
+        "blocks_per_pod": 10,
+        "fruiting_radius": 3,
+        "place_chance": 0.01
+      }
+    },
+    {
+      "name": "pod",
+      "properties": {
+        "pod": "dt_sonicraft:pink_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
         "place_chance": 0.01
