@@ -23,8 +23,8 @@
 		},
 		{
 			"name": "leaves",
-			"from": [8, 10.51, 16],
-			"to": [12, 10.51, 19],
+			"from": [8, 10.52, 16],
+			"to": [12, 10.52, 19],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.5, 17.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#blue_chao_fruit_overlay"},
