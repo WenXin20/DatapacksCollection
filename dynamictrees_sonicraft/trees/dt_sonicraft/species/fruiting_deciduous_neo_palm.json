@@ -26,7 +26,7 @@
       "height_variation": 10
     }
   },
-  "fruits": [ "dt_sonicraft:blue_chao_fruit", "dt_sonicraft:green_chao_fruit", "dt_sonicraft:orange_chao_fruit", "dt_sonicraft:red_chao_fruit", "dt_sonicraft:yellow_chao_fruit" ],
+  "fruits": [ "dt_sonicraft:blue_chao_fruit", "dt_sonicraft:green_chao_fruit", "dt_sonicraft:orange_chao_fruit", "dt_sonicraft:purple_chao_fruit", "dt_sonicraft:red_chao_fruit", "dt_sonicraft:yellow_chao_fruit" ],
   "features" : [
     "bottom_flare",
     "mound",
@@ -58,6 +58,15 @@
       "name": "fruit",
       "properties": {
         "fruit": "dt_sonicraft:green_chao_fruit",
+        "fruiting_radius": 5,
+        "place_chance": 0.01,
+        "quantity": 1
+      }
+    },
+    {
+      "name": "fruit",
+      "properties": {
+        "fruit": "dt_sonicraft:purple_chao_fruit",
         "fruiting_radius": 5,
         "place_chance": 0.01,
         "quantity": 1
