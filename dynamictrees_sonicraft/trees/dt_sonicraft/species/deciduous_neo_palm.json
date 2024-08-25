@@ -2,6 +2,13 @@
   "only_if_loaded": "sonicraft",
   "family": "dt_sonicraft:deciduous_neo_palm",
   "leaves_properties": "dt_sonicraft:deciduous_neo_palm",
+  "primitive_saplings": [
+    {
+        "sapling_item": "sonicraft:green_hill_palm_sapling",
+        "sapling_to_seed_extra_ingredient": "sonicraft:mushroom_hill_dirt",
+        "can_craft_seed_to_sapling": false
+    }
+  ],
   "growth_rate": 1.2,
   "lowest_branch_height": 20,
   "max_branch_radius": 23,
