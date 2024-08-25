@@ -1,9 +1,10 @@
 [
   {
-    "_comment": "Generates Neo Palms in the Emerald Hill Zone.",
+    "_comment": "Generates Neo Palms in the Angel Island, Emerald Hill, Green Hill Zones.",
     "only_if_loaded": [ "sonicraft" ],
     "select": { "OR": [
-	    { "name":"sonicraft:emerald_hill_zone" }, 
+	    { "name":"sonicraft:angel_island_jungle" },
+	    { "name":"sonicraft:emerald_hill_zone" },
 		{ "name":"sonicraft:green_hill_zone" }
       ]
 	},
