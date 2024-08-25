@@ -1,0 +1,6 @@
+{
+  "loader": "dynamictrees:large_palm_fronds",
+  "textures": {
+    "frond": "dynamictrees:block/scorched_neo_palm_frond"
+  }
+}

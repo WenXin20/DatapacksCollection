@@ -6,6 +6,7 @@
   "block.dynamictrees.deciduous_neo_palm_branch": "Deciduous Neo Palm Tree",
   "block.dynamictrees.mushroom_hill_toadstool_branch": "Toadstool",
   "block.dynamictrees.neo_palm_branch": "Neo Palm Tree",
+  "block.dynamictrees.scorched_neo_palm_branch": "Neo Palm Tree",
 
   "species.dt_sonicraft.chilly_blossom": "Chilly Blossom",
   "species.dt_sonicraft.deciduous_neo_palm": "Deciduous Neo Palm",
@@ -15,6 +16,7 @@
   "species.dt_sonicraft.mushroom_hill_toadstool": "Mushroom Hill Toadstool",
   "species.dt_sonicraft.mega_mushroom_hill_toadstool": "Mega Mushroom Hill Toadstool",
   "species.dt_sonicraft.neo_palm": "Neo Palm",
+  "species.dt_sonicraft.scorched_neo_palm": "Scorched Neo Palm",
   "species.dt_sonicraft.spring_yard_oak": "Spring Yard Oak",
 
   "item.dynamictrees.chilly_blossom_seed": "Chilly Blossom Pit",
@@ -23,5 +25,6 @@
   "item.dynamictrees.fruiting_neo_palm_seed": "Fruiting Neo Palm Seed",
   "item.dynamictrees.ice_cap_chilly_blossom_seed": "Ice Cap Chilly Blossom Pit",
   "item.dynamictrees.mushroom_hill_toadstool_seed": "Mushroom Hill Toadstool Cap",
-  "item.dynamictrees.neo_palm_seed": "Neo Palm Seed"
+  "item.dynamictrees.neo_palm_seed": "Neo Palm Seed",
+  "item.dynamictrees.scorched_neo_palm_seed": "Scorched Neo Palm Seed"
 }

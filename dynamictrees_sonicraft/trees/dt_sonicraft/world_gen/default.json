@@ -20,6 +20,22 @@
     }
   },
   {
+    "_comment": "Generates Scroched Neo Palms in the Scorched Angel Island Zone.",
+    "only_if_loaded": [ "sonicraft" ],
+    "select": {
+      "name": "sonicraft:scorched_angel_island_jungle"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dt_sonicraft:scorched_neo_palm": 1
+        }
+      },
+      "density": 0.1,
+      "chance": 0.25
+    }
+  },
+  {
     "_comment": "Generates Spring Yard Oaks in the Spring Yard.",
     "only_if_loaded": [ "sonicraft" ],
     "select": {
