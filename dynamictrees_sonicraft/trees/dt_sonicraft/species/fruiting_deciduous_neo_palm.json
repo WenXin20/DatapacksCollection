@@ -2,43 +2,6 @@
   "only_if_loaded": "sonicraft",
   "family": "dt_sonicraft:deciduous_neo_palm",
   "leaves_properties": "dt_sonicraft:deciduous_neo_palm",
-  "primitive_saplings": [
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:orange_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    },
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:blue_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    },
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    },
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:pink_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    },
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:purple_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    },
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:red_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    },
-    {
-        "sapling_item": "sonicraft:green_hill_palm_sapling",
-        "sapling_to_seed_extra_ingredients": [ "sonicraft:yellow_chao_fruit", "sonicraft:mushroom_hill_dirt" ],
-        "can_craft_seed_to_sapling": false
-    }
-  ],
   "generate_sapling": true,
   "generate_seed": true,
   "growth_rate": 1.2,
@@ -152,6 +115,43 @@
         "min_trunk_radius": 9,
         "scale_factor": 15
       }
+    }
+  ],
+  "primitive_saplings": [
+    {
+        "sapling_item": "sonicraft:orange_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
+    },
+    {
+        "sapling_item": "sonicraft:blue_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
+    },
+    {
+        "sapling_item": "sonicraft:green_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
+    },
+    {
+        "sapling_item": "sonicraft:pink_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
+    },
+    {
+        "sapling_item": "sonicraft:purple_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
+    },
+    {
+        "sapling_item": "sonicraft:red_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
+    },
+    {
+        "sapling_item": "sonicraft:yellow_chao_fruit",
+        "sapling_to_seed_extra_ingredients": [ "sonicraft:green_hill_palm_sapling", "sonicraft:mushroom_hill_dirt" ],
+        "can_craft_seed_to_sapling": false
     }
   ]
 }
