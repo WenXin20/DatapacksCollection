@@ -15,7 +15,7 @@
     "dry": 1.1,
     "hot": 1.1
   },
-  "perfect_biomes": { "names": [ "sonicraft:emerald_hill_zone", "sonicraft:green_hill_zone" ] },
+  "perfect_biomes": { "names": [ "sonicraft:emerald_hill_zone", "sonicraft:green_hill_zone", "sonicraft:mushroom_hill_zone" ] },
   "acceptable_soils": [ "dirt_like", "sand_like" ],
   "growth_logic_kit": {
     "name": "palm",
