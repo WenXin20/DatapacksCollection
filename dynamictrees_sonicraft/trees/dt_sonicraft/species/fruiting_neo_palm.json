@@ -41,7 +41,7 @@
         "pod": "dt_sonicraft:orange_chao_pod",
         "blocks_per_pod": 6,
         "fruiting_radius": 3,
-        "place_chance": 0.4
+        "place_chance": 0.6
       }
     },
     {
@@ -50,7 +50,7 @@
         "pod": "dt_sonicraft:blue_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
-        "place_chance": 0.01
+        "place_chance": 0.005
       }
     },
     {
@@ -59,7 +59,7 @@
         "pod": "dt_sonicraft:green_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
-        "place_chance": 0.01
+        "place_chance": 0.005
       }
     },
     {
@@ -68,7 +68,7 @@
         "pod": "dt_sonicraft:pink_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
-        "place_chance": 0.01
+        "place_chance": 0.005
       }
     },
     {
@@ -77,7 +77,7 @@
         "pod": "dt_sonicraft:purple_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
-        "place_chance": 0.01
+        "place_chance": 0.005
       }
     },
     {
@@ -86,7 +86,7 @@
         "pod": "dt_sonicraft:red_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
-        "place_chance": 0.01
+        "place_chance": 0.005
       }
     },
     {
@@ -95,7 +95,7 @@
         "pod": "dt_sonicraft:yellow_chao_pod",
         "blocks_per_pod": 10,
         "fruiting_radius": 3,
-        "place_chance": 0.01
+        "place_chance": 0.005
       }
     }
   ]
